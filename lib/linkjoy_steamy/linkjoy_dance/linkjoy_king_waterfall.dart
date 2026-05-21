@@ -1,0 +1,1 @@
+class LinkjoyKingWaterfall implements Exception {}

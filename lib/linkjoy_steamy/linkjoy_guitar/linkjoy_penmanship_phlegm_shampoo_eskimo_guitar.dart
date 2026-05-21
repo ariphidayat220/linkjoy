@@ -1,0 +1,3 @@
+class LinkjoyPenmanshipPhlegmShampooEskimoGuitar {
+  LinkjoyPenmanshipPhlegmShampooEskimoGuitar();
+}

@@ -1,0 +1,3 @@
+class LinkjoyTonerDefileGuitar {
+  LinkjoyTonerDefileGuitar();
+}

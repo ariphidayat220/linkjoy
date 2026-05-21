@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652417998446",
+    "project_id": "linkjoy-f3e47",
+    "storage_bucket": "linkjoy-f3e47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652417998446:android:79e0e923c8274e1161d07f",
+        "android_client_info": {
+          "package_name": "com.newlife.linkjoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652417998446-3avumiu5k8jr65fc83b6hqv69mfni8rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newlife.linkjoy",
+            "certificate_hash": "dfd9f9386eb79ec5487049e515e1e36dde87e28d"
+          }
+        },
+        {
+          "client_id": "652417998446-kc7ev7j8t2hc8pf05griqflggduio3vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuRDxKrnaY6kW8S1ZH521ZOj4dUWvA7r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652417998446-kc7ev7j8t2hc8pf05griqflggduio3vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

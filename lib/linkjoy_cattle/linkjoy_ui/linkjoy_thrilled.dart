@@ -1,0 +1,1 @@
+enum LinkjoyThrilled { LTR, RTL }

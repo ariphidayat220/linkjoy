@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/linkjoy_toe_crouch_bg" />
+
+    <!-- You can insert your own image assets here -->
+    <item
+        android:width="120dp"
+        android:height="120dp"
+        android:drawable="@drawable/linkjoy_toe_steamy_eager"
+        android:gravity="center_horizontal"
+        android:top="132dp"
+        />
+    <item
+        android:width="147dp"
+        android:height="42dp"
+        android:drawable="@drawable/linkjoy_toe_steamy_lenny"
+        android:gravity="center_horizontal"
+        android:top="280dp"
+        />
+
+</layer-list>

@@ -1,0 +1,3 @@
+class LinkjoyWaveCollieLapPressureGuitar {
+  LinkjoyWaveCollieLapPressureGuitar();
+}

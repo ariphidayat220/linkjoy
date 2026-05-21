@@ -1,0 +1,3 @@
+class LinkjoyIMVulcanGuitar {
+  LinkjoyIMVulcanGuitar();
+}
