@@ -17,88 +17,64 @@ import 'linkjoy_allen_teaser_animal_jaw.dart';
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyAllenTeaserAnimalHand extends LinkjoyMagnetHormoneHand {
-  bool maToeEurope_ = false;
-  bool doDbGreet_ = false;
-  bool mySoakVulnerable_ = false;
-  String okJoyfulJuice_ = "";
-  String omTurquoiseOccupy_ = "";
-  int byCalshoptvEurope_ = 0;
-  bool omAllowAmes_ = true;
-  bool mo1Frankly_ = true;
+  double woGangsterQuarter_ = 0.0;
+  bool esVarietySmear_ = true;
+  double atChinatownBlossom_ = 0.0;
+  bool laShredderInterject_ = true;
+  bool goPassionateAndrew_ = true;
 
-  void taConceiveViolate() {
-    byCalshoptvEurope_ = 21;
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-    doDbGreet_ = mo1Frankly_ && omAllowAmes_;
-    omTurquoiseOccupy_ = okJoyfulJuice_.toUpperCase() + omTurquoiseOccupy_;
-    if (byCalshoptvEurope_ > 0) {
-      byCalshoptvEurope_ = byCalshoptvEurope_ - 6;
+  void amLotusAnesthesia() {
+    woGangsterQuarter_ = woGangsterQuarter_ + atChinatownBlossom_;
+    woGangsterQuarter_ = 27;
+    atChinatownBlossom_ = 26;
+
+    if (goPassionateAndrew_ || laShredderInterject_) {
+      laShredderInterject_ = !laShredderInterject_;
     }
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-    byCalshoptvEurope_ = byCalshoptvEurope_ + 1;
-    doDbGreet_ = mo1Frankly_ && maToeEurope_;
-    if (byCalshoptvEurope_ > 0) {
-      byCalshoptvEurope_ = byCalshoptvEurope_ - 5;
+
+    woGangsterQuarter_ = woGangsterQuarter_ + atChinatownBlossom_;
+    if (laShredderInterject_ || esVarietySmear_ || goPassionateAndrew_) {
+      laShredderInterject_ = !esVarietySmear_;
+      esVarietySmear_ = !goPassionateAndrew_;
+      goPassionateAndrew_ = !laShredderInterject_;
     }
-    mo1Frankly_ = maToeEurope_ && doDbGreet_;
-    if (omAllowAmes_ && doDbGreet_ && mySoakVulnerable_) {
-      omAllowAmes_ = !omAllowAmes_;
-      doDbGreet_ = omAllowAmes_;
-      mySoakVulnerable_ = omAllowAmes_;
+    woGangsterQuarter_ = 5;
+    atChinatownBlossom_ = 86;
+  }
+
+  void weTurnip1() {
+    if (goPassionateAndrew_ || laShredderInterject_ || esVarietySmear_) {
+      goPassionateAndrew_ = !laShredderInterject_;
+      laShredderInterject_ = !esVarietySmear_;
+      esVarietySmear_ = !goPassionateAndrew_;
+    }
+    if (goPassionateAndrew_ || laShredderInterject_ || esVarietySmear_) {
+      goPassionateAndrew_ = !laShredderInterject_;
+      laShredderInterject_ = !esVarietySmear_;
+      esVarietySmear_ = !goPassionateAndrew_;
+    }
+    goPassionateAndrew_ = laShredderInterject_ && esVarietySmear_;
+    if (esVarietySmear_) {
+      laShredderInterject_ = !goPassionateAndrew_;
+    }
+    if (goPassionateAndrew_ || laShredderInterject_) {
+      laShredderInterject_ = !laShredderInterject_;
     }
   }
 
-  void opChipmunkBent() {
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-    maToeEurope_ = mySoakVulnerable_ && mo1Frankly_;
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-    okJoyfulJuice_ = omTurquoiseOccupy_ + okJoyfulJuice_;
-    byCalshoptvEurope_ = 53;
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-    byCalshoptvEurope_ = byCalshoptvEurope_ + 1;
-    if (mySoakVulnerable_ || mo1Frankly_) {
-      mo1Frankly_ = !mo1Frankly_;
-    }
-    byCalshoptvEurope_ = byCalshoptvEurope_ + 1;
+  void itAsEye() {
+    esVarietySmear_ = laShredderInterject_ && goPassionateAndrew_;
 
-    if (byCalshoptvEurope_ > 0) {
-      byCalshoptvEurope_ = byCalshoptvEurope_ - 2;
-    }
-    byCalshoptvEurope_ = 41;
-    if (maToeEurope_ && omAllowAmes_ && mySoakVulnerable_) {
-      maToeEurope_ = !maToeEurope_;
-      omAllowAmes_ = maToeEurope_;
-      mySoakVulnerable_ = maToeEurope_;
-    }
-    if (byCalshoptvEurope_ > 0) {
-      byCalshoptvEurope_ = byCalshoptvEurope_ - 7;
+    laShredderInterject_ = goPassionateAndrew_ || esVarietySmear_;
+
+    if (esVarietySmear_ || laShredderInterject_ || goPassionateAndrew_) {
+      esVarietySmear_ = !laShredderInterject_;
+      laShredderInterject_ = !goPassionateAndrew_;
+      goPassionateAndrew_ = !esVarietySmear_;
     }
 
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-  }
-
-  void woCabinetSpeak() {
-    if (mySoakVulnerable_ && maToeEurope_ && doDbGreet_) {
-      mySoakVulnerable_ = !mySoakVulnerable_;
-      maToeEurope_ = mySoakVulnerable_;
-      doDbGreet_ = mySoakVulnerable_;
-    }
-    if (mySoakVulnerable_) {
-      doDbGreet_ = !maToeEurope_;
-    }
-    omTurquoiseOccupy_ = okJoyfulJuice_.toUpperCase() + omTurquoiseOccupy_;
-    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
-    omTurquoiseOccupy_ = okJoyfulJuice_;
-
-    if (mo1Frankly_) {
-      maToeEurope_ = !omAllowAmes_;
-    }
+    woGangsterQuarter_ = 13;
+    atChinatownBlossom_ = 89;
   }
 
   final String linkjoy_imprint = "linkjoy_imprint";

@@ -3,76 +3,103 @@ import 'package:get/get.dart';
 import 'linkjoy_fetus_im_hand.dart';
 
 class LinkjoyImJulie extends Bindings {
-  bool weMayora_ = true;
-  bool itIncapableWear_ = false;
-  int omMassageProject_ = 0;
-  int doMoleIncubator_ = 54;
-  bool esGuppyBloat_ = true;
-  String laEntirelyDetroit_ = "";
-  int omYamSpecialty_ = 0;
+  String weHilariousTale_ = "";
+  bool elMayorBeating_ = true;
+  bool okThanSpit_ = false;
+  bool haDumbassEric_ = true;
+  bool taCindyPact_ = true;
 
-  void siPettyStewart() {
-    doMoleIncubator_ = 412;
-    omMassageProject_ = 451;
-    omYamSpecialty_ = doMoleIncubator_ + omMassageProject_;
-    omYamSpecialty_ = doMoleIncubator_ + omMassageProject_;
+  void weBurtSouffle() {
+    if (taCindyPact_) {
+      elMayorBeating_ = !okThanSpit_;
+    }
+    taCindyPact_ = haDumbassEric_ && okThanSpit_;
 
-    if (esGuppyBloat_) {
-      weMayora_ = !itIncapableWear_;
+    if (okThanSpit_ || taCindyPact_ || elMayorBeating_) {
+      okThanSpit_ = !taCindyPact_;
+      taCindyPact_ = !elMayorBeating_;
+      elMayorBeating_ = !okThanSpit_;
     }
-    if (omYamSpecialty_ > doMoleIncubator_) {
-      omMassageProject_ = doMoleIncubator_ - omYamSpecialty_;
-    } else {
-      omMassageProject_ = omYamSpecialty_ - doMoleIncubator_;
-    }
-    if (itIncapableWear_ || esGuppyBloat_ || weMayora_) {
-      itIncapableWear_ = !esGuppyBloat_;
-      esGuppyBloat_ = !weMayora_;
-      weMayora_ = !itIncapableWear_;
-    }
-    esGuppyBloat_ = itIncapableWear_ && weMayora_;
-    omYamSpecialty_ = doMoleIncubator_ + omMassageProject_;
-    laEntirelyDetroit_ = laEntirelyDetroit_.toUpperCase();
 
-    if (weMayora_ || itIncapableWear_ || esGuppyBloat_) {
-      weMayora_ = !itIncapableWear_;
-      itIncapableWear_ = !esGuppyBloat_;
-      esGuppyBloat_ = !weMayora_;
+    if (taCindyPact_ && elMayorBeating_ && okThanSpit_) {
+      taCindyPact_ = !taCindyPact_;
+      elMayorBeating_ = taCindyPact_;
+      okThanSpit_ = taCindyPact_;
     }
-    omMassageProject_ = omYamSpecialty_ - doMoleIncubator_;
-    laEntirelyDetroit_ = laEntirelyDetroit_.toUpperCase();
-    for (int i = 0; i < omMassageProject_; i++) {
-      omYamSpecialty_ += 1;
-      doMoleIncubator_ += omYamSpecialty_;
-    }
-    for (int i = 0; i < doMoleIncubator_; i++) {
-      omYamSpecialty_ += 1;
-      omMassageProject_ += omYamSpecialty_;
-    }
-    omYamSpecialty_ = omMassageProject_ + doMoleIncubator_;
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    elMayorBeating_ = okThanSpit_ && taCindyPact_;
   }
 
-  void hoDirectionMerely() {
-    for (int i = 0; i < omMassageProject_; i++) {
-      omYamSpecialty_ += 1;
-      doMoleIncubator_ += omYamSpecialty_;
+  void hiExtremelyH2() {
+    if (taCindyPact_ && elMayorBeating_ && haDumbassEric_) {
+      taCindyPact_ = !taCindyPact_;
+      elMayorBeating_ = taCindyPact_;
+      haDumbassEric_ = taCindyPact_;
     }
-    laEntirelyDetroit_ = laEntirelyDetroit_.toUpperCase();
 
-    laEntirelyDetroit_ = laEntirelyDetroit_.toUpperCase();
-    if (doMoleIncubator_ > omMassageProject_) {
-      omYamSpecialty_ = omMassageProject_ - doMoleIncubator_;
-    } else {
-      omYamSpecialty_ = doMoleIncubator_ - omMassageProject_;
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    if (haDumbassEric_ && elMayorBeating_ && taCindyPact_) {
+      haDumbassEric_ = !haDumbassEric_;
+      elMayorBeating_ = haDumbassEric_;
+      taCindyPact_ = haDumbassEric_;
     }
+
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
   }
 
-  void edJohnHimself() {
-    if (weMayora_) {
-      itIncapableWear_ = !esGuppyBloat_;
+  void orTearPact() {
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+
+    if (elMayorBeating_ && okThanSpit_ && taCindyPact_) {
+      elMayorBeating_ = !elMayorBeating_;
+      okThanSpit_ = elMayorBeating_;
+      taCindyPact_ = elMayorBeating_;
     }
 
-    laEntirelyDetroit_ = laEntirelyDetroit_.toUpperCase();
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+
+    if (haDumbassEric_ || taCindyPact_ || okThanSpit_) {
+      haDumbassEric_ = !taCindyPact_;
+      taCindyPact_ = !okThanSpit_;
+      okThanSpit_ = !haDumbassEric_;
+    }
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    haDumbassEric_ = taCindyPact_ || okThanSpit_;
+
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+  }
+
+  void omLotusFlip() {
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    if (taCindyPact_ || haDumbassEric_) {
+      haDumbassEric_ = !haDumbassEric_;
+    }
+
+    if (haDumbassEric_) {
+      okThanSpit_ = !elMayorBeating_;
+    }
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+
+    if (okThanSpit_ || taCindyPact_ || haDumbassEric_) {
+      okThanSpit_ = !taCindyPact_;
+      taCindyPact_ = !haDumbassEric_;
+      haDumbassEric_ = !okThanSpit_;
+    }
+    weHilariousTale_ = weHilariousTale_.toUpperCase();
+    if (haDumbassEric_ && okThanSpit_) {
+      elMayorBeating_ = !elMayorBeating_;
+    }
+
+    if (taCindyPact_ || elMayorBeating_) {
+      elMayorBeating_ = !elMayorBeating_;
+    }
   }
 
   @override

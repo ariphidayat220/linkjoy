@@ -4,134 +4,90 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone
 import 'package:flutter/material.dart';
 
 class LinkjoyCocktailSorority {
-  String byLapChafe_ = "";
-  bool myUiNeighbor_ = true;
-  bool omWarrenVbl_ = false;
-  bool reCopeMe_ = false;
-  bool etPebbleBicycle_ = true;
-  double hiHimselfIncapable_ = 20;
-  bool asEagerWant_ = false;
-  bool atTaleBrawny_ = true;
+  bool paChlorineIo_ = false;
+  bool opSqueakySexual_ = true;
+  String byFollowerInseam_ = "";
+  String efBlancPatent_ = "";
+  bool woAccessCite_ = false;
+  String owDebutCompletion_ = "";
 
-  void exPersonallySqueaky() {
-    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
-    if (asEagerWant_ && reCopeMe_) {
-      myUiNeighbor_ = !myUiNeighbor_;
-    }
+  void idPrisonStool() {
+    efBlancPatent_ = byFollowerInseam_ + owDebutCompletion_;
+    byFollowerInseam_ = owDebutCompletion_;
+    efBlancPatent_ = byFollowerInseam_;
+    owDebutCompletion_ = efBlancPatent_;
 
-    atTaleBrawny_ = etPebbleBicycle_ && reCopeMe_;
-    atTaleBrawny_ = omWarrenVbl_ || reCopeMe_;
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    omWarrenVbl_ = myUiNeighbor_ && etPebbleBicycle_;
+    byFollowerInseam_ = owDebutCompletion_ + efBlancPatent_;
   }
 
-  void anDisposalCamp() {
-    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
-
-    if (myUiNeighbor_ || omWarrenVbl_ || asEagerWant_) {
-      myUiNeighbor_ = !omWarrenVbl_;
-      omWarrenVbl_ = !asEagerWant_;
-      asEagerWant_ = !myUiNeighbor_;
-    }
-    if (reCopeMe_ && myUiNeighbor_) {
-      omWarrenVbl_ = !omWarrenVbl_;
+  void amEltonMallet() {
+    if (opSqueakySexual_ || paChlorineIo_ || woAccessCite_) {
+      opSqueakySexual_ = !paChlorineIo_;
+      paChlorineIo_ = !woAccessCite_;
+      woAccessCite_ = !opSqueakySexual_;
     }
 
-    byLapChafe_ = byLapChafe_.toUpperCase();
-
-    byLapChafe_ = byLapChafe_.toUpperCase();
-
-    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
-    if (omWarrenVbl_ || etPebbleBicycle_) {
-      etPebbleBicycle_ = !etPebbleBicycle_;
+    byFollowerInseam_ = owDebutCompletion_ + efBlancPatent_;
+    if (woAccessCite_ || opSqueakySexual_) {
+      opSqueakySexual_ = !opSqueakySexual_;
     }
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    reCopeMe_ = atTaleBrawny_ && omWarrenVbl_;
+    efBlancPatent_ = owDebutCompletion_;
+    byFollowerInseam_ = efBlancPatent_;
+    owDebutCompletion_ = byFollowerInseam_;
+    woAccessCite_ = opSqueakySexual_ && paChlorineIo_;
+    if (opSqueakySexual_) {
+      woAccessCite_ = !paChlorineIo_;
+    }
 
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
-    }
-    if (atTaleBrawny_ && asEagerWant_ && etPebbleBicycle_) {
-      atTaleBrawny_ = !atTaleBrawny_;
-      asEagerWant_ = atTaleBrawny_;
-      etPebbleBicycle_ = atTaleBrawny_;
-    }
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
+    byFollowerInseam_ = owDebutCompletion_;
+    efBlancPatent_ = owDebutCompletion_;
+    efBlancPatent_ = byFollowerInseam_;
+    owDebutCompletion_ = byFollowerInseam_;
+    if (owDebutCompletion_.length > 6) {
+      byFollowerInseam_ = owDebutCompletion_;
+    } else {
+      efBlancPatent_ = byFollowerInseam_;
     }
   }
 
-  void weMineHimself() {
-    atTaleBrawny_ = etPebbleBicycle_ && reCopeMe_;
-    if (reCopeMe_) {
-      omWarrenVbl_ = !asEagerWant_;
+  void amLifeLobby() {
+    if (opSqueakySexual_) {
+      woAccessCite_ = !paChlorineIo_;
     }
-    hiHimselfIncapable_ = 26;
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    byLapChafe_ = byLapChafe_.toUpperCase();
+    owDebutCompletion_ = efBlancPatent_;
+    byFollowerInseam_ = efBlancPatent_;
+    if (owDebutCompletion_.length > 5) {
+      efBlancPatent_ = owDebutCompletion_;
+    } else {
+      byFollowerInseam_ = efBlancPatent_;
+    }
+    if (paChlorineIo_ && woAccessCite_ && opSqueakySexual_) {
+      paChlorineIo_ = !paChlorineIo_;
+      woAccessCite_ = paChlorineIo_;
+      opSqueakySexual_ = paChlorineIo_;
+    }
 
-    hiHimselfIncapable_ = 27;
-    if (myUiNeighbor_ && etPebbleBicycle_) {
-      asEagerWant_ = !asEagerWant_;
+    owDebutCompletion_ = efBlancPatent_ + byFollowerInseam_;
+    if (owDebutCompletion_.length > 9) {
+      byFollowerInseam_ = owDebutCompletion_;
+    } else {
+      efBlancPatent_ = byFollowerInseam_;
+    }
+    if (paChlorineIo_ || opSqueakySexual_) {
+      opSqueakySexual_ = !opSqueakySexual_;
     }
 
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
+    if (paChlorineIo_) {
+      woAccessCite_ = !opSqueakySexual_;
     }
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    if (asEagerWant_ && omWarrenVbl_ && etPebbleBicycle_) {
-      asEagerWant_ = !asEagerWant_;
-      omWarrenVbl_ = asEagerWant_;
-      etPebbleBicycle_ = asEagerWant_;
+    byFollowerInseam_ = owDebutCompletion_ + efBlancPatent_;
+    if (woAccessCite_ || paChlorineIo_) {
+      paChlorineIo_ = !paChlorineIo_;
     }
-    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
-    }
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    myUiNeighbor_ = etPebbleBicycle_ && reCopeMe_;
-    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
-    byLapChafe_ = byLapChafe_.toUpperCase();
-  }
 
-  void abChorusHand() {
-    if (reCopeMe_ || myUiNeighbor_) {
-      myUiNeighbor_ = !myUiNeighbor_;
+    if (opSqueakySexual_ && paChlorineIo_) {
+      woAccessCite_ = !woAccessCite_;
     }
-    byLapChafe_ = byLapChafe_.toUpperCase();
-
-    if (asEagerWant_ || etPebbleBicycle_ || myUiNeighbor_) {
-      asEagerWant_ = !etPebbleBicycle_;
-      etPebbleBicycle_ = !myUiNeighbor_;
-      myUiNeighbor_ = !asEagerWant_;
-    }
-    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
-    }
-    if (etPebbleBicycle_) {
-      atTaleBrawny_ = !myUiNeighbor_;
-    }
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
-    }
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    hiHimselfIncapable_ = 63;
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    byLapChafe_ = byLapChafe_.toUpperCase();
-
-    if (hiHimselfIncapable_ > 0) {
-      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
-    }
-    byLapChafe_ = byLapChafe_.toUpperCase();
-    if (myUiNeighbor_ && asEagerWant_) {
-      atTaleBrawny_ = !atTaleBrawny_;
-    }
-    hiHimselfIncapable_ = 24;
-    omWarrenVbl_ = reCopeMe_ || myUiNeighbor_;
   }
 
   LinkjoyUnborn? user;

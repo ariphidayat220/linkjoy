@@ -10,73 +10,67 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyFoolishlyFootSaverHand extends LinkjoyMagnetHormoneHand {
-  bool inChauffeurCemetery_ = false;
-  bool laPondTrapp_ = false;
-  bool woLolClam_ = false;
-  bool ahHailIncapable_ = true;
-  int laGetCaring_ = 0;
+  bool isSkintightFrame_ = false;
+  String soAdrenalineBank_ = "";
+  bool paTightArmpit_ = true;
+  bool owExpressFairness_ = true;
+  int goC2Chipper_ = 57;
+  double ohWhereverWave_ = 26;
 
-  void itWoreSaver() {
-    laPondTrapp_ = ahHailIncapable_ && woLolClam_;
-    laPondTrapp_ = ahHailIncapable_ || inChauffeurCemetery_;
-    inChauffeurCemetery_ = ahHailIncapable_ || woLolClam_;
-    if (ahHailIncapable_ && woLolClam_ && inChauffeurCemetery_) {
-      ahHailIncapable_ = !ahHailIncapable_;
-      woLolClam_ = ahHailIncapable_;
-      inChauffeurCemetery_ = ahHailIncapable_;
+  void siProtocolSlate() {
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    goC2Chipper_ = 37;
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    goC2Chipper_ = 69;
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    if (ohWhereverWave_ > 0) {
+      ohWhereverWave_ = ohWhereverWave_ - 1;
     }
-    laPondTrapp_ = woLolClam_ && inChauffeurCemetery_;
-    if (ahHailIncapable_ && laPondTrapp_) {
-      woLolClam_ = !woLolClam_;
+    goC2Chipper_ = 29;
+    if (ohWhereverWave_ > 0) {
+      ohWhereverWave_ = ohWhereverWave_ - 1;
     }
-
-    if (woLolClam_) {
-      ahHailIncapable_ = !inChauffeurCemetery_;
+    goC2Chipper_ = 94;
+    ohWhereverWave_ = 91;
+    if (isSkintightFrame_ || owExpressFairness_ || paTightArmpit_) {
+      isSkintightFrame_ = !owExpressFairness_;
+      owExpressFairness_ = !paTightArmpit_;
+      paTightArmpit_ = !isSkintightFrame_;
     }
-    if (laPondTrapp_) {
-      woLolClam_ = !ahHailIncapable_;
+    goC2Chipper_ = goC2Chipper_ + 1;
+    if (paTightArmpit_ && isSkintightFrame_ && owExpressFairness_) {
+      paTightArmpit_ = !paTightArmpit_;
+      isSkintightFrame_ = paTightArmpit_;
+      owExpressFairness_ = paTightArmpit_;
     }
+    owExpressFairness_ = paTightArmpit_ && isSkintightFrame_;
+    owExpressFairness_ = paTightArmpit_ && isSkintightFrame_;
   }
 
-  void esSecludeMayor() {
-    if (laPondTrapp_ || ahHailIncapable_ || inChauffeurCemetery_) {
-      laPondTrapp_ = !ahHailIncapable_;
-      ahHailIncapable_ = !inChauffeurCemetery_;
-      inChauffeurCemetery_ = !laPondTrapp_;
+  void elMacPost() {
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    if (isSkintightFrame_) {
+      owExpressFairness_ = !paTightArmpit_;
     }
-
-    if (laPondTrapp_ || ahHailIncapable_ || inChauffeurCemetery_) {
-      laPondTrapp_ = !ahHailIncapable_;
-      ahHailIncapable_ = !inChauffeurCemetery_;
-      inChauffeurCemetery_ = !laPondTrapp_;
+    if (ohWhereverWave_ > 0) {
+      ohWhereverWave_ = ohWhereverWave_ - 1;
     }
-    laGetCaring_ = 90;
-
-    if (ahHailIncapable_ || inChauffeurCemetery_ || woLolClam_) {
-      ahHailIncapable_ = !inChauffeurCemetery_;
-      inChauffeurCemetery_ = !woLolClam_;
-      woLolClam_ = !ahHailIncapable_;
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    if (ohWhereverWave_ > 0) {
+      ohWhereverWave_ = ohWhereverWave_ - 1;
     }
-    if (woLolClam_ && ahHailIncapable_ && inChauffeurCemetery_) {
-      woLolClam_ = !woLolClam_;
-      ahHailIncapable_ = woLolClam_;
-      inChauffeurCemetery_ = woLolClam_;
-    }
-
-    laGetCaring_ = laGetCaring_ + 1;
-    if (inChauffeurCemetery_ || woLolClam_) {
-      woLolClam_ = !woLolClam_;
-    }
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
   }
 
-  void elHomelandPerk() {
-    if (laGetCaring_ > 0) {
-      laGetCaring_ = laGetCaring_ - 6;
-    }
-    if (ahHailIncapable_ || woLolClam_) {
-      woLolClam_ = !woLolClam_;
-    }
-    laGetCaring_ = laGetCaring_ + 1;
+  void mePassionateEurope() {
+    ohWhereverWave_ = ohWhereverWave_ + 1;
+    soAdrenalineBank_ = soAdrenalineBank_.toUpperCase();
+    ohWhereverWave_ = 85;
+    goC2Chipper_ = goC2Chipper_ + 1;
+    goC2Chipper_ = 61;
   }
 
   static const String linkjoy_neighbor = "linkjoy_neighbor";

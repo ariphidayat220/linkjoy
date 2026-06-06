@@ -29,125 +29,111 @@ enum TaskType {
 
 class LinkjoyWaveCollieHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  double paChocolatesTerritory_ = 6;
-  bool itChafeSheet_ = false;
-  double maStereotypeLavender_ = 53;
-  bool emLimbicSupermodel_ = true;
-  bool isSubjectiveDig_ = false;
-  int siAppreciateh_ = 0;
-  String beStereotypeSilk_ = "";
-  String odPameron2_ = "";
+  String usCupidMallet_ = "";
+  bool loPactCriticize_ = false;
+  bool doLuauFinish_ = false;
+  double woEltonGyroscope_ = 0.0;
+  double omAdAbove_ = 50;
+  String opWarlordSpender_ = "";
+  bool heWedgeSilk_ = false;
 
-  void en9Variety() {
-    beStereotypeSilk_ = beStereotypeSilk_ + odPameron2_;
-    odPameron2_ = beStereotypeSilk_;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    if (paChocolatesTerritory_ > maStereotypeLavender_) {
-      paChocolatesTerritory_ = paChocolatesTerritory_ - maStereotypeLavender_;
+  void asLessonMatey() {
+    if (loPactCriticize_ && doLuauFinish_) {
+      heWedgeSilk_ = !heWedgeSilk_;
     }
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 9;
+    usCupidMallet_ = usCupidMallet_ + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_;
+    loPactCriticize_ = doLuauFinish_ && heWedgeSilk_;
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
+    usCupidMallet_ = usCupidMallet_ + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_;
+    if (heWedgeSilk_) {
+      loPactCriticize_ = !doLuauFinish_;
     }
-    siAppreciateh_ = 12;
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 4;
+    if (doLuauFinish_ && heWedgeSilk_ && loPactCriticize_) {
+      doLuauFinish_ = !doLuauFinish_;
+      heWedgeSilk_ = doLuauFinish_;
+      loPactCriticize_ = doLuauFinish_;
     }
-    siAppreciateh_ = siAppreciateh_ + 1;
-    beStereotypeSilk_ = beStereotypeSilk_ + odPameron2_;
-    odPameron2_ = beStereotypeSilk_;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    if (emLimbicSupermodel_ && isSubjectiveDig_) {
-      itChafeSheet_ = !itChafeSheet_;
-    }
-    siAppreciateh_ = siAppreciateh_ + 1;
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
   }
 
-  void meC1Lavender() {
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    if (paChocolatesTerritory_ > maStereotypeLavender_) {
-      paChocolatesTerritory_ = paChocolatesTerritory_ - maStereotypeLavender_;
+  void maMinivanKing() {
+    usCupidMallet_ = usCupidMallet_ + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_;
+
+    doLuauFinish_ = heWedgeSilk_ || loPactCriticize_;
+    opWarlordSpender_ = usCupidMallet_.toUpperCase() + opWarlordSpender_;
+    if (heWedgeSilk_ && doLuauFinish_ && loPactCriticize_) {
+      heWedgeSilk_ = !heWedgeSilk_;
+      doLuauFinish_ = heWedgeSilk_;
+      loPactCriticize_ = heWedgeSilk_;
     }
-    if (emLimbicSupermodel_ || itChafeSheet_ || isSubjectiveDig_) {
-      emLimbicSupermodel_ = !itChafeSheet_;
-      itChafeSheet_ = !isSubjectiveDig_;
-      isSubjectiveDig_ = !emLimbicSupermodel_;
+    woEltonGyroscope_ = woEltonGyroscope_ + omAdAbove_;
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
+    opWarlordSpender_ = usCupidMallet_.toUpperCase() + opWarlordSpender_;
+    if (loPactCriticize_ && doLuauFinish_) {
+      heWedgeSilk_ = !heWedgeSilk_;
     }
-    beStereotypeSilk_ = odPameron2_ + beStereotypeSilk_;
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 8;
-    }
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    if (paChocolatesTerritory_ > maStereotypeLavender_) {
-      paChocolatesTerritory_ = paChocolatesTerritory_ - maStereotypeLavender_;
-    }
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    siAppreciateh_ = 21;
+    doLuauFinish_ = heWedgeSilk_ && loPactCriticize_;
+
+    loPactCriticize_ = heWedgeSilk_ && doLuauFinish_;
+    opWarlordSpender_ = usCupidMallet_.toUpperCase() + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_.toUpperCase() + opWarlordSpender_;
   }
 
-  void noMysteriousSupermodel() {
-    itChafeSheet_ = emLimbicSupermodel_ && isSubjectiveDig_;
-    beStereotypeSilk_ = beStereotypeSilk_ + odPameron2_;
-    odPameron2_ = beStereotypeSilk_;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    itChafeSheet_ = emLimbicSupermodel_ || isSubjectiveDig_;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    beStereotypeSilk_ = beStereotypeSilk_ + odPameron2_;
-    odPameron2_ = beStereotypeSilk_;
-    siAppreciateh_ = siAppreciateh_ + 1;
-    if (paChocolatesTerritory_ > maStereotypeLavender_) {
-      paChocolatesTerritory_ = paChocolatesTerritory_ - maStereotypeLavender_;
+  void usTalentedSutra() {
+    if (doLuauFinish_ || loPactCriticize_ || heWedgeSilk_) {
+      doLuauFinish_ = !loPactCriticize_;
+      loPactCriticize_ = !heWedgeSilk_;
+      heWedgeSilk_ = !doLuauFinish_;
     }
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 4;
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
+    opWarlordSpender_ = usCupidMallet_.toUpperCase() + opWarlordSpender_;
+
+    heWedgeSilk_ = loPactCriticize_ && doLuauFinish_;
+    usCupidMallet_ = usCupidMallet_ + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_;
+    if (loPactCriticize_ || heWedgeSilk_) {
+      heWedgeSilk_ = !heWedgeSilk_;
     }
-    if (emLimbicSupermodel_) {
-      isSubjectiveDig_ = !itChafeSheet_;
+
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
+    if (woEltonGyroscope_ > omAdAbove_) {
+      woEltonGyroscope_ = woEltonGyroscope_ - omAdAbove_;
     }
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 0;
-    }
-    paChocolatesTerritory_ = 71;
-    maStereotypeLavender_ = 61;
-    beStereotypeSilk_ = odPameron2_ + beStereotypeSilk_;
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 5;
-    }
-    siAppreciateh_ = 22;
   }
 
-  void reAboveBell() {
-    beStereotypeSilk_ = beStereotypeSilk_ + odPameron2_;
-    odPameron2_ = beStereotypeSilk_;
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    paChocolatesTerritory_ = 32;
-    maStereotypeLavender_ = 74;
-    siAppreciateh_ = 2;
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    isSubjectiveDig_ = emLimbicSupermodel_ && itChafeSheet_;
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 5;
+  void beShockFrankly() {
+    if (loPactCriticize_ && heWedgeSilk_) {
+      doLuauFinish_ = !doLuauFinish_;
     }
-    if (isSubjectiveDig_ || itChafeSheet_ || emLimbicSupermodel_) {
-      isSubjectiveDig_ = !itChafeSheet_;
-      itChafeSheet_ = !emLimbicSupermodel_;
-      emLimbicSupermodel_ = !isSubjectiveDig_;
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
+    woEltonGyroscope_ = 55;
+    omAdAbove_ = 37;
+    usCupidMallet_ = usCupidMallet_ + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_;
+    loPactCriticize_ = heWedgeSilk_ || doLuauFinish_;
+    usCupidMallet_ = usCupidMallet_ + opWarlordSpender_;
+    opWarlordSpender_ = usCupidMallet_;
+    usCupidMallet_ = opWarlordSpender_ + usCupidMallet_;
+
+    if (doLuauFinish_ && heWedgeSilk_ && loPactCriticize_) {
+      doLuauFinish_ = !doLuauFinish_;
+      heWedgeSilk_ = doLuauFinish_;
+      loPactCriticize_ = doLuauFinish_;
     }
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 7;
+
+    if (loPactCriticize_) {
+      doLuauFinish_ = !heWedgeSilk_;
     }
-    siAppreciateh_ = siAppreciateh_ + 1;
-    siAppreciateh_ = 8;
-    odPameron2_ = beStereotypeSilk_.toUpperCase() + odPameron2_;
-    if (paChocolatesTerritory_ > maStereotypeLavender_) {
-      paChocolatesTerritory_ = paChocolatesTerritory_ - maStereotypeLavender_;
+    if (doLuauFinish_) {
+      loPactCriticize_ = !heWedgeSilk_;
     }
-    if (siAppreciateh_ > 0) {
-      siAppreciateh_ = siAppreciateh_ - 7;
+    if (loPactCriticize_ || heWedgeSilk_ || doLuauFinish_) {
+      loPactCriticize_ = !heWedgeSilk_;
+      heWedgeSilk_ = !doLuauFinish_;
+      doLuauFinish_ = !loPactCriticize_;
     }
   }
 

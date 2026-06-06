@@ -22,96 +22,86 @@ import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFigureMandatoryHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool paChihuahuaFluke_ = false;
-  int laBanquetAffordable_ = 0;
-  bool taPressureSudden_ = false;
-  bool adLoadThankfully_ = true;
-  int asPoleThrone_ = 13;
-  String joStiltAs_ = "";
-  bool laFairnessNarrate_ = true;
+  double weQaPay_ = 0.0;
+  String myMassageVbl_ = "";
+  bool heGreenJumbo_ = false;
+  bool moAmesHail_ = true;
+  bool myDbLoaf_ = false;
+  String hoClearly10_ = "";
+  double exOhioFinish_ = 68;
 
-  void asCeleryConceal() {
-    if (laFairnessNarrate_ || taPressureSudden_ || adLoadThankfully_) {
-      laFairnessNarrate_ = !taPressureSudden_;
-      taPressureSudden_ = !adLoadThankfully_;
-      adLoadThankfully_ = !laFairnessNarrate_;
-    }
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    laBanquetAffordable_ = 1;
-    asPoleThrone_ = 92;
-    if (laBanquetAffordable_ > asPoleThrone_) {
-      laBanquetAffordable_ = laBanquetAffordable_ + asPoleThrone_;
-    }
-    adLoadThankfully_ = laFairnessNarrate_ || taPressureSudden_;
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    laBanquetAffordable_ = 48;
-    asPoleThrone_ = 84;
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    if (laFairnessNarrate_ && taPressureSudden_ && paChihuahuaFluke_) {
-      laFairnessNarrate_ = !laFairnessNarrate_;
-      taPressureSudden_ = laFairnessNarrate_;
-      paChihuahuaFluke_ = laFairnessNarrate_;
+  void orDollInfection() {
+    weQaPay_ = weQaPay_ + exOhioFinish_;
+
+    myMassageVbl_ = myMassageVbl_ + hoClearly10_;
+    hoClearly10_ = myMassageVbl_;
+
+    weQaPay_ = 93;
+    exOhioFinish_ = 61;
+    weQaPay_ = 35;
+    exOhioFinish_ = 54;
+    weQaPay_ = weQaPay_ + exOhioFinish_;
+    if (weQaPay_ > exOhioFinish_) {
+      weQaPay_ = weQaPay_ - exOhioFinish_;
     }
   }
 
-  void idPawCharge() {
-    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
-    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    if (laFairnessNarrate_ || taPressureSudden_) {
-      taPressureSudden_ = !taPressureSudden_;
+  void edCrotchConvict() {
+    moAmesHail_ = heGreenJumbo_ && myDbLoaf_;
+    weQaPay_ = 60;
+    exOhioFinish_ = 2;
+    if (moAmesHail_ && heGreenJumbo_ && myDbLoaf_) {
+      moAmesHail_ = !moAmesHail_;
+      heGreenJumbo_ = moAmesHail_;
+      myDbLoaf_ = moAmesHail_;
     }
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    if (laBanquetAffordable_ > asPoleThrone_) {
-      laBanquetAffordable_ = laBanquetAffordable_ + asPoleThrone_;
-    }
-    if (taPressureSudden_ && paChihuahuaFluke_ && adLoadThankfully_) {
-      taPressureSudden_ = !taPressureSudden_;
-      paChihuahuaFluke_ = taPressureSudden_;
-      adLoadThankfully_ = taPressureSudden_;
-    }
-    joStiltAs_ = joStiltAs_.toUpperCase();
-    if (paChihuahuaFluke_ || adLoadThankfully_) {
-      adLoadThankfully_ = !adLoadThankfully_;
-    }
-    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
-
-    laBanquetAffordable_ = 2;
-    asPoleThrone_ = 11;
-    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
-
-    taPressureSudden_ = laFairnessNarrate_ && paChihuahuaFluke_;
-    if (adLoadThankfully_ || laFairnessNarrate_) {
-      laFairnessNarrate_ = !laFairnessNarrate_;
+    weQaPay_ = weQaPay_ + exOhioFinish_;
+    if (heGreenJumbo_ || moAmesHail_ || myDbLoaf_) {
+      heGreenJumbo_ = !moAmesHail_;
+      moAmesHail_ = !myDbLoaf_;
+      myDbLoaf_ = !heGreenJumbo_;
     }
   }
 
-  void meInBeyond() {
-    if (laFairnessNarrate_ && taPressureSudden_ && adLoadThankfully_) {
-      laFairnessNarrate_ = !laFairnessNarrate_;
-      taPressureSudden_ = laFairnessNarrate_;
-      adLoadThankfully_ = laFairnessNarrate_;
+  void amMostDestroy() {
+    myDbLoaf_ = heGreenJumbo_ && moAmesHail_;
+
+    if (heGreenJumbo_ && myDbLoaf_ && moAmesHail_) {
+      heGreenJumbo_ = !heGreenJumbo_;
+      myDbLoaf_ = heGreenJumbo_;
+      moAmesHail_ = heGreenJumbo_;
+    }
+    weQaPay_ = 66;
+    exOhioFinish_ = 12;
+
+    myMassageVbl_ = myMassageVbl_ + hoClearly10_;
+    hoClearly10_ = myMassageVbl_;
+    if (moAmesHail_ || myDbLoaf_ || heGreenJumbo_) {
+      moAmesHail_ = !myDbLoaf_;
+      myDbLoaf_ = !heGreenJumbo_;
+      heGreenJumbo_ = !moAmesHail_;
     }
 
-    laBanquetAffordable_ = 96;
-    asPoleThrone_ = 97;
-    laFairnessNarrate_ = paChihuahuaFluke_ || taPressureSudden_;
-    adLoadThankfully_ = paChihuahuaFluke_ || laFairnessNarrate_;
-
-    joStiltAs_ = joStiltAs_.toUpperCase();
-
-    laBanquetAffordable_ = 19;
-    asPoleThrone_ = 42;
-
-    taPressureSudden_ = paChihuahuaFluke_ && adLoadThankfully_;
-    if (paChihuahuaFluke_) {
-      adLoadThankfully_ = !taPressureSudden_;
+    hoClearly10_ = myMassageVbl_.toUpperCase() + hoClearly10_;
+    if (moAmesHail_ && myDbLoaf_ && heGreenJumbo_) {
+      moAmesHail_ = !moAmesHail_;
+      myDbLoaf_ = moAmesHail_;
+      heGreenJumbo_ = moAmesHail_;
     }
-    if (laBanquetAffordable_ > asPoleThrone_) {
-      laBanquetAffordable_ = laBanquetAffordable_ + asPoleThrone_;
+    myMassageVbl_ = myMassageVbl_ + hoClearly10_;
+    hoClearly10_ = myMassageVbl_;
+
+    if (myDbLoaf_ && heGreenJumbo_ && moAmesHail_) {
+      myDbLoaf_ = !myDbLoaf_;
+      heGreenJumbo_ = myDbLoaf_;
+      moAmesHail_ = myDbLoaf_;
+    }
+
+    if (weQaPay_ > exOhioFinish_) {
+      weQaPay_ = weQaPay_ - exOhioFinish_;
+    }
+    if (heGreenJumbo_ && myDbLoaf_) {
+      moAmesHail_ = !moAmesHail_;
     }
   }
 

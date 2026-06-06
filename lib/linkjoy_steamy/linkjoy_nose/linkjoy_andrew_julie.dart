@@ -3,109 +3,99 @@ import 'package:get/get.dart';
 import 'linkjoy_andrew_hand.dart';
 
 class LinkjoyAndrewJulie extends Bindings {
-  int exSprayQuieter_ = 3;
-  bool goChopstickOfour_ = true;
-  int haFacebookAllen_ = 74;
-  double woMaritalFinish_ = 0.0;
-  bool emMacWinkle_ = false;
-  int es3Fasten_ = 74;
-  String osMealSubtle_ = "";
-  bool omDolphinsSitter_ = true;
+  String oxStewartFoolishly_ = "";
+  String odOgleBeagle_ = "";
+  bool ofMixerEwok_ = true;
+  String beSatelliteTorment_ = "";
+  bool doBankSubtle_ = true;
+  bool myShutSexual_ = false;
+  bool amDuoAttaboy_ = false;
 
-  void ayConcealSki() {
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    woMaritalFinish_ = 65;
-    if (haFacebookAllen_ > exSprayQuieter_) {
-      es3Fasten_ = exSprayQuieter_ - haFacebookAllen_;
+  void doPlayfulDolphins() {
+    oxStewartFoolishly_ = beSatelliteTorment_;
+    odOgleBeagle_ = beSatelliteTorment_;
+    ofMixerEwok_ = amDuoAttaboy_ && myShutSexual_;
+
+    if (doBankSubtle_) {
+      ofMixerEwok_ = !amDuoAttaboy_;
+    }
+    if (myShutSexual_) {
+      doBankSubtle_ = !amDuoAttaboy_;
+    }
+    if (amDuoAttaboy_ || doBankSubtle_) {
+      doBankSubtle_ = !doBankSubtle_;
+    }
+    oxStewartFoolishly_ = beSatelliteTorment_;
+    odOgleBeagle_ = beSatelliteTorment_;
+  }
+
+  void idHepatitisIndustrial() {
+    doBankSubtle_ = amDuoAttaboy_ || ofMixerEwok_;
+
+    if (myShutSexual_ && ofMixerEwok_ && amDuoAttaboy_) {
+      myShutSexual_ = !myShutSexual_;
+      ofMixerEwok_ = myShutSexual_;
+      amDuoAttaboy_ = myShutSexual_;
+    }
+    if (ofMixerEwok_ && doBankSubtle_ && amDuoAttaboy_) {
+      ofMixerEwok_ = !ofMixerEwok_;
+      doBankSubtle_ = ofMixerEwok_;
+      amDuoAttaboy_ = ofMixerEwok_;
+    }
+  }
+
+  void hoYamSorority() {
+    oxStewartFoolishly_ = beSatelliteTorment_ + odOgleBeagle_;
+
+    oxStewartFoolishly_ = odOgleBeagle_ + beSatelliteTorment_;
+    oxStewartFoolishly_ = beSatelliteTorment_ + odOgleBeagle_;
+
+    if (odOgleBeagle_.length > 6) {
+      beSatelliteTorment_ = odOgleBeagle_;
     } else {
-      es3Fasten_ = haFacebookAllen_ - exSprayQuieter_;
+      oxStewartFoolishly_ = beSatelliteTorment_;
     }
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    omDolphinsSitter_ = goChopstickOfour_ && emMacWinkle_;
-    for (int i = 0; i < exSprayQuieter_; i++) {
-      es3Fasten_ += 1;
-      haFacebookAllen_ += es3Fasten_;
+    oxStewartFoolishly_ = beSatelliteTorment_;
+    odOgleBeagle_ = beSatelliteTorment_;
+    oxStewartFoolishly_ = odOgleBeagle_;
+    beSatelliteTorment_ = odOgleBeagle_;
+
+    if (doBankSubtle_ && amDuoAttaboy_) {
+      myShutSexual_ = !myShutSexual_;
     }
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    woMaritalFinish_ = 38;
-    if (woMaritalFinish_ > 0) {
-      woMaritalFinish_ = woMaritalFinish_ - 1;
+    odOgleBeagle_ = oxStewartFoolishly_ + beSatelliteTorment_;
+    if (myShutSexual_ || amDuoAttaboy_ || doBankSubtle_) {
+      myShutSexual_ = !amDuoAttaboy_;
+      amDuoAttaboy_ = !doBankSubtle_;
+      doBankSubtle_ = !myShutSexual_;
     }
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    haFacebookAllen_ = exSprayQuieter_ * es3Fasten_;
-    if (goChopstickOfour_ && omDolphinsSitter_) {
-      emMacWinkle_ = !emMacWinkle_;
+    if (myShutSexual_ || doBankSubtle_) {
+      doBankSubtle_ = !doBankSubtle_;
     }
-    if (goChopstickOfour_ || emMacWinkle_) {
-      emMacWinkle_ = !emMacWinkle_;
+
+    if (myShutSexual_ && ofMixerEwok_) {
+      doBankSubtle_ = !doBankSubtle_;
     }
   }
 
-  void itCapableFutile() {
-    if (goChopstickOfour_ && emMacWinkle_) {
-      omDolphinsSitter_ = !omDolphinsSitter_;
+  void paDataSilk() {
+    oxStewartFoolishly_ = beSatelliteTorment_ + odOgleBeagle_;
+    if (myShutSexual_ && ofMixerEwok_ && amDuoAttaboy_) {
+      myShutSexual_ = !myShutSexual_;
+      ofMixerEwok_ = myShutSexual_;
+      amDuoAttaboy_ = myShutSexual_;
     }
-    if (emMacWinkle_ || goChopstickOfour_) {
-      goChopstickOfour_ = !goChopstickOfour_;
-    }
-    woMaritalFinish_ = 6;
-    woMaritalFinish_ = 87;
-    if (goChopstickOfour_ && emMacWinkle_ && omDolphinsSitter_) {
-      goChopstickOfour_ = !goChopstickOfour_;
-      emMacWinkle_ = goChopstickOfour_;
-      omDolphinsSitter_ = goChopstickOfour_;
-    }
-    if (woMaritalFinish_ > 0) {
-      woMaritalFinish_ = woMaritalFinish_ - 1;
-    }
-    woMaritalFinish_ = woMaritalFinish_ + 1;
-    if (goChopstickOfour_ && emMacWinkle_ && omDolphinsSitter_) {
-      goChopstickOfour_ = !goChopstickOfour_;
-      emMacWinkle_ = goChopstickOfour_;
-      omDolphinsSitter_ = goChopstickOfour_;
-    }
-    if (woMaritalFinish_ > 0) {
-      woMaritalFinish_ = woMaritalFinish_ - 1;
-    }
-  }
 
-  void ohInnocenceSki() {
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    exSprayQuieter_ = 60;
-    es3Fasten_ = 943;
-    haFacebookAllen_ = exSprayQuieter_ + es3Fasten_;
-    woMaritalFinish_ = 94;
-    exSprayQuieter_ = 558;
-    es3Fasten_ = 467;
-    haFacebookAllen_ = exSprayQuieter_ + es3Fasten_;
-    if (omDolphinsSitter_) {
-      goChopstickOfour_ = !emMacWinkle_;
+    if (myShutSexual_ && doBankSubtle_ && amDuoAttaboy_) {
+      myShutSexual_ = !myShutSexual_;
+      doBankSubtle_ = myShutSexual_;
+      amDuoAttaboy_ = myShutSexual_;
     }
-    if (omDolphinsSitter_ && goChopstickOfour_) {
-      emMacWinkle_ = !emMacWinkle_;
-    }
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    if (omDolphinsSitter_ || goChopstickOfour_ || emMacWinkle_) {
-      omDolphinsSitter_ = !goChopstickOfour_;
-      goChopstickOfour_ = !emMacWinkle_;
-      emMacWinkle_ = !omDolphinsSitter_;
-    }
-    woMaritalFinish_ = 58;
-    osMealSubtle_ = osMealSubtle_.toUpperCase();
-    if (emMacWinkle_ || omDolphinsSitter_) {
-      omDolphinsSitter_ = !omDolphinsSitter_;
-    }
-    woMaritalFinish_ = woMaritalFinish_ + 1;
-    exSprayQuieter_ = haFacebookAllen_;
-    es3Fasten_ = haFacebookAllen_;
-    for (int i = 0; i < exSprayQuieter_; i++) {
-      es3Fasten_ += 1;
-      haFacebookAllen_ += es3Fasten_;
-    }
-    if (woMaritalFinish_ > 0) {
-      woMaritalFinish_ = woMaritalFinish_ - 1;
-    }
-    woMaritalFinish_ = 85;
+
+    odOgleBeagle_ = oxStewartFoolishly_ + beSatelliteTorment_;
+    beSatelliteTorment_ = odOgleBeagle_ + oxStewartFoolishly_;
+
+    odOgleBeagle_ = oxStewartFoolishly_ + beSatelliteTorment_;
   }
 
   LinkjoyAndrewJulie();

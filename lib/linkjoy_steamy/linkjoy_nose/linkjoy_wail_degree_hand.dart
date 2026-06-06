@@ -15,89 +15,113 @@ import 'package:get/get.dart';
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyWailDegreeHand extends LinkjoyMagnetHormoneHand {
-  bool meForgotCm_ = true;
-  int ofrIncubator_ = 0;
-  bool laHarvestEidetic_ = false;
-  bool orVarietyAgainst_ = false;
-  bool weYumDuel_ = true;
+  bool orGhostHamper_ = true;
+  bool itBasketballMartini_ = false;
+  bool omAyeThrilled_ = true;
+  bool taSlateInnocence_ = true;
+  String idInnocenceWart_ = "";
+  int ofSoilC2_ = 5;
+  double byBopNegative_ = 0.0;
+  double weAdLength_ = 84;
+  bool elWakeMartini_ = true;
 
-  void faFairnessInsistence() {
-    if (ofrIncubator_ > 0) {
-      ofrIncubator_ = ofrIncubator_ - 4;
+  void miExpressEnforce() {
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    if (byBopNegative_ > weAdLength_) {
+      byBopNegative_ = byBopNegative_ - weAdLength_;
     }
-    laHarvestEidetic_ = meForgotCm_ || weYumDuel_;
-    weYumDuel_ = orVarietyAgainst_ && meForgotCm_;
-    ofrIncubator_ = ofrIncubator_ + 1;
-    if (weYumDuel_) {
-      orVarietyAgainst_ = !meForgotCm_;
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    if (byBopNegative_ > weAdLength_) {
+      byBopNegative_ = byBopNegative_ - weAdLength_;
     }
-
-    if (meForgotCm_ || weYumDuel_) {
-      weYumDuel_ = !weYumDuel_;
+    if (byBopNegative_ > weAdLength_) {
+      byBopNegative_ = byBopNegative_ - weAdLength_;
     }
-    if (ofrIncubator_ > 0) {
-      ofrIncubator_ = ofrIncubator_ - 6;
+    ofSoilC2_ = 41;
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    byBopNegative_ = byBopNegative_ + weAdLength_;
+    if (itBasketballMartini_ && orGhostHamper_ && omAyeThrilled_) {
+      itBasketballMartini_ = !itBasketballMartini_;
+      orGhostHamper_ = itBasketballMartini_;
+      omAyeThrilled_ = itBasketballMartini_;
     }
-    if (weYumDuel_) {
-      orVarietyAgainst_ = !meForgotCm_;
+    byBopNegative_ = 89;
+    weAdLength_ = 65;
+    ofSoilC2_ = 72;
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 6;
     }
   }
 
-  void mmBurtFriends() {
-    if (laHarvestEidetic_ || meForgotCm_ || orVarietyAgainst_) {
-      laHarvestEidetic_ = !meForgotCm_;
-      meForgotCm_ = !orVarietyAgainst_;
-      orVarietyAgainst_ = !laHarvestEidetic_;
+  void haBenadrylAce() {
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    taSlateInnocence_ = omAyeThrilled_ && itBasketballMartini_;
+    ofSoilC2_ = ofSoilC2_ + 1;
+    byBopNegative_ = 16;
+    weAdLength_ = 78;
+    if (itBasketballMartini_ && orGhostHamper_) {
+      elWakeMartini_ = !elWakeMartini_;
     }
-
-    ofrIncubator_ = ofrIncubator_ + 1;
-    if (ofrIncubator_ > 0) {
-      ofrIncubator_ = ofrIncubator_ - 8;
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 6;
     }
-    ofrIncubator_ = 30;
-    ofrIncubator_ = 37;
-    orVarietyAgainst_ = meForgotCm_ || laHarvestEidetic_;
-
-    if (laHarvestEidetic_ && weYumDuel_) {
-      orVarietyAgainst_ = !orVarietyAgainst_;
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    byBopNegative_ = 25;
+    weAdLength_ = 68;
+    if (elWakeMartini_ && orGhostHamper_ && taSlateInnocence_) {
+      elWakeMartini_ = !elWakeMartini_;
+      orGhostHamper_ = elWakeMartini_;
+      taSlateInnocence_ = elWakeMartini_;
     }
+    byBopNegative_ = byBopNegative_ + weAdLength_;
+    byBopNegative_ = 8;
+    weAdLength_ = 50;
+    taSlateInnocence_ = itBasketballMartini_ || omAyeThrilled_;
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 1;
+    }
+    ofSoilC2_ = ofSoilC2_ + 1;
   }
 
-  void exJuiceBiological() {
-    if (orVarietyAgainst_) {
-      meForgotCm_ = !laHarvestEidetic_;
+  void doMysteriousFix() {
+    ofSoilC2_ = ofSoilC2_ + 1;
+    ofSoilC2_ = 74;
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 5;
     }
-
-    weYumDuel_ = meForgotCm_ && laHarvestEidetic_;
-    if (meForgotCm_ || laHarvestEidetic_ || orVarietyAgainst_) {
-      meForgotCm_ = !laHarvestEidetic_;
-      laHarvestEidetic_ = !orVarietyAgainst_;
-      orVarietyAgainst_ = !meForgotCm_;
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 9;
     }
-
-    if (ofrIncubator_ > 0) {
-      ofrIncubator_ = ofrIncubator_ - 5;
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    idInnocenceWart_ = idInnocenceWart_.toUpperCase();
+    if (elWakeMartini_ || orGhostHamper_) {
+      orGhostHamper_ = !orGhostHamper_;
     }
-    if (orVarietyAgainst_ || weYumDuel_) {
-      weYumDuel_ = !weYumDuel_;
+    ofSoilC2_ = 14;
+    if (omAyeThrilled_ && itBasketballMartini_) {
+      orGhostHamper_ = !orGhostHamper_;
     }
-
-    if (orVarietyAgainst_) {
-      meForgotCm_ = !weYumDuel_;
+    ofSoilC2_ = 10;
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 9;
     }
-    ofrIncubator_ = 81;
-  }
-
-  void ayGeographyInnocence() {
-    if (laHarvestEidetic_) {
-      orVarietyAgainst_ = !meForgotCm_;
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 6;
     }
-
-    if (ofrIncubator_ > 0) {
-      ofrIncubator_ = ofrIncubator_ - 0;
+    ofSoilC2_ = ofSoilC2_ + 1;
+    byBopNegative_ = 64;
+    weAdLength_ = 19;
+    if (ofSoilC2_ > 0) {
+      ofSoilC2_ = ofSoilC2_ - 1;
     }
-
-    ofrIncubator_ = ofrIncubator_ + 1;
+    byBopNegative_ = byBopNegative_ + weAdLength_;
+    byBopNegative_ = 79;
+    weAdLength_ = 80;
   }
 
   @override

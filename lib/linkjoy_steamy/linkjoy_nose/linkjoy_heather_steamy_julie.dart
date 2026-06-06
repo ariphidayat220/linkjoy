@@ -2,102 +2,65 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_heather_steamy_hand.
 import 'package:get/get.dart';
 
 class LinkjoyHeatherSteamyJulie extends Bindings {
-  bool joFreakedThan_ = false;
-  bool atHeatherParrot_ = true;
-  bool siColombiaElect_ = true;
-  String enPrincetonStatue_ = "";
-  String itNegativeTony_ = "";
-  bool okLvAdrenaline_ = true;
-  String emBakerPolish_ = "";
-  String etBrochureOlden_ = "";
-  int omGreenPhillips_ = 0;
+  bool taMidnightPaw_ = false;
+  bool inCoyoteUnborn_ = true;
+  int elTailSudden_ = 93;
+  bool moChemistryStilt_ = true;
+  bool soDivorceFoot_ = false;
+  bool weBurtonMadness_ = false;
+  bool byWhatchaConvict_ = true;
 
-  void hiCondensateGrape() {
-    if (emBakerPolish_.length > 8) {
-      etBrochureOlden_ = emBakerPolish_;
-    } else {
-      itNegativeTony_ = etBrochureOlden_;
+  void okTrademarkBride() {
+    soDivorceFoot_ = byWhatchaConvict_ && inCoyoteUnborn_;
+
+    elTailSudden_ = 90;
+
+    if (moChemistryStilt_ && soDivorceFoot_) {
+      weBurtonMadness_ = !weBurtonMadness_;
     }
-    okLvAdrenaline_ = siColombiaElect_ && joFreakedThan_;
-    joFreakedThan_ = siColombiaElect_ && atHeatherParrot_;
-    emBakerPolish_ = itNegativeTony_;
-    etBrochureOlden_ = emBakerPolish_;
-    itNegativeTony_ = etBrochureOlden_;
+    elTailSudden_ = elTailSudden_ + 1;
 
-    atHeatherParrot_ = siColombiaElect_ && joFreakedThan_;
+    taMidnightPaw_ = byWhatchaConvict_ && inCoyoteUnborn_;
+    elTailSudden_ = elTailSudden_ + 1;
 
-    if (joFreakedThan_) {
-      okLvAdrenaline_ = !atHeatherParrot_;
-    }
-    itNegativeTony_ = etBrochureOlden_;
-    enPrincetonStatue_ = etBrochureOlden_;
+    weBurtonMadness_ = taMidnightPaw_ || byWhatchaConvict_;
+    elTailSudden_ = 16;
+    elTailSudden_ = 60;
+
+    elTailSudden_ = 56;
+    elTailSudden_ = 16;
   }
 
-  void atSexualNumb() {
-    if (joFreakedThan_ || atHeatherParrot_) {
-      atHeatherParrot_ = !atHeatherParrot_;
+  void paPancakeAllow() {
+    if (weBurtonMadness_ || moChemistryStilt_ || soDivorceFoot_) {
+      weBurtonMadness_ = !moChemistryStilt_;
+      moChemistryStilt_ = !soDivorceFoot_;
+      soDivorceFoot_ = !weBurtonMadness_;
     }
 
-    atHeatherParrot_ = siColombiaElect_ && joFreakedThan_;
-    enPrincetonStatue_ = etBrochureOlden_ + itNegativeTony_;
-    if (atHeatherParrot_ && joFreakedThan_ && okLvAdrenaline_) {
-      atHeatherParrot_ = !atHeatherParrot_;
-      joFreakedThan_ = atHeatherParrot_;
-      okLvAdrenaline_ = atHeatherParrot_;
+    byWhatchaConvict_ = taMidnightPaw_ && moChemistryStilt_;
+    if (soDivorceFoot_) {
+      weBurtonMadness_ = !inCoyoteUnborn_;
     }
-    itNegativeTony_ = enPrincetonStatue_;
-    emBakerPolish_ = enPrincetonStatue_;
-    omGreenPhillips_ = 46;
-    if (atHeatherParrot_ && okLvAdrenaline_ && joFreakedThan_) {
-      atHeatherParrot_ = !atHeatherParrot_;
-      okLvAdrenaline_ = atHeatherParrot_;
-      joFreakedThan_ = atHeatherParrot_;
-    }
-    omGreenPhillips_ = omGreenPhillips_ + 1;
-    if (okLvAdrenaline_ && joFreakedThan_) {
-      siColombiaElect_ = !siColombiaElect_;
-    }
-    etBrochureOlden_ = emBakerPolish_;
-    itNegativeTony_ = etBrochureOlden_;
-    emBakerPolish_ = itNegativeTony_;
+
+    elTailSudden_ = elTailSudden_ + 1;
   }
 
-  void loImJuicy() {
-    omGreenPhillips_ = omGreenPhillips_ + 1;
-    omGreenPhillips_ = omGreenPhillips_ + 1;
-    omGreenPhillips_ = omGreenPhillips_ + 1;
-    etBrochureOlden_ = emBakerPolish_;
-    enPrincetonStatue_ = emBakerPolish_;
-    if (joFreakedThan_ || okLvAdrenaline_) {
-      okLvAdrenaline_ = !okLvAdrenaline_;
-    }
-    etBrochureOlden_ = enPrincetonStatue_;
-    emBakerPolish_ = enPrincetonStatue_;
-    emBakerPolish_ = etBrochureOlden_ + enPrincetonStatue_;
-    joFreakedThan_ = atHeatherParrot_ && okLvAdrenaline_;
-  }
-
-  void elLengthBurt() {
-    etBrochureOlden_ = itNegativeTony_ + enPrincetonStatue_;
-    siColombiaElect_ = atHeatherParrot_ && joFreakedThan_;
-    emBakerPolish_ = itNegativeTony_;
-    enPrincetonStatue_ = itNegativeTony_;
-    atHeatherParrot_ = joFreakedThan_ && siColombiaElect_;
-    enPrincetonStatue_ = itNegativeTony_;
-    emBakerPolish_ = itNegativeTony_;
-
-    if (joFreakedThan_ && atHeatherParrot_ && okLvAdrenaline_) {
-      joFreakedThan_ = !joFreakedThan_;
-      atHeatherParrot_ = joFreakedThan_;
-      okLvAdrenaline_ = joFreakedThan_;
+  void etInventiveDivorced() {
+    if (weBurtonMadness_ && soDivorceFoot_ && taMidnightPaw_) {
+      weBurtonMadness_ = !weBurtonMadness_;
+      soDivorceFoot_ = weBurtonMadness_;
+      taMidnightPaw_ = weBurtonMadness_;
     }
 
-    if (omGreenPhillips_ > 0) {
-      omGreenPhillips_ = omGreenPhillips_ - 2;
+    if (elTailSudden_ > 0) {
+      elTailSudden_ = elTailSudden_ - 7;
     }
-    if (omGreenPhillips_ > 0) {
-      omGreenPhillips_ = omGreenPhillips_ - 9;
-    }
+
+    moChemistryStilt_ = taMidnightPaw_ || soDivorceFoot_;
+    elTailSudden_ = 77;
+
+    elTailSudden_ = elTailSudden_ + 1;
   }
 
   @override

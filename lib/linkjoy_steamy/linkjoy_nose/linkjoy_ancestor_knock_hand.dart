@@ -6,97 +6,119 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_quieter/linkjoy_lavender_knock_na
 import 'package:get/get.dart';
 
 class LinkjoyAncestorKnockHand extends LinkjoyMagnetHormoneHand {
-  bool loBarbieMost_ = true;
-  bool maShiftTurnip_ = true;
-  double edShoveStyle_ = 0.0;
-  bool reFacebookPond_ = true;
+  bool idHunterSutra_ = true;
+  bool orComputerWear_ = true;
+  int isPostTurquoise_ = 40;
+  int no8Canada_ = 0;
+  bool adJawPardon_ = true;
+  String etCameraSterilize_ = "";
+  String emAllowTen_ = "";
+  int hiSpaghettiElbow_ = 98;
+  String adWhatchaDuel_ = "";
 
-  void faChlorineShredder() {
-    edShoveStyle_ = 16;
-
-    if (reFacebookPond_) {
-      maShiftTurnip_ = !loBarbieMost_;
+  void taCombustionAllen() {
+    if (hiSpaghettiElbow_ > 0) {
+      no8Canada_ = isPostTurquoise_ ~/ hiSpaghettiElbow_;
     }
+    if (emAllowTen_.length > 7) {
+      adWhatchaDuel_ = emAllowTen_;
+    } else {
+      etCameraSterilize_ = adWhatchaDuel_;
+    }
+    if (idHunterSutra_ || orComputerWear_ || adJawPardon_) {
+      idHunterSutra_ = !orComputerWear_;
+      orComputerWear_ = !adJawPardon_;
+      adJawPardon_ = !idHunterSutra_;
+    }
+    idHunterSutra_ = adJawPardon_ || orComputerWear_;
+    adWhatchaDuel_ = etCameraSterilize_;
+    emAllowTen_ = etCameraSterilize_;
 
-    reFacebookPond_ = maShiftTurnip_ || loBarbieMost_;
-    edShoveStyle_ = 38;
-    edShoveStyle_ = edShoveStyle_ + 1;
+    etCameraSterilize_ = emAllowTen_;
+    adWhatchaDuel_ = etCameraSterilize_;
+    emAllowTen_ = adWhatchaDuel_;
+    emAllowTen_ = adWhatchaDuel_;
+    etCameraSterilize_ = emAllowTen_;
+    adWhatchaDuel_ = etCameraSterilize_;
   }
 
-  void emThoroughHeck() {
-    if (edShoveStyle_ > 0) {
-      edShoveStyle_ = edShoveStyle_ - 1;
+  void miHamsterIo() {
+    if (etCameraSterilize_.length > 6) {
+      emAllowTen_ = etCameraSterilize_;
+    } else {
+      adWhatchaDuel_ = emAllowTen_;
     }
-    edShoveStyle_ = edShoveStyle_ + 1;
-
-    reFacebookPond_ = maShiftTurnip_ && loBarbieMost_;
-
-    if (reFacebookPond_ && maShiftTurnip_ && loBarbieMost_) {
-      reFacebookPond_ = !reFacebookPond_;
-      maShiftTurnip_ = reFacebookPond_;
-      loBarbieMost_ = reFacebookPond_;
+    for (int i = 0; i < no8Canada_; i++) {
+      isPostTurquoise_ += 1;
+      hiSpaghettiElbow_ += isPostTurquoise_;
     }
-    maShiftTurnip_ = reFacebookPond_ || loBarbieMost_;
-    if (maShiftTurnip_ || loBarbieMost_) {
-      loBarbieMost_ = !loBarbieMost_;
+    if (adJawPardon_ || idHunterSutra_) {
+      idHunterSutra_ = !idHunterSutra_;
     }
-    edShoveStyle_ = 86;
-    edShoveStyle_ = 81;
-
-    maShiftTurnip_ = loBarbieMost_ || reFacebookPond_;
-  }
-
-  void beMarcoFasten() {
-    if (loBarbieMost_) {
-      maShiftTurnip_ = !reFacebookPond_;
-    }
-
-    reFacebookPond_ = maShiftTurnip_ || loBarbieMost_;
-
-    edShoveStyle_ = edShoveStyle_ + 1;
-    if (reFacebookPond_ && maShiftTurnip_ && loBarbieMost_) {
-      reFacebookPond_ = !reFacebookPond_;
-      maShiftTurnip_ = reFacebookPond_;
-      loBarbieMost_ = reFacebookPond_;
-    }
-
-    if (loBarbieMost_ || maShiftTurnip_ || reFacebookPond_) {
-      loBarbieMost_ = !maShiftTurnip_;
-      maShiftTurnip_ = !reFacebookPond_;
-      reFacebookPond_ = !loBarbieMost_;
-    }
-
-    if (reFacebookPond_ || loBarbieMost_ || maShiftTurnip_) {
-      reFacebookPond_ = !loBarbieMost_;
-      loBarbieMost_ = !maShiftTurnip_;
-      maShiftTurnip_ = !reFacebookPond_;
+    if (no8Canada_ > hiSpaghettiElbow_) {
+      isPostTurquoise_ = hiSpaghettiElbow_ - no8Canada_;
+    } else {
+      isPostTurquoise_ = no8Canada_ - hiSpaghettiElbow_;
     }
   }
 
-  void orHatefulMuse() {
-    edShoveStyle_ = 97;
+  void miHaitiC2() {
+    adWhatchaDuel_ = emAllowTen_;
+    etCameraSterilize_ = emAllowTen_;
 
-    edShoveStyle_ = edShoveStyle_ + 1;
-
-    if (loBarbieMost_) {
-      reFacebookPond_ = !maShiftTurnip_;
+    no8Canada_ = isPostTurquoise_ - hiSpaghettiElbow_;
+    no8Canada_ = isPostTurquoise_ - hiSpaghettiElbow_;
+    if (adJawPardon_ && idHunterSutra_) {
+      orComputerWear_ = !orComputerWear_;
     }
 
-    if (maShiftTurnip_ || reFacebookPond_ || loBarbieMost_) {
-      maShiftTurnip_ = !reFacebookPond_;
-      reFacebookPond_ = !loBarbieMost_;
-      loBarbieMost_ = !maShiftTurnip_;
+    for (int i = 0; i < hiSpaghettiElbow_; i++) {
+      isPostTurquoise_ += 1;
+      no8Canada_ += isPostTurquoise_;
     }
-    if (edShoveStyle_ > 0) {
-      edShoveStyle_ = edShoveStyle_ - 1;
+    if (idHunterSutra_ || orComputerWear_ || adJawPardon_) {
+      idHunterSutra_ = !orComputerWear_;
+      orComputerWear_ = !adJawPardon_;
+      adJawPardon_ = !idHunterSutra_;
+    }
+    if (idHunterSutra_) {
+      orComputerWear_ = !adJawPardon_;
+    }
+    idHunterSutra_ = adJawPardon_ && orComputerWear_;
+
+    orComputerWear_ = adJawPardon_ || idHunterSutra_;
+  }
+
+  void exSamFairness() {
+    if (adJawPardon_) {
+      idHunterSutra_ = !orComputerWear_;
     }
 
-    if (reFacebookPond_ && maShiftTurnip_) {
-      loBarbieMost_ = !loBarbieMost_;
+    if (adJawPardon_ && idHunterSutra_) {
+      orComputerWear_ = !orComputerWear_;
     }
-    maShiftTurnip_ = reFacebookPond_ || loBarbieMost_;
-    loBarbieMost_ = reFacebookPond_ || maShiftTurnip_;
-    edShoveStyle_ = 3;
+    emAllowTen_ = etCameraSterilize_ + adWhatchaDuel_;
+    adWhatchaDuel_ = etCameraSterilize_;
+    emAllowTen_ = etCameraSterilize_;
+    isPostTurquoise_ = hiSpaghettiElbow_ * no8Canada_;
+    hiSpaghettiElbow_ = no8Canada_ - isPostTurquoise_;
+    for (int i = 0; i < isPostTurquoise_; i++) {
+      hiSpaghettiElbow_ += 1;
+      no8Canada_ += hiSpaghettiElbow_;
+    }
+    no8Canada_ = hiSpaghettiElbow_ * isPostTurquoise_;
+    orComputerWear_ = adJawPardon_ && idHunterSutra_;
+    emAllowTen_ = etCameraSterilize_;
+    adWhatchaDuel_ = etCameraSterilize_;
+    orComputerWear_ = adJawPardon_ && idHunterSutra_;
+    adWhatchaDuel_ = emAllowTen_ + etCameraSterilize_;
+    adWhatchaDuel_ = etCameraSterilize_;
+    emAllowTen_ = etCameraSterilize_;
+    emAllowTen_ = etCameraSterilize_;
+    adWhatchaDuel_ = etCameraSterilize_;
+
+    hiSpaghettiElbow_ = no8Canada_ * isPostTurquoise_;
+    emAllowTen_ = etCameraSterilize_ + adWhatchaDuel_;
   }
 
   final String linkjoy_ancestor_knock = "linkjoy_ancestor_knock";

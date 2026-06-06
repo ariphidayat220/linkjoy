@@ -12,105 +12,99 @@ import 'linkjoy_fetus_foolishly_poncho_hand.dart';
 import 'linkjoy_frosty_hand.dart';
 
 class LinkjoyFrostyJulie extends Bindings {
-  int loOintmentThan_ = 0;
-  bool miMosquitoFacebook_ = false;
-  int esHeinieJohn_ = 0;
-  double woFriendsLength_ = 0.0;
-  bool orPokerFacebook_ = true;
-  bool noSweetheartSilk_ = true;
-  int okWedgeFarrah_ = 0;
-  String etPolishCite_ = "";
-  bool efFastenCreamy_ = true;
-  bool taBaseballJammies_ = false;
+  bool heOilyEmbodiment_ = true;
+  bool edPonchoPrint_ = true;
+  bool joHaitiMouse_ = false;
+  bool weBiologicalEstimate_ = false;
+  double etCocktailMamma_ = 80;
+  bool woNewsSpit_ = false;
+  bool asCoinUneven_ = false;
 
-  void mmCattleBible() {
-    for (int i = 0; i < loOintmentThan_; i++) {
-      esHeinieJohn_ += 1;
-      okWedgeFarrah_ += esHeinieJohn_;
+  void reNeighborFisher() {
+    if (etCocktailMamma_ > 0) {
+      etCocktailMamma_ = etCocktailMamma_ - 1;
     }
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    miMosquitoFacebook_ = orPokerFacebook_ && noSweetheartSilk_;
-    if (efFastenCreamy_ || orPokerFacebook_ || miMosquitoFacebook_) {
-      efFastenCreamy_ = !orPokerFacebook_;
-      orPokerFacebook_ = !miMosquitoFacebook_;
-      miMosquitoFacebook_ = !efFastenCreamy_;
-    }
-    okWedgeFarrah_ = 826;
-    loOintmentThan_ = 635;
-    esHeinieJohn_ = okWedgeFarrah_ + loOintmentThan_;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    woFriendsLength_ = woFriendsLength_ + 1;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    woFriendsLength_ = 42;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    woFriendsLength_ = 60;
-    if (efFastenCreamy_ || miMosquitoFacebook_) {
-      miMosquitoFacebook_ = !miMosquitoFacebook_;
-    }
-    woFriendsLength_ = woFriendsLength_ + 1;
-    for (int i = 0; i < esHeinieJohn_; i++) {
-      loOintmentThan_ += 1;
-      okWedgeFarrah_ += loOintmentThan_;
-    }
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    woFriendsLength_ = 50;
-    if (miMosquitoFacebook_) {
-      taBaseballJammies_ = !orPokerFacebook_;
-    }
-    etPolishCite_ = etPolishCite_.toUpperCase();
-  }
+    woNewsSpit_ = heOilyEmbodiment_ && asCoinUneven_;
+    etCocktailMamma_ = 69;
+    etCocktailMamma_ = 63;
 
-  void elHilariousGurney() {
-    okWedgeFarrah_ = loOintmentThan_ + esHeinieJohn_;
-    orPokerFacebook_ = taBaseballJammies_ && miMosquitoFacebook_;
-    efFastenCreamy_ = miMosquitoFacebook_ || taBaseballJammies_;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    woFriendsLength_ = 61;
-    miMosquitoFacebook_ = taBaseballJammies_ && orPokerFacebook_;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    if (noSweetheartSilk_ && miMosquitoFacebook_ && taBaseballJammies_) {
-      noSweetheartSilk_ = !noSweetheartSilk_;
-      miMosquitoFacebook_ = noSweetheartSilk_;
-      taBaseballJammies_ = noSweetheartSilk_;
+    etCocktailMamma_ = etCocktailMamma_ + 1;
+    etCocktailMamma_ = 68;
+
+    etCocktailMamma_ = 82;
+    if (weBiologicalEstimate_ && asCoinUneven_ && edPonchoPrint_) {
+      weBiologicalEstimate_ = !weBiologicalEstimate_;
+      asCoinUneven_ = weBiologicalEstimate_;
+      edPonchoPrint_ = weBiologicalEstimate_;
     }
   }
 
-  void siEskimoPhyllis() {
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    if (taBaseballJammies_ && efFastenCreamy_) {
-      miMosquitoFacebook_ = !miMosquitoFacebook_;
+  void ohTenVariety() {
+    etCocktailMamma_ = etCocktailMamma_ + 1;
+
+    etCocktailMamma_ = 35;
+  }
+
+  void ofHatefulDish() {
+    if (heOilyEmbodiment_ && woNewsSpit_) {
+      edPonchoPrint_ = !edPonchoPrint_;
     }
-    woFriendsLength_ = 46;
-    woFriendsLength_ = woFriendsLength_ + 1;
-    if (miMosquitoFacebook_ && efFastenCreamy_ && taBaseballJammies_) {
-      miMosquitoFacebook_ = !miMosquitoFacebook_;
-      efFastenCreamy_ = miMosquitoFacebook_;
-      taBaseballJammies_ = miMosquitoFacebook_;
+
+    if (woNewsSpit_ || joHaitiMouse_ || heOilyEmbodiment_) {
+      woNewsSpit_ = !joHaitiMouse_;
+      joHaitiMouse_ = !heOilyEmbodiment_;
+      heOilyEmbodiment_ = !woNewsSpit_;
     }
-    woFriendsLength_ = 99;
-    noSweetheartSilk_ = efFastenCreamy_ && miMosquitoFacebook_;
-    if (miMosquitoFacebook_ && taBaseballJammies_) {
-      efFastenCreamy_ = !efFastenCreamy_;
+    if (etCocktailMamma_ > 0) {
+      etCocktailMamma_ = etCocktailMamma_ - 1;
     }
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    if (taBaseballJammies_ && noSweetheartSilk_) {
-      orPokerFacebook_ = !orPokerFacebook_;
+    if (joHaitiMouse_ && edPonchoPrint_) {
+      asCoinUneven_ = !asCoinUneven_;
     }
-    if (efFastenCreamy_) {
-      miMosquitoFacebook_ = !taBaseballJammies_;
+
+    etCocktailMamma_ = 38;
+
+    etCocktailMamma_ = etCocktailMamma_ + 1;
+    if (weBiologicalEstimate_ || asCoinUneven_) {
+      asCoinUneven_ = !asCoinUneven_;
     }
-    esHeinieJohn_ = loOintmentThan_;
-    okWedgeFarrah_ = loOintmentThan_;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    loOintmentThan_ = esHeinieJohn_ + okWedgeFarrah_;
-    etPolishCite_ = etPolishCite_.toUpperCase();
-    miMosquitoFacebook_ = taBaseballJammies_ && noSweetheartSilk_;
-    taBaseballJammies_ = orPokerFacebook_ && efFastenCreamy_;
-    okWedgeFarrah_ = 29;
-    loOintmentThan_ = 818;
-    esHeinieJohn_ = okWedgeFarrah_ + loOintmentThan_;
-    loOintmentThan_ = esHeinieJohn_ - okWedgeFarrah_;
+    if (etCocktailMamma_ > 0) {
+      etCocktailMamma_ = etCocktailMamma_ - 1;
+    }
+
+    if (etCocktailMamma_ > 0) {
+      etCocktailMamma_ = etCocktailMamma_ - 1;
+    }
+    if (etCocktailMamma_ > 0) {
+      etCocktailMamma_ = etCocktailMamma_ - 1;
+    }
+    if (etCocktailMamma_ > 0) {
+      etCocktailMamma_ = etCocktailMamma_ - 1;
+    }
+
+    if (joHaitiMouse_) {
+      heOilyEmbodiment_ = !woNewsSpit_;
+    }
+  }
+
+  void itDefinitiveSwim() {
+    if (edPonchoPrint_) {
+      woNewsSpit_ = !heOilyEmbodiment_;
+    }
+
+    if (asCoinUneven_ || weBiologicalEstimate_ || heOilyEmbodiment_) {
+      asCoinUneven_ = !weBiologicalEstimate_;
+      weBiologicalEstimate_ = !heOilyEmbodiment_;
+      heOilyEmbodiment_ = !asCoinUneven_;
+    }
+    if (asCoinUneven_ && woNewsSpit_) {
+      weBiologicalEstimate_ = !weBiologicalEstimate_;
+    }
+
+    etCocktailMamma_ = 19;
+    heOilyEmbodiment_ = edPonchoPrint_ && joHaitiMouse_;
+
+    etCocktailMamma_ = 27;
   }
 
   @override

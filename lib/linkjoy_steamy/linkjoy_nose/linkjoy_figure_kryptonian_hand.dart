@@ -8,94 +8,38 @@ import 'package:get/get.dart';
 
 class LinkjoyFigureKryptonianHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool abVacuumAlvaro_ = true;
-  bool woReStay_ = true;
-  bool abNoodleTo_ = true;
-  double loCrispMorgan_ = 0.0;
-  bool omVowKing_ = false;
-  double taPhyllisPinocchio_ = 76;
+  bool loPhlegmUnit_ = false;
+  bool usCornerMassage_ = false;
+  bool etHeckEmbodiment_ = true;
+  bool atImprintBank_ = false;
 
-  void edChocolatesFarrah() {
-    woReStay_ = abVacuumAlvaro_ && omVowKing_;
+  void doSkintightBinoculars() {
+    etHeckEmbodiment_ = atImprintBank_ && loPhlegmUnit_;
+  }
 
-    abNoodleTo_ = woReStay_ && abVacuumAlvaro_;
+  void loCabinetTo() {
+    if (etHeckEmbodiment_ && usCornerMassage_ && atImprintBank_) {
+      etHeckEmbodiment_ = !etHeckEmbodiment_;
+      usCornerMassage_ = etHeckEmbodiment_;
+      atImprintBank_ = etHeckEmbodiment_;
+    }
 
-    if (loCrispMorgan_ > taPhyllisPinocchio_) {
-      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
+    if (usCornerMassage_ && etHeckEmbodiment_) {
+      atImprintBank_ = !atImprintBank_;
+    }
+
+    if (atImprintBank_ || loPhlegmUnit_ || usCornerMassage_) {
+      atImprintBank_ = !loPhlegmUnit_;
+      loPhlegmUnit_ = !usCornerMassage_;
+      usCornerMassage_ = !atImprintBank_;
+    }
+    if (atImprintBank_) {
+      loPhlegmUnit_ = !usCornerMassage_;
     }
   }
 
-  void loYumPervert() {
-    if (omVowKing_) {
-      woReStay_ = !abVacuumAlvaro_;
-    }
-    if (abNoodleTo_ && woReStay_ && omVowKing_) {
-      abNoodleTo_ = !abNoodleTo_;
-      woReStay_ = abNoodleTo_;
-      omVowKing_ = abNoodleTo_;
-    }
-
-    loCrispMorgan_ = 96;
-    taPhyllisPinocchio_ = 52;
-
-    abVacuumAlvaro_ = omVowKing_ || woReStay_;
-
-    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
-
-    woReStay_ = abVacuumAlvaro_ || omVowKing_;
-    if (loCrispMorgan_ > taPhyllisPinocchio_) {
-      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
-    }
-    loCrispMorgan_ = 5;
-    taPhyllisPinocchio_ = 98;
-
-    if (abVacuumAlvaro_ && woReStay_ && omVowKing_) {
-      abVacuumAlvaro_ = !abVacuumAlvaro_;
-      woReStay_ = abVacuumAlvaro_;
-      omVowKing_ = abVacuumAlvaro_;
-    }
-
-    woReStay_ = abNoodleTo_ && abVacuumAlvaro_;
-  }
-
-  void inPearlHow() {
-    if (woReStay_) {
-      abNoodleTo_ = !abVacuumAlvaro_;
-    }
-    if (loCrispMorgan_ > taPhyllisPinocchio_) {
-      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
-    }
-    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
-
-    loCrispMorgan_ = 0;
-    taPhyllisPinocchio_ = 55;
-
-    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
-
-    if (abVacuumAlvaro_ || woReStay_ || abNoodleTo_) {
-      abVacuumAlvaro_ = !woReStay_;
-      woReStay_ = !abNoodleTo_;
-      abNoodleTo_ = !abVacuumAlvaro_;
-    }
-    omVowKing_ = abVacuumAlvaro_ && abNoodleTo_;
-  }
-
-  void osTurnipLoan() {
-    if (woReStay_ && abNoodleTo_) {
-      abVacuumAlvaro_ = !abVacuumAlvaro_;
-    }
-
-    if (abNoodleTo_ && woReStay_ && abVacuumAlvaro_) {
-      abNoodleTo_ = !abNoodleTo_;
-      woReStay_ = abNoodleTo_;
-      abVacuumAlvaro_ = abNoodleTo_;
-    }
-
-    if (loCrispMorgan_ > taPhyllisPinocchio_) {
-      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
-    }
-
-    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
+  void mmPrintStay() {
+    usCornerMassage_ = loPhlegmUnit_ && etHeckEmbodiment_;
   }
 
   static const String linkjoy_ui = "linkjoy_guatemala_fetus";

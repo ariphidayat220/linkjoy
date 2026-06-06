@@ -9,120 +9,98 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyFigureSaverHumidifierHand extends LinkjoyMagnetHormoneHand {
-  bool myFigureSphincter_ = true;
-  String mmMerelyObsessed_ = "";
-  bool amAffordableMosquito_ = true;
-  double ahFetusPrint_ = 0.0;
-  String moSwimsuitComputer_ = "";
-  String usSillinessUptight_ = "";
-  bool soPresidentBetter_ = true;
-  bool laSoftlyAye_ = false;
-  int byDirectionFairness_ = 74;
+  bool weGuacamoleCaring_ = true;
+  bool efHarpistFourth_ = false;
+  int ohTasselSickness_ = 19;
+  int etVentImprint_ = 98;
+  bool amCaptainVow_ = true;
+  bool elPharmacistSpray_ = true;
 
-  void miJulieRe() {
-    moSwimsuitComputer_ = usSillinessUptight_;
-    mmMerelyObsessed_ = usSillinessUptight_;
-    myFigureSphincter_ = amAffordableMosquito_ || soPresidentBetter_;
-    moSwimsuitComputer_ = mmMerelyObsessed_ + usSillinessUptight_;
-    soPresidentBetter_ = laSoftlyAye_ && amAffordableMosquito_;
-    ahFetusPrint_ = 12;
-    if (ahFetusPrint_ > 0) {
-      ahFetusPrint_ = ahFetusPrint_ - 1;
+  void laPrincetonMoment() {
+    ohTasselSickness_ = 79;
+    etVentImprint_ = 71;
+    ohTasselSickness_ = ohTasselSickness_ * etVentImprint_;
+    if (elPharmacistSpray_ && efHarpistFourth_ && amCaptainVow_) {
+      elPharmacistSpray_ = !elPharmacistSpray_;
+      efHarpistFourth_ = elPharmacistSpray_;
+      amCaptainVow_ = elPharmacistSpray_;
     }
-    myFigureSphincter_ = laSoftlyAye_ && soPresidentBetter_;
-    byDirectionFairness_ = byDirectionFairness_ + 1;
-    soPresidentBetter_ = myFigureSphincter_ && laSoftlyAye_;
-    byDirectionFairness_ = 29;
-    usSillinessUptight_ = moSwimsuitComputer_ + mmMerelyObsessed_;
-    ahFetusPrint_ = ahFetusPrint_ + 1;
-    if (amAffordableMosquito_) {
-      myFigureSphincter_ = !soPresidentBetter_;
+    ohTasselSickness_ = ohTasselSickness_ * etVentImprint_;
+    ohTasselSickness_ = 43;
+    etVentImprint_ = 68;
+
+    weGuacamoleCaring_ = efHarpistFourth_ && amCaptainVow_;
+    if (amCaptainVow_ && weGuacamoleCaring_) {
+      elPharmacistSpray_ = !elPharmacistSpray_;
     }
-    byDirectionFairness_ = 81;
+
+    ohTasselSickness_ = ohTasselSickness_ * etVentImprint_;
+    if (elPharmacistSpray_ || amCaptainVow_ || efHarpistFourth_) {
+      elPharmacistSpray_ = !amCaptainVow_;
+      amCaptainVow_ = !efHarpistFourth_;
+      efHarpistFourth_ = !elPharmacistSpray_;
+    }
   }
 
-  void adGeographyScenery() {
-    if (usSillinessUptight_.length > 6) {
-      moSwimsuitComputer_ = usSillinessUptight_;
-    } else {
-      mmMerelyObsessed_ = moSwimsuitComputer_;
+  void osSisterSoda() {
+    amCaptainVow_ = elPharmacistSpray_ && efHarpistFourth_;
+    elPharmacistSpray_ = efHarpistFourth_ && weGuacamoleCaring_;
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    byDirectionFairness_ = byDirectionFairness_ + 1;
-    if (byDirectionFairness_ > 0) {
-      byDirectionFairness_ = byDirectionFairness_ - 9;
+
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    if (amAffordableMosquito_ && laSoftlyAye_ && soPresidentBetter_) {
-      amAffordableMosquito_ = !amAffordableMosquito_;
-      laSoftlyAye_ = amAffordableMosquito_;
-      soPresidentBetter_ = amAffordableMosquito_;
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    byDirectionFairness_ = byDirectionFairness_ + 1;
-    if (myFigureSphincter_ && soPresidentBetter_) {
-      laSoftlyAye_ = !laSoftlyAye_;
-    }
-    usSillinessUptight_ = mmMerelyObsessed_ + moSwimsuitComputer_;
-    mmMerelyObsessed_ = moSwimsuitComputer_ + usSillinessUptight_;
-    amAffordableMosquito_ = myFigureSphincter_ && laSoftlyAye_;
-    if (myFigureSphincter_) {
-      amAffordableMosquito_ = !soPresidentBetter_;
-    }
-    ahFetusPrint_ = 61;
+    ohTasselSickness_ = ohTasselSickness_ * etVentImprint_;
+
+    ohTasselSickness_ = 10;
+    etVentImprint_ = 51;
   }
 
-  void osInviteMain() {
-    if (soPresidentBetter_ && myFigureSphincter_ && laSoftlyAye_) {
-      soPresidentBetter_ = !soPresidentBetter_;
-      myFigureSphincter_ = soPresidentBetter_;
-      laSoftlyAye_ = soPresidentBetter_;
+  void woMeanwhileBonjour() {
+    if (weGuacamoleCaring_ && amCaptainVow_) {
+      efHarpistFourth_ = !efHarpistFourth_;
     }
-    myFigureSphincter_ = laSoftlyAye_ && amAffordableMosquito_;
-    ahFetusPrint_ = ahFetusPrint_ + 1;
-    moSwimsuitComputer_ = mmMerelyObsessed_ + usSillinessUptight_;
-    moSwimsuitComputer_ = mmMerelyObsessed_ + usSillinessUptight_;
-    moSwimsuitComputer_ = usSillinessUptight_;
-    mmMerelyObsessed_ = usSillinessUptight_;
-    mmMerelyObsessed_ = usSillinessUptight_ + moSwimsuitComputer_;
-    if (myFigureSphincter_ || soPresidentBetter_ || laSoftlyAye_) {
-      myFigureSphincter_ = !soPresidentBetter_;
-      soPresidentBetter_ = !laSoftlyAye_;
-      laSoftlyAye_ = !myFigureSphincter_;
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    usSillinessUptight_ = moSwimsuitComputer_ + mmMerelyObsessed_;
-    amAffordableMosquito_ = myFigureSphincter_ && soPresidentBetter_;
-    ahFetusPrint_ = 26;
-    if (soPresidentBetter_ && laSoftlyAye_) {
-      myFigureSphincter_ = !myFigureSphincter_;
+
+    efHarpistFourth_ = elPharmacistSpray_ && amCaptainVow_;
+
+    if (amCaptainVow_ || efHarpistFourth_) {
+      efHarpistFourth_ = !efHarpistFourth_;
     }
-    if (moSwimsuitComputer_.length > 9) {
-      usSillinessUptight_ = moSwimsuitComputer_;
-    } else {
-      mmMerelyObsessed_ = usSillinessUptight_;
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    usSillinessUptight_ = moSwimsuitComputer_ + mmMerelyObsessed_;
-    ahFetusPrint_ = ahFetusPrint_ + 1;
-    byDirectionFairness_ = 85;
-    usSillinessUptight_ = moSwimsuitComputer_ + mmMerelyObsessed_;
-    if (laSoftlyAye_ || soPresidentBetter_ || amAffordableMosquito_) {
-      laSoftlyAye_ = !soPresidentBetter_;
-      soPresidentBetter_ = !amAffordableMosquito_;
-      amAffordableMosquito_ = !laSoftlyAye_;
-    }
-    byDirectionFairness_ = 47;
   }
 
-  void siTributeSoftly() {
-    moSwimsuitComputer_ = mmMerelyObsessed_;
-    usSillinessUptight_ = mmMerelyObsessed_;
-    byDirectionFairness_ = 64;
-    mmMerelyObsessed_ = moSwimsuitComputer_ + usSillinessUptight_;
-    if (ahFetusPrint_ > 0) {
-      ahFetusPrint_ = ahFetusPrint_ - 1;
+  void omStrapDwarf() {
+    elPharmacistSpray_ = amCaptainVow_ || weGuacamoleCaring_;
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    byDirectionFairness_ = 52;
-    if (soPresidentBetter_ && laSoftlyAye_) {
-      amAffordableMosquito_ = !amAffordableMosquito_;
+
+    if (ohTasselSickness_ > etVentImprint_) {
+      ohTasselSickness_ = ohTasselSickness_ + etVentImprint_;
     }
-    usSillinessUptight_ = moSwimsuitComputer_ + mmMerelyObsessed_;
+    if (efHarpistFourth_ || amCaptainVow_) {
+      amCaptainVow_ = !amCaptainVow_;
+    }
+
+    ohTasselSickness_ = 1;
+    etVentImprint_ = 57;
+
+    amCaptainVow_ = elPharmacistSpray_ && weGuacamoleCaring_;
+    if (weGuacamoleCaring_ || efHarpistFourth_) {
+      efHarpistFourth_ = !efHarpistFourth_;
+    }
+    ohTasselSickness_ = ohTasselSickness_ * etVentImprint_;
+    efHarpistFourth_ = weGuacamoleCaring_ || elPharmacistSpray_;
   }
 
   static const String linkjoy_division = "linkjoy_division";

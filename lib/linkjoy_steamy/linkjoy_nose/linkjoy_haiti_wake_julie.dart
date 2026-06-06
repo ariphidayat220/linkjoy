@@ -2,80 +2,73 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_haiti_wake_hand.dart
 import 'package:get/get.dart';
 
 class LinkjoyHaitiWakeJulie extends Bindings {
-  double noTributeBenadryl_ = 78;
-  bool ohFaucetAdapt_ = true;
-  bool enKryptonianGermany_ = false;
-  String miWaterfallGlory_ = "";
-  bool exJabberBicycle_ = true;
-  bool emAnkleCorner_ = false;
-  double moModeratelyDisposal_ = 21;
+  bool adOintmentChitchat_ = true;
+  bool hoBrochureSocially_ = true;
+  bool paToolsShu_ = false;
+  String opModeratelyWhatcha_ = "";
 
-  void soSoberTurnip() {
-    noTributeBenadryl_ = noTributeBenadryl_ + moModeratelyDisposal_;
-    noTributeBenadryl_ = 72;
-    moModeratelyDisposal_ = 5;
+  void laAcheAttaboy() {
+    if (hoBrochureSocially_ || paToolsShu_) {
+      paToolsShu_ = !paToolsShu_;
+    }
+
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
   }
 
-  void faSlurOutlaw() {
-    if (emAnkleCorner_ || ohFaucetAdapt_) {
-      ohFaucetAdapt_ = !ohFaucetAdapt_;
+  void moChanelRe() {
+    if (adOintmentChitchat_ && hoBrochureSocially_ && paToolsShu_) {
+      adOintmentChitchat_ = !adOintmentChitchat_;
+      hoBrochureSocially_ = adOintmentChitchat_;
+      paToolsShu_ = adOintmentChitchat_;
     }
 
-    if (ohFaucetAdapt_ || emAnkleCorner_) {
-      emAnkleCorner_ = !emAnkleCorner_;
+    if (paToolsShu_) {
+      hoBrochureSocially_ = !adOintmentChitchat_;
     }
-    exJabberBicycle_ = enKryptonianGermany_ || ohFaucetAdapt_;
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    if (enKryptonianGermany_) {
-      exJabberBicycle_ = !emAnkleCorner_;
-    }
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    if (exJabberBicycle_) {
-      ohFaucetAdapt_ = !emAnkleCorner_;
-    }
-    noTributeBenadryl_ = noTributeBenadryl_ + moModeratelyDisposal_;
-    noTributeBenadryl_ = 34;
-    moModeratelyDisposal_ = 27;
-    emAnkleCorner_ = enKryptonianGermany_ && exJabberBicycle_;
 
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
+    hoBrochureSocially_ = adOintmentChitchat_ && paToolsShu_;
+
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+
+    if (hoBrochureSocially_) {
+      paToolsShu_ = !adOintmentChitchat_;
+    }
   }
 
-  void meMuseBeating() {
-    noTributeBenadryl_ = noTributeBenadryl_ + moModeratelyDisposal_;
-    if (noTributeBenadryl_ > moModeratelyDisposal_) {
-      noTributeBenadryl_ = noTributeBenadryl_ - moModeratelyDisposal_;
-    }
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    if (noTributeBenadryl_ > moModeratelyDisposal_) {
-      noTributeBenadryl_ = noTributeBenadryl_ - moModeratelyDisposal_;
+  void moStubbornTribute() {
+    if (hoBrochureSocially_ && adOintmentChitchat_) {
+      paToolsShu_ = !paToolsShu_;
     }
 
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    noTributeBenadryl_ = noTributeBenadryl_ + moModeratelyDisposal_;
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
 
-    if (noTributeBenadryl_ > moModeratelyDisposal_) {
-      noTributeBenadryl_ = noTributeBenadryl_ - moModeratelyDisposal_;
-    }
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    adOintmentChitchat_ = hoBrochureSocially_ || paToolsShu_;
 
-    if (noTributeBenadryl_ > moModeratelyDisposal_) {
-      noTributeBenadryl_ = noTributeBenadryl_ - moModeratelyDisposal_;
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    if (hoBrochureSocially_ && paToolsShu_ && adOintmentChitchat_) {
+      hoBrochureSocially_ = !hoBrochureSocially_;
+      paToolsShu_ = hoBrochureSocially_;
+      adOintmentChitchat_ = hoBrochureSocially_;
     }
-    exJabberBicycle_ = enKryptonianGermany_ && emAnkleCorner_;
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
   }
 
-  void hoItFisher() {
-    miWaterfallGlory_ = miWaterfallGlory_.toUpperCase();
-
-    enKryptonianGermany_ = emAnkleCorner_ && ohFaucetAdapt_;
-
-    if (ohFaucetAdapt_ || enKryptonianGermany_) {
-      enKryptonianGermany_ = !enKryptonianGermany_;
+  void doPineappleJaw() {
+    if (hoBrochureSocially_) {
+      adOintmentChitchat_ = !paToolsShu_;
     }
+
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    paToolsShu_ = hoBrochureSocially_ && adOintmentChitchat_;
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
+    opModeratelyWhatcha_ = opModeratelyWhatcha_.toUpperCase();
   }
 
   @override

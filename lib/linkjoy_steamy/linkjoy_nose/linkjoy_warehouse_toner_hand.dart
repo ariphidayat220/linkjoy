@@ -8,84 +8,109 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone
 import 'package:get/get.dart';
 
 class LinkjoyWarehouseTonerHand extends LinkjoyMagnetHormoneHand {
-  bool enFinancialPoker_ = false;
-  bool hiCaesarGenetic_ = false;
-  String soSakeSoftener_ = "";
-  String aySlateVulnerable_ = "";
-  bool maSupercoolNibble_ = false;
-  bool usCocktailStab_ = false;
-  String ifMiladyChauffeur_ = "";
-  bool isPublicData_ = true;
+  int elBasketballPersonally_ = 94;
+  bool adHumidityOops_ = false;
+  bool doDuelSqueaky_ = true;
+  bool heHorsIncense_ = false;
+  bool esMonicaHeinie_ = false;
+  bool paFlakyPopsicle_ = false;
+  double ifDerailAndrew_ = 0.0;
 
-  void elCarefreeDwarf() {
-    maSupercoolNibble_ = usCocktailStab_ && isPublicData_;
-    if (aySlateVulnerable_.length > 8) {
-      soSakeSoftener_ = aySlateVulnerable_;
-    } else {
-      ifMiladyChauffeur_ = soSakeSoftener_;
+  void myCampGil() {
+    if (doDuelSqueaky_) {
+      paFlakyPopsicle_ = !esMonicaHeinie_;
     }
-    aySlateVulnerable_ = ifMiladyChauffeur_;
-    soSakeSoftener_ = aySlateVulnerable_;
-    ifMiladyChauffeur_ = soSakeSoftener_;
-    soSakeSoftener_ = aySlateVulnerable_;
-    ifMiladyChauffeur_ = soSakeSoftener_;
-    aySlateVulnerable_ = ifMiladyChauffeur_;
-    usCocktailStab_ = maSupercoolNibble_ && enFinancialPoker_;
-    ifMiladyChauffeur_ = soSakeSoftener_ + aySlateVulnerable_;
-    if (enFinancialPoker_ && isPublicData_) {
-      maSupercoolNibble_ = !maSupercoolNibble_;
+    ifDerailAndrew_ = ifDerailAndrew_ + 1;
+    elBasketballPersonally_ = elBasketballPersonally_ + 1;
+    if (doDuelSqueaky_ || paFlakyPopsicle_ || adHumidityOops_) {
+      doDuelSqueaky_ = !paFlakyPopsicle_;
+      paFlakyPopsicle_ = !adHumidityOops_;
+      adHumidityOops_ = !doDuelSqueaky_;
+    }
+    if (elBasketballPersonally_ > 0) {
+      elBasketballPersonally_ = elBasketballPersonally_ - 7;
     }
 
-    aySlateVulnerable_ = ifMiladyChauffeur_;
-    soSakeSoftener_ = aySlateVulnerable_;
-    ifMiladyChauffeur_ = soSakeSoftener_;
+    elBasketballPersonally_ = 48;
+    ifDerailAndrew_ = ifDerailAndrew_ + 1;
+    paFlakyPopsicle_ = heHorsIncense_ && esMonicaHeinie_;
+    ifDerailAndrew_ = ifDerailAndrew_ + 1;
+    heHorsIncense_ = adHumidityOops_ || esMonicaHeinie_;
 
-    if (enFinancialPoker_ || maSupercoolNibble_ || isPublicData_) {
-      enFinancialPoker_ = !maSupercoolNibble_;
-      maSupercoolNibble_ = !isPublicData_;
-      isPublicData_ = !enFinancialPoker_;
+    ifDerailAndrew_ = ifDerailAndrew_ + 1;
+    if (elBasketballPersonally_ > 0) {
+      elBasketballPersonally_ = elBasketballPersonally_ - 2;
     }
-    soSakeSoftener_ = ifMiladyChauffeur_ + aySlateVulnerable_;
-    maSupercoolNibble_ = usCocktailStab_ || hiCaesarGenetic_;
+    if (paFlakyPopsicle_ || heHorsIncense_ || doDuelSqueaky_) {
+      paFlakyPopsicle_ = !heHorsIncense_;
+      heHorsIncense_ = !doDuelSqueaky_;
+      doDuelSqueaky_ = !paFlakyPopsicle_;
+    }
+    if (esMonicaHeinie_) {
+      adHumidityOops_ = !heHorsIncense_;
+    }
   }
 
-  void inNumbHors() {
-    ifMiladyChauffeur_ = soSakeSoftener_ + aySlateVulnerable_;
-    hiCaesarGenetic_ = maSupercoolNibble_ || enFinancialPoker_;
-    if (enFinancialPoker_ && usCocktailStab_) {
-      hiCaesarGenetic_ = !hiCaesarGenetic_;
-    }
-    if (usCocktailStab_ || enFinancialPoker_ || hiCaesarGenetic_) {
-      usCocktailStab_ = !enFinancialPoker_;
-      enFinancialPoker_ = !hiCaesarGenetic_;
-      hiCaesarGenetic_ = !usCocktailStab_;
+  void orSeasickDeposit() {
+    if (paFlakyPopsicle_) {
+      adHumidityOops_ = !esMonicaHeinie_;
     }
 
-    ifMiladyChauffeur_ = aySlateVulnerable_;
-    soSakeSoftener_ = ifMiladyChauffeur_;
-    aySlateVulnerable_ = soSakeSoftener_;
+    elBasketballPersonally_ = 49;
 
-    aySlateVulnerable_ = ifMiladyChauffeur_ + soSakeSoftener_;
+    if (elBasketballPersonally_ > 0) {
+      elBasketballPersonally_ = elBasketballPersonally_ - 6;
+    }
+    if (elBasketballPersonally_ > 0) {
+      elBasketballPersonally_ = elBasketballPersonally_ - 7;
+    }
+
+    if (doDuelSqueaky_ && adHumidityOops_ && paFlakyPopsicle_) {
+      doDuelSqueaky_ = !doDuelSqueaky_;
+      adHumidityOops_ = doDuelSqueaky_;
+      paFlakyPopsicle_ = doDuelSqueaky_;
+    }
+
+    if (elBasketballPersonally_ > 0) {
+      elBasketballPersonally_ = elBasketballPersonally_ - 6;
+    }
+    if (paFlakyPopsicle_ || heHorsIncense_ || doDuelSqueaky_) {
+      paFlakyPopsicle_ = !heHorsIncense_;
+      heHorsIncense_ = !doDuelSqueaky_;
+      doDuelSqueaky_ = !paFlakyPopsicle_;
+    }
+    elBasketballPersonally_ = elBasketballPersonally_ + 1;
   }
 
-  void abLapBg() {
-    if (maSupercoolNibble_ || isPublicData_ || hiCaesarGenetic_) {
-      maSupercoolNibble_ = !isPublicData_;
-      isPublicData_ = !hiCaesarGenetic_;
-      hiCaesarGenetic_ = !maSupercoolNibble_;
+  void weUnlockHomeland() {
+    if (esMonicaHeinie_) {
+      heHorsIncense_ = !adHumidityOops_;
     }
-    if (aySlateVulnerable_.length > 8) {
-      soSakeSoftener_ = aySlateVulnerable_;
-    } else {
-      ifMiladyChauffeur_ = soSakeSoftener_;
-    }
-    maSupercoolNibble_ = isPublicData_ && enFinancialPoker_;
 
-    if (hiCaesarGenetic_ || usCocktailStab_ || maSupercoolNibble_) {
-      hiCaesarGenetic_ = !usCocktailStab_;
-      usCocktailStab_ = !maSupercoolNibble_;
-      maSupercoolNibble_ = !hiCaesarGenetic_;
+    if (adHumidityOops_ || heHorsIncense_) {
+      heHorsIncense_ = !heHorsIncense_;
     }
+    if (adHumidityOops_ && esMonicaHeinie_ && doDuelSqueaky_) {
+      adHumidityOops_ = !adHumidityOops_;
+      esMonicaHeinie_ = adHumidityOops_;
+      doDuelSqueaky_ = adHumidityOops_;
+    }
+    if (paFlakyPopsicle_) {
+      esMonicaHeinie_ = !adHumidityOops_;
+    }
+    if (ifDerailAndrew_ > 0) {
+      ifDerailAndrew_ = ifDerailAndrew_ - 1;
+    }
+
+    ifDerailAndrew_ = 77;
+    if (ifDerailAndrew_ > 0) {
+      ifDerailAndrew_ = ifDerailAndrew_ - 1;
+    }
+    doDuelSqueaky_ = adHumidityOops_ && esMonicaHeinie_;
+    esMonicaHeinie_ = adHumidityOops_ && heHorsIncense_;
+    esMonicaHeinie_ = adHumidityOops_ && doDuelSqueaky_;
+
+    elBasketballPersonally_ = elBasketballPersonally_ + 1;
   }
 
   @override

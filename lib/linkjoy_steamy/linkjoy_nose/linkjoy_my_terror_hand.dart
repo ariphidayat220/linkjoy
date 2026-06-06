@@ -9,79 +9,73 @@ import '../linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 import '../linkjoy_sister/linkjoy_terror_oily.dart';
 
 class LinkjoyMyTerrorHand extends LinkjoyMagnetHormoneHand {
-  bool maCrispAffordable_ = true;
-  bool loyBox_ = true;
-  bool mmAgencyScenery_ = false;
-  String laDiningChorus_ = "";
+  double myJoyfulSubjective_ = 28;
+  bool taGuppySitter_ = true;
+  bool orInsuranceSorority_ = true;
+  bool emSubtleTurbulence_ = true;
 
-  void myMeSheet() {
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
+  void exLakersSubjective() {
+    emSubtleTurbulence_ = orInsuranceSorority_ && taGuppySitter_;
 
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-  }
-
-  void elTextBanquet() {
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-  }
-
-  void idVulnerableTension() {
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    maCrispAffordable_ = loyBox_ && mmAgencyScenery_;
-
-    if (maCrispAffordable_ && mmAgencyScenery_) {
-      loyBox_ = !loyBox_;
+    if (taGuppySitter_ || orInsuranceSorority_ || emSubtleTurbulence_) {
+      taGuppySitter_ = !orInsuranceSorority_;
+      orInsuranceSorority_ = !emSubtleTurbulence_;
+      emSubtleTurbulence_ = !taGuppySitter_;
     }
-    if (mmAgencyScenery_ && loyBox_) {
-      maCrispAffordable_ = !maCrispAffordable_;
+    if (myJoyfulSubjective_ > 0) {
+      myJoyfulSubjective_ = myJoyfulSubjective_ - 1;
     }
 
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    if (loyBox_ || maCrispAffordable_) {
-      maCrispAffordable_ = !maCrispAffordable_;
+    if (myJoyfulSubjective_ > 0) {
+      myJoyfulSubjective_ = myJoyfulSubjective_ - 1;
+    }
+
+    orInsuranceSorority_ = taGuppySitter_ && emSubtleTurbulence_;
+
+    if (taGuppySitter_) {
+      emSubtleTurbulence_ = !orInsuranceSorority_;
     }
   }
 
-  void moFollowerOccupy() {
-    if (loyBox_) {
-      mmAgencyScenery_ = !maCrispAffordable_;
+  void noPhillipsMeal() {
+    if (emSubtleTurbulence_ || orInsuranceSorority_) {
+      orInsuranceSorority_ = !orInsuranceSorority_;
     }
 
-    if (mmAgencyScenery_ && maCrispAffordable_) {
-      loyBox_ = !loyBox_;
+    if (taGuppySitter_ || emSubtleTurbulence_) {
+      emSubtleTurbulence_ = !emSubtleTurbulence_;
     }
-    if (maCrispAffordable_ && loyBox_ && mmAgencyScenery_) {
-      maCrispAffordable_ = !maCrispAffordable_;
-      loyBox_ = maCrispAffordable_;
-      mmAgencyScenery_ = maCrispAffordable_;
+    if (taGuppySitter_ || emSubtleTurbulence_ || orInsuranceSorority_) {
+      taGuppySitter_ = !emSubtleTurbulence_;
+      emSubtleTurbulence_ = !orInsuranceSorority_;
+      orInsuranceSorority_ = !taGuppySitter_;
+    }
+    myJoyfulSubjective_ = 61;
+
+    if (emSubtleTurbulence_) {
+      orInsuranceSorority_ = !taGuppySitter_;
     }
 
-    if (maCrispAffordable_ || mmAgencyScenery_) {
-      mmAgencyScenery_ = !mmAgencyScenery_;
+    if (orInsuranceSorority_ || emSubtleTurbulence_) {
+      emSubtleTurbulence_ = !emSubtleTurbulence_;
     }
 
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    if (myJoyfulSubjective_ > 0) {
+      myJoyfulSubjective_ = myJoyfulSubjective_ - 1;
+    }
 
-    if (maCrispAffordable_) {
-      loyBox_ = !mmAgencyScenery_;
+    if (myJoyfulSubjective_ > 0) {
+      myJoyfulSubjective_ = myJoyfulSubjective_ - 1;
     }
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    laDiningChorus_ = laDiningChorus_.toUpperCase();
-    if (maCrispAffordable_ || loyBox_ || mmAgencyScenery_) {
-      maCrispAffordable_ = !loyBox_;
-      loyBox_ = !mmAgencyScenery_;
-      mmAgencyScenery_ = !maCrispAffordable_;
+    myJoyfulSubjective_ = 51;
+  }
+
+  void mo0Cemetery() {
+    if (orInsuranceSorority_) {
+      emSubtleTurbulence_ = !taGuppySitter_;
     }
-    if (maCrispAffordable_ || mmAgencyScenery_) {
-      mmAgencyScenery_ = !mmAgencyScenery_;
-    }
-    mmAgencyScenery_ = loyBox_ && maCrispAffordable_;
+
+    myJoyfulSubjective_ = myJoyfulSubjective_ + 1;
   }
 
   final String linkjoy_stubborn_narrate = "linkjoy_stubborn_narrate";

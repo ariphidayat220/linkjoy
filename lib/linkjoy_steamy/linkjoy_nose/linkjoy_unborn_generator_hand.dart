@@ -5,73 +5,121 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_invite_vulcan_n
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
 class LinkjoyUnbornGeneratorHand extends LinkjoyMagnetHormoneHand {
-  bool amHowCircus_ = false;
-  bool abBgChipmunk_ = true;
-  double meKimIn_ = 0.0;
-  double owFigure3_ = 26;
-  bool enScratcherIndustrial_ = false;
-  bool itHandshakeFruit_ = true;
+  bool meiDeliver_ = true;
+  double isLennyCalshoptv_ = 4;
+  bool siPlayBut_ = false;
+  String meH3Lenny_ = "";
+  bool anBloomerSoftly_ = true;
+  bool owDribbleBarbie_ = true;
+  bool meSobFinding_ = false;
+  bool paThanGreen_ = true;
+  int faVwPerv_ = 0;
+  int ayFondnessSeasick_ = 0;
 
-  void siPatentMozzarella() {
-    if (amHowCircus_ || enScratcherIndustrial_ || abBgChipmunk_) {
-      amHowCircus_ = !enScratcherIndustrial_;
-      enScratcherIndustrial_ = !abBgChipmunk_;
-      abBgChipmunk_ = !amHowCircus_;
+  void adPhlegmBreeze() {
+    paThanGreen_ = meSobFinding_ && owDribbleBarbie_;
+    faVwPerv_ = faVwPerv_ * ayFondnessSeasick_;
+    meH3Lenny_ = meH3Lenny_.toUpperCase();
+    faVwPerv_ = faVwPerv_ * ayFondnessSeasick_;
+    if (meSobFinding_) {
+      paThanGreen_ = !anBloomerSoftly_;
     }
-
-    amHowCircus_ = itHandshakeFruit_ && enScratcherIndustrial_;
-    meKimIn_ = 38;
-    owFigure3_ = 81;
-
-    abBgChipmunk_ = enScratcherIndustrial_ && itHandshakeFruit_;
+    meH3Lenny_ = meH3Lenny_.toUpperCase();
+    meH3Lenny_ = meH3Lenny_.toUpperCase();
+    meH3Lenny_ = meH3Lenny_.toUpperCase();
+    faVwPerv_ = 37;
+    ayFondnessSeasick_ = 99;
+    meSobFinding_ = paThanGreen_ || siPlayBut_;
+    if (faVwPerv_ > ayFondnessSeasick_) {
+      faVwPerv_ = faVwPerv_ + ayFondnessSeasick_;
+    }
+    if (faVwPerv_ > ayFondnessSeasick_) {
+      faVwPerv_ = faVwPerv_ + ayFondnessSeasick_;
+    }
+    if (meSobFinding_ || siPlayBut_ || paThanGreen_) {
+      meSobFinding_ = !siPlayBut_;
+      siPlayBut_ = !paThanGreen_;
+      paThanGreen_ = !meSobFinding_;
+    }
+    if (anBloomerSoftly_ || meSobFinding_ || siPlayBut_) {
+      anBloomerSoftly_ = !meSobFinding_;
+      meSobFinding_ = !siPlayBut_;
+      siPlayBut_ = !anBloomerSoftly_;
+    }
+    faVwPerv_ = faVwPerv_ * ayFondnessSeasick_;
+    if (anBloomerSoftly_ || owDribbleBarbie_ || paThanGreen_) {
+      anBloomerSoftly_ = !owDribbleBarbie_;
+      owDribbleBarbie_ = !paThanGreen_;
+      paThanGreen_ = !anBloomerSoftly_;
+    }
+    if (siPlayBut_ || paThanGreen_ || owDribbleBarbie_) {
+      siPlayBut_ = !paThanGreen_;
+      paThanGreen_ = !owDribbleBarbie_;
+      owDribbleBarbie_ = !siPlayBut_;
+    }
   }
 
-  void paSpecialtyDirection() {
-    itHandshakeFruit_ = enScratcherIndustrial_ && amHowCircus_;
-
-    if (itHandshakeFruit_ || abBgChipmunk_ || amHowCircus_) {
-      itHandshakeFruit_ = !abBgChipmunk_;
-      abBgChipmunk_ = !amHowCircus_;
-      amHowCircus_ = !itHandshakeFruit_;
+  void opMysteriousToner() {
+    faVwPerv_ = 49;
+    ayFondnessSeasick_ = 78;
+    isLennyCalshoptv_ = isLennyCalshoptv_ + 1;
+    if (siPlayBut_ && anBloomerSoftly_ && owDribbleBarbie_) {
+      siPlayBut_ = !siPlayBut_;
+      anBloomerSoftly_ = siPlayBut_;
+      owDribbleBarbie_ = siPlayBut_;
     }
-
-    if (amHowCircus_) {
-      abBgChipmunk_ = !enScratcherIndustrial_;
+    isLennyCalshoptv_ = isLennyCalshoptv_ + 1;
+    isLennyCalshoptv_ = 22;
+    if (isLennyCalshoptv_ > 0) {
+      isLennyCalshoptv_ = isLennyCalshoptv_ - 1;
     }
-
-    meKimIn_ = meKimIn_ + owFigure3_;
-
-    if (abBgChipmunk_ || amHowCircus_) {
-      amHowCircus_ = !amHowCircus_;
+    meH3Lenny_ = meH3Lenny_.toUpperCase();
+    if (meiDeliver_ || meSobFinding_ || siPlayBut_) {
+      meiDeliver_ = !meSobFinding_;
+      meSobFinding_ = !siPlayBut_;
+      siPlayBut_ = !meiDeliver_;
     }
-    meKimIn_ = 59;
-    owFigure3_ = 31;
+    if (isLennyCalshoptv_ > 0) {
+      isLennyCalshoptv_ = isLennyCalshoptv_ - 1;
+    }
+    if (isLennyCalshoptv_ > 0) {
+      isLennyCalshoptv_ = isLennyCalshoptv_ - 1;
+    }
+    isLennyCalshoptv_ = 53;
+    if (isLennyCalshoptv_ > 0) {
+      isLennyCalshoptv_ = isLennyCalshoptv_ - 1;
+    }
   }
 
-  void heBaywatchCassie() {
-    meKimIn_ = 2;
-    owFigure3_ = 77;
-
-    meKimIn_ = 71;
-    owFigure3_ = 85;
-
-    meKimIn_ = meKimIn_ + owFigure3_;
-
-    meKimIn_ = meKimIn_ + owFigure3_;
-
-    meKimIn_ = 98;
-    owFigure3_ = 7;
-  }
-
-  void mmDolphinsThy() {
-    if (amHowCircus_ && enScratcherIndustrial_ && itHandshakeFruit_) {
-      amHowCircus_ = !amHowCircus_;
-      enScratcherIndustrial_ = amHowCircus_;
-      itHandshakeFruit_ = amHowCircus_;
+  void beElevateGermany() {
+    if (meiDeliver_ || anBloomerSoftly_) {
+      anBloomerSoftly_ = !anBloomerSoftly_;
     }
-    if (enScratcherIndustrial_) {
-      amHowCircus_ = !itHandshakeFruit_;
+    if (faVwPerv_ > ayFondnessSeasick_) {
+      faVwPerv_ = faVwPerv_ + ayFondnessSeasick_;
     }
+    if (isLennyCalshoptv_ > 0) {
+      isLennyCalshoptv_ = isLennyCalshoptv_ - 1;
+    }
+    isLennyCalshoptv_ = 75;
+    isLennyCalshoptv_ = isLennyCalshoptv_ + 1;
+    isLennyCalshoptv_ = 31;
+    faVwPerv_ = faVwPerv_ * ayFondnessSeasick_;
+    siPlayBut_ = meSobFinding_ || meiDeliver_;
+    meH3Lenny_ = meH3Lenny_.toUpperCase();
+    if (anBloomerSoftly_ && meiDeliver_ && meSobFinding_) {
+      anBloomerSoftly_ = !anBloomerSoftly_;
+      meiDeliver_ = anBloomerSoftly_;
+      meSobFinding_ = anBloomerSoftly_;
+    }
+    if (faVwPerv_ > ayFondnessSeasick_) {
+      faVwPerv_ = faVwPerv_ + ayFondnessSeasick_;
+    }
+    isLennyCalshoptv_ = isLennyCalshoptv_ + 1;
+    owDribbleBarbie_ = meSobFinding_ && siPlayBut_;
+    faVwPerv_ = 94;
+    ayFondnessSeasick_ = 77;
+    isLennyCalshoptv_ = isLennyCalshoptv_ + 1;
   }
 
   LinkjoyGeneratorViciousFat? data;

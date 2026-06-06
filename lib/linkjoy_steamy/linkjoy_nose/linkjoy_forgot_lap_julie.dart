@@ -3,49 +3,75 @@ import 'package:get/get.dart';
 import 'linkjoy_forgot_lap_hand.dart';
 
 class LinkjoyForgotLapJulie extends Bindings {
-  bool ayLavenderSupercool_ = false;
-  bool odFacebookImpart_ = true;
-  int hiDeliverOrgan_ = 20;
-  bool osHeadlineAye_ = false;
+  bool noShrinkJuice_ = true;
+  bool efH2Subtle_ = true;
+  double laPatentPerv_ = 0.0;
+  bool soBidVw_ = true;
 
-  void myHehMissile() {
-    hiDeliverOrgan_ = 6;
-
-    if (hiDeliverOrgan_ > 0) {
-      hiDeliverOrgan_ = hiDeliverOrgan_ - 1;
+  void exEskimoDisposal() {
+    if (efH2Subtle_) {
+      noShrinkJuice_ = !soBidVw_;
     }
 
-    if (ayLavenderSupercool_ || osHeadlineAye_ || odFacebookImpart_) {
-      ayLavenderSupercool_ = !osHeadlineAye_;
-      osHeadlineAye_ = !odFacebookImpart_;
-      odFacebookImpart_ = !ayLavenderSupercool_;
+    laPatentPerv_ = laPatentPerv_ + 1;
+    if (laPatentPerv_ > 0) {
+      laPatentPerv_ = laPatentPerv_ - 1;
     }
-
-    if (ayLavenderSupercool_ && odFacebookImpart_) {
-      osHeadlineAye_ = !osHeadlineAye_;
+    if (efH2Subtle_ || noShrinkJuice_) {
+      noShrinkJuice_ = !noShrinkJuice_;
     }
   }
 
-  void bySoberPervert() {
-    hiDeliverOrgan_ = hiDeliverOrgan_ + 1;
-    hiDeliverOrgan_ = 60;
-
-    if (hiDeliverOrgan_ > 0) {
-      hiDeliverOrgan_ = hiDeliverOrgan_ - 3;
+  void ofCornerHappily() {
+    if (noShrinkJuice_ || efH2Subtle_ || soBidVw_) {
+      noShrinkJuice_ = !efH2Subtle_;
+      efH2Subtle_ = !soBidVw_;
+      soBidVw_ = !noShrinkJuice_;
     }
 
-    odFacebookImpart_ = osHeadlineAye_ && ayLavenderSupercool_;
+    efH2Subtle_ = noShrinkJuice_ && soBidVw_;
+    if (noShrinkJuice_ && efH2Subtle_) {
+      soBidVw_ = !soBidVw_;
+    }
   }
 
-  void haPebbleLawn() {
-    hiDeliverOrgan_ = 12;
-    if (osHeadlineAye_ || odFacebookImpart_) {
-      odFacebookImpart_ = !odFacebookImpart_;
+  void abSphincterFacebook() {
+    noShrinkJuice_ = efH2Subtle_ && soBidVw_;
+
+    efH2Subtle_ = soBidVw_ && noShrinkJuice_;
+
+    laPatentPerv_ = 20;
+    noShrinkJuice_ = efH2Subtle_ || soBidVw_;
+    efH2Subtle_ = noShrinkJuice_ || soBidVw_;
+    soBidVw_ = efH2Subtle_ && noShrinkJuice_;
+    laPatentPerv_ = 71;
+
+    if (soBidVw_ && noShrinkJuice_ && efH2Subtle_) {
+      soBidVw_ = !soBidVw_;
+      noShrinkJuice_ = soBidVw_;
+      efH2Subtle_ = soBidVw_;
+    }
+  }
+
+  void amMiladyConclusive() {
+    if (soBidVw_ || efH2Subtle_) {
+      efH2Subtle_ = !efH2Subtle_;
     }
 
-    if (ayLavenderSupercool_) {
-      osHeadlineAye_ = !odFacebookImpart_;
+    laPatentPerv_ = laPatentPerv_ + 1;
+
+    laPatentPerv_ = laPatentPerv_ + 1;
+    if (soBidVw_ && noShrinkJuice_ && efH2Subtle_) {
+      soBidVw_ = !soBidVw_;
+      noShrinkJuice_ = soBidVw_;
+      efH2Subtle_ = soBidVw_;
     }
+    if (noShrinkJuice_ && soBidVw_ && efH2Subtle_) {
+      noShrinkJuice_ = !noShrinkJuice_;
+      soBidVw_ = noShrinkJuice_;
+      efH2Subtle_ = noShrinkJuice_;
+    }
+    laPatentPerv_ = 68;
   }
 
   @override

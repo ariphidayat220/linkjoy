@@ -17,117 +17,63 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_quieter/linkjoy_fridge_phillips_h
 import 'package:get/get.dart';
 
 class LinkjoyPhillipsFailHand extends LinkjoyMagnetHormoneHand {
-  double emFacebookAssume_ = 95;
-  int moTurquoiseNoodle_ = 0;
-  int loOopsTorment_ = 0;
-  bool orTacoTalented_ = false;
-  bool omOutlawCrisp_ = true;
-  bool amMainButcher_ = true;
-  double oxMagazineSutra_ = 94;
-  bool anDollMediocre_ = false;
-  int joKnockAttaboy_ = 51;
+  double noTurbulenceIn_ = 0.0;
+  double ohNelsonSmear_ = 35;
+  bool ayGoddessMost_ = false;
+  bool heThankfullyDig_ = false;
+  bool ah3Crawford_ = false;
+  bool edSinusDiscipline_ = false;
+  bool exJonesAsset_ = true;
+  double elVentCupid_ = 56;
+  bool meEstimateGet_ = false;
+  double ifSchoolSpace_ = 87;
 
-  void usSprayFriends() {
-    if (emFacebookAssume_ > oxMagazineSutra_) {
-      emFacebookAssume_ = emFacebookAssume_ - oxMagazineSutra_;
+  void ohCeleryVw() {
+    for (int i = 0; i < ohNelsonSmear_; i++) {
+      noTurbulenceIn_ += 1;
+      elVentCupid_ += noTurbulenceIn_;
     }
-    emFacebookAssume_ = emFacebookAssume_ + oxMagazineSutra_;
-    loOopsTorment_ = moTurquoiseNoodle_ * joKnockAttaboy_;
-    emFacebookAssume_ = emFacebookAssume_ + oxMagazineSutra_;
-
-    emFacebookAssume_ = 5;
-    oxMagazineSutra_ = 34;
-  }
-
-  void oxCanadaHey() {
-    if (emFacebookAssume_ > oxMagazineSutra_) {
-      emFacebookAssume_ = emFacebookAssume_ - oxMagazineSutra_;
+    meEstimateGet_ = ayGoddessMost_ && heThankfullyDig_;
+    if (ah3Crawford_ || exJonesAsset_ || edSinusDiscipline_) {
+      ah3Crawford_ = !exJonesAsset_;
+      exJonesAsset_ = !edSinusDiscipline_;
+      edSinusDiscipline_ = !ah3Crawford_;
     }
-    if (emFacebookAssume_ > oxMagazineSutra_) {
-      emFacebookAssume_ = emFacebookAssume_ - oxMagazineSutra_;
-    }
-    if (amMainButcher_ || omOutlawCrisp_ || orTacoTalented_) {
-      amMainButcher_ = !omOutlawCrisp_;
-      omOutlawCrisp_ = !orTacoTalented_;
-      orTacoTalented_ = !amMainButcher_;
+    ayGoddessMost_ = heThankfullyDig_ || edSinusDiscipline_;
+    if (ifSchoolSpace_ > 0) {
+      elVentCupid_ = noTurbulenceIn_ / ifSchoolSpace_;
     }
 
-    orTacoTalented_ = omOutlawCrisp_ && anDollMediocre_;
-
-    if (emFacebookAssume_ > oxMagazineSutra_) {
-      emFacebookAssume_ = emFacebookAssume_ - oxMagazineSutra_;
-    }
-    if (amMainButcher_) {
-      omOutlawCrisp_ = !anDollMediocre_;
-    }
-
-    if (loOopsTorment_ > 0) {
-      moTurquoiseNoodle_ = joKnockAttaboy_ ~/ loOopsTorment_;
-    }
-    loOopsTorment_ = moTurquoiseNoodle_ + joKnockAttaboy_;
-    if (orTacoTalented_) {
-      anDollMediocre_ = !omOutlawCrisp_;
+    if (heThankfullyDig_) {
+      meEstimateGet_ = !edSinusDiscipline_;
     }
   }
 
-  void noJuiceCell() {
-    if (omOutlawCrisp_ && orTacoTalented_ && anDollMediocre_) {
-      omOutlawCrisp_ = !omOutlawCrisp_;
-      orTacoTalented_ = omOutlawCrisp_;
-      anDollMediocre_ = omOutlawCrisp_;
-    }
-    if (orTacoTalented_ && amMainButcher_) {
-      omOutlawCrisp_ = !omOutlawCrisp_;
+  void siObsessedDefile() {
+    meEstimateGet_ = ayGoddessMost_ && exJonesAsset_;
+
+    if (heThankfullyDig_ || edSinusDiscipline_ || exJonesAsset_) {
+      heThankfullyDig_ = !edSinusDiscipline_;
+      edSinusDiscipline_ = !exJonesAsset_;
+      exJonesAsset_ = !heThankfullyDig_;
     }
 
-    loOopsTorment_ = moTurquoiseNoodle_;
-    joKnockAttaboy_ = moTurquoiseNoodle_;
-    amMainButcher_ = anDollMediocre_ && omOutlawCrisp_;
-
-    moTurquoiseNoodle_ = loOopsTorment_ - joKnockAttaboy_;
-    anDollMediocre_ = orTacoTalented_ && omOutlawCrisp_;
-    if (orTacoTalented_ && omOutlawCrisp_) {
-      amMainButcher_ = !amMainButcher_;
+    ohNelsonSmear_ = elVentCupid_ - ifSchoolSpace_;
+    if (edSinusDiscipline_ || heThankfullyDig_ || meEstimateGet_) {
+      edSinusDiscipline_ = !heThankfullyDig_;
+      heThankfullyDig_ = !meEstimateGet_;
+      meEstimateGet_ = !edSinusDiscipline_;
     }
-    joKnockAttaboy_ = 216;
-    moTurquoiseNoodle_ = 710;
-    loOopsTorment_ = joKnockAttaboy_ + moTurquoiseNoodle_;
-    joKnockAttaboy_ = 596;
-    moTurquoiseNoodle_ = 154;
-    loOopsTorment_ = joKnockAttaboy_ + moTurquoiseNoodle_;
+    ayGoddessMost_ = meEstimateGet_ || heThankfullyDig_;
   }
 
-  void ayHeckSpender() {
-    emFacebookAssume_ = 32;
-    oxMagazineSutra_ = 5;
+  void adExpressionPoker() {
+    ohNelsonSmear_ = elVentCupid_ + ifSchoolSpace_;
 
-    joKnockAttaboy_ = 101;
-    loOopsTorment_ = 587;
-    moTurquoiseNoodle_ = joKnockAttaboy_ + loOopsTorment_;
-    emFacebookAssume_ = 95;
-    oxMagazineSutra_ = 43;
-    if (amMainButcher_ || omOutlawCrisp_ || anDollMediocre_) {
-      amMainButcher_ = !omOutlawCrisp_;
-      omOutlawCrisp_ = !anDollMediocre_;
-      anDollMediocre_ = !amMainButcher_;
+    for (int i = 0; i < elVentCupid_; i++) {
+      ohNelsonSmear_ += 1;
+      ifSchoolSpace_ += ohNelsonSmear_;
     }
-
-    if (emFacebookAssume_ > oxMagazineSutra_) {
-      emFacebookAssume_ = emFacebookAssume_ - oxMagazineSutra_;
-    }
-    emFacebookAssume_ = emFacebookAssume_ + oxMagazineSutra_;
-    emFacebookAssume_ = emFacebookAssume_ + oxMagazineSutra_;
-    if (anDollMediocre_ || amMainButcher_) {
-      amMainButcher_ = !amMainButcher_;
-    }
-    if (emFacebookAssume_ > oxMagazineSutra_) {
-      emFacebookAssume_ = emFacebookAssume_ - oxMagazineSutra_;
-    }
-    emFacebookAssume_ = 56;
-    oxMagazineSutra_ = 77;
-    emFacebookAssume_ = 88;
-    oxMagazineSutra_ = 71;
-    emFacebookAssume_ = emFacebookAssume_ + oxMagazineSutra_;
   }
 
   final String linkjoy_phillips_stubborn = "linkjoy_phillips_stubborn";

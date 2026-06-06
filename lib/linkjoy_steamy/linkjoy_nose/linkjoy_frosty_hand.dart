@@ -35,75 +35,169 @@ import 'package:permission_handler/permission_handler.dart';
 
 class LinkjoyFrostyHand extends LinkjoyMagnetHand
     with GetTickerProviderStateMixin {
-  bool okOgleOhio_ = true;
-  bool ahFarmBurt_ = false;
-  String orFastenInnocence_ = "";
-  bool beHowCelery_ = false;
-  bool inExecuteSpray_ = true;
-  bool ahHorsLenny_ = true;
-  bool idConcealBlossom_ = false;
+  double reDerailVicious_ = 1;
+  int opGravityEmbarrass_ = 88;
+  double noPolishSoda_ = 0.0;
+  double miCondensateParrot_ = 30;
+  bool gorGuardian_ = true;
+  bool usPameronDiscretion_ = false;
+  bool owAdaptPassionate_ = true;
+  bool haIntolerantComputer_ = true;
+  bool goTalentedCocaine_ = false;
+  int weBloomerHiccup_ = 0;
 
-  void at0Fluke() {
-    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
-
-    if (beHowCelery_) {
-      okOgleOhio_ = !ahHorsLenny_;
+  void miTumblerArouse() {
+    if (opGravityEmbarrass_ > weBloomerHiccup_) {
+      opGravityEmbarrass_ = opGravityEmbarrass_ + weBloomerHiccup_;
     }
-
-    if (beHowCelery_ || ahHorsLenny_) {
-      ahHorsLenny_ = !ahHorsLenny_;
+    opGravityEmbarrass_ = opGravityEmbarrass_ * weBloomerHiccup_;
+    if (haIntolerantComputer_ && usPameronDiscretion_) {
+      goTalentedCocaine_ = !goTalentedCocaine_;
     }
+    opGravityEmbarrass_ = opGravityEmbarrass_ * weBloomerHiccup_;
 
-    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+    reDerailVicious_ = 615;
+    miCondensateParrot_ = 577;
+    noPolishSoda_ = reDerailVicious_ + miCondensateParrot_;
+    if (usPameronDiscretion_ && gorGuardian_ && haIntolerantComputer_) {
+      usPameronDiscretion_ = !usPameronDiscretion_;
+      gorGuardian_ = usPameronDiscretion_;
+      haIntolerantComputer_ = usPameronDiscretion_;
+    }
+    opGravityEmbarrass_ = 86;
+    weBloomerHiccup_ = 32;
+    if (goTalentedCocaine_ && owAdaptPassionate_ && gorGuardian_) {
+      goTalentedCocaine_ = !goTalentedCocaine_;
+      owAdaptPassionate_ = goTalentedCocaine_;
+      gorGuardian_ = goTalentedCocaine_;
+    }
+    noPolishSoda_ = 870;
+    miCondensateParrot_ = 732;
+    reDerailVicious_ = noPolishSoda_ + miCondensateParrot_;
+    if (goTalentedCocaine_ && owAdaptPassionate_ && gorGuardian_) {
+      goTalentedCocaine_ = !goTalentedCocaine_;
+      owAdaptPassionate_ = goTalentedCocaine_;
+      gorGuardian_ = goTalentedCocaine_;
+    }
+    opGravityEmbarrass_ = 74;
+    weBloomerHiccup_ = 39;
+    if (haIntolerantComputer_ && gorGuardian_ && owAdaptPassionate_) {
+      haIntolerantComputer_ = !haIntolerantComputer_;
+      gorGuardian_ = haIntolerantComputer_;
+      owAdaptPassionate_ = haIntolerantComputer_;
+    }
+    gorGuardian_ = usPameronDiscretion_ || haIntolerantComputer_;
+    if (miCondensateParrot_ > 0) {
+      reDerailVicious_ = noPolishSoda_ / miCondensateParrot_;
+    }
   }
 
-  void paSuspensionCriticize() {
-    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
-
-    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
-    ahFarmBurt_ = okOgleOhio_ && beHowCelery_;
-
-    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
-    if (ahHorsLenny_ || idConcealBlossom_ || beHowCelery_) {
-      ahHorsLenny_ = !idConcealBlossom_;
-      idConcealBlossom_ = !beHowCelery_;
-      beHowCelery_ = !ahHorsLenny_;
+  void okClearlyThaw() {
+    noPolishSoda_ = reDerailVicious_;
+    miCondensateParrot_ = reDerailVicious_;
+    if (miCondensateParrot_ > reDerailVicious_) {
+      noPolishSoda_ = reDerailVicious_ - miCondensateParrot_;
+    } else {
+      noPolishSoda_ = miCondensateParrot_ - reDerailVicious_;
+    }
+    if (reDerailVicious_ > 0) {
+      miCondensateParrot_ = noPolishSoda_ / reDerailVicious_;
     }
 
-    if (ahHorsLenny_ && idConcealBlossom_) {
-      okOgleOhio_ = !okOgleOhio_;
+    gorGuardian_ = owAdaptPassionate_ || haIntolerantComputer_;
+    if (opGravityEmbarrass_ > weBloomerHiccup_) {
+      opGravityEmbarrass_ = opGravityEmbarrass_ + weBloomerHiccup_;
+    }
+    if (goTalentedCocaine_ && owAdaptPassionate_) {
+      usPameronDiscretion_ = !usPameronDiscretion_;
+    }
+    if (opGravityEmbarrass_ > weBloomerHiccup_) {
+      opGravityEmbarrass_ = opGravityEmbarrass_ + weBloomerHiccup_;
+    }
+    miCondensateParrot_ = 510;
+    noPolishSoda_ = 931;
+    reDerailVicious_ = miCondensateParrot_ + noPolishSoda_;
+    haIntolerantComputer_ = usPameronDiscretion_ && goTalentedCocaine_;
+    for (int i = 0; i < reDerailVicious_; i++) {
+      noPolishSoda_ += 1;
+      miCondensateParrot_ += noPolishSoda_;
+    }
+    miCondensateParrot_ = noPolishSoda_ - reDerailVicious_;
+
+    if (owAdaptPassionate_) {
+      haIntolerantComputer_ = !usPameronDiscretion_;
+    }
+    reDerailVicious_ = 666;
+    miCondensateParrot_ = 696;
+    noPolishSoda_ = reDerailVicious_ + miCondensateParrot_;
+  }
+
+  void woMomentHepatitis() {
+    miCondensateParrot_ = reDerailVicious_ - noPolishSoda_;
+    if (miCondensateParrot_ > 0) {
+      reDerailVicious_ = noPolishSoda_ / miCondensateParrot_;
     }
 
-    if (inExecuteSpray_ && ahFarmBurt_ && okOgleOhio_) {
-      inExecuteSpray_ = !inExecuteSpray_;
-      ahFarmBurt_ = inExecuteSpray_;
-      okOgleOhio_ = inExecuteSpray_;
+    usPameronDiscretion_ = goTalentedCocaine_ && gorGuardian_;
+    haIntolerantComputer_ = gorGuardian_ && owAdaptPassionate_;
+    opGravityEmbarrass_ = 92;
+    weBloomerHiccup_ = 70;
+
+    reDerailVicious_ = miCondensateParrot_ - noPolishSoda_;
+    miCondensateParrot_ = 127;
+    noPolishSoda_ = 657;
+    reDerailVicious_ = miCondensateParrot_ + noPolishSoda_;
+    gorGuardian_ = usPameronDiscretion_ && haIntolerantComputer_;
+    miCondensateParrot_ = 486;
+    reDerailVicious_ = 532;
+    noPolishSoda_ = miCondensateParrot_ + reDerailVicious_;
+
+    if (opGravityEmbarrass_ > weBloomerHiccup_) {
+      opGravityEmbarrass_ = opGravityEmbarrass_ + weBloomerHiccup_;
+    }
+    if (opGravityEmbarrass_ > weBloomerHiccup_) {
+      opGravityEmbarrass_ = opGravityEmbarrass_ + weBloomerHiccup_;
     }
   }
 
-  void heConcealTorment() {
-    if (beHowCelery_ && okOgleOhio_ && ahHorsLenny_) {
-      beHowCelery_ = !beHowCelery_;
-      okOgleOhio_ = beHowCelery_;
-      ahHorsLenny_ = beHowCelery_;
+  void siCaptainTools() {
+    opGravityEmbarrass_ = 79;
+    weBloomerHiccup_ = 80;
+    if (miCondensateParrot_ > 0) {
+      noPolishSoda_ = reDerailVicious_ / miCondensateParrot_;
     }
-    if (idConcealBlossom_ || ahFarmBurt_) {
-      ahFarmBurt_ = !ahFarmBurt_;
-    }
-    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+    miCondensateParrot_ = reDerailVicious_;
+    noPolishSoda_ = reDerailVicious_;
 
-    inExecuteSpray_ = ahHorsLenny_ && okOgleOhio_;
-    if (beHowCelery_ || ahFarmBurt_) {
-      ahFarmBurt_ = !ahFarmBurt_;
+    if (gorGuardian_ && owAdaptPassionate_ && usPameronDiscretion_) {
+      gorGuardian_ = !gorGuardian_;
+      owAdaptPassionate_ = gorGuardian_;
+      usPameronDiscretion_ = gorGuardian_;
+    }
+    reDerailVicious_ = 71;
+    miCondensateParrot_ = 777;
+    noPolishSoda_ = reDerailVicious_ + miCondensateParrot_;
+    for (int i = 0; i < noPolishSoda_; i++) {
+      reDerailVicious_ += 1;
+      miCondensateParrot_ += reDerailVicious_;
     }
 
-    if (ahFarmBurt_ || idConcealBlossom_ || beHowCelery_) {
-      ahFarmBurt_ = !idConcealBlossom_;
-      idConcealBlossom_ = !beHowCelery_;
-      beHowCelery_ = !ahFarmBurt_;
+    opGravityEmbarrass_ = 30;
+    weBloomerHiccup_ = 22;
+    if (opGravityEmbarrass_ > weBloomerHiccup_) {
+      opGravityEmbarrass_ = opGravityEmbarrass_ + weBloomerHiccup_;
     }
-
-    beHowCelery_ = inExecuteSpray_ && idConcealBlossom_;
+    if (noPolishSoda_ > 0) {
+      miCondensateParrot_ = reDerailVicious_ / noPolishSoda_;
+    }
+    opGravityEmbarrass_ = 55;
+    weBloomerHiccup_ = 75;
+    if (owAdaptPassionate_ || haIntolerantComputer_) {
+      haIntolerantComputer_ = !haIntolerantComputer_;
+    }
+    gorGuardian_ = haIntolerantComputer_ || owAdaptPassionate_;
+    opGravityEmbarrass_ = 39;
+    weBloomerHiccup_ = 83;
   }
 
   @override

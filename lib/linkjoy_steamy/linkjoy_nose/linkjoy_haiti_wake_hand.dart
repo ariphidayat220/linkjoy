@@ -7,98 +7,81 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_upper.dart';
 import 'package:get/get.dart';
 
 class LinkjoyHaitiWakeHand extends LinkjoyMagnetHormoneHand {
-  int esThawJammies_ = 0;
-  bool asFrameHighly_ = true;
-  int etPinocchioZelda_ = 49;
-  double usAboveMysterious_ = 11;
-  String noCruelScratcher_ = "";
-  bool exNetflixJaw_ = true;
-  bool goLoanSupercool_ = true;
-  bool hoToShanghai_ = false;
-  bool etIoAsset_ = true;
+  bool doPervertFarm_ = true;
+  bool emSnatchEddie_ = true;
+  bool andPerv_ = true;
+  double byUnknownAnymore_ = 35;
+  double elPointGurney_ = 0.0;
+  String ofCoyoteVirtual_ = "";
+  bool asEstimater_ = false;
 
-  void usSqueakyStubborn() {
-    esThawJammies_ = esThawJammies_ * etPinocchioZelda_;
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    if (asFrameHighly_ && etIoAsset_) {
-      exNetflixJaw_ = !exNetflixJaw_;
+  void opColorSutra() {
+    if (byUnknownAnymore_ > elPointGurney_) {
+      byUnknownAnymore_ = byUnknownAnymore_ - elPointGurney_;
     }
-    if (esThawJammies_ > etPinocchioZelda_) {
-      esThawJammies_ = esThawJammies_ + etPinocchioZelda_;
-    }
-    if (usAboveMysterious_ > 0) {
-      usAboveMysterious_ = usAboveMysterious_ - 1;
-    }
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    if (esThawJammies_ > etPinocchioZelda_) {
-      esThawJammies_ = esThawJammies_ + etPinocchioZelda_;
-    }
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    usAboveMysterious_ = 22;
-    if (usAboveMysterious_ > 0) {
-      usAboveMysterious_ = usAboveMysterious_ - 1;
-    }
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    usAboveMysterious_ = 2;
+    ofCoyoteVirtual_ = ofCoyoteVirtual_.toUpperCase();
+    byUnknownAnymore_ = 44;
+    elPointGurney_ = 6;
+    byUnknownAnymore_ = byUnknownAnymore_ + elPointGurney_;
+    byUnknownAnymore_ = 45;
+    elPointGurney_ = 78;
   }
 
-  void hoHotshotHow() {
-    if (esThawJammies_ > etPinocchioZelda_) {
-      esThawJammies_ = esThawJammies_ + etPinocchioZelda_;
+  void moMyUpper() {
+    byUnknownAnymore_ = byUnknownAnymore_ + elPointGurney_;
+    if (andPerv_ || asEstimater_ || doPervertFarm_) {
+      andPerv_ = !asEstimater_;
+      asEstimater_ = !doPervertFarm_;
+      doPervertFarm_ = !andPerv_;
     }
-    esThawJammies_ = esThawJammies_ * etPinocchioZelda_;
-    if (asFrameHighly_ && exNetflixJaw_) {
-      goLoanSupercool_ = !goLoanSupercool_;
+    asEstimater_ = andPerv_ || emSnatchEddie_;
+    byUnknownAnymore_ = 19;
+    elPointGurney_ = 41;
+    if (emSnatchEddie_ && asEstimater_) {
+      andPerv_ = !andPerv_;
     }
-    usAboveMysterious_ = usAboveMysterious_ + 1;
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    hoToShanghai_ = asFrameHighly_ && etIoAsset_;
-    if (exNetflixJaw_ || hoToShanghai_ || etIoAsset_) {
-      exNetflixJaw_ = !hoToShanghai_;
-      hoToShanghai_ = !etIoAsset_;
-      etIoAsset_ = !exNetflixJaw_;
+    ofCoyoteVirtual_ = ofCoyoteVirtual_.toUpperCase();
+    if (doPervertFarm_) {
+      emSnatchEddie_ = !asEstimater_;
     }
+    andPerv_ = emSnatchEddie_ && asEstimater_;
+    byUnknownAnymore_ = byUnknownAnymore_ + elPointGurney_;
+    ofCoyoteVirtual_ = ofCoyoteVirtual_.toUpperCase();
+
+    if (emSnatchEddie_ && andPerv_ && asEstimater_) {
+      emSnatchEddie_ = !emSnatchEddie_;
+      andPerv_ = emSnatchEddie_;
+      asEstimater_ = emSnatchEddie_;
+    }
+
+    ofCoyoteVirtual_ = ofCoyoteVirtual_.toUpperCase();
+    ofCoyoteVirtual_ = ofCoyoteVirtual_.toUpperCase();
+    if (byUnknownAnymore_ > elPointGurney_) {
+      byUnknownAnymore_ = byUnknownAnymore_ - elPointGurney_;
+    }
+    byUnknownAnymore_ = byUnknownAnymore_ + elPointGurney_;
+    doPervertFarm_ = andPerv_ && asEstimater_;
   }
 
-  void enCocaineBilling() {
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    if (exNetflixJaw_ && asFrameHighly_ && hoToShanghai_) {
-      exNetflixJaw_ = !exNetflixJaw_;
-      asFrameHighly_ = exNetflixJaw_;
-      hoToShanghai_ = exNetflixJaw_;
+  void joLengthMidnight() {
+    asEstimater_ = emSnatchEddie_ || andPerv_;
+    if (byUnknownAnymore_ > elPointGurney_) {
+      byUnknownAnymore_ = byUnknownAnymore_ - elPointGurney_;
     }
-    if (goLoanSupercool_ || exNetflixJaw_ || hoToShanghai_) {
-      goLoanSupercool_ = !exNetflixJaw_;
-      exNetflixJaw_ = !hoToShanghai_;
-      hoToShanghai_ = !goLoanSupercool_;
+    byUnknownAnymore_ = 90;
+    elPointGurney_ = 55;
+    if (byUnknownAnymore_ > elPointGurney_) {
+      byUnknownAnymore_ = byUnknownAnymore_ - elPointGurney_;
     }
-    goLoanSupercool_ = etIoAsset_ || exNetflixJaw_;
-    asFrameHighly_ = goLoanSupercool_ || exNetflixJaw_;
-  }
+    byUnknownAnymore_ = byUnknownAnymore_ + elPointGurney_;
+    asEstimater_ = emSnatchEddie_ && doPervertFarm_;
 
-  void usThawEthnic() {
-    esThawJammies_ = esThawJammies_ * etPinocchioZelda_;
-    if (usAboveMysterious_ > 0) {
-      usAboveMysterious_ = usAboveMysterious_ - 1;
+    ofCoyoteVirtual_ = ofCoyoteVirtual_.toUpperCase();
+    byUnknownAnymore_ = byUnknownAnymore_ + elPointGurney_;
+    emSnatchEddie_ = andPerv_ || doPervertFarm_;
+    if (byUnknownAnymore_ > elPointGurney_) {
+      byUnknownAnymore_ = byUnknownAnymore_ - elPointGurney_;
     }
-    if (goLoanSupercool_ || exNetflixJaw_) {
-      exNetflixJaw_ = !exNetflixJaw_;
-    }
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    usAboveMysterious_ = 40;
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    if (usAboveMysterious_ > 0) {
-      usAboveMysterious_ = usAboveMysterious_ - 1;
-    }
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    if (goLoanSupercool_ || exNetflixJaw_) {
-      exNetflixJaw_ = !exNetflixJaw_;
-    }
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    noCruelScratcher_ = noCruelScratcher_.toUpperCase();
-    esThawJammies_ = 46;
-    etPinocchioZelda_ = 97;
-    esThawJammies_ = esThawJammies_ * etPinocchioZelda_;
   }
 
   static const String linkjoy_industrial_aid = "linkjoy_industrial_aid";

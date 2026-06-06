@@ -10,7 +10,7 @@ abstract class LinkjoyDivorced {
 
   static const String linkjoySteamyLenny = "Linkjoy";
 
-  static const String linkjoySteamyOgle = "1.0.0";
+  static const String linkjoySteamyOgle = "1.0.1";
 
   static const String linkjoyAccessVarietyObsessed = linkjoyAlvaro
       ? "kWBgw8oH6Sg1F1LC"

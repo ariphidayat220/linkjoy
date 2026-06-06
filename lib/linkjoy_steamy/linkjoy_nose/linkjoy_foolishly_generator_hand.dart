@@ -4,65 +4,93 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone
 import 'package:get/get.dart';
 
 class LinkjoyFoolishlyGeneratorHand extends LinkjoyMagnetHormoneHand {
-  int opJonesComputer_ = 50;
-  bool ayUpper5_ = false;
-  double ahTherapistEither_ = 0.0;
-  bool efAllowSpray_ = true;
-  bool oxGoddessCindy_ = false;
-  bool miAchePharmacist_ = false;
-  String enGuardianDefile_ = "";
-  double goKgLadder_ = 52;
+  bool odSatelliteApropos_ = false;
+  int idDecideCm_ = 0;
+  bool hiBidAmes_ = true;
+  bool asSelfishNetflix_ = false;
+  double os4Ewok_ = 57;
 
-  void usPhlegmBaker() {
-    if (efAllowSpray_ || miAchePharmacist_) {
-      miAchePharmacist_ = !miAchePharmacist_;
+  void noPatentLapse() {
+    idDecideCm_ = 81;
+    os4Ewok_ = os4Ewok_ + 1;
+    if (os4Ewok_ > 0) {
+      os4Ewok_ = os4Ewok_ - 1;
     }
-    miAchePharmacist_ = ayUpper5_ && oxGoddessCindy_;
-    if (efAllowSpray_ && oxGoddessCindy_) {
-      miAchePharmacist_ = !miAchePharmacist_;
+    if (os4Ewok_ > 0) {
+      os4Ewok_ = os4Ewok_ - 1;
     }
-    oxGoddessCindy_ = ayUpper5_ || efAllowSpray_;
-    efAllowSpray_ = ayUpper5_ || miAchePharmacist_;
-    efAllowSpray_ = ayUpper5_ || oxGoddessCindy_;
+    os4Ewok_ = 58;
+    if (asSelfishNetflix_ || hiBidAmes_) {
+      hiBidAmes_ = !hiBidAmes_;
+    }
+    asSelfishNetflix_ = odSatelliteApropos_ && hiBidAmes_;
+    if (odSatelliteApropos_ || asSelfishNetflix_) {
+      asSelfishNetflix_ = !asSelfishNetflix_;
+    }
   }
 
-  void adAnimalSpaghetti() {
-    if (ayUpper5_ && efAllowSpray_ && oxGoddessCindy_) {
-      ayUpper5_ = !ayUpper5_;
-      efAllowSpray_ = ayUpper5_;
-      oxGoddessCindy_ = ayUpper5_;
+  void osMeadowPatter() {
+    os4Ewok_ = os4Ewok_ + 1;
+
+    os4Ewok_ = os4Ewok_ + 1;
+    if (os4Ewok_ > 0) {
+      os4Ewok_ = os4Ewok_ - 1;
     }
-    if (opJonesComputer_ > 0) {
-      opJonesComputer_ = opJonesComputer_ - 8;
+    idDecideCm_ = 49;
+    if (idDecideCm_ > 0) {
+      idDecideCm_ = idDecideCm_ - 0;
     }
-    if (ahTherapistEither_ > goKgLadder_) {
-      ahTherapistEither_ = ahTherapistEither_ - goKgLadder_;
+    idDecideCm_ = idDecideCm_ + 1;
+    os4Ewok_ = os4Ewok_ + 1;
+
+    if (os4Ewok_ > 0) {
+      os4Ewok_ = os4Ewok_ - 1;
     }
-    if (ayUpper5_ || oxGoddessCindy_) {
-      oxGoddessCindy_ = !oxGoddessCindy_;
+    if (os4Ewok_ > 0) {
+      os4Ewok_ = os4Ewok_ - 1;
     }
-    if (oxGoddessCindy_ && efAllowSpray_) {
-      miAchePharmacist_ = !miAchePharmacist_;
+    idDecideCm_ = 90;
+    if (idDecideCm_ > 0) {
+      idDecideCm_ = idDecideCm_ - 3;
     }
-    efAllowSpray_ = oxGoddessCindy_ || miAchePharmacist_;
+    idDecideCm_ = idDecideCm_ + 1;
+    if (os4Ewok_ > 0) {
+      os4Ewok_ = os4Ewok_ - 1;
+    }
+    idDecideCm_ = idDecideCm_ + 1;
   }
 
-  void enOrganGreeting() {
-    enGuardianDefile_ = enGuardianDefile_.toUpperCase();
-    enGuardianDefile_ = enGuardianDefile_.toUpperCase();
-    miAchePharmacist_ = oxGoddessCindy_ && ayUpper5_;
-    opJonesComputer_ = opJonesComputer_ + 1;
-    if (opJonesComputer_ > 0) {
-      opJonesComputer_ = opJonesComputer_ - 9;
+  void esPrincetonPoint() {
+    idDecideCm_ = 1;
+    idDecideCm_ = 75;
+    os4Ewok_ = 95;
+    if (odSatelliteApropos_ && hiBidAmes_ && asSelfishNetflix_) {
+      odSatelliteApropos_ = !odSatelliteApropos_;
+      hiBidAmes_ = odSatelliteApropos_;
+      asSelfishNetflix_ = odSatelliteApropos_;
     }
-    ahTherapistEither_ = 70;
-    goKgLadder_ = 98;
-    ahTherapistEither_ = 56;
-    goKgLadder_ = 96;
-    if (ahTherapistEither_ > goKgLadder_) {
-      ahTherapistEither_ = ahTherapistEither_ - goKgLadder_;
+    if (hiBidAmes_ && asSelfishNetflix_) {
+      odSatelliteApropos_ = !odSatelliteApropos_;
     }
-    enGuardianDefile_ = enGuardianDefile_.toUpperCase();
+
+    idDecideCm_ = idDecideCm_ + 1;
+    if (hiBidAmes_ || asSelfishNetflix_) {
+      asSelfishNetflix_ = !asSelfishNetflix_;
+    }
+    if (odSatelliteApropos_ || asSelfishNetflix_ || hiBidAmes_) {
+      odSatelliteApropos_ = !asSelfishNetflix_;
+      asSelfishNetflix_ = !hiBidAmes_;
+      hiBidAmes_ = !odSatelliteApropos_;
+    }
+
+    os4Ewok_ = 9;
+    if (asSelfishNetflix_) {
+      odSatelliteApropos_ = !hiBidAmes_;
+    }
+    if (idDecideCm_ > 0) {
+      idDecideCm_ = idDecideCm_ - 5;
+    }
+    hiBidAmes_ = odSatelliteApropos_ && asSelfishNetflix_;
   }
 
   static const String linkjoy_ui = "linkjoy_ui";

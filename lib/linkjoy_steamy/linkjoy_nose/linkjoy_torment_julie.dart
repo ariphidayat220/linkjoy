@@ -3,76 +3,78 @@ import 'package:get/get.dart';
 import 'linkjoy_torment_hand.dart';
 
 class LinkjoyTormentJulie extends Bindings {
-  double owMouseFacebook_ = 40;
-  bool maPervAlrighty_ = false;
-  bool moAcheAdmission_ = true;
-  double exBoxTail_ = 0.0;
-  bool heBasketballCrumble_ = false;
-  int isGangsterComputer_ = 85;
-  bool laOilyClaus_ = true;
+  bool miFinishSome_ = true;
+  double etBoycottAnkle_ = 18;
+  String atGreyThy_ = "";
+  bool ahJustShu_ = true;
+  bool myGuitarFaucet_ = false;
+  bool ohWheatonIceman_ = false;
 
-  void exBrosBiological() {
-    isGangsterComputer_ = isGangsterComputer_ + 1;
-    isGangsterComputer_ = isGangsterComputer_ + 1;
+  void taOriginDescribe() {
+    if (ahJustShu_ || myGuitarFaucet_) {
+      myGuitarFaucet_ = !myGuitarFaucet_;
+    }
+    atGreyThy_ = atGreyThy_.toUpperCase();
+    etBoycottAnkle_ = 38;
 
-    owMouseFacebook_ = 32;
-    exBoxTail_ = 87;
-    owMouseFacebook_ = owMouseFacebook_ + exBoxTail_;
-    owMouseFacebook_ = 55;
-    exBoxTail_ = 23;
+    ohWheatonIceman_ = ahJustShu_ && miFinishSome_;
+    atGreyThy_ = atGreyThy_.toUpperCase();
+    if (etBoycottAnkle_ > 0) {
+      etBoycottAnkle_ = etBoycottAnkle_ - 1;
+    }
 
-    owMouseFacebook_ = 35;
-    exBoxTail_ = 0;
+    etBoycottAnkle_ = etBoycottAnkle_ + 1;
+    atGreyThy_ = atGreyThy_.toUpperCase();
+
+    atGreyThy_ = atGreyThy_.toUpperCase();
+    if (myGuitarFaucet_ && ohWheatonIceman_ && miFinishSome_) {
+      myGuitarFaucet_ = !myGuitarFaucet_;
+      ohWheatonIceman_ = myGuitarFaucet_;
+      miFinishSome_ = myGuitarFaucet_;
+    }
+    atGreyThy_ = atGreyThy_.toUpperCase();
+
+    etBoycottAnkle_ = 72;
+    etBoycottAnkle_ = etBoycottAnkle_ + 1;
   }
 
-  void oxHighlyBarbie() {
-    if (maPervAlrighty_) {
-      moAcheAdmission_ = !heBasketballCrumble_;
-    }
+  void elMarketingAdrenaline() {
+    atGreyThy_ = atGreyThy_.toUpperCase();
 
-    owMouseFacebook_ = 46;
-    exBoxTail_ = 58;
-    isGangsterComputer_ = isGangsterComputer_ + 1;
-    if (heBasketballCrumble_ || laOilyClaus_ || maPervAlrighty_) {
-      heBasketballCrumble_ = !laOilyClaus_;
-      laOilyClaus_ = !maPervAlrighty_;
-      maPervAlrighty_ = !heBasketballCrumble_;
-    }
-
-    if (isGangsterComputer_ > 0) {
-      isGangsterComputer_ = isGangsterComputer_ - 9;
-    }
-
-    if (heBasketballCrumble_ || laOilyClaus_) {
-      laOilyClaus_ = !laOilyClaus_;
-    }
-    owMouseFacebook_ = owMouseFacebook_ + exBoxTail_;
-    if (isGangsterComputer_ > 0) {
-      isGangsterComputer_ = isGangsterComputer_ - 5;
-    }
-    if (maPervAlrighty_ || heBasketballCrumble_) {
-      heBasketballCrumble_ = !heBasketballCrumble_;
-    }
-    if (moAcheAdmission_ && heBasketballCrumble_) {
-      laOilyClaus_ = !laOilyClaus_;
-    }
-    if (isGangsterComputer_ > 0) {
-      isGangsterComputer_ = isGangsterComputer_ - 2;
-    }
+    etBoycottAnkle_ = 33;
+    ahJustShu_ = miFinishSome_ && myGuitarFaucet_;
+    atGreyThy_ = atGreyThy_.toUpperCase();
   }
 
-  void ofEideticGo() {
-    laOilyClaus_ = heBasketballCrumble_ && moAcheAdmission_;
-    if (heBasketballCrumble_) {
-      laOilyClaus_ = !moAcheAdmission_;
+  void atBentBlanc() {
+    if (myGuitarFaucet_) {
+      ahJustShu_ = !ohWheatonIceman_;
     }
-    owMouseFacebook_ = owMouseFacebook_ + exBoxTail_;
-    if (laOilyClaus_) {
-      heBasketballCrumble_ = !moAcheAdmission_;
+    if (miFinishSome_ || ohWheatonIceman_) {
+      ohWheatonIceman_ = !ohWheatonIceman_;
     }
+    atGreyThy_ = atGreyThy_.toUpperCase();
+    etBoycottAnkle_ = 20;
+    if (miFinishSome_ && ohWheatonIceman_ && myGuitarFaucet_) {
+      miFinishSome_ = !miFinishSome_;
+      ohWheatonIceman_ = miFinishSome_;
+      myGuitarFaucet_ = miFinishSome_;
+    }
+    atGreyThy_ = atGreyThy_.toUpperCase();
+    etBoycottAnkle_ = 37;
+  }
 
-    isGangsterComputer_ = isGangsterComputer_ + 1;
-    isGangsterComputer_ = isGangsterComputer_ + 1;
+  void usChocolatesApropos() {
+    etBoycottAnkle_ = 93;
+    etBoycottAnkle_ = 52;
+
+    atGreyThy_ = atGreyThy_.toUpperCase();
+    miFinishSome_ = ohWheatonIceman_ || ahJustShu_;
+    if (ahJustShu_ && myGuitarFaucet_ && miFinishSome_) {
+      ahJustShu_ = !ahJustShu_;
+      myGuitarFaucet_ = ahJustShu_;
+      miFinishSome_ = ahJustShu_;
+    }
   }
 
   @override

@@ -11,116 +11,94 @@ import 'package:get/get.dart';
 import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFigureSaverVentHand extends LinkjoyMagnetHormoneHand {
-  double taStipulateCinnamon_ = 94;
-  int opAgainstMadness_ = 64;
-  bool paMainGlory_ = false;
-  String efMeanwhileConclusion_ = "";
-  bool isGetSuit_ = true;
-  String soSouthBroadway_ = "";
-  bool meHailPebble_ = true;
-  bool haGradKnock_ = false;
-  double itOkMartini_ = 57;
-  bool oxToeBathroom_ = false;
+  double amEuropeIncapable_ = 0.0;
+  bool inGuitarCalshoptv_ = true;
+  bool anTrademarkDoubt_ = false;
+  int ayCraftGo_ = 11;
+  bool etCassieIt_ = false;
+  double orCondensatePrison_ = 0.0;
+  int idOfAche_ = 42;
+  bool atPainfulCrouch_ = false;
 
-  void ifYumOops() {
-    if (taStipulateCinnamon_ > itOkMartini_) {
-      taStipulateCinnamon_ = taStipulateCinnamon_ - itOkMartini_;
-    }
-    isGetSuit_ = paMainGlory_ && haGradKnock_;
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    taStipulateCinnamon_ = 90;
-    itOkMartini_ = 4;
-    paMainGlory_ = haGradKnock_ && oxToeBathroom_;
-    if (opAgainstMadness_ > 0) {
-      opAgainstMadness_ = opAgainstMadness_ - 6;
-    }
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    opAgainstMadness_ = opAgainstMadness_ + 1;
-    if (opAgainstMadness_ > 0) {
-      opAgainstMadness_ = opAgainstMadness_ - 0;
-    }
-    if (taStipulateCinnamon_ > itOkMartini_) {
-      taStipulateCinnamon_ = taStipulateCinnamon_ - itOkMartini_;
-    }
-    if (haGradKnock_ && isGetSuit_ && paMainGlory_) {
-      haGradKnock_ = !haGradKnock_;
-      isGetSuit_ = haGradKnock_;
-      paMainGlory_ = haGradKnock_;
-    }
-    opAgainstMadness_ = opAgainstMadness_ + 1;
-    efMeanwhileConclusion_ = efMeanwhileConclusion_ + soSouthBroadway_;
-    soSouthBroadway_ = efMeanwhileConclusion_;
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    efMeanwhileConclusion_ = efMeanwhileConclusion_ + soSouthBroadway_;
-    soSouthBroadway_ = efMeanwhileConclusion_;
+  void heEggsDescribe() {
+    amEuropeIncapable_ = amEuropeIncapable_ + orCondensatePrison_;
+
+    amEuropeIncapable_ = 54;
+    orCondensatePrison_ = 20;
+    amEuropeIncapable_ = amEuropeIncapable_ + orCondensatePrison_;
+    amEuropeIncapable_ = amEuropeIncapable_ + orCondensatePrison_;
   }
 
-  void efJellyContractor() {
-    if (opAgainstMadness_ > 0) {
-      opAgainstMadness_ = opAgainstMadness_ - 1;
+  void oxSkiSabotage() {
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
+    amEuropeIncapable_ = 17;
+    orCondensatePrison_ = 51;
+    amEuropeIncapable_ = 60;
+    orCondensatePrison_ = 87;
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
+    if (ayCraftGo_ > idOfAche_) {
+      ayCraftGo_ = ayCraftGo_ + idOfAche_;
     }
-    opAgainstMadness_ = 98;
-    opAgainstMadness_ = 53;
-    efMeanwhileConclusion_ = efMeanwhileConclusion_ + soSouthBroadway_;
-    soSouthBroadway_ = efMeanwhileConclusion_;
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    efMeanwhileConclusion_ = soSouthBroadway_ + efMeanwhileConclusion_;
-    efMeanwhileConclusion_ = soSouthBroadway_ + efMeanwhileConclusion_;
-    opAgainstMadness_ = 20;
-    efMeanwhileConclusion_ = soSouthBroadway_ + efMeanwhileConclusion_;
-    opAgainstMadness_ = opAgainstMadness_ + 1;
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    if (opAgainstMadness_ > 0) {
-      opAgainstMadness_ = opAgainstMadness_ - 8;
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
+    if (ayCraftGo_ > idOfAche_) {
+      ayCraftGo_ = ayCraftGo_ + idOfAche_;
     }
-    efMeanwhileConclusion_ = efMeanwhileConclusion_ + soSouthBroadway_;
-    soSouthBroadway_ = efMeanwhileConclusion_;
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    oxToeBathroom_ = paMainGlory_ && meHailPebble_;
-    if (taStipulateCinnamon_ > itOkMartini_) {
-      taStipulateCinnamon_ = taStipulateCinnamon_ - itOkMartini_;
+    atPainfulCrouch_ = anTrademarkDoubt_ || inGuitarCalshoptv_;
+    amEuropeIncapable_ = 42;
+    orCondensatePrison_ = 44;
+    if (anTrademarkDoubt_ && etCassieIt_ && atPainfulCrouch_) {
+      anTrademarkDoubt_ = !anTrademarkDoubt_;
+      etCassieIt_ = anTrademarkDoubt_;
+      atPainfulCrouch_ = anTrademarkDoubt_;
     }
-    opAgainstMadness_ = 71;
+    amEuropeIncapable_ = amEuropeIncapable_ + orCondensatePrison_;
+    etCassieIt_ = inGuitarCalshoptv_ && atPainfulCrouch_;
   }
 
-  void reImmuneTurquoise() {
-    if (opAgainstMadness_ > 0) {
-      opAgainstMadness_ = opAgainstMadness_ - 7;
+  void laLimbicGrape() {
+    if (anTrademarkDoubt_) {
+      etCassieIt_ = !atPainfulCrouch_;
     }
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    efMeanwhileConclusion_ = soSouthBroadway_ + efMeanwhileConclusion_;
-    taStipulateCinnamon_ = taStipulateCinnamon_ + itOkMartini_;
-    isGetSuit_ = paMainGlory_ || meHailPebble_;
-    if (paMainGlory_ && meHailPebble_ && oxToeBathroom_) {
-      paMainGlory_ = !paMainGlory_;
-      meHailPebble_ = paMainGlory_;
-      oxToeBathroom_ = paMainGlory_;
+    if (amEuropeIncapable_ > orCondensatePrison_) {
+      amEuropeIncapable_ = amEuropeIncapable_ - orCondensatePrison_;
     }
-    if (isGetSuit_ || meHailPebble_ || oxToeBathroom_) {
-      isGetSuit_ = !meHailPebble_;
-      meHailPebble_ = !oxToeBathroom_;
-      oxToeBathroom_ = !isGetSuit_;
+    etCassieIt_ = anTrademarkDoubt_ || atPainfulCrouch_;
+
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
+    if (anTrademarkDoubt_ || inGuitarCalshoptv_) {
+      inGuitarCalshoptv_ = !inGuitarCalshoptv_;
     }
-    if (isGetSuit_ || paMainGlory_) {
-      paMainGlory_ = !paMainGlory_;
+    if (anTrademarkDoubt_ && atPainfulCrouch_ && etCassieIt_) {
+      anTrademarkDoubt_ = !anTrademarkDoubt_;
+      atPainfulCrouch_ = anTrademarkDoubt_;
+      etCassieIt_ = anTrademarkDoubt_;
     }
-    opAgainstMadness_ = 89;
-    opAgainstMadness_ = opAgainstMadness_ + 1;
-    taStipulateCinnamon_ = 73;
-    itOkMartini_ = 25;
-    opAgainstMadness_ = 39;
-    efMeanwhileConclusion_ = soSouthBroadway_ + efMeanwhileConclusion_;
-    efMeanwhileConclusion_ = soSouthBroadway_ + efMeanwhileConclusion_;
-    soSouthBroadway_ = efMeanwhileConclusion_.toUpperCase() + soSouthBroadway_;
-    if (taStipulateCinnamon_ > itOkMartini_) {
-      taStipulateCinnamon_ = taStipulateCinnamon_ - itOkMartini_;
+
+    if (amEuropeIncapable_ > orCondensatePrison_) {
+      amEuropeIncapable_ = amEuropeIncapable_ - orCondensatePrison_;
     }
-    if (oxToeBathroom_ || meHailPebble_ || isGetSuit_) {
-      oxToeBathroom_ = !meHailPebble_;
-      meHailPebble_ = !isGetSuit_;
-      isGetSuit_ = !oxToeBathroom_;
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
+
+    amEuropeIncapable_ = amEuropeIncapable_ + orCondensatePrison_;
+    if (etCassieIt_ || atPainfulCrouch_ || anTrademarkDoubt_) {
+      etCassieIt_ = !atPainfulCrouch_;
+      atPainfulCrouch_ = !anTrademarkDoubt_;
+      anTrademarkDoubt_ = !etCassieIt_;
     }
-    isGetSuit_ = haGradKnock_ && paMainGlory_;
+    if (anTrademarkDoubt_) {
+      inGuitarCalshoptv_ = !atPainfulCrouch_;
+    }
+  }
+
+  void ayDestroyCharge() {
+    ayCraftGo_ = 48;
+    idOfAche_ = 7;
+
+    ayCraftGo_ = 81;
+    idOfAche_ = 88;
+
+    ayCraftGo_ = ayCraftGo_ * idOfAche_;
   }
 
   static const String linkjoy_division = "linkjoy_division";

@@ -7,112 +7,68 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_invite_vulcan_n
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
 class LinkjoyMyBonHand extends LinkjoyMagnetHormoneHand {
-  String inJellySpecialty_ = "";
-  String asCmCarefree_ = "";
-  bool weGlorySpeak_ = true;
-  bool elSaladHail_ = false;
-  bool exH1Ames_ = true;
-  String orPervAlice_ = "";
-  int moCattleInnocence_ = 0;
+  bool esCondensateSubjective_ = true;
+  double owVentPeanuts_ = 22;
+  double amGuitarTribute_ = 0.0;
+  bool doMomentNelson_ = false;
+  bool weEitherParrot_ = true;
+  String paCeleryAsset_ = "";
+  bool atUptightKryptonian_ = false;
 
-  void etHamsterOverall() {
-    if (moCattleInnocence_ > 0) {
-      moCattleInnocence_ = moCattleInnocence_ - 6;
+  void ayExecuteSteven() {
+    doMomentNelson_ = esCondensateSubjective_ && weEitherParrot_;
+    if (esCondensateSubjective_ || atUptightKryptonian_ || weEitherParrot_) {
+      esCondensateSubjective_ = !atUptightKryptonian_;
+      atUptightKryptonian_ = !weEitherParrot_;
+      weEitherParrot_ = !esCondensateSubjective_;
     }
-
-    if (elSaladHail_ || weGlorySpeak_ || exH1Ames_) {
-      elSaladHail_ = !weGlorySpeak_;
-      weGlorySpeak_ = !exH1Ames_;
-      exH1Ames_ = !elSaladHail_;
-    }
-    moCattleInnocence_ = moCattleInnocence_ + 1;
-    exH1Ames_ = weGlorySpeak_ && elSaladHail_;
+    owVentPeanuts_ = owVentPeanuts_ + amGuitarTribute_;
   }
 
-  void haMoldingAssume() {
-    if (weGlorySpeak_ || exH1Ames_) {
-      exH1Ames_ = !exH1Ames_;
-    }
-    moCattleInnocence_ = 83;
-    if (moCattleInnocence_ > 0) {
-      moCattleInnocence_ = moCattleInnocence_ - 2;
-    }
-    if (moCattleInnocence_ > 0) {
-      moCattleInnocence_ = moCattleInnocence_ - 7;
-    }
+  void inBoutiqueBrain() {
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
+    doMomentNelson_ = atUptightKryptonian_ && weEitherParrot_;
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
 
-    exH1Ames_ = elSaladHail_ && weGlorySpeak_;
+    esCondensateSubjective_ = doMomentNelson_ && atUptightKryptonian_;
+    if (esCondensateSubjective_ || atUptightKryptonian_) {
+      atUptightKryptonian_ = !atUptightKryptonian_;
+    }
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
+    doMomentNelson_ = esCondensateSubjective_ || weEitherParrot_;
+    atUptightKryptonian_ = esCondensateSubjective_ || doMomentNelson_;
   }
 
-  void laAproposTask() {
-    if (weGlorySpeak_) {
-      elSaladHail_ = !exH1Ames_;
+  void goGuatemalaFroot() {
+    if (atUptightKryptonian_ && esCondensateSubjective_ && doMomentNelson_) {
+      atUptightKryptonian_ = !atUptightKryptonian_;
+      esCondensateSubjective_ = atUptightKryptonian_;
+      doMomentNelson_ = atUptightKryptonian_;
     }
-    inJellySpecialty_ = asCmCarefree_ + orPervAlice_;
-    orPervAlice_ = asCmCarefree_ + inJellySpecialty_;
-    if (elSaladHail_ && exH1Ames_ && weGlorySpeak_) {
-      elSaladHail_ = !elSaladHail_;
-      exH1Ames_ = elSaladHail_;
-      weGlorySpeak_ = elSaladHail_;
+    if (owVentPeanuts_ > amGuitarTribute_) {
+      owVentPeanuts_ = owVentPeanuts_ - amGuitarTribute_;
     }
-    asCmCarefree_ = orPervAlice_;
-    inJellySpecialty_ = orPervAlice_;
-    asCmCarefree_ = inJellySpecialty_ + orPervAlice_;
-    exH1Ames_ = elSaladHail_ && weGlorySpeak_;
+    owVentPeanuts_ = owVentPeanuts_ + amGuitarTribute_;
+    owVentPeanuts_ = owVentPeanuts_ + amGuitarTribute_;
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
 
-    if (elSaladHail_) {
-      exH1Ames_ = !weGlorySpeak_;
+    if (doMomentNelson_ || atUptightKryptonian_) {
+      atUptightKryptonian_ = !atUptightKryptonian_;
     }
-    exH1Ames_ = elSaladHail_ && weGlorySpeak_;
-
-    if (weGlorySpeak_ || elSaladHail_ || exH1Ames_) {
-      weGlorySpeak_ = !elSaladHail_;
-      elSaladHail_ = !exH1Ames_;
-      exH1Ames_ = !weGlorySpeak_;
+    if (weEitherParrot_ || esCondensateSubjective_) {
+      esCondensateSubjective_ = !esCondensateSubjective_;
     }
-
-    orPervAlice_ = inJellySpecialty_;
-    asCmCarefree_ = inJellySpecialty_;
-    elSaladHail_ = weGlorySpeak_ && exH1Ames_;
-  }
-
-  void reDefectJabber() {
-    exH1Ames_ = weGlorySpeak_ && elSaladHail_;
-    asCmCarefree_ = orPervAlice_ + inJellySpecialty_;
-    if (exH1Ames_ || weGlorySpeak_ || elSaladHail_) {
-      exH1Ames_ = !weGlorySpeak_;
-      weGlorySpeak_ = !elSaladHail_;
-      elSaladHail_ = !exH1Ames_;
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
+    if (owVentPeanuts_ > amGuitarTribute_) {
+      owVentPeanuts_ = owVentPeanuts_ - amGuitarTribute_;
     }
-
-    moCattleInnocence_ = 85;
-    if (elSaladHail_ && exH1Ames_) {
-      weGlorySpeak_ = !weGlorySpeak_;
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
+    if (owVentPeanuts_ > amGuitarTribute_) {
+      owVentPeanuts_ = owVentPeanuts_ - amGuitarTribute_;
     }
-
-    if (exH1Ames_ && elSaladHail_ && weGlorySpeak_) {
-      exH1Ames_ = !exH1Ames_;
-      elSaladHail_ = exH1Ames_;
-      weGlorySpeak_ = exH1Ames_;
-    }
-    asCmCarefree_ = orPervAlice_ + inJellySpecialty_;
-    moCattleInnocence_ = 33;
-    asCmCarefree_ = orPervAlice_ + inJellySpecialty_;
-
-    if (orPervAlice_.length > 9) {
-      inJellySpecialty_ = orPervAlice_;
-    } else {
-      asCmCarefree_ = inJellySpecialty_;
-    }
-    if (elSaladHail_ || exH1Ames_ || weGlorySpeak_) {
-      elSaladHail_ = !exH1Ames_;
-      exH1Ames_ = !weGlorySpeak_;
-      weGlorySpeak_ = !elSaladHail_;
-    }
-    exH1Ames_ = weGlorySpeak_ && elSaladHail_;
-    asCmCarefree_ = inJellySpecialty_ + orPervAlice_;
-    moCattleInnocence_ = 52;
-    elSaladHail_ = weGlorySpeak_ && exH1Ames_;
+    paCeleryAsset_ = paCeleryAsset_.toUpperCase();
   }
 
   List<LinkjoyPerk> records = [];

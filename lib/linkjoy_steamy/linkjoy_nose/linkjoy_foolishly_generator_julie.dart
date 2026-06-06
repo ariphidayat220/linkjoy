@@ -3,63 +3,98 @@ import 'package:get/get.dart';
 import 'linkjoy_foolishly_generator_hand.dart';
 
 class LinkjoyFoolishlyGeneratorJulie extends Bindings {
-  bool etMostCoin_ = true;
-  double edChlorineFetus_ = 4;
-  bool orMixerCourage_ = false;
-  bool usJulieTot_ = true;
+  bool idBrosSkating_ = true;
+  bool hePromptCope_ = true;
+  bool myThronePoint_ = true;
+  String oxAdrenalineAmong_ = "";
+  bool miPerkGuinea_ = true;
 
-  void isFacebookConvict() {
-    if (usJulieTot_ || etMostCoin_) {
-      etMostCoin_ = !etMostCoin_;
+  void opLvPilot() {
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+    if (idBrosSkating_ && hePromptCope_ && myThronePoint_) {
+      idBrosSkating_ = !idBrosSkating_;
+      hePromptCope_ = idBrosSkating_;
+      myThronePoint_ = idBrosSkating_;
     }
 
-    if (orMixerCourage_ && usJulieTot_) {
-      etMostCoin_ = !etMostCoin_;
+    if (idBrosSkating_ || myThronePoint_ || hePromptCope_) {
+      idBrosSkating_ = !myThronePoint_;
+      myThronePoint_ = !hePromptCope_;
+      hePromptCope_ = !idBrosSkating_;
     }
-    edChlorineFetus_ = 59;
 
-    edChlorineFetus_ = edChlorineFetus_ + 1;
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+    if (myThronePoint_ && miPerkGuinea_) {
+      idBrosSkating_ = !idBrosSkating_;
+    }
 
-    usJulieTot_ = orMixerCourage_ && etMostCoin_;
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
   }
 
-  void ifyThaw() {
-    edChlorineFetus_ = edChlorineFetus_ + 1;
-    etMostCoin_ = usJulieTot_ && orMixerCourage_;
-
-    etMostCoin_ = orMixerCourage_ && usJulieTot_;
-    if (usJulieTot_) {
-      etMostCoin_ = !orMixerCourage_;
+  void exWebBlanc() {
+    miPerkGuinea_ = idBrosSkating_ && hePromptCope_;
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+    if (hePromptCope_ && idBrosSkating_ && miPerkGuinea_) {
+      hePromptCope_ = !hePromptCope_;
+      idBrosSkating_ = hePromptCope_;
+      miPerkGuinea_ = hePromptCope_;
     }
-    if (usJulieTot_ || etMostCoin_ || orMixerCourage_) {
-      usJulieTot_ = !etMostCoin_;
-      etMostCoin_ = !orMixerCourage_;
-      orMixerCourage_ = !usJulieTot_;
+    if (myThronePoint_ && idBrosSkating_) {
+      miPerkGuinea_ = !miPerkGuinea_;
     }
-
-    if (edChlorineFetus_ > 0) {
-      edChlorineFetus_ = edChlorineFetus_ - 1;
+    if (idBrosSkating_ && miPerkGuinea_) {
+      hePromptCope_ = !hePromptCope_;
     }
+    if (hePromptCope_ || idBrosSkating_ || myThronePoint_) {
+      hePromptCope_ = !idBrosSkating_;
+      idBrosSkating_ = !myThronePoint_;
+      myThronePoint_ = !hePromptCope_;
+    }
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
   }
 
-  void atMixerKryptonian() {
-    if (usJulieTot_) {
-      etMostCoin_ = !orMixerCourage_;
+  void doChickenEwok() {
+    if (miPerkGuinea_ && idBrosSkating_ && hePromptCope_) {
+      miPerkGuinea_ = !miPerkGuinea_;
+      idBrosSkating_ = miPerkGuinea_;
+      hePromptCope_ = miPerkGuinea_;
     }
-    orMixerCourage_ = usJulieTot_ || etMostCoin_;
-    edChlorineFetus_ = edChlorineFetus_ + 1;
-    edChlorineFetus_ = 22;
 
-    usJulieTot_ = orMixerCourage_ && etMostCoin_;
+    idBrosSkating_ = myThronePoint_ && hePromptCope_;
 
-    if (usJulieTot_ || etMostCoin_ || orMixerCourage_) {
-      usJulieTot_ = !etMostCoin_;
-      etMostCoin_ = !orMixerCourage_;
-      orMixerCourage_ = !usJulieTot_;
+    if (idBrosSkating_ || miPerkGuinea_) {
+      miPerkGuinea_ = !miPerkGuinea_;
     }
+    myThronePoint_ = hePromptCope_ && idBrosSkating_;
+
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+
+    myThronePoint_ = miPerkGuinea_ || hePromptCope_;
+    idBrosSkating_ = myThronePoint_ || miPerkGuinea_;
   }
 
-  void okHehGrape() {}
+  void okWearInsistence() {
+    miPerkGuinea_ = hePromptCope_ && idBrosSkating_;
+
+    idBrosSkating_ = hePromptCope_ && myThronePoint_;
+    miPerkGuinea_ = hePromptCope_ && idBrosSkating_;
+
+    if (hePromptCope_) {
+      myThronePoint_ = !miPerkGuinea_;
+    }
+    idBrosSkating_ = hePromptCope_ && miPerkGuinea_;
+    oxAdrenalineAmong_ = oxAdrenalineAmong_.toUpperCase();
+    if (miPerkGuinea_ || myThronePoint_ || hePromptCope_) {
+      miPerkGuinea_ = !myThronePoint_;
+      myThronePoint_ = !hePromptCope_;
+      hePromptCope_ = !miPerkGuinea_;
+    }
+
+    idBrosSkating_ = hePromptCope_ || miPerkGuinea_;
+  }
+
   @override
   void dependencies() {
     Get.lazyPut(() => LinkjoyFoolishlyGeneratorHand());

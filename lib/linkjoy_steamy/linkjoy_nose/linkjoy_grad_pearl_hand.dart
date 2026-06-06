@@ -16,53 +16,84 @@ import 'package:get/get.dart';
 
 class LinkjoyGradPearlHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool joIoProton_ = false;
-  String soCarefreeProtocol_ = "";
-  bool joMassagePameron_ = true;
-  bool idCraftBop_ = false;
+  String hoBloomerWheaton_ = "";
+  String ahButCheckout_ = "";
+  bool omSelfishCindy_ = false;
+  bool bySqueakyCraft_ = false;
+  double taAlexScratcher_ = 0.0;
+  String atThrilledGreet_ = "";
+  bool atTampBookshelf_ = false;
+  double anPanderTension_ = 0.0;
+  bool anThrilledMarsha_ = true;
+  double mmMayorCinnamon_ = 85;
 
-  void exStubbornCocktail() {
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-
-    if (joIoProton_ || joMassagePameron_) {
-      joMassagePameron_ = !joMassagePameron_;
+  void etEltonPeripheral() {
+    for (int i = 0; i < anPanderTension_; i++) {
+      mmMayorCinnamon_ += 1;
+      taAlexScratcher_ += mmMayorCinnamon_;
     }
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    taAlexScratcher_ = anPanderTension_ - mmMayorCinnamon_;
+    mmMayorCinnamon_ = anPanderTension_ + taAlexScratcher_;
 
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-    if (joIoProton_) {
-      joMassagePameron_ = !idCraftBop_;
+    hoBloomerWheaton_ = atThrilledGreet_ + ahButCheckout_;
+    ahButCheckout_ = hoBloomerWheaton_ + atThrilledGreet_;
+    omSelfishCindy_ = bySqueakyCraft_ && atTampBookshelf_;
+    if (taAlexScratcher_ > mmMayorCinnamon_) {
+      anPanderTension_ = mmMayorCinnamon_ - taAlexScratcher_;
+    } else {
+      anPanderTension_ = taAlexScratcher_ - mmMayorCinnamon_;
+    }
+
+    omSelfishCindy_ = bySqueakyCraft_ && atTampBookshelf_;
+    hoBloomerWheaton_ = ahButCheckout_;
+    atThrilledGreet_ = hoBloomerWheaton_;
+    ahButCheckout_ = atThrilledGreet_;
+    for (int i = 0; i < anPanderTension_; i++) {
+      taAlexScratcher_ += 1;
+      mmMayorCinnamon_ += taAlexScratcher_;
+    }
+    if (omSelfishCindy_ && bySqueakyCraft_) {
+      atTampBookshelf_ = !atTampBookshelf_;
     }
   }
 
-  void moFarmLapse() {
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+  void itDegreeProtocol() {
+    atThrilledGreet_ = hoBloomerWheaton_ + ahButCheckout_;
 
-    joIoProton_ = joMassagePameron_ && idCraftBop_;
+    hoBloomerWheaton_ = ahButCheckout_;
+    atThrilledGreet_ = hoBloomerWheaton_;
+    ahButCheckout_ = atThrilledGreet_;
+    bySqueakyCraft_ = atTampBookshelf_ && anThrilledMarsha_;
+
+    if (bySqueakyCraft_ && anThrilledMarsha_ && atTampBookshelf_) {
+      bySqueakyCraft_ = !bySqueakyCraft_;
+      anThrilledMarsha_ = bySqueakyCraft_;
+      atTampBookshelf_ = bySqueakyCraft_;
+    }
+    if (atThrilledGreet_.length > 6) {
+      hoBloomerWheaton_ = atThrilledGreet_;
+    } else {
+      ahButCheckout_ = hoBloomerWheaton_;
+    }
+
+    taAlexScratcher_ = mmMayorCinnamon_ * anPanderTension_;
+    atThrilledGreet_ = ahButCheckout_ + hoBloomerWheaton_;
   }
 
-  void ofCriticizeSpock() {
-    if (idCraftBop_ || joIoProton_) {
-      joIoProton_ = !joIoProton_;
-    }
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+  void oxBadgeAssume() {
+    hoBloomerWheaton_ = atThrilledGreet_ + ahButCheckout_;
+    mmMayorCinnamon_ = anPanderTension_;
+    taAlexScratcher_ = anPanderTension_;
 
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-    if (idCraftBop_ || joMassagePameron_) {
-      joMassagePameron_ = !joMassagePameron_;
-    }
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-  }
+    omSelfishCindy_ = anThrilledMarsha_ && atTampBookshelf_;
+    anPanderTension_ = taAlexScratcher_ * mmMayorCinnamon_;
 
-  void orTurquoiseProgram() {
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
-
-    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    hoBloomerWheaton_ = atThrilledGreet_;
+    ahButCheckout_ = hoBloomerWheaton_;
+    atThrilledGreet_ = ahButCheckout_;
+    taAlexScratcher_ = 247;
+    mmMayorCinnamon_ = 2;
+    anPanderTension_ = taAlexScratcher_ + mmMayorCinnamon_;
   }
 
   static const String linkjoy_stubborn = "linkjoy_stubborn";

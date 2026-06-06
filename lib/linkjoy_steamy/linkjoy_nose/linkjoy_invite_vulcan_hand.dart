@@ -5,86 +5,50 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_invite_vulcan_n
 import 'package:get/get.dart';
 
 class LinkjoyInviteVulcanHand extends GetxController {
-  bool laAstronautPrepare_ = true;
-  String myBleacherAd_ = "";
-  bool haPlumbing13_ = true;
-  bool mmSelfishUnborn_ = false;
-  int mmDefinitiveTaco_ = 87;
-  double meWrenchPolish_ = 0.0;
-  bool mmWarehouseLoser_ = true;
-  bool heNarratePlumbing_ = false;
-  bool ifBrainOutlaw_ = false;
+  String taImTension_ = "";
+  bool goCalendarr_ = false;
+  bool byAgainstPopulate_ = false;
+  bool hoBrilliantLightbulb_ = false;
+  bool aySwimsuitAdapt_ = true;
 
-  void ohAlicePoint() {
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    meWrenchPolish_ = 45;
-    mmDefinitiveTaco_ = 7;
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    meWrenchPolish_ = 11;
-    mmDefinitiveTaco_ = 64;
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    mmDefinitiveTaco_ = mmDefinitiveTaco_ + 1;
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    heNarratePlumbing_ = mmSelfishUnborn_ && haPlumbing13_;
+  void amLessonFrown() {
+    taImTension_ = taImTension_.toUpperCase();
+    if (aySwimsuitAdapt_ && byAgainstPopulate_ && goCalendarr_) {
+      aySwimsuitAdapt_ = !aySwimsuitAdapt_;
+      byAgainstPopulate_ = aySwimsuitAdapt_;
+      goCalendarr_ = aySwimsuitAdapt_;
+    }
+
+    taImTension_ = taImTension_.toUpperCase();
   }
 
-  void abPoundDrat() {
-    if (meWrenchPolish_ > 0) {
-      meWrenchPolish_ = meWrenchPolish_ - 1;
-    }
-    if (meWrenchPolish_ > 0) {
-      meWrenchPolish_ = meWrenchPolish_ - 1;
-    }
-    meWrenchPolish_ = 79;
-    if (haPlumbing13_ || ifBrainOutlaw_ || mmWarehouseLoser_) {
-      haPlumbing13_ = !ifBrainOutlaw_;
-      ifBrainOutlaw_ = !mmWarehouseLoser_;
-      mmWarehouseLoser_ = !haPlumbing13_;
-    }
-    mmDefinitiveTaco_ = mmDefinitiveTaco_ + 1;
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    meWrenchPolish_ = 51;
-    if (meWrenchPolish_ > 0) {
-      meWrenchPolish_ = meWrenchPolish_ - 1;
-    }
-    haPlumbing13_ = mmSelfishUnborn_ && mmWarehouseLoser_;
+  void doDummyModerately() {
+    hoBrilliantLightbulb_ = goCalendarr_ || aySwimsuitAdapt_;
+    goCalendarr_ = byAgainstPopulate_ && aySwimsuitAdapt_;
   }
 
-  void taPromptMain() {
-    if (haPlumbing13_ || mmSelfishUnborn_) {
-      mmSelfishUnborn_ = !mmSelfishUnborn_;
+  void oxAppFoot() {
+    if (goCalendarr_ || hoBrilliantLightbulb_) {
+      hoBrilliantLightbulb_ = !hoBrilliantLightbulb_;
     }
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    if (laAstronautPrepare_ && mmSelfishUnborn_ && ifBrainOutlaw_) {
-      laAstronautPrepare_ = !laAstronautPrepare_;
-      mmSelfishUnborn_ = laAstronautPrepare_;
-      ifBrainOutlaw_ = laAstronautPrepare_;
+
+    taImTension_ = taImTension_.toUpperCase();
+    taImTension_ = taImTension_.toUpperCase();
+    taImTension_ = taImTension_.toUpperCase();
+
+    if (byAgainstPopulate_ && hoBrilliantLightbulb_) {
+      goCalendarr_ = !goCalendarr_;
     }
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    if (mmWarehouseLoser_ && ifBrainOutlaw_) {
-      haPlumbing13_ = !haPlumbing13_;
+    taImTension_ = taImTension_.toUpperCase();
+
+    if (goCalendarr_ && byAgainstPopulate_) {
+      aySwimsuitAdapt_ = !aySwimsuitAdapt_;
     }
-    if (mmWarehouseLoser_ || mmSelfishUnborn_ || haPlumbing13_) {
-      mmWarehouseLoser_ = !mmSelfishUnborn_;
-      mmSelfishUnborn_ = !haPlumbing13_;
-      haPlumbing13_ = !mmWarehouseLoser_;
-    }
-    mmSelfishUnborn_ = heNarratePlumbing_ && mmWarehouseLoser_;
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    if (meWrenchPolish_ > 0) {
-      meWrenchPolish_ = meWrenchPolish_ - 1;
-    }
-    mmDefinitiveTaco_ = mmDefinitiveTaco_ + 1;
-    mmDefinitiveTaco_ = 18;
-    myBleacherAd_ = myBleacherAd_.toUpperCase();
-    meWrenchPolish_ = meWrenchPolish_ + 1;
+  }
+
+  void doGrandpaBookshelf() {
+    taImTension_ = taImTension_.toUpperCase();
+    goCalendarr_ = byAgainstPopulate_ && aySwimsuitAdapt_;
   }
 
   List<int> records = [];

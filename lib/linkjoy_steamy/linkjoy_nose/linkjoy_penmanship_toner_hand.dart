@@ -14,102 +14,85 @@ import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyFetusPenmanshipTonerHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool atDegrasseProcreate_ = true;
-  bool faGradAlex_ = false;
-  String isAdvanceMe_ = "";
-  bool emMiladyProbe_ = false;
+  bool adSwimsuitHiccup_ = false;
+  bool beProjectSooner_ = true;
+  bool okStayShift_ = false;
+  int beGoddessAlvaro_ = 0;
+  bool or4Warehouse_ = true;
+  int goPharmacistAlice_ = 0;
+  String amDirectCustard_ = "";
 
-  void reWienerSatellite() {
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-
-    if (emMiladyProbe_ && atDegrasseProcreate_) {
-      faGradAlex_ = !faGradAlex_;
+  void abHunterHarpist() {
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    if (adSwimsuitHiccup_ || beProjectSooner_) {
+      beProjectSooner_ = !beProjectSooner_;
     }
-    if (faGradAlex_ && emMiladyProbe_ && atDegrasseProcreate_) {
-      faGradAlex_ = !faGradAlex_;
-      emMiladyProbe_ = faGradAlex_;
-      atDegrasseProcreate_ = faGradAlex_;
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    if (beGoddessAlvaro_ > goPharmacistAlice_) {
+      beGoddessAlvaro_ = beGoddessAlvaro_ + goPharmacistAlice_;
     }
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    if (adSwimsuitHiccup_ || or4Warehouse_ || okStayShift_) {
+      adSwimsuitHiccup_ = !or4Warehouse_;
+      or4Warehouse_ = !okStayShift_;
+      okStayShift_ = !adSwimsuitHiccup_;
+    }
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
 
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+
+    if (or4Warehouse_ && adSwimsuitHiccup_ && okStayShift_) {
+      or4Warehouse_ = !or4Warehouse_;
+      adSwimsuitHiccup_ = or4Warehouse_;
+      okStayShift_ = or4Warehouse_;
+    }
+
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+
+    beGoddessAlvaro_ = beGoddessAlvaro_ * goPharmacistAlice_;
   }
 
-  void oxDefectPineapple() {
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-
-    faGradAlex_ = atDegrasseProcreate_ && emMiladyProbe_;
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    faGradAlex_ = atDegrasseProcreate_ || emMiladyProbe_;
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    if (faGradAlex_ || emMiladyProbe_) {
-      emMiladyProbe_ = !emMiladyProbe_;
+  void hoPearlStereotype() {
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    okStayShift_ = adSwimsuitHiccup_ || or4Warehouse_;
+    beGoddessAlvaro_ = beGoddessAlvaro_ * goPharmacistAlice_;
+    adSwimsuitHiccup_ = or4Warehouse_ && okStayShift_;
+    if (or4Warehouse_ || okStayShift_) {
+      okStayShift_ = !okStayShift_;
     }
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    if (adSwimsuitHiccup_ || okStayShift_) {
+      okStayShift_ = !okStayShift_;
+    }
+    beProjectSooner_ = okStayShift_ && adSwimsuitHiccup_;
 
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (beGoddessAlvaro_ > goPharmacistAlice_) {
+      beGoddessAlvaro_ = beGoddessAlvaro_ + goPharmacistAlice_;
+    }
   }
 
-  void amJohnSaltwater() {
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    atDegrasseProcreate_ = faGradAlex_ && emMiladyProbe_;
-    if (emMiladyProbe_ && atDegrasseProcreate_) {
-      faGradAlex_ = !faGradAlex_;
+  void idBronzeApropos() {
+    if (okStayShift_ || adSwimsuitHiccup_ || beProjectSooner_) {
+      okStayShift_ = !adSwimsuitHiccup_;
+      adSwimsuitHiccup_ = !beProjectSooner_;
+      beProjectSooner_ = !okStayShift_;
     }
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    if (faGradAlex_ || emMiladyProbe_ || atDegrasseProcreate_) {
-      faGradAlex_ = !emMiladyProbe_;
-      emMiladyProbe_ = !atDegrasseProcreate_;
-      atDegrasseProcreate_ = !faGradAlex_;
-    }
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    faGradAlex_ = emMiladyProbe_ && atDegrasseProcreate_;
-
-    if (emMiladyProbe_ && atDegrasseProcreate_ && faGradAlex_) {
-      emMiladyProbe_ = !emMiladyProbe_;
-      atDegrasseProcreate_ = emMiladyProbe_;
-      faGradAlex_ = emMiladyProbe_;
-    }
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    if (atDegrasseProcreate_ || faGradAlex_) {
-      faGradAlex_ = !faGradAlex_;
-    }
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    if (faGradAlex_) {
-      emMiladyProbe_ = !atDegrasseProcreate_;
-    }
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    emMiladyProbe_ = faGradAlex_ && atDegrasseProcreate_;
-  }
-
-  void beLightbulbCaesar() {
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    if (atDegrasseProcreate_) {
-      faGradAlex_ = !emMiladyProbe_;
-    }
-    emMiladyProbe_ = faGradAlex_ && atDegrasseProcreate_;
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-
-    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
-    if (atDegrasseProcreate_ || faGradAlex_) {
-      faGradAlex_ = !faGradAlex_;
+    beGoddessAlvaro_ = beGoddessAlvaro_ * goPharmacistAlice_;
+    if (okStayShift_ || or4Warehouse_ || beProjectSooner_) {
+      okStayShift_ = !or4Warehouse_;
+      or4Warehouse_ = !beProjectSooner_;
+      beProjectSooner_ = !okStayShift_;
     }
 
-    if (faGradAlex_) {
-      atDegrasseProcreate_ = !emMiladyProbe_;
+    if (beGoddessAlvaro_ > goPharmacistAlice_) {
+      beGoddessAlvaro_ = beGoddessAlvaro_ + goPharmacistAlice_;
     }
-    if (faGradAlex_ || atDegrasseProcreate_) {
-      atDegrasseProcreate_ = !atDegrasseProcreate_;
-    }
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
+    amDirectCustard_ = amDirectCustard_.toUpperCase();
   }
 
   @override

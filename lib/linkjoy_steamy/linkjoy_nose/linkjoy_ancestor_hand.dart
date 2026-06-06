@@ -40,45 +40,89 @@ import 'linkjoy_ancestor_green_gnome.dart';
 enum ChatLoadDirection { normal, history }
 
 class LinkjoyAncestorHand extends LinkjoyMagnetHormoneHand {
-  String amWaterfallSoftener_ = "";
-  bool heStashBonjour_ = true;
-  bool taFourthMost_ = true;
-  bool siPlaceboBeyond_ = true;
+  bool opAidNews_ = true;
+  double ahExamineUpper_ = 47;
+  bool reHorriblyCaesar_ = true;
+  bool orLavenderBell_ = false;
 
-  void haIntolerantChemistry() {
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-
-    taFourthMost_ = heStashBonjour_ && siPlaceboBeyond_;
-
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-
-    siPlaceboBeyond_ = taFourthMost_ && heStashBonjour_;
+  void maSuddenDig() {
+    reHorriblyCaesar_ = opAidNews_ && orLavenderBell_;
   }
 
-  void laAnymoreStatue() {
-    heStashBonjour_ = taFourthMost_ || siPlaceboBeyond_;
-    if (taFourthMost_ || siPlaceboBeyond_) {
-      siPlaceboBeyond_ = !siPlaceboBeyond_;
-    }
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-    taFourthMost_ = heStashBonjour_ && siPlaceboBeyond_;
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
-    if (taFourthMost_ && heStashBonjour_ && siPlaceboBeyond_) {
-      taFourthMost_ = !taFourthMost_;
-      heStashBonjour_ = taFourthMost_;
-      siPlaceboBeyond_ = taFourthMost_;
+  void beSpeakSpock() {
+    ahExamineUpper_ = ahExamineUpper_ + 1;
+    ahExamineUpper_ = 63;
+    if (ahExamineUpper_ > 0) {
+      ahExamineUpper_ = ahExamineUpper_ - 1;
     }
 
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    if (ahExamineUpper_ > 0) {
+      ahExamineUpper_ = ahExamineUpper_ - 1;
+    }
+
+    ahExamineUpper_ = 65;
+    if (ahExamineUpper_ > 0) {
+      ahExamineUpper_ = ahExamineUpper_ - 1;
+    }
   }
 
-  void faEricSickness() {
-    taFourthMost_ = heStashBonjour_ && siPlaceboBeyond_;
+  void siHiccupJumbo() {
+    if (reHorriblyCaesar_) {
+      orLavenderBell_ = !opAidNews_;
+    }
+    if (opAidNews_) {
+      orLavenderBell_ = !reHorriblyCaesar_;
+    }
 
-    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    if (orLavenderBell_ && opAidNews_ && reHorriblyCaesar_) {
+      orLavenderBell_ = !orLavenderBell_;
+      opAidNews_ = orLavenderBell_;
+      reHorriblyCaesar_ = orLavenderBell_;
+    }
+    if (reHorriblyCaesar_) {
+      orLavenderBell_ = !opAidNews_;
+    }
+    ahExamineUpper_ = ahExamineUpper_ + 1;
+    ahExamineUpper_ = 51;
+    if (orLavenderBell_) {
+      reHorriblyCaesar_ = !opAidNews_;
+    }
+
+    ahExamineUpper_ = 49;
+  }
+
+  void atIntolerantSubtle() {
+    ahExamineUpper_ = ahExamineUpper_ + 1;
+    if (opAidNews_ && orLavenderBell_ && reHorriblyCaesar_) {
+      opAidNews_ = !opAidNews_;
+      orLavenderBell_ = opAidNews_;
+      reHorriblyCaesar_ = opAidNews_;
+    }
+
+    if (opAidNews_ || reHorriblyCaesar_) {
+      reHorriblyCaesar_ = !reHorriblyCaesar_;
+    }
+    ahExamineUpper_ = ahExamineUpper_ + 1;
+    if (ahExamineUpper_ > 0) {
+      ahExamineUpper_ = ahExamineUpper_ - 1;
+    }
+    ahExamineUpper_ = ahExamineUpper_ + 1;
+
+    opAidNews_ = orLavenderBell_ && reHorriblyCaesar_;
+
+    ahExamineUpper_ = 85;
+    if (ahExamineUpper_ > 0) {
+      ahExamineUpper_ = ahExamineUpper_ - 1;
+    }
+    if (opAidNews_ || orLavenderBell_ || reHorriblyCaesar_) {
+      opAidNews_ = !orLavenderBell_;
+      orLavenderBell_ = !reHorriblyCaesar_;
+      reHorriblyCaesar_ = !opAidNews_;
+    }
+
+    if (opAidNews_) {
+      orLavenderBell_ = !reHorriblyCaesar_;
+    }
   }
 
   static const String linkjoy_vw_ancestor_stubborn =

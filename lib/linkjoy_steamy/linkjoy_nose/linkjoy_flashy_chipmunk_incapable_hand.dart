@@ -6,72 +6,139 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_flattered.dart
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
 class LinkjoyFlashyChipmunkIncapableHand extends LinkjoyMagnetHormoneHand {
-  double etPervBarbie_ = 0.0;
-  bool emBeyondViolate_ = true;
-  double meOperatorMost_ = 64;
-  bool usUptightMine_ = false;
-  String usCattleThrone_ = "";
-  bool goMyAndrew_ = true;
+  bool atSaverDismiss_ = false;
+  String okGloriousKryptonian_ = "";
+  String woEnforceLimbic_ = "";
+  bool oxGeographySuit_ = false;
+  double elKnockMissile_ = 26;
+  String woTextUnborn_ = "";
+  double usGelHammer_ = 0.0;
+  bool loEnglishr_ = true;
+  String soQuestionIntolerant_ = "";
+  bool weMiladySouffle_ = false;
 
-  void miConclusionClaus() {
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
+  void emFruitSmack() {
+    elKnockMissile_ = elKnockMissile_ + usGelHammer_;
+    woTextUnborn_ = okGloriousKryptonian_ + soQuestionIntolerant_;
+    woTextUnborn_ = woEnforceLimbic_;
+    soQuestionIntolerant_ = woEnforceLimbic_;
 
-    if (etPervBarbie_ > meOperatorMost_) {
-      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
+    elKnockMissile_ = 59;
+    usGelHammer_ = 41;
+    if (weMiladySouffle_ && oxGeographySuit_) {
+      atSaverDismiss_ = !atSaverDismiss_;
     }
-    if (emBeyondViolate_ && goMyAndrew_ && usUptightMine_) {
-      emBeyondViolate_ = !emBeyondViolate_;
-      goMyAndrew_ = emBeyondViolate_;
-      usUptightMine_ = emBeyondViolate_;
-    }
-    if (etPervBarbie_ > meOperatorMost_) {
-      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
-    }
-    if (etPervBarbie_ > meOperatorMost_) {
-      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
-    }
-    if (emBeyondViolate_ || usUptightMine_) {
-      usUptightMine_ = !usUptightMine_;
-    }
-    etPervBarbie_ = etPervBarbie_ + meOperatorMost_;
-  }
+    loEnglishr_ = weMiladySouffle_ && oxGeographySuit_;
+    elKnockMissile_ = 43;
+    usGelHammer_ = 72;
+    okGloriousKryptonian_ = woTextUnborn_;
+    woEnforceLimbic_ = woTextUnborn_;
 
-  void meWaveToe() {
-    if (usUptightMine_ || goMyAndrew_) {
-      goMyAndrew_ = !goMyAndrew_;
-    }
-    etPervBarbie_ = 29;
-    meOperatorMost_ = 55;
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    etPervBarbie_ = etPervBarbie_ + meOperatorMost_;
-    if (usUptightMine_ && goMyAndrew_) {
-      emBeyondViolate_ = !emBeyondViolate_;
+    if (atSaverDismiss_) {
+      loEnglishr_ = !weMiladySouffle_;
     }
   }
 
-  void doFrostyMagazine() {
-    if (etPervBarbie_ > meOperatorMost_) {
-      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
+  void maJoyousAlice() {
+    soQuestionIntolerant_ = woEnforceLimbic_ + woTextUnborn_;
+
+    elKnockMissile_ = 85;
+    usGelHammer_ = 84;
+    if (atSaverDismiss_ || loEnglishr_ || oxGeographySuit_) {
+      atSaverDismiss_ = !loEnglishr_;
+      loEnglishr_ = !oxGeographySuit_;
+      oxGeographySuit_ = !atSaverDismiss_;
     }
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    if (etPervBarbie_ > meOperatorMost_) {
-      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
+    if (okGloriousKryptonian_.length > 8) {
+      soQuestionIntolerant_ = okGloriousKryptonian_;
+    } else {
+      woTextUnborn_ = soQuestionIntolerant_;
+    }
+    elKnockMissile_ = 6;
+    usGelHammer_ = 91;
+    elKnockMissile_ = elKnockMissile_ + usGelHammer_;
+    loEnglishr_ = weMiladySouffle_ && oxGeographySuit_;
+    oxGeographySuit_ = atSaverDismiss_ && weMiladySouffle_;
+    woEnforceLimbic_ = soQuestionIntolerant_ + woTextUnborn_;
+    oxGeographySuit_ = weMiladySouffle_ && loEnglishr_;
+
+    if (weMiladySouffle_ && atSaverDismiss_ && loEnglishr_) {
+      weMiladySouffle_ = !weMiladySouffle_;
+      atSaverDismiss_ = weMiladySouffle_;
+      loEnglishr_ = weMiladySouffle_;
     }
 
-    etPervBarbie_ = etPervBarbie_ + meOperatorMost_;
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    emBeyondViolate_ = goMyAndrew_ && usUptightMine_;
-
-    if (goMyAndrew_) {
-      usUptightMine_ = !emBeyondViolate_;
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
     }
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
-    usUptightMine_ = emBeyondViolate_ && goMyAndrew_;
-    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    if (soQuestionIntolerant_.length > 5) {
+      woEnforceLimbic_ = soQuestionIntolerant_;
+    } else {
+      woTextUnborn_ = woEnforceLimbic_;
+    }
+  }
+
+  void ifTaskStubborn() {
+    if (loEnglishr_ || atSaverDismiss_ || weMiladySouffle_) {
+      loEnglishr_ = !atSaverDismiss_;
+      atSaverDismiss_ = !weMiladySouffle_;
+      weMiladySouffle_ = !loEnglishr_;
+    }
+    soQuestionIntolerant_ = okGloriousKryptonian_ + woEnforceLimbic_;
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
+    }
+    okGloriousKryptonian_ = woEnforceLimbic_;
+    soQuestionIntolerant_ = okGloriousKryptonian_;
+    woEnforceLimbic_ = soQuestionIntolerant_;
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
+    }
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
+    }
+    elKnockMissile_ = 5;
+    usGelHammer_ = 31;
+
+    atSaverDismiss_ = oxGeographySuit_ || loEnglishr_;
+    woTextUnborn_ = woEnforceLimbic_;
+    okGloriousKryptonian_ = woEnforceLimbic_;
+    weMiladySouffle_ = atSaverDismiss_ || oxGeographySuit_;
+    woTextUnborn_ = soQuestionIntolerant_;
+    woEnforceLimbic_ = woTextUnborn_;
+    soQuestionIntolerant_ = woEnforceLimbic_;
+    if (okGloriousKryptonian_.length > 7) {
+      soQuestionIntolerant_ = okGloriousKryptonian_;
+    } else {
+      woTextUnborn_ = soQuestionIntolerant_;
+    }
+    elKnockMissile_ = elKnockMissile_ + usGelHammer_;
+    elKnockMissile_ = 8;
+    usGelHammer_ = 61;
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
+    }
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
+    }
+  }
+
+  void goEitherBrawny() {
+    woTextUnborn_ = woEnforceLimbic_;
+    okGloriousKryptonian_ = woEnforceLimbic_;
+
+    elKnockMissile_ = 39;
+    usGelHammer_ = 59;
+    elKnockMissile_ = 50;
+    usGelHammer_ = 86;
+    if (soQuestionIntolerant_.length > 9) {
+      woTextUnborn_ = soQuestionIntolerant_;
+    } else {
+      woEnforceLimbic_ = woTextUnborn_;
+    }
+    if (elKnockMissile_ > usGelHammer_) {
+      elKnockMissile_ = elKnockMissile_ - usGelHammer_;
+    }
   }
 
   static const String linkjoy_ui = "linkjoy_ui";

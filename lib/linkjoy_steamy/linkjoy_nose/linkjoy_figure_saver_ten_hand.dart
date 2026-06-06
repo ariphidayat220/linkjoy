@@ -8,125 +8,49 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyFigureSaverTenHand extends LinkjoyMagnetHormoneHand {
-  bool opAppHammer_ = true;
-  double enBoobWhatcha_ = 0.0;
-  double weHairlessPond_ = 0.0;
-  bool esH3Bathroom_ = true;
-  int ayZeldaAssert_ = 45;
-  String elPilotDirect_ = "";
-  bool amVamosJones_ = true;
-  bool reUpsideJones_ = true;
-  String etJones4_ = "";
+  bool exGuitarBut_ = true;
+  bool ayGodfatherCabinet_ = true;
+  bool my5Sinus_ = false;
+  bool goDivisionBarkley_ = false;
 
-  void laSkintightBrilliant() {
-    enBoobWhatcha_ = 13;
-    weHairlessPond_ = 69;
-    if (enBoobWhatcha_ > weHairlessPond_) {
-      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+  void haBeagleCruel() {
+    if (goDivisionBarkley_ || my5Sinus_ || ayGodfatherCabinet_) {
+      goDivisionBarkley_ = !my5Sinus_;
+      my5Sinus_ = !ayGodfatherCabinet_;
+      ayGodfatherCabinet_ = !goDivisionBarkley_;
     }
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
-    if (opAppHammer_ && esH3Bathroom_ && amVamosJones_) {
-      opAppHammer_ = !opAppHammer_;
-      esH3Bathroom_ = opAppHammer_;
-      amVamosJones_ = opAppHammer_;
-    }
-    if (enBoobWhatcha_ > weHairlessPond_) {
-      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+
+    if (ayGodfatherCabinet_ || goDivisionBarkley_) {
+      goDivisionBarkley_ = !goDivisionBarkley_;
     }
   }
 
-  void rePlayMouse() {
-    if (ayZeldaAssert_ > 0) {
-      ayZeldaAssert_ = ayZeldaAssert_ - 9;
+  void byMixerVw() {
+    my5Sinus_ = ayGodfatherCabinet_ || exGuitarBut_;
+
+    if (ayGodfatherCabinet_ && goDivisionBarkley_ && my5Sinus_) {
+      ayGodfatherCabinet_ = !ayGodfatherCabinet_;
+      goDivisionBarkley_ = ayGodfatherCabinet_;
+      my5Sinus_ = ayGodfatherCabinet_;
     }
-    if (esH3Bathroom_ || amVamosJones_ || reUpsideJones_) {
-      esH3Bathroom_ = !amVamosJones_;
-      amVamosJones_ = !reUpsideJones_;
-      reUpsideJones_ = !esH3Bathroom_;
-    }
-    elPilotDirect_ = elPilotDirect_ + etJones4_;
-    etJones4_ = elPilotDirect_;
-    if (reUpsideJones_ || amVamosJones_ || esH3Bathroom_) {
-      reUpsideJones_ = !amVamosJones_;
-      amVamosJones_ = !esH3Bathroom_;
-      esH3Bathroom_ = !reUpsideJones_;
-    }
-    etJones4_ = elPilotDirect_.toUpperCase() + etJones4_;
-    amVamosJones_ = esH3Bathroom_ || reUpsideJones_;
-    ayZeldaAssert_ = ayZeldaAssert_ + 1;
-    ayZeldaAssert_ = 9;
-    if (esH3Bathroom_ || opAppHammer_) {
-      opAppHammer_ = !opAppHammer_;
-    }
-    ayZeldaAssert_ = ayZeldaAssert_ + 1;
-    enBoobWhatcha_ = enBoobWhatcha_ + weHairlessPond_;
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
+
+    ayGodfatherCabinet_ = goDivisionBarkley_ && exGuitarBut_;
+
+    ayGodfatherCabinet_ = goDivisionBarkley_ && exGuitarBut_;
   }
 
-  void ofJones3() {
-    etJones4_ = elPilotDirect_.toUpperCase() + etJones4_;
-    etJones4_ = elPilotDirect_.toUpperCase() + etJones4_;
-    enBoobWhatcha_ = 97;
-    weHairlessPond_ = 15;
-    if (enBoobWhatcha_ > weHairlessPond_) {
-      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+  void oxInsightLapse() {
+    if (ayGodfatherCabinet_ || my5Sinus_ || exGuitarBut_) {
+      ayGodfatherCabinet_ = !my5Sinus_;
+      my5Sinus_ = !exGuitarBut_;
+      exGuitarBut_ = !ayGodfatherCabinet_;
     }
-    if (enBoobWhatcha_ > weHairlessPond_) {
-      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
-    }
-    elPilotDirect_ = elPilotDirect_ + etJones4_;
-    etJones4_ = elPilotDirect_;
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
-    enBoobWhatcha_ = enBoobWhatcha_ + weHairlessPond_;
-    if (enBoobWhatcha_ > weHairlessPond_) {
-      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
-    }
-    if (enBoobWhatcha_ > weHairlessPond_) {
-      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
-    }
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
-    if (opAppHammer_ || esH3Bathroom_ || amVamosJones_) {
-      opAppHammer_ = !esH3Bathroom_;
-      esH3Bathroom_ = !amVamosJones_;
-      amVamosJones_ = !opAppHammer_;
-    }
-    enBoobWhatcha_ = enBoobWhatcha_ + weHairlessPond_;
-    if (ayZeldaAssert_ > 0) {
-      ayZeldaAssert_ = ayZeldaAssert_ - 0;
-    }
-    enBoobWhatcha_ = 76;
-    weHairlessPond_ = 74;
-  }
 
-  void ohPlayHair() {
-    elPilotDirect_ = elPilotDirect_ + etJones4_;
-    etJones4_ = elPilotDirect_;
-    if (ayZeldaAssert_ > 0) {
-      ayZeldaAssert_ = ayZeldaAssert_ - 7;
-    }
-    opAppHammer_ = esH3Bathroom_ || reUpsideJones_;
-    if (esH3Bathroom_ || amVamosJones_ || reUpsideJones_) {
-      esH3Bathroom_ = !amVamosJones_;
-      amVamosJones_ = !reUpsideJones_;
-      reUpsideJones_ = !esH3Bathroom_;
-    }
-    enBoobWhatcha_ = 72;
-    weHairlessPond_ = 78;
-    esH3Bathroom_ = amVamosJones_ || opAppHammer_;
-    elPilotDirect_ = etJones4_ + elPilotDirect_;
-    ayZeldaAssert_ = ayZeldaAssert_ + 1;
-    elPilotDirect_ = elPilotDirect_ + etJones4_;
-    etJones4_ = elPilotDirect_;
-    if (opAppHammer_ && esH3Bathroom_ && reUpsideJones_) {
-      opAppHammer_ = !opAppHammer_;
-      esH3Bathroom_ = opAppHammer_;
-      reUpsideJones_ = opAppHammer_;
-    }
-    if (amVamosJones_ && reUpsideJones_) {
-      opAppHammer_ = !opAppHammer_;
-    }
+    exGuitarBut_ = my5Sinus_ || ayGodfatherCabinet_;
+
+    exGuitarBut_ = ayGodfatherCabinet_ && my5Sinus_;
+
+    ayGodfatherCabinet_ = exGuitarBut_ && goDivisionBarkley_;
   }
 
   static const String linkjoy_seasick = "linkjoy_seasick";

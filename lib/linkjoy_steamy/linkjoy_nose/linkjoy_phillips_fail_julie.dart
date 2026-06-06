@@ -3,96 +3,98 @@ import 'package:get/get.dart';
 import 'linkjoy_phillips_fail_hand.dart';
 
 class LinkjoyPhillipsFailJulie extends Bindings {
-  bool inWhatchaDb_ = false;
-  bool haPardonChauffeur_ = false;
-  bool okExpress12_ = false;
-  String owMealCapable_ = "";
-  bool loDismissQuinto_ = false;
-  String laGilMichael_ = "";
-  bool myBoobShove_ = false;
+  bool itBinocularsDiscipline_ = true;
+  bool mmCalshoptvWhatcha_ = true;
+  String hoSecludeSouth_ = "";
+  bool id1Unlock_ = false;
+  double noTalentedWherever_ = 0.0;
+  double woForgotVw_ = 0.0;
+  String doUnlikableMeadow_ = "";
+  bool amStubbornArouse_ = true;
+  bool woChorusFamous_ = false;
+  double emGeographySubtle_ = 27;
 
-  void heEitherCheckout() {
-    if (haPardonChauffeur_ || inWhatchaDb_ || okExpress12_) {
-      haPardonChauffeur_ = !inWhatchaDb_;
-      inWhatchaDb_ = !okExpress12_;
-      okExpress12_ = !haPardonChauffeur_;
+  void abPoetryPun() {
+    if (woChorusFamous_ && id1Unlock_ && mmCalshoptvWhatcha_) {
+      woChorusFamous_ = !woChorusFamous_;
+      id1Unlock_ = woChorusFamous_;
+      mmCalshoptvWhatcha_ = woChorusFamous_;
     }
+    woForgotVw_ = emGeographySubtle_;
+    noTalentedWherever_ = emGeographySubtle_;
+    doUnlikableMeadow_ = hoSecludeSouth_.toUpperCase() + doUnlikableMeadow_;
+    doUnlikableMeadow_ = hoSecludeSouth_.toUpperCase() + doUnlikableMeadow_;
 
-    owMealCapable_ = laGilMichael_ + owMealCapable_;
-    owMealCapable_ = laGilMichael_ + owMealCapable_;
-
-    owMealCapable_ = laGilMichael_ + owMealCapable_;
-
-    if (okExpress12_ || myBoobShove_ || inWhatchaDb_) {
-      okExpress12_ = !myBoobShove_;
-      myBoobShove_ = !inWhatchaDb_;
-      inWhatchaDb_ = !okExpress12_;
-    }
-    haPardonChauffeur_ = inWhatchaDb_ && myBoobShove_;
+    hoSecludeSouth_ = doUnlikableMeadow_ + hoSecludeSouth_;
   }
 
-  void owTasselWiener() {
-    owMealCapable_ = laGilMichael_ + owMealCapable_;
-    owMealCapable_ = owMealCapable_ + laGilMichael_;
-    laGilMichael_ = owMealCapable_;
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-    myBoobShove_ = haPardonChauffeur_ && loDismissQuinto_;
-    owMealCapable_ = owMealCapable_ + laGilMichael_;
-    laGilMichael_ = owMealCapable_;
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-    loDismissQuinto_ = myBoobShove_ || okExpress12_;
+  void odhShu() {
+    if (itBinocularsDiscipline_) {
+      mmCalshoptvWhatcha_ = !amStubbornArouse_;
+    }
+    hoSecludeSouth_ = doUnlikableMeadow_ + hoSecludeSouth_;
+    if (itBinocularsDiscipline_ || id1Unlock_) {
+      id1Unlock_ = !id1Unlock_;
+    }
+    if (itBinocularsDiscipline_ && amStubbornArouse_ && mmCalshoptvWhatcha_) {
+      itBinocularsDiscipline_ = !itBinocularsDiscipline_;
+      amStubbornArouse_ = itBinocularsDiscipline_;
+      mmCalshoptvWhatcha_ = itBinocularsDiscipline_;
+    }
+    noTalentedWherever_ = 536;
+    emGeographySubtle_ = 692;
+    woForgotVw_ = noTalentedWherever_ + emGeographySubtle_;
+    hoSecludeSouth_ = hoSecludeSouth_ + doUnlikableMeadow_;
+    doUnlikableMeadow_ = hoSecludeSouth_;
+    doUnlikableMeadow_ = hoSecludeSouth_.toUpperCase() + doUnlikableMeadow_;
+    for (int i = 0; i < woForgotVw_; i++) {
+      emGeographySubtle_ += 1;
+      noTalentedWherever_ += emGeographySubtle_;
+    }
+    if (noTalentedWherever_ > 0) {
+      emGeographySubtle_ = woForgotVw_ / noTalentedWherever_;
+    }
+    hoSecludeSouth_ = doUnlikableMeadow_ + hoSecludeSouth_;
 
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-    owMealCapable_ = owMealCapable_ + laGilMichael_;
-    laGilMichael_ = owMealCapable_;
+    hoSecludeSouth_ = doUnlikableMeadow_ + hoSecludeSouth_;
+    woForgotVw_ = emGeographySubtle_;
+    noTalentedWherever_ = emGeographySubtle_;
+    doUnlikableMeadow_ = hoSecludeSouth_.toUpperCase() + doUnlikableMeadow_;
+    if (id1Unlock_) {
+      amStubbornArouse_ = !mmCalshoptvWhatcha_;
+    }
+    if (woChorusFamous_ || id1Unlock_) {
+      id1Unlock_ = !id1Unlock_;
+    }
   }
 
-  void joMarioAs() {
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-    okExpress12_ = inWhatchaDb_ && loDismissQuinto_;
-
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-    okExpress12_ = myBoobShove_ && loDismissQuinto_;
-    owMealCapable_ = laGilMichael_ + owMealCapable_;
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-
-    myBoobShove_ = haPardonChauffeur_ || okExpress12_;
-    owMealCapable_ = owMealCapable_ + laGilMichael_;
-    laGilMichael_ = owMealCapable_;
-
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-  }
-
-  void osAlexJog() {
-    owMealCapable_ = owMealCapable_ + laGilMichael_;
-    laGilMichael_ = owMealCapable_;
-    if (haPardonChauffeur_ || inWhatchaDb_ || okExpress12_) {
-      haPardonChauffeur_ = !inWhatchaDb_;
-      inWhatchaDb_ = !okExpress12_;
-      okExpress12_ = !haPardonChauffeur_;
+  void idAproposBathroom() {
+    id1Unlock_ = mmCalshoptvWhatcha_ && woChorusFamous_;
+    if (id1Unlock_ && mmCalshoptvWhatcha_ && woChorusFamous_) {
+      id1Unlock_ = !id1Unlock_;
+      mmCalshoptvWhatcha_ = id1Unlock_;
+      woChorusFamous_ = id1Unlock_;
     }
 
-    loDismissQuinto_ = haPardonChauffeur_ || myBoobShove_;
-    if (haPardonChauffeur_ && okExpress12_ && inWhatchaDb_) {
-      haPardonChauffeur_ = !haPardonChauffeur_;
-      okExpress12_ = haPardonChauffeur_;
-      inWhatchaDb_ = haPardonChauffeur_;
+    if (woForgotVw_ > 0) {
+      noTalentedWherever_ = emGeographySubtle_ / woForgotVw_;
     }
-
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-
-    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
-    if (haPardonChauffeur_ || inWhatchaDb_) {
-      inWhatchaDb_ = !inWhatchaDb_;
+    hoSecludeSouth_ = doUnlikableMeadow_ + hoSecludeSouth_;
+    if (amStubbornArouse_ || mmCalshoptvWhatcha_ || woChorusFamous_) {
+      amStubbornArouse_ = !mmCalshoptvWhatcha_;
+      mmCalshoptvWhatcha_ = !woChorusFamous_;
+      woChorusFamous_ = !amStubbornArouse_;
     }
-    if (okExpress12_ || inWhatchaDb_) {
-      inWhatchaDb_ = !inWhatchaDb_;
+    if (noTalentedWherever_ > 0) {
+      emGeographySubtle_ = woForgotVw_ / noTalentedWherever_;
     }
+    doUnlikableMeadow_ = hoSecludeSouth_.toUpperCase() + doUnlikableMeadow_;
+    noTalentedWherever_ = woForgotVw_ * emGeographySubtle_;
 
-    if (inWhatchaDb_ && myBoobShove_) {
-      haPardonChauffeur_ = !haPardonChauffeur_;
+    if (noTalentedWherever_ > emGeographySubtle_) {
+      woForgotVw_ = emGeographySubtle_ - noTalentedWherever_;
+    } else {
+      woForgotVw_ = noTalentedWherever_ - emGeographySubtle_;
     }
   }
 

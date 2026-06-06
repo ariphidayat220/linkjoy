@@ -5,79 +5,78 @@ import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:get/get.dart';
 
 class LinkjoyIcemanWailSpitHand extends GetxController {
-  bool anVacuumTrained_ = true;
-  bool doCriticizeHamster_ = true;
-  bool abNearlyWhatcha_ = false;
-  int idBarrely_ = 18;
-  String weStubbornSatellite_ = "";
-  bool moCeleryFluke_ = true;
+  bool meConvictPete_ = false;
+  bool maByImmune_ = true;
+  bool etFixBiological_ = false;
+  int asUpperThankfully_ = 0;
+  String faOnMandatory_ = "";
+  bool ofJammiesStewart_ = false;
 
-  void adItMissile() {
-    if (doCriticizeHamster_) {
-      anVacuumTrained_ = !abNearlyWhatcha_;
+  void edDirectionTask() {
+    if (maByImmune_ && ofJammiesStewart_ && etFixBiological_) {
+      maByImmune_ = !maByImmune_;
+      ofJammiesStewart_ = maByImmune_;
+      etFixBiological_ = maByImmune_;
     }
+    etFixBiological_ = maByImmune_ && meConvictPete_;
+    ofJammiesStewart_ = meConvictPete_ || etFixBiological_;
+    if (asUpperThankfully_ > 0) {
+      asUpperThankfully_ = asUpperThankfully_ - 6;
+    }
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
 
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    asUpperThankfully_ = 31;
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
 
-    moCeleryFluke_ = doCriticizeHamster_ || abNearlyWhatcha_;
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
 
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    idBarrely_ = 17;
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    asUpperThankfully_ = asUpperThankfully_ + 1;
+    asUpperThankfully_ = asUpperThankfully_ + 1;
+
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
   }
 
-  void heSpenderMac() {
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    if (idBarrely_ > 0) {
-      idBarrely_ = idBarrely_ - 3;
-    }
-    if (moCeleryFluke_) {
-      abNearlyWhatcha_ = !anVacuumTrained_;
-    }
-    if (abNearlyWhatcha_) {
-      anVacuumTrained_ = !doCriticizeHamster_;
-    }
+  void atCircusTuck() {
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    asUpperThankfully_ = asUpperThankfully_ + 1;
+    meConvictPete_ = ofJammiesStewart_ && maByImmune_;
 
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    if (etFixBiological_) {
+      meConvictPete_ = !ofJammiesStewart_;
+    }
+    if (asUpperThankfully_ > 0) {
+      asUpperThankfully_ = asUpperThankfully_ - 9;
+    }
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    if (ofJammiesStewart_ && meConvictPete_) {
+      etFixBiological_ = !etFixBiological_;
+    }
+    asUpperThankfully_ = 65;
+
+    asUpperThankfully_ = 38;
+    if (etFixBiological_) {
+      ofJammiesStewart_ = !maByImmune_;
+    }
+    if (etFixBiological_ || meConvictPete_) {
+      meConvictPete_ = !meConvictPete_;
+    }
+    asUpperThankfully_ = 7;
   }
 
-  void efDegrasseBop() {
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    if (idBarrely_ > 0) {
-      idBarrely_ = idBarrely_ - 7;
+  void asHaitiVacuum() {
+    asUpperThankfully_ = 40;
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    faOnMandatory_ = faOnMandatory_.toUpperCase();
+    if (asUpperThankfully_ > 0) {
+      asUpperThankfully_ = asUpperThankfully_ - 2;
     }
-    idBarrely_ = 12;
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    if (idBarrely_ > 0) {
-      idBarrely_ = idBarrely_ - 2;
-    }
-    if (anVacuumTrained_ || abNearlyWhatcha_) {
-      abNearlyWhatcha_ = !abNearlyWhatcha_;
-    }
-
-    if (abNearlyWhatcha_ || anVacuumTrained_) {
-      anVacuumTrained_ = !anVacuumTrained_;
-    }
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-
-    idBarrely_ = idBarrely_ + 1;
-    if (anVacuumTrained_ || moCeleryFluke_ || abNearlyWhatcha_) {
-      anVacuumTrained_ = !moCeleryFluke_;
-      moCeleryFluke_ = !abNearlyWhatcha_;
-      abNearlyWhatcha_ = !anVacuumTrained_;
-    }
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    if (moCeleryFluke_ || abNearlyWhatcha_) {
-      abNearlyWhatcha_ = !abNearlyWhatcha_;
-    }
-
-    if (idBarrely_ > 0) {
-      idBarrely_ = idBarrely_ - 8;
-    }
-    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
-    anVacuumTrained_ = doCriticizeHamster_ && abNearlyWhatcha_;
+    asUpperThankfully_ = 72;
+    asUpperThankfully_ = asUpperThankfully_ + 1;
+    meConvictPete_ = etFixBiological_ && ofJammiesStewart_;
   }
 
   late LinkjoyIcemanWailSpitJaw arguments;

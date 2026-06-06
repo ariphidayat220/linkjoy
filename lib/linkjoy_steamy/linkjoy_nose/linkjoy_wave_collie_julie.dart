@@ -3,83 +3,89 @@ import 'package:get/get.dart';
 import 'linkjoy_wave_collie_hand.dart';
 
 class LinkjoyWaveCollieJulie extends Bindings {
-  int anBurtonJohn_ = 0;
-  bool isLadderTail_ = false;
-  String etWarlordGreen_ = "";
-  bool miMushyChopstick_ = false;
-  double odFastenTumbler_ = 2;
-  bool heTonyTorment_ = false;
-  bool owSaladAlike_ = true;
-  bool okFailEmbarrass_ = false;
-  int ayHarpistThrilled_ = 32;
-  bool efGreatTerror_ = false;
+  bool abCocktailSmear_ = true;
+  int idHaterSphincter_ = 91;
+  double goMoleFondness_ = 36;
+  bool reBrawnyPopsicle_ = true;
+  bool osCraftFasten_ = true;
+  String myBrideVulcan_ = "";
 
-  void meDummyGodfather() {
-    owSaladAlike_ = efGreatTerror_ && isLadderTail_;
-    if (okFailEmbarrass_ || miMushyChopstick_) {
-      miMushyChopstick_ = !miMushyChopstick_;
+  void abGradBeating() {
+    idHaterSphincter_ = idHaterSphincter_ + 1;
+    reBrawnyPopsicle_ = abCocktailSmear_ && osCraftFasten_;
+    osCraftFasten_ = reBrawnyPopsicle_ && abCocktailSmear_;
+    osCraftFasten_ = abCocktailSmear_ && reBrawnyPopsicle_;
+    goMoleFondness_ = 10;
+    if (abCocktailSmear_ && osCraftFasten_) {
+      reBrawnyPopsicle_ = !reBrawnyPopsicle_;
     }
-    anBurtonJohn_ = 96;
-    ayHarpistThrilled_ = 11;
-    if (okFailEmbarrass_) {
-      miMushyChopstick_ = !owSaladAlike_;
+    reBrawnyPopsicle_ = osCraftFasten_ && abCocktailSmear_;
+    if (idHaterSphincter_ > 0) {
+      idHaterSphincter_ = idHaterSphincter_ - 6;
     }
-    if (odFastenTumbler_ > 0) {
-      odFastenTumbler_ = odFastenTumbler_ - 1;
+    idHaterSphincter_ = idHaterSphincter_ + 1;
+    osCraftFasten_ = abCocktailSmear_ && reBrawnyPopsicle_;
+    if (idHaterSphincter_ > 0) {
+      idHaterSphincter_ = idHaterSphincter_ - 4;
     }
-    if (owSaladAlike_ && miMushyChopstick_ && efGreatTerror_) {
-      owSaladAlike_ = !owSaladAlike_;
-      miMushyChopstick_ = owSaladAlike_;
-      efGreatTerror_ = owSaladAlike_;
+    if (goMoleFondness_ > 0) {
+      goMoleFondness_ = goMoleFondness_ - 1;
     }
-    odFastenTumbler_ = 26;
-    anBurtonJohn_ = 88;
-    ayHarpistThrilled_ = 53;
-    miMushyChopstick_ = isLadderTail_ || efGreatTerror_;
+    goMoleFondness_ = goMoleFondness_ + 1;
+    osCraftFasten_ = abCocktailSmear_ && reBrawnyPopsicle_;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    if (abCocktailSmear_ && reBrawnyPopsicle_) {
+      osCraftFasten_ = !osCraftFasten_;
+    }
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    idHaterSphincter_ = idHaterSphincter_ + 1;
   }
 
-  void maChlorineSon() {
-    odFastenTumbler_ = odFastenTumbler_ + 1;
-    if (odFastenTumbler_ > 0) {
-      odFastenTumbler_ = odFastenTumbler_ - 1;
+  void moLightbulbNoodle() {
+    if (goMoleFondness_ > 0) {
+      goMoleFondness_ = goMoleFondness_ - 1;
     }
-    if (owSaladAlike_ && efGreatTerror_ && isLadderTail_) {
-      owSaladAlike_ = !owSaladAlike_;
-      efGreatTerror_ = owSaladAlike_;
-      isLadderTail_ = owSaladAlike_;
+    if (abCocktailSmear_ && reBrawnyPopsicle_) {
+      osCraftFasten_ = !osCraftFasten_;
     }
-    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
-    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
+    if (goMoleFondness_ > 0) {
+      goMoleFondness_ = goMoleFondness_ - 1;
+    }
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    goMoleFondness_ = 2;
+    idHaterSphincter_ = 63;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    abCocktailSmear_ = osCraftFasten_ && reBrawnyPopsicle_;
+    if (idHaterSphincter_ > 0) {
+      idHaterSphincter_ = idHaterSphincter_ - 8;
+    }
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    goMoleFondness_ = 35;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    idHaterSphincter_ = idHaterSphincter_ + 1;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    goMoleFondness_ = goMoleFondness_ + 1;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
   }
 
-  void osWarmthPresident() {
-    if (owSaladAlike_ || efGreatTerror_) {
-      efGreatTerror_ = !efGreatTerror_;
+  void hiFalconNumb() {
+    if (osCraftFasten_ || abCocktailSmear_) {
+      abCocktailSmear_ = !abCocktailSmear_;
     }
-    if (anBurtonJohn_ > ayHarpistThrilled_) {
-      anBurtonJohn_ = anBurtonJohn_ + ayHarpistThrilled_;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    goMoleFondness_ = goMoleFondness_ + 1;
+    goMoleFondness_ = goMoleFondness_ + 1;
+    reBrawnyPopsicle_ = abCocktailSmear_ && osCraftFasten_;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    if (goMoleFondness_ > 0) {
+      goMoleFondness_ = goMoleFondness_ - 1;
     }
-    if (miMushyChopstick_ || efGreatTerror_) {
-      efGreatTerror_ = !efGreatTerror_;
-    }
-    owSaladAlike_ = isLadderTail_ || miMushyChopstick_;
-    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
-    odFastenTumbler_ = 66;
-    anBurtonJohn_ = 93;
-    ayHarpistThrilled_ = 16;
-    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
-    odFastenTumbler_ = 93;
-    anBurtonJohn_ = anBurtonJohn_ * ayHarpistThrilled_;
-    if (miMushyChopstick_ || okFailEmbarrass_) {
-      okFailEmbarrass_ = !okFailEmbarrass_;
-    }
-    if (heTonyTorment_) {
-      owSaladAlike_ = !miMushyChopstick_;
-    }
-    if (odFastenTumbler_ > 0) {
-      odFastenTumbler_ = odFastenTumbler_ - 1;
-    }
-    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
+    reBrawnyPopsicle_ = osCraftFasten_ || abCocktailSmear_;
+    myBrideVulcan_ = myBrideVulcan_.toUpperCase();
+    idHaterSphincter_ = 33;
   }
 
   @override

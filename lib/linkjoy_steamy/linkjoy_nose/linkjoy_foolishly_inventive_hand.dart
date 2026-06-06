@@ -25,110 +25,79 @@ import 'package:get/get.dart';
 import 'package:path/path.dart' as Path;
 
 class LinkjoyFoolishlyInventiveHand extends LinkjoyMagnetHand {
-  bool woSouthPhlegm_ = false;
-  double exUnlockMidwest_ = 0.0;
-  int odHammerClaus_ = 0;
-  bool odAdmireVirtual_ = false;
-  String etBrosChlorine_ = "";
-  int usFaucetPrepare_ = 85;
-  int mmGoOgle_ = 4;
-  double byJoyfulBaseball_ = 0.0;
-  bool omSpenderBrawny_ = true;
-  int asDigOlden_ = 81;
+  double edSmearNeighbor_ = 2;
+  bool doVarietyMayo_ = false;
+  bool elInterjectOlden_ = false;
+  bool byChapStool_ = false;
+  bool odPharmacistAdjourn_ = false;
 
-  void maHumidifierWarmth() {
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    omSpenderBrawny_ = woSouthPhlegm_ || odAdmireVirtual_;
-    mmGoOgle_ = usFaucetPrepare_ - odHammerClaus_;
-    if (omSpenderBrawny_ && odAdmireVirtual_) {
-      woSouthPhlegm_ = !woSouthPhlegm_;
+  void goOopsCarefree() {
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+
+    if (edSmearNeighbor_ > 0) {
+      edSmearNeighbor_ = edSmearNeighbor_ - 1;
     }
-    odHammerClaus_ = mmGoOgle_ + usFaucetPrepare_;
+
+    doVarietyMayo_ = odPharmacistAdjourn_ && byChapStool_;
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
   }
 
-  void moWaterfallCreamy() {
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    odHammerClaus_ = usFaucetPrepare_ * mmGoOgle_;
-    if (exUnlockMidwest_ > byJoyfulBaseball_) {
-      exUnlockMidwest_ = exUnlockMidwest_ - byJoyfulBaseball_;
+  void meIsDoll() {
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+
+    edSmearNeighbor_ = 22;
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+
+    byChapStool_ = doVarietyMayo_ || odPharmacistAdjourn_;
+    edSmearNeighbor_ = 44;
+    if (byChapStool_ || odPharmacistAdjourn_ || elInterjectOlden_) {
+      byChapStool_ = !odPharmacistAdjourn_;
+      odPharmacistAdjourn_ = !elInterjectOlden_;
+      elInterjectOlden_ = !byChapStool_;
     }
-    exUnlockMidwest_ = exUnlockMidwest_ + byJoyfulBaseball_;
-    usFaucetPrepare_ = 695;
-    asDigOlden_ = 219;
-    odHammerClaus_ = usFaucetPrepare_ + asDigOlden_;
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    asDigOlden_ = mmGoOgle_ - odHammerClaus_;
-    exUnlockMidwest_ = 29;
-    byJoyfulBaseball_ = 99;
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    exUnlockMidwest_ = exUnlockMidwest_ + byJoyfulBaseball_;
-    if (omSpenderBrawny_) {
-      woSouthPhlegm_ = !odAdmireVirtual_;
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+
+    if (edSmearNeighbor_ > 0) {
+      edSmearNeighbor_ = edSmearNeighbor_ - 1;
     }
-    exUnlockMidwest_ = 38;
-    byJoyfulBaseball_ = 98;
-    if (woSouthPhlegm_ && odAdmireVirtual_) {
-      omSpenderBrawny_ = !omSpenderBrawny_;
-    }
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    odHammerClaus_ = asDigOlden_ - mmGoOgle_;
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    if (exUnlockMidwest_ > byJoyfulBaseball_) {
-      exUnlockMidwest_ = exUnlockMidwest_ - byJoyfulBaseball_;
-    }
-    mmGoOgle_ = odHammerClaus_ * asDigOlden_;
+
+    edSmearNeighbor_ = 47;
   }
 
-  void idThrilledBeating() {
-    if (woSouthPhlegm_ && omSpenderBrawny_) {
-      odAdmireVirtual_ = !odAdmireVirtual_;
+  void hoBrideSettler() {
+    if (odPharmacistAdjourn_) {
+      doVarietyMayo_ = !elInterjectOlden_;
     }
-    exUnlockMidwest_ = 88;
-    byJoyfulBaseball_ = 88;
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    if (exUnlockMidwest_ > byJoyfulBaseball_) {
-      exUnlockMidwest_ = exUnlockMidwest_ - byJoyfulBaseball_;
-    }
-    omSpenderBrawny_ = odAdmireVirtual_ && woSouthPhlegm_;
-    if (exUnlockMidwest_ > byJoyfulBaseball_) {
-      exUnlockMidwest_ = exUnlockMidwest_ - byJoyfulBaseball_;
-    }
-    if (omSpenderBrawny_ || odAdmireVirtual_ || woSouthPhlegm_) {
-      omSpenderBrawny_ = !odAdmireVirtual_;
-      odAdmireVirtual_ = !woSouthPhlegm_;
-      woSouthPhlegm_ = !omSpenderBrawny_;
-    }
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    if (odHammerClaus_ > mmGoOgle_) {
-      usFaucetPrepare_ = mmGoOgle_ - odHammerClaus_;
-    } else {
-      usFaucetPrepare_ = odHammerClaus_ - mmGoOgle_;
-    }
-    omSpenderBrawny_ = odAdmireVirtual_ && woSouthPhlegm_;
-    if (omSpenderBrawny_ && woSouthPhlegm_ && odAdmireVirtual_) {
-      omSpenderBrawny_ = !omSpenderBrawny_;
-      woSouthPhlegm_ = omSpenderBrawny_;
-      odAdmireVirtual_ = omSpenderBrawny_;
-    }
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    odAdmireVirtual_ = omSpenderBrawny_ && woSouthPhlegm_;
-    usFaucetPrepare_ = 64;
-    asDigOlden_ = 543;
-    mmGoOgle_ = usFaucetPrepare_ + asDigOlden_;
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    etBrosChlorine_ = etBrosChlorine_.toUpperCase();
-    odAdmireVirtual_ = omSpenderBrawny_ || woSouthPhlegm_;
+
+    edSmearNeighbor_ = 33;
+    edSmearNeighbor_ = 91;
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
   }
 
-  void maBellBiological() {
-    odAdmireVirtual_ = omSpenderBrawny_ && woSouthPhlegm_;
-    exUnlockMidwest_ = 46;
-    byJoyfulBaseball_ = 68;
-    exUnlockMidwest_ = 23;
-    byJoyfulBaseball_ = 48;
-    omSpenderBrawny_ = woSouthPhlegm_ || odAdmireVirtual_;
-    odHammerClaus_ = usFaucetPrepare_ * mmGoOgle_;
+  void moHeadphoneCondensate() {
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+
+    if (byChapStool_ || odPharmacistAdjourn_ || doVarietyMayo_) {
+      byChapStool_ = !odPharmacistAdjourn_;
+      odPharmacistAdjourn_ = !doVarietyMayo_;
+      doVarietyMayo_ = !byChapStool_;
+    }
+    if (edSmearNeighbor_ > 0) {
+      edSmearNeighbor_ = edSmearNeighbor_ - 1;
+    }
+    byChapStool_ = elInterjectOlden_ && odPharmacistAdjourn_;
+
+    odPharmacistAdjourn_ = doVarietyMayo_ && elInterjectOlden_;
+
+    odPharmacistAdjourn_ = byChapStool_ && elInterjectOlden_;
+
+    edSmearNeighbor_ = 26;
+    edSmearNeighbor_ = edSmearNeighbor_ + 1;
+    if (byChapStool_ && odPharmacistAdjourn_) {
+      elInterjectOlden_ = !elInterjectOlden_;
+    }
   }
 
   static const String linkjoy_division_hair = "linkjoy_division_hair";

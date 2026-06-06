@@ -3,74 +3,96 @@ import 'package:get/get.dart';
 import 'linkjoy_crawford_saver_hand.dart';
 
 class LinkjoyCrawfordSaverJulie extends Bindings {
-  String miPassionateTrademark_ = "";
-  bool meObsessedCanada_ = false;
-  bool beElevenFlaky_ = false;
-  String paHorsEggs_ = "";
-  String emSterilizeCope_ = "";
-  bool doMediocreBrochure_ = false;
-  double edViciousDecide_ = 78;
+  bool heSprayHateful_ = false;
+  int soKetchupSoda_ = 1;
+  bool ofMuseProtection_ = true;
+  bool odLifeSmack_ = true;
 
-  void maTaleStatus() {
-    if (meObsessedCanada_ && doMediocreBrochure_) {
-      beElevenFlaky_ = !beElevenFlaky_;
-    }
-    if (meObsessedCanada_ && doMediocreBrochure_ && beElevenFlaky_) {
-      meObsessedCanada_ = !meObsessedCanada_;
-      doMediocreBrochure_ = meObsessedCanada_;
-      beElevenFlaky_ = meObsessedCanada_;
-    }
-    if (meObsessedCanada_ && beElevenFlaky_) {
-      doMediocreBrochure_ = !doMediocreBrochure_;
-    }
-    if (doMediocreBrochure_ && beElevenFlaky_ && meObsessedCanada_) {
-      doMediocreBrochure_ = !doMediocreBrochure_;
-      beElevenFlaky_ = doMediocreBrochure_;
-      meObsessedCanada_ = doMediocreBrochure_;
-    }
-    if (beElevenFlaky_) {
-      doMediocreBrochure_ = !meObsessedCanada_;
+  void ahUptightTennis() {
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 8;
     }
   }
 
-  void itUpsideMouse() {
-    meObsessedCanada_ = beElevenFlaky_ && doMediocreBrochure_;
-    edViciousDecide_ = 81;
-    edViciousDecide_ = 85;
-    if (emSterilizeCope_.length > 3) {
-      paHorsEggs_ = emSterilizeCope_;
-    } else {
-      miPassionateTrademark_ = paHorsEggs_;
+  void omForgiveChore() {
+    if (ofMuseProtection_ || heSprayHateful_) {
+      heSprayHateful_ = !heSprayHateful_;
     }
-    edViciousDecide_ = edViciousDecide_ + 1;
-    edViciousDecide_ = edViciousDecide_ + 1;
 
-    if (edViciousDecide_ > 0) {
-      edViciousDecide_ = edViciousDecide_ - 1;
+    if (odLifeSmack_ && ofMuseProtection_ && heSprayHateful_) {
+      odLifeSmack_ = !odLifeSmack_;
+      ofMuseProtection_ = odLifeSmack_;
+      heSprayHateful_ = odLifeSmack_;
     }
-    if (beElevenFlaky_) {
-      doMediocreBrochure_ = !meObsessedCanada_;
+
+    if (odLifeSmack_) {
+      heSprayHateful_ = !ofMuseProtection_;
     }
-    paHorsEggs_ = miPassionateTrademark_;
-    emSterilizeCope_ = paHorsEggs_;
-    miPassionateTrademark_ = emSterilizeCope_;
+    soKetchupSoda_ = 8;
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 8;
+    }
+    if (ofMuseProtection_ && heSprayHateful_) {
+      odLifeSmack_ = !odLifeSmack_;
+    }
+
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 3;
+    }
+
+    if (odLifeSmack_ && heSprayHateful_ && ofMuseProtection_) {
+      odLifeSmack_ = !odLifeSmack_;
+      heSprayHateful_ = odLifeSmack_;
+      ofMuseProtection_ = odLifeSmack_;
+    }
   }
 
-  void mmDuckyShorten() {
-    if (doMediocreBrochure_) {
-      beElevenFlaky_ = !meObsessedCanada_;
+  void adChitchatTight() {
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 9;
     }
-    edViciousDecide_ = 25;
-    if (edViciousDecide_ > 0) {
-      edViciousDecide_ = edViciousDecide_ - 1;
+
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 6;
     }
-    if (edViciousDecide_ > 0) {
-      edViciousDecide_ = edViciousDecide_ - 1;
+
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+
+    soKetchupSoda_ = 41;
+  }
+
+  void loAncestorUnlock() {
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+    if (ofMuseProtection_ && heSprayHateful_ && odLifeSmack_) {
+      ofMuseProtection_ = !ofMuseProtection_;
+      heSprayHateful_ = ofMuseProtection_;
+      odLifeSmack_ = ofMuseProtection_;
     }
-    if (edViciousDecide_ > 0) {
-      edViciousDecide_ = edViciousDecide_ - 1;
+
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 6;
     }
-    miPassionateTrademark_ = emSterilizeCope_ + paHorsEggs_;
+    soKetchupSoda_ = soKetchupSoda_ + 1;
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 6;
+    }
+    soKetchupSoda_ = 38;
+
+    if (soKetchupSoda_ > 0) {
+      soKetchupSoda_ = soKetchupSoda_ - 7;
+    }
+
+    if (ofMuseProtection_ || heSprayHateful_ || odLifeSmack_) {
+      ofMuseProtection_ = !heSprayHateful_;
+      heSprayHateful_ = !odLifeSmack_;
+      odLifeSmack_ = !ofMuseProtection_;
+    }
   }
 
   @override

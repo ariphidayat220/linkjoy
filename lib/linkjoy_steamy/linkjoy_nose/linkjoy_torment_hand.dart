@@ -14,135 +14,83 @@ import 'package:get/get.dart';
 
 class LinkjoyTormentHand extends LinkjoyMagnetHormoneHand
     with GetSingleTickerProviderStateMixin {
-  String ayUnEye_ = "";
-  bool etWarrenForgot_ = true;
-  bool etJoyfulCocaine_ = true;
-  bool aySettlerCrotch_ = false;
-  double paHammerBible_ = 33;
-  String ayChafeAbove_ = "";
-  bool opPinFlip_ = true;
-  int ifEnforceCharge_ = 0;
-  String taOglePlay_ = "";
+  int exAnkleInfection_ = 78;
+  bool miUpsideCount_ = true;
+  String exSheetMushy_ = "";
+  bool weSoftOf_ = false;
+  bool reSpitColombia_ = false;
+  bool goBleacherUnlock_ = true;
 
-  void ifGeneticTask() {
-    ifEnforceCharge_ = 63;
-    if (paHammerBible_ > 0) {
-      paHammerBible_ = paHammerBible_ - 1;
+  void etCondensateBlossom() {
+    exAnkleInfection_ = exAnkleInfection_ + 1;
+    if (miUpsideCount_ || reSpitColombia_ || goBleacherUnlock_) {
+      miUpsideCount_ = !reSpitColombia_;
+      reSpitColombia_ = !goBleacherUnlock_;
+      goBleacherUnlock_ = !miUpsideCount_;
     }
-    if (taOglePlay_.length > 4) {
-      ayChafeAbove_ = taOglePlay_;
-    } else {
-      ayUnEye_ = ayChafeAbove_;
+    if (weSoftOf_ && miUpsideCount_ && goBleacherUnlock_) {
+      weSoftOf_ = !weSoftOf_;
+      miUpsideCount_ = weSoftOf_;
+      goBleacherUnlock_ = weSoftOf_;
     }
-    paHammerBible_ = paHammerBible_ + 1;
-    paHammerBible_ = paHammerBible_ + 1;
-    paHammerBible_ = paHammerBible_ + 1;
-    if (taOglePlay_.length > 4) {
-      ayUnEye_ = taOglePlay_;
-    } else {
-      ayChafeAbove_ = ayUnEye_;
+    if (exAnkleInfection_ > 0) {
+      exAnkleInfection_ = exAnkleInfection_ - 2;
     }
-    paHammerBible_ = 91;
-    ayChafeAbove_ = taOglePlay_;
-    ayUnEye_ = taOglePlay_;
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+
+    if (reSpitColombia_ || goBleacherUnlock_ || miUpsideCount_) {
+      reSpitColombia_ = !goBleacherUnlock_;
+      goBleacherUnlock_ = !miUpsideCount_;
+      miUpsideCount_ = !reSpitColombia_;
+    }
+    exAnkleInfection_ = 43;
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+    exAnkleInfection_ = 15;
   }
 
-  void soTuckDirection() {
-    ifEnforceCharge_ = ifEnforceCharge_ + 1;
-    paHammerBible_ = 13;
-    if (aySettlerCrotch_) {
-      etWarrenForgot_ = !etJoyfulCocaine_;
+  void opMidwestImpart() {
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+    exAnkleInfection_ = 58;
+    if (miUpsideCount_ && reSpitColombia_ && weSoftOf_) {
+      miUpsideCount_ = !miUpsideCount_;
+      reSpitColombia_ = miUpsideCount_;
+      weSoftOf_ = miUpsideCount_;
     }
-    paHammerBible_ = 36;
-    if (opPinFlip_ && aySettlerCrotch_ && etJoyfulCocaine_) {
-      opPinFlip_ = !opPinFlip_;
-      aySettlerCrotch_ = opPinFlip_;
-      etJoyfulCocaine_ = opPinFlip_;
+    exAnkleInfection_ = exAnkleInfection_ + 1;
+    if (goBleacherUnlock_ && miUpsideCount_ && reSpitColombia_) {
+      goBleacherUnlock_ = !goBleacherUnlock_;
+      miUpsideCount_ = goBleacherUnlock_;
+      reSpitColombia_ = goBleacherUnlock_;
     }
-    if (etWarrenForgot_ || etJoyfulCocaine_ || aySettlerCrotch_) {
-      etWarrenForgot_ = !etJoyfulCocaine_;
-      etJoyfulCocaine_ = !aySettlerCrotch_;
-      aySettlerCrotch_ = !etWarrenForgot_;
-    }
-    if (etWarrenForgot_ && aySettlerCrotch_ && opPinFlip_) {
-      etWarrenForgot_ = !etWarrenForgot_;
-      aySettlerCrotch_ = etWarrenForgot_;
-      opPinFlip_ = etWarrenForgot_;
-    }
-    ayUnEye_ = taOglePlay_;
-    ayChafeAbove_ = ayUnEye_;
-    taOglePlay_ = ayChafeAbove_;
-    ayUnEye_ = taOglePlay_;
-    ayChafeAbove_ = taOglePlay_;
-    etJoyfulCocaine_ = etWarrenForgot_ && opPinFlip_;
   }
 
-  void exrWaterfall() {
-    if (ifEnforceCharge_ > 0) {
-      ifEnforceCharge_ = ifEnforceCharge_ - 4;
-    }
-    if (etJoyfulCocaine_ || opPinFlip_ || aySettlerCrotch_) {
-      etJoyfulCocaine_ = !opPinFlip_;
-      opPinFlip_ = !aySettlerCrotch_;
-      aySettlerCrotch_ = !etJoyfulCocaine_;
-    }
-    if (ayChafeAbove_.length > 3) {
-      taOglePlay_ = ayChafeAbove_;
-    } else {
-      ayUnEye_ = taOglePlay_;
-    }
-    if (paHammerBible_ > 0) {
-      paHammerBible_ = paHammerBible_ - 1;
-    }
-    ifEnforceCharge_ = 89;
-    ifEnforceCharge_ = ifEnforceCharge_ + 1;
-    if (paHammerBible_ > 0) {
-      paHammerBible_ = paHammerBible_ - 1;
-    }
-    paHammerBible_ = 23;
-    taOglePlay_ = ayUnEye_;
-    ayChafeAbove_ = taOglePlay_;
-    ayUnEye_ = ayChafeAbove_;
-    taOglePlay_ = ayChafeAbove_;
-    ayUnEye_ = taOglePlay_;
-    ayChafeAbove_ = ayUnEye_;
-    ifEnforceCharge_ = 65;
-    paHammerBible_ = 23;
-    ayUnEye_ = taOglePlay_ + ayChafeAbove_;
-    taOglePlay_ = ayChafeAbove_ + ayUnEye_;
-    ifEnforceCharge_ = 84;
-    if (ayUnEye_.length > 8) {
-      ayChafeAbove_ = ayUnEye_;
-    } else {
-      taOglePlay_ = ayChafeAbove_;
-    }
-    etJoyfulCocaine_ = opPinFlip_ || etWarrenForgot_;
-  }
+  void paElectPrepare() {
+    reSpitColombia_ = goBleacherUnlock_ && weSoftOf_;
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
+    goBleacherUnlock_ = reSpitColombia_ && weSoftOf_;
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
 
-  void okSterilizeSexual() {
-    if (paHammerBible_ > 0) {
-      paHammerBible_ = paHammerBible_ - 1;
+    exAnkleInfection_ = 97;
+    exAnkleInfection_ = 8;
+    exAnkleInfection_ = exAnkleInfection_ + 1;
+    if (miUpsideCount_ || weSoftOf_) {
+      weSoftOf_ = !weSoftOf_;
     }
-    ifEnforceCharge_ = 15;
-    ifEnforceCharge_ = ifEnforceCharge_ + 1;
-    if (etWarrenForgot_ || opPinFlip_ || aySettlerCrotch_) {
-      etWarrenForgot_ = !opPinFlip_;
-      opPinFlip_ = !aySettlerCrotch_;
-      aySettlerCrotch_ = !etWarrenForgot_;
+
+    reSpitColombia_ = weSoftOf_ || miUpsideCount_;
+    if (weSoftOf_ && goBleacherUnlock_ && reSpitColombia_) {
+      weSoftOf_ = !weSoftOf_;
+      goBleacherUnlock_ = weSoftOf_;
+      reSpitColombia_ = weSoftOf_;
     }
-    ayUnEye_ = ayChafeAbove_;
-    taOglePlay_ = ayChafeAbove_;
-    ayUnEye_ = taOglePlay_;
-    ayChafeAbove_ = taOglePlay_;
-    ifEnforceCharge_ = ifEnforceCharge_ + 1;
-    ifEnforceCharge_ = 79;
-    ayUnEye_ = taOglePlay_;
-    ayChafeAbove_ = taOglePlay_;
-    if (aySettlerCrotch_ && opPinFlip_ && etWarrenForgot_) {
-      aySettlerCrotch_ = !aySettlerCrotch_;
-      opPinFlip_ = aySettlerCrotch_;
-      etWarrenForgot_ = aySettlerCrotch_;
-    }
+
+    reSpitColombia_ = weSoftOf_ && goBleacherUnlock_;
+    exAnkleInfection_ = 51;
+    exSheetMushy_ = exSheetMushy_.toUpperCase();
   }
 
   static const String linkjoy_fetus_hotshot = "linkjoy_fetus_hotshot";

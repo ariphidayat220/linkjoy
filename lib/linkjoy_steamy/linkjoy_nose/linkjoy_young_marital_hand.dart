@@ -8,63 +8,87 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyYoungMaritalHand extends LinkjoyMagnetHormoneHand {
-  bool isBeyondHighly_ = false;
-  bool adyBonjour_ = true;
-  bool elAppreciateFollower_ = true;
-  String owCheckoutCount_ = "";
-  String soC2Chihuahua_ = "";
+  bool or7Germany_ = true;
+  bool itCompletionHairless_ = true;
+  bool hoBinocularsTurbulence_ = false;
+  double orBurtonGuatemala_ = 35;
+  bool byBonMallet_ = false;
+  double paCapacityAdapt_ = 52;
+  bool woHepatitisIt_ = true;
 
-  void usPlungeCruel() {
-    if (adyBonjour_ && elAppreciateFollower_ && isBeyondHighly_) {
-      adyBonjour_ = !adyBonjour_;
-      elAppreciateFollower_ = adyBonjour_;
-      isBeyondHighly_ = adyBonjour_;
+  void siHandshakeSoothe() {
+    if (woHepatitisIt_) {
+      itCompletionHairless_ = !hoBinocularsTurbulence_;
     }
 
-    elAppreciateFollower_ = isBeyondHighly_ || adyBonjour_;
+    if (or7Germany_ || itCompletionHairless_ || byBonMallet_) {
+      or7Germany_ = !itCompletionHairless_;
+      itCompletionHairless_ = !byBonMallet_;
+      byBonMallet_ = !or7Germany_;
+    }
 
-    elAppreciateFollower_ = adyBonjour_ && isBeyondHighly_;
-    soC2Chihuahua_ = owCheckoutCount_.toUpperCase() + soC2Chihuahua_;
+    if (itCompletionHairless_ && byBonMallet_) {
+      hoBinocularsTurbulence_ = !hoBinocularsTurbulence_;
+    }
 
-    if (adyBonjour_ && elAppreciateFollower_ && isBeyondHighly_) {
-      adyBonjour_ = !adyBonjour_;
-      elAppreciateFollower_ = adyBonjour_;
-      isBeyondHighly_ = adyBonjour_;
+    orBurtonGuatemala_ = orBurtonGuatemala_ + paCapacityAdapt_;
+
+    orBurtonGuatemala_ = 58;
+    paCapacityAdapt_ = 47;
+
+    orBurtonGuatemala_ = 52;
+    paCapacityAdapt_ = 81;
+  }
+
+  void haPhillipsBarkley() {
+    if (orBurtonGuatemala_ > paCapacityAdapt_) {
+      orBurtonGuatemala_ = orBurtonGuatemala_ - paCapacityAdapt_;
+    }
+
+    if (itCompletionHairless_ && or7Germany_ && hoBinocularsTurbulence_) {
+      itCompletionHairless_ = !itCompletionHairless_;
+      or7Germany_ = itCompletionHairless_;
+      hoBinocularsTurbulence_ = itCompletionHairless_;
+    }
+    if (itCompletionHairless_) {
+      or7Germany_ = !hoBinocularsTurbulence_;
+    }
+    if (itCompletionHairless_ || byBonMallet_) {
+      byBonMallet_ = !byBonMallet_;
     }
   }
 
-  void doNewsTennis() {
-    owCheckoutCount_ = soC2Chihuahua_ + owCheckoutCount_;
-
-    elAppreciateFollower_ = adyBonjour_ && isBeyondHighly_;
-    if (isBeyondHighly_ && adyBonjour_ && elAppreciateFollower_) {
-      isBeyondHighly_ = !isBeyondHighly_;
-      adyBonjour_ = isBeyondHighly_;
-      elAppreciateFollower_ = isBeyondHighly_;
+  void inEastVamos() {
+    if (or7Germany_ && woHepatitisIt_) {
+      byBonMallet_ = !byBonMallet_;
     }
-    owCheckoutCount_ = soC2Chihuahua_ + owCheckoutCount_;
-    if (isBeyondHighly_) {
-      adyBonjour_ = !elAppreciateFollower_;
-    }
+    orBurtonGuatemala_ = orBurtonGuatemala_ + paCapacityAdapt_;
 
-    owCheckoutCount_ = owCheckoutCount_ + soC2Chihuahua_;
-    soC2Chihuahua_ = owCheckoutCount_;
+    byBonMallet_ = or7Germany_ && hoBinocularsTurbulence_;
   }
 
-  void atHairlessKetchup() {
-    owCheckoutCount_ = owCheckoutCount_ + soC2Chihuahua_;
-    soC2Chihuahua_ = owCheckoutCount_;
-    if (isBeyondHighly_ || elAppreciateFollower_ || adyBonjour_) {
-      isBeyondHighly_ = !elAppreciateFollower_;
-      elAppreciateFollower_ = !adyBonjour_;
-      adyBonjour_ = !isBeyondHighly_;
+  void byBuzz3() {
+    if (byBonMallet_ || woHepatitisIt_ || or7Germany_) {
+      byBonMallet_ = !woHepatitisIt_;
+      woHepatitisIt_ = !or7Germany_;
+      or7Germany_ = !byBonMallet_;
+    }
+    if (orBurtonGuatemala_ > paCapacityAdapt_) {
+      orBurtonGuatemala_ = orBurtonGuatemala_ - paCapacityAdapt_;
     }
 
-    owCheckoutCount_ = owCheckoutCount_ + soC2Chihuahua_;
-    soC2Chihuahua_ = owCheckoutCount_;
+    orBurtonGuatemala_ = 65;
+    paCapacityAdapt_ = 8;
 
-    soC2Chihuahua_ = owCheckoutCount_.toUpperCase() + soC2Chihuahua_;
-    adyBonjour_ = isBeyondHighly_ || elAppreciateFollower_;
+    if (orBurtonGuatemala_ > paCapacityAdapt_) {
+      orBurtonGuatemala_ = orBurtonGuatemala_ - paCapacityAdapt_;
+    }
+
+    if (or7Germany_ || byBonMallet_) {
+      byBonMallet_ = !byBonMallet_;
+    }
+    woHepatitisIt_ = byBonMallet_ && itCompletionHairless_;
+    byBonMallet_ = or7Germany_ && woHepatitisIt_;
   }
 
   static const String linkjoy_stereotype = "linkjoy_stereotype";

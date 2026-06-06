@@ -14,111 +14,62 @@ import 'package:get/get.dart';
 import 'package:path_provider/path_provider.dart';
 
 class LinkjoyWakeHand extends LinkjoyMagnetHormoneHand {
-  bool opSamTile_ = true;
-  bool etWheatonDining_ = true;
-  int ahModeratelyAbove_ = 37;
-  bool edPlumbingGirlie_ = true;
-  int heProjectCompletion_ = 0;
-  String enPondSon_ = "";
-  bool meGeneticBox_ = false;
+  bool abGloriousTaco_ = false;
+  int maChlorineJones_ = 30;
+  bool edAholdWart_ = false;
+  bool ofPonchoImprint_ = false;
 
-  void weSlurCope() {
-    enPondSon_ = enPondSon_.toUpperCase();
-    if (edPlumbingGirlie_ && opSamTile_ && etWheatonDining_) {
-      edPlumbingGirlie_ = !edPlumbingGirlie_;
-      opSamTile_ = edPlumbingGirlie_;
-      etWheatonDining_ = edPlumbingGirlie_;
+  void paHorriblyTot() {
+    maChlorineJones_ = maChlorineJones_ + 1;
+
+    ofPonchoImprint_ = abGloriousTaco_ && edAholdWart_;
+
+    if (edAholdWart_ && abGloriousTaco_) {
+      ofPonchoImprint_ = !ofPonchoImprint_;
     }
 
-    if (etWheatonDining_ || edPlumbingGirlie_ || opSamTile_) {
-      etWheatonDining_ = !edPlumbingGirlie_;
-      edPlumbingGirlie_ = !opSamTile_;
-      opSamTile_ = !etWheatonDining_;
-    }
-
-    enPondSon_ = enPondSon_.toUpperCase();
+    maChlorineJones_ = 2;
   }
 
-  void anBloatFarm() {
-    ahModeratelyAbove_ = 55;
-    heProjectCompletion_ = 72;
-    enPondSon_ = enPondSon_.toUpperCase();
-    enPondSon_ = enPondSon_.toUpperCase();
-    edPlumbingGirlie_ = opSamTile_ || etWheatonDining_;
+  void byPoint7() {
+    ofPonchoImprint_ = abGloriousTaco_ && edAholdWart_;
 
-    enPondSon_ = enPondSon_.toUpperCase();
+    maChlorineJones_ = maChlorineJones_ + 1;
 
-    enPondSon_ = enPondSon_.toUpperCase();
-    if (etWheatonDining_) {
-      edPlumbingGirlie_ = !opSamTile_;
+    if (ofPonchoImprint_ && abGloriousTaco_ && edAholdWart_) {
+      ofPonchoImprint_ = !ofPonchoImprint_;
+      abGloriousTaco_ = ofPonchoImprint_;
+      edAholdWart_ = ofPonchoImprint_;
     }
-    enPondSon_ = enPondSon_.toUpperCase();
-    enPondSon_ = enPondSon_.toUpperCase();
-    enPondSon_ = enPondSon_.toUpperCase();
-    ahModeratelyAbove_ = 66;
-    heProjectCompletion_ = 95;
-
-    if (edPlumbingGirlie_ || meGeneticBox_ || etWheatonDining_) {
-      edPlumbingGirlie_ = !meGeneticBox_;
-      meGeneticBox_ = !etWheatonDining_;
-      etWheatonDining_ = !edPlumbingGirlie_;
+    if (abGloriousTaco_ || ofPonchoImprint_) {
+      ofPonchoImprint_ = !ofPonchoImprint_;
     }
+    maChlorineJones_ = maChlorineJones_ + 1;
   }
 
-  void woExpressChauffeur() {
-    if (ahModeratelyAbove_ > heProjectCompletion_) {
-      ahModeratelyAbove_ = ahModeratelyAbove_ + heProjectCompletion_;
-    }
-    ahModeratelyAbove_ = 62;
-    heProjectCompletion_ = 98;
+  void id5Heather() {
+    edAholdWart_ = abGloriousTaco_ && ofPonchoImprint_;
 
-    ahModeratelyAbove_ = 39;
-    heProjectCompletion_ = 23;
-    edPlumbingGirlie_ = opSamTile_ || etWheatonDining_;
+    maChlorineJones_ = 45;
+    maChlorineJones_ = 27;
+    ofPonchoImprint_ = abGloriousTaco_ && edAholdWart_;
 
-    ahModeratelyAbove_ = 38;
-    heProjectCompletion_ = 43;
-    if (opSamTile_ || etWheatonDining_ || edPlumbingGirlie_) {
-      opSamTile_ = !etWheatonDining_;
-      etWheatonDining_ = !edPlumbingGirlie_;
-      edPlumbingGirlie_ = !opSamTile_;
-    }
-    enPondSon_ = enPondSon_.toUpperCase();
-    enPondSon_ = enPondSon_.toUpperCase();
-    enPondSon_ = enPondSon_.toUpperCase();
-
-    enPondSon_ = enPondSon_.toUpperCase();
-    ahModeratelyAbove_ = ahModeratelyAbove_ * heProjectCompletion_;
-    ahModeratelyAbove_ = 12;
-    heProjectCompletion_ = 12;
-    enPondSon_ = enPondSon_.toUpperCase();
-    ahModeratelyAbove_ = 83;
-    heProjectCompletion_ = 30;
-  }
-
-  void etMarcoFinding() {
-    ahModeratelyAbove_ = ahModeratelyAbove_ * heProjectCompletion_;
-    if (ahModeratelyAbove_ > heProjectCompletion_) {
-      ahModeratelyAbove_ = ahModeratelyAbove_ + heProjectCompletion_;
-    }
-    ahModeratelyAbove_ = 11;
-    heProjectCompletion_ = 88;
-    if (opSamTile_ && etWheatonDining_) {
-      meGeneticBox_ = !meGeneticBox_;
-    }
-    if (meGeneticBox_ || etWheatonDining_) {
-      etWheatonDining_ = !etWheatonDining_;
+    maChlorineJones_ = maChlorineJones_ + 1;
+    maChlorineJones_ = maChlorineJones_ + 1;
+    if (abGloriousTaco_) {
+      ofPonchoImprint_ = !edAholdWart_;
     }
 
-    enPondSon_ = enPondSon_.toUpperCase();
-    if (ahModeratelyAbove_ > heProjectCompletion_) {
-      ahModeratelyAbove_ = ahModeratelyAbove_ + heProjectCompletion_;
+    if (maChlorineJones_ > 0) {
+      maChlorineJones_ = maChlorineJones_ - 8;
+    }
+    if (abGloriousTaco_ && edAholdWart_ && ofPonchoImprint_) {
+      abGloriousTaco_ = !abGloriousTaco_;
+      edAholdWart_ = abGloriousTaco_;
+      ofPonchoImprint_ = abGloriousTaco_;
     }
 
-    ahModeratelyAbove_ = ahModeratelyAbove_ * heProjectCompletion_;
-    if (meGeneticBox_ || etWheatonDining_) {
-      etWheatonDining_ = !etWheatonDining_;
-    }
+    maChlorineJones_ = maChlorineJones_ + 1;
   }
 
   static const String linkjoy_juicy = "linkjoy_juicy";

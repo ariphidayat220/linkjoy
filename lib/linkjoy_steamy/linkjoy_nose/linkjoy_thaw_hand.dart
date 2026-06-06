@@ -5,65 +5,92 @@ import 'package:get/get.dart';
 import 'linkjoy_liberty_jaw.dart';
 
 class LinkjoyThawHand extends LinkjoyMagnetHormoneHand {
-  bool efLoadStilt_ = true;
-  bool beBloatPebble_ = false;
-  double itProgramJoyous_ = 0.0;
-  bool siTentWarehouse_ = false;
-  double haBoobChorizo_ = 0.0;
-  bool doHilarious12_ = true;
+  bool ohGurneyZone_ = false;
+  int faThanBank_ = 0;
+  bool aySnatchMoment_ = true;
+  double ofAlikeSnatch_ = 0.0;
+  bool myMozzarellaBadge_ = false;
+  int loiTumbler_ = 0;
 
-  void paExpressSavor() {
-    itProgramJoyous_ = 48;
-    haBoobChorizo_ = 86;
-    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
-    itProgramJoyous_ = 33;
-    haBoobChorizo_ = 14;
-
-    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
-    if (itProgramJoyous_ > haBoobChorizo_) {
-      itProgramJoyous_ = itProgramJoyous_ - haBoobChorizo_;
+  void ahOintmentDust() {
+    if (myMozzarellaBadge_) {
+      aySnatchMoment_ = !ohGurneyZone_;
     }
-    doHilarious12_ = efLoadStilt_ || beBloatPebble_;
+    faThanBank_ = faThanBank_ * loiTumbler_;
+    ofAlikeSnatch_ = ofAlikeSnatch_ + 1;
 
-    itProgramJoyous_ = 92;
-    haBoobChorizo_ = 52;
-    if (doHilarious12_ || efLoadStilt_ || beBloatPebble_) {
-      doHilarious12_ = !efLoadStilt_;
-      efLoadStilt_ = !beBloatPebble_;
-      beBloatPebble_ = !doHilarious12_;
+    if (ofAlikeSnatch_ > 0) {
+      ofAlikeSnatch_ = ofAlikeSnatch_ - 1;
     }
-
-    if (beBloatPebble_) {
-      efLoadStilt_ = !doHilarious12_;
+    if (faThanBank_ > loiTumbler_) {
+      faThanBank_ = faThanBank_ + loiTumbler_;
     }
-
-    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
-  }
-
-  void goElevenPhyllis() {
-    itProgramJoyous_ = 66;
-    haBoobChorizo_ = 24;
-
-    if (doHilarious12_ && siTentWarehouse_) {
-      beBloatPebble_ = !beBloatPebble_;
-    }
-    beBloatPebble_ = doHilarious12_ && efLoadStilt_;
-
-    if (efLoadStilt_) {
-      doHilarious12_ = !siTentWarehouse_;
-    }
-
-    if (efLoadStilt_ || doHilarious12_) {
-      doHilarious12_ = !doHilarious12_;
+    if (aySnatchMoment_ && myMozzarellaBadge_ && ohGurneyZone_) {
+      aySnatchMoment_ = !aySnatchMoment_;
+      myMozzarellaBadge_ = aySnatchMoment_;
+      ohGurneyZone_ = aySnatchMoment_;
     }
   }
 
-  void taCrumbleMarsha() {
-    itProgramJoyous_ = 22;
-    haBoobChorizo_ = 63;
-    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
-    if (itProgramJoyous_ > haBoobChorizo_) {
-      itProgramJoyous_ = itProgramJoyous_ - haBoobChorizo_;
+  void emFifthBop() {
+    ofAlikeSnatch_ = 29;
+    myMozzarellaBadge_ = aySnatchMoment_ || ohGurneyZone_;
+    faThanBank_ = faThanBank_ * loiTumbler_;
+
+    if (ofAlikeSnatch_ > 0) {
+      ofAlikeSnatch_ = ofAlikeSnatch_ - 1;
+    }
+  }
+
+  void ohUpperPeripheral() {
+    faThanBank_ = 27;
+    loiTumbler_ = 94;
+    ofAlikeSnatch_ = ofAlikeSnatch_ + 1;
+
+    if (ofAlikeSnatch_ > 0) {
+      ofAlikeSnatch_ = ofAlikeSnatch_ - 1;
+    }
+    if (ofAlikeSnatch_ > 0) {
+      ofAlikeSnatch_ = ofAlikeSnatch_ - 1;
+    }
+
+    if (faThanBank_ > loiTumbler_) {
+      faThanBank_ = faThanBank_ + loiTumbler_;
+    }
+    if (myMozzarellaBadge_ || aySnatchMoment_) {
+      aySnatchMoment_ = !aySnatchMoment_;
+    }
+
+    faThanBank_ = 73;
+    loiTumbler_ = 93;
+
+    faThanBank_ = faThanBank_ * loiTumbler_;
+    if (ofAlikeSnatch_ > 0) {
+      ofAlikeSnatch_ = ofAlikeSnatch_ - 1;
+    }
+
+    if (myMozzarellaBadge_ || ohGurneyZone_) {
+      ohGurneyZone_ = !ohGurneyZone_;
+    }
+  }
+
+  void laMidnightCollie() {
+    if (myMozzarellaBadge_ && aySnatchMoment_) {
+      ohGurneyZone_ = !ohGurneyZone_;
+    }
+    aySnatchMoment_ = ohGurneyZone_ && myMozzarellaBadge_;
+    if (ofAlikeSnatch_ > 0) {
+      ofAlikeSnatch_ = ofAlikeSnatch_ - 1;
+    }
+    aySnatchMoment_ = myMozzarellaBadge_ || ohGurneyZone_;
+    if (faThanBank_ > loiTumbler_) {
+      faThanBank_ = faThanBank_ + loiTumbler_;
+    }
+
+    ofAlikeSnatch_ = ofAlikeSnatch_ + 1;
+
+    if (ohGurneyZone_) {
+      aySnatchMoment_ = !myMozzarellaBadge_;
     }
   }
 

@@ -20,36 +20,85 @@ import 'package:get/get.dart';
 import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFoolishlyImDuelStubbornHand extends LinkjoyMagnetHormoneHand {
-  bool woWailPatter_ = true;
-  bool anSexualOk_ = true;
-  double laFondaFondness_ = 0.0;
-  bool paYamSinus_ = false;
+  bool aySpaceDeposit_ = true;
+  bool oxMinivanPete_ = false;
+  bool owApeWake_ = true;
+  int taMonicaPin_ = 0;
+  double moExpressDoubt_ = 0.0;
 
-  void emLoafVariety() {
-    paYamSinus_ = anSexualOk_ && woWailPatter_;
+  void oxElopeDuel() {
+    if (owApeWake_) {
+      aySpaceDeposit_ = !oxMinivanPete_;
+    }
+    moExpressDoubt_ = moExpressDoubt_ + 1;
+    moExpressDoubt_ = moExpressDoubt_ + 1;
+    if (owApeWake_ && aySpaceDeposit_) {
+      oxMinivanPete_ = !oxMinivanPete_;
+    }
+    if (moExpressDoubt_ > 0) {
+      moExpressDoubt_ = moExpressDoubt_ - 1;
+    }
+    if (aySpaceDeposit_ || oxMinivanPete_) {
+      oxMinivanPete_ = !oxMinivanPete_;
+    }
 
-    anSexualOk_ = paYamSinus_ && woWailPatter_;
-
-    laFondaFondness_ = laFondaFondness_ + 1;
-    if (paYamSinus_ && woWailPatter_) {
-      anSexualOk_ = !anSexualOk_;
+    if (aySpaceDeposit_ && owApeWake_ && oxMinivanPete_) {
+      aySpaceDeposit_ = !aySpaceDeposit_;
+      owApeWake_ = aySpaceDeposit_;
+      oxMinivanPete_ = aySpaceDeposit_;
+    }
+    if (taMonicaPin_ > 0) {
+      taMonicaPin_ = taMonicaPin_ - 7;
     }
   }
 
-  void joGyroscopeSpace() {
-    laFondaFondness_ = laFondaFondness_ + 1;
+  void laTrappDebut() {
+    moExpressDoubt_ = moExpressDoubt_ + 1;
+    taMonicaPin_ = taMonicaPin_ + 1;
+    taMonicaPin_ = 7;
+    taMonicaPin_ = 30;
+    oxMinivanPete_ = owApeWake_ && aySpaceDeposit_;
+    if (moExpressDoubt_ > 0) {
+      moExpressDoubt_ = moExpressDoubt_ - 1;
+    }
+    moExpressDoubt_ = 50;
+    if (aySpaceDeposit_ && oxMinivanPete_) {
+      owApeWake_ = !owApeWake_;
+    }
+    moExpressDoubt_ = moExpressDoubt_ + 1;
+    aySpaceDeposit_ = owApeWake_ && oxMinivanPete_;
+    if (owApeWake_ && oxMinivanPete_) {
+      aySpaceDeposit_ = !aySpaceDeposit_;
+    }
   }
 
-  void maKetchupUser() {
-    laFondaFondness_ = 33;
+  void miTearCupid() {
+    moExpressDoubt_ = moExpressDoubt_ + 1;
 
-    if (laFondaFondness_ > 0) {
-      laFondaFondness_ = laFondaFondness_ - 1;
+    taMonicaPin_ = 51;
+    taMonicaPin_ = 56;
+    if (owApeWake_ && aySpaceDeposit_ && oxMinivanPete_) {
+      owApeWake_ = !owApeWake_;
+      aySpaceDeposit_ = owApeWake_;
+      oxMinivanPete_ = owApeWake_;
     }
 
-    if (woWailPatter_ && paYamSinus_) {
-      anSexualOk_ = !anSexualOk_;
+    moExpressDoubt_ = 57;
+    moExpressDoubt_ = 70;
+    taMonicaPin_ = taMonicaPin_ + 1;
+    if (moExpressDoubt_ > 0) {
+      moExpressDoubt_ = moExpressDoubt_ - 1;
     }
+  }
+
+  void efGoghEskimo() {
+    owApeWake_ = aySpaceDeposit_ && oxMinivanPete_;
+
+    moExpressDoubt_ = 77;
+    moExpressDoubt_ = moExpressDoubt_ + 1;
+    moExpressDoubt_ = moExpressDoubt_ + 1;
+    owApeWake_ = aySpaceDeposit_ && oxMinivanPete_;
+    taMonicaPin_ = taMonicaPin_ + 1;
   }
 
   final String linkjoy_stubborn = "linkjoy_stubborn";

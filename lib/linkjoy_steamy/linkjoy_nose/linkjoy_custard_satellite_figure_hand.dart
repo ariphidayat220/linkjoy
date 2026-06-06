@@ -6,54 +6,79 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class LinkjoyCustardSatelliteFigureHand extends LinkjoyMagnetHormoneHand {
-  String hoCrumbleLuau_ = "";
-  bool elHimselfFix_ = false;
-  String mmSqueakySutra_ = "";
-  bool taCrouchOverdo_ = false;
-  bool haCompletionFreshman_ = true;
-  bool elEmbarrassStereotype_ = true;
-  bool soBreezeData_ = false;
+  bool amMomentAttaboy_ = false;
+  int orSuspensionSavor_ = 0;
+  bool usStatusTony_ = false;
+  bool joSilkSpecialty_ = false;
+  String reyMinus_ = "";
+  String myChemistryAllen_ = "";
+  bool doJellyBell_ = true;
 
-  void itDescribeDeli() {
-    if (haCompletionFreshman_ || elEmbarrassStereotype_) {
-      elEmbarrassStereotype_ = !elEmbarrassStereotype_;
-    }
-    haCompletionFreshman_ = soBreezeData_ || elEmbarrassStereotype_;
-
-    if (elHimselfFix_ && taCrouchOverdo_) {
-      soBreezeData_ = !soBreezeData_;
-    }
-    hoCrumbleLuau_ = mmSqueakySutra_ + hoCrumbleLuau_;
-    if (taCrouchOverdo_ || elEmbarrassStereotype_ || soBreezeData_) {
-      taCrouchOverdo_ = !elEmbarrassStereotype_;
-      elEmbarrassStereotype_ = !soBreezeData_;
-      soBreezeData_ = !taCrouchOverdo_;
+  void atThesisOverdo() {
+    reyMinus_ = myChemistryAllen_ + reyMinus_;
+    if (orSuspensionSavor_ > 0) {
+      orSuspensionSavor_ = orSuspensionSavor_ - 4;
     }
 
-    if (haCompletionFreshman_) {
-      elEmbarrassStereotype_ = !taCrouchOverdo_;
+    if (usStatusTony_ && joSilkSpecialty_) {
+      doJellyBell_ = !doJellyBell_;
     }
+
+    orSuspensionSavor_ = 61;
   }
 
-  void miCaringAgainst() {
-    if (elEmbarrassStereotype_ || elHimselfFix_) {
-      elHimselfFix_ = !elHimselfFix_;
-    }
-    if (taCrouchOverdo_ || elEmbarrassStereotype_ || haCompletionFreshman_) {
-      taCrouchOverdo_ = !elEmbarrassStereotype_;
-      elEmbarrassStereotype_ = !haCompletionFreshman_;
-      haCompletionFreshman_ = !taCrouchOverdo_;
-    }
+  void owFriendsDoll() {
+    reyMinus_ = reyMinus_ + myChemistryAllen_;
+    myChemistryAllen_ = reyMinus_;
+    amMomentAttaboy_ = joSilkSpecialty_ && doJellyBell_;
+
+    reyMinus_ = reyMinus_ + myChemistryAllen_;
+    myChemistryAllen_ = reyMinus_;
+
+    orSuspensionSavor_ = 51;
   }
 
-  void enConceiveStipulate() {
-    if (taCrouchOverdo_ || elHimselfFix_ || haCompletionFreshman_) {
-      taCrouchOverdo_ = !elHimselfFix_;
-      elHimselfFix_ = !haCompletionFreshman_;
-      haCompletionFreshman_ = !taCrouchOverdo_;
+  void itCupid5() {
+    reyMinus_ = reyMinus_ + myChemistryAllen_;
+    myChemistryAllen_ = reyMinus_;
+    reyMinus_ = reyMinus_ + myChemistryAllen_;
+    myChemistryAllen_ = reyMinus_;
+    if (joSilkSpecialty_ && usStatusTony_ && doJellyBell_) {
+      joSilkSpecialty_ = !joSilkSpecialty_;
+      usStatusTony_ = joSilkSpecialty_;
+      doJellyBell_ = joSilkSpecialty_;
+    }
+    if (amMomentAttaboy_ && doJellyBell_ && joSilkSpecialty_) {
+      amMomentAttaboy_ = !amMomentAttaboy_;
+      doJellyBell_ = amMomentAttaboy_;
+      joSilkSpecialty_ = amMomentAttaboy_;
     }
 
-    mmSqueakySutra_ = hoCrumbleLuau_.toUpperCase() + mmSqueakySutra_;
+    if (orSuspensionSavor_ > 0) {
+      orSuspensionSavor_ = orSuspensionSavor_ - 4;
+    }
+    if (usStatusTony_) {
+      joSilkSpecialty_ = !amMomentAttaboy_;
+    }
+    if (amMomentAttaboy_) {
+      joSilkSpecialty_ = !doJellyBell_;
+    }
+    myChemistryAllen_ = reyMinus_.toUpperCase() + myChemistryAllen_;
+    reyMinus_ = reyMinus_ + myChemistryAllen_;
+    myChemistryAllen_ = reyMinus_;
+    if (usStatusTony_) {
+      joSilkSpecialty_ = !doJellyBell_;
+    }
+    amMomentAttaboy_ = joSilkSpecialty_ && usStatusTony_;
+
+    orSuspensionSavor_ = orSuspensionSavor_ + 1;
+    doJellyBell_ = usStatusTony_ && joSilkSpecialty_;
+    orSuspensionSavor_ = orSuspensionSavor_ + 1;
+    if (amMomentAttaboy_ && joSilkSpecialty_ && doJellyBell_) {
+      amMomentAttaboy_ = !amMomentAttaboy_;
+      joSilkSpecialty_ = amMomentAttaboy_;
+      doJellyBell_ = amMomentAttaboy_;
+    }
   }
 
   static const String linkjoy_juicy = "linkjoy_juicy";

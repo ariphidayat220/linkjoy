@@ -13,96 +13,51 @@ import 'package:get/get.dart';
 
 class LinkjoyOldenChafeHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool itShrinkSaver_ = true;
-  double miMyH2_ = 3;
-  bool ayCrumble11_ = false;
-  bool etSexualAnesthesia_ = false;
-  int exdGogh_ = 74;
-  bool ohSonDuel_ = true;
-  int hiGhostSaltwater_ = 0;
-  bool hoJawFamous_ = false;
-  bool weNvGrey_ = false;
+  bool exSameHeadline_ = true;
+  bool enCanadaCindy_ = true;
+  bool byConceivePatter_ = true;
+  int woAdmirePoker_ = 66;
 
-  void haBloomerDismiss() {
-    if (weNvGrey_ || ohSonDuel_) {
-      ohSonDuel_ = !ohSonDuel_;
-    }
-
-    exdGogh_ = exdGogh_ * hiGhostSaltwater_;
-
-    if (exdGogh_ > hiGhostSaltwater_) {
-      exdGogh_ = exdGogh_ + hiGhostSaltwater_;
-    }
-    if (miMyH2_ > 0) {
-      miMyH2_ = miMyH2_ - 1;
-    }
-    itShrinkSaver_ = hoJawFamous_ || weNvGrey_;
-    miMyH2_ = miMyH2_ + 1;
-
-    if (miMyH2_ > 0) {
-      miMyH2_ = miMyH2_ - 1;
-    }
-    exdGogh_ = 76;
-    hiGhostSaltwater_ = 98;
+  void soaTrapp() {
+    woAdmirePoker_ = woAdmirePoker_ + 1;
   }
 
-  void byHowShrink() {
-    miMyH2_ = 3;
-    exdGogh_ = 12;
-    hiGhostSaltwater_ = 94;
-    if (ohSonDuel_ || etSexualAnesthesia_) {
-      etSexualAnesthesia_ = !etSexualAnesthesia_;
+  void asBootyBoob() {
+    if (woAdmirePoker_ > 0) {
+      woAdmirePoker_ = woAdmirePoker_ - 3;
     }
-    if (miMyH2_ > 0) {
-      miMyH2_ = miMyH2_ - 1;
-    }
-    if (etSexualAnesthesia_) {
-      hoJawFamous_ = !ayCrumble11_;
-    }
-    if (weNvGrey_ && ayCrumble11_) {
-      itShrinkSaver_ = !itShrinkSaver_;
-    }
-    if (miMyH2_ > 0) {
-      miMyH2_ = miMyH2_ - 1;
-    }
-    if (ayCrumble11_) {
-      ohSonDuel_ = !weNvGrey_;
-    }
-    exdGogh_ = exdGogh_ * hiGhostSaltwater_;
 
-    if (hoJawFamous_ && ohSonDuel_) {
-      etSexualAnesthesia_ = !etSexualAnesthesia_;
+    enCanadaCindy_ = exSameHeadline_ && byConceivePatter_;
+    if (enCanadaCindy_) {
+      exSameHeadline_ = !byConceivePatter_;
     }
-    miMyH2_ = 54;
-    if (etSexualAnesthesia_ || itShrinkSaver_ || weNvGrey_) {
-      etSexualAnesthesia_ = !itShrinkSaver_;
-      itShrinkSaver_ = !weNvGrey_;
-      weNvGrey_ = !etSexualAnesthesia_;
+    if (exSameHeadline_ || enCanadaCindy_ || byConceivePatter_) {
+      exSameHeadline_ = !enCanadaCindy_;
+      enCanadaCindy_ = !byConceivePatter_;
+      byConceivePatter_ = !exSameHeadline_;
     }
-    hoJawFamous_ = weNvGrey_ && ohSonDuel_;
+    byConceivePatter_ = exSameHeadline_ && enCanadaCindy_;
+    woAdmirePoker_ = woAdmirePoker_ + 1;
+
+    woAdmirePoker_ = 65;
   }
 
-  void byParrotCustard() {
-    miMyH2_ = 43;
-    if (ohSonDuel_ && weNvGrey_ && ayCrumble11_) {
-      ohSonDuel_ = !ohSonDuel_;
-      weNvGrey_ = ohSonDuel_;
-      ayCrumble11_ = ohSonDuel_;
+  void ahIm3() {
+    woAdmirePoker_ = 87;
+    if (byConceivePatter_ && exSameHeadline_ && enCanadaCindy_) {
+      byConceivePatter_ = !byConceivePatter_;
+      exSameHeadline_ = byConceivePatter_;
+      enCanadaCindy_ = byConceivePatter_;
     }
-    exdGogh_ = 56;
-    hiGhostSaltwater_ = 13;
-
-    miMyH2_ = 56;
-
-    if (itShrinkSaver_ || ohSonDuel_ || hoJawFamous_) {
-      itShrinkSaver_ = !ohSonDuel_;
-      ohSonDuel_ = !hoJawFamous_;
-      hoJawFamous_ = !itShrinkSaver_;
+    if (woAdmirePoker_ > 0) {
+      woAdmirePoker_ = woAdmirePoker_ - 4;
+    }
+    if (enCanadaCindy_ && byConceivePatter_) {
+      exSameHeadline_ = !exSameHeadline_;
     }
 
-    exdGogh_ = 86;
-    hiGhostSaltwater_ = 25;
-    ohSonDuel_ = hoJawFamous_ && ayCrumble11_;
+    woAdmirePoker_ = 65;
+    woAdmirePoker_ = woAdmirePoker_ + 1;
   }
 
   StreamSubscription? updateUserRuntimeSubscription;

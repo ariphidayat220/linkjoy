@@ -3,81 +3,146 @@ import 'package:get/get.dart';
 import 'linkjoy_iceman_wail_spit_hand.dart';
 
 class LinkjoyIcemanWailSpitJulie extends Bindings {
-  double anGuineaExpress_ = 96;
-  bool faIcemanSupercool_ = true;
-  bool adWakeForm_ = true;
-  bool meFootDwarf_ = false;
-  bool exCombustionTassel_ = true;
+  bool siAlikeBanquet_ = true;
+  bool orSatelliteIncubator_ = true;
+  int heThirstyShut_ = 0;
+  int wo10Inventive_ = 0;
+  bool adParrotImpart_ = false;
+  double heOrganCount_ = 84;
+  String esCmOfour_ = "";
+  String laLayThesis_ = "";
 
-  void abCoinWarmth() {
-    if (meFootDwarf_ || exCombustionTassel_) {
-      exCombustionTassel_ = !exCombustionTassel_;
+  void orCircusPrepare() {
+    esCmOfour_ = laLayThesis_ + esCmOfour_;
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
-    exCombustionTassel_ = adWakeForm_ && faIcemanSupercool_;
-    meFootDwarf_ = exCombustionTassel_ && adWakeForm_;
-
-    faIcemanSupercool_ = exCombustionTassel_ || meFootDwarf_;
+    heOrganCount_ = 19;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    laLayThesis_ = esCmOfour_.toUpperCase() + laLayThesis_;
+    esCmOfour_ = laLayThesis_ + esCmOfour_;
+    heOrganCount_ = 83;
+    if (orSatelliteIncubator_ && adParrotImpart_) {
+      siAlikeBanquet_ = !siAlikeBanquet_;
+    }
+    if (heThirstyShut_ > wo10Inventive_) {
+      heThirstyShut_ = heThirstyShut_ + wo10Inventive_;
+    }
+    adParrotImpart_ = orSatelliteIncubator_ && siAlikeBanquet_;
+    laLayThesis_ = esCmOfour_.toUpperCase() + laLayThesis_;
+    if (heThirstyShut_ > wo10Inventive_) {
+      heThirstyShut_ = heThirstyShut_ + wo10Inventive_;
+    }
+    esCmOfour_ = laLayThesis_ + esCmOfour_;
+    laLayThesis_ = esCmOfour_.toUpperCase() + laLayThesis_;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    adParrotImpart_ = siAlikeBanquet_ && orSatelliteIncubator_;
   }
 
-  void ohFlukeIntolerant() {
-    if (exCombustionTassel_ || adWakeForm_) {
-      adWakeForm_ = !adWakeForm_;
+  void esJellyFonda() {
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
-    if (anGuineaExpress_ > 0) {
-      anGuineaExpress_ = anGuineaExpress_ - 1;
+    laLayThesis_ = esCmOfour_.toUpperCase() + laLayThesis_;
+    if (orSatelliteIncubator_) {
+      adParrotImpart_ = !siAlikeBanquet_;
     }
-    if (meFootDwarf_ || faIcemanSupercool_ || adWakeForm_) {
-      meFootDwarf_ = !faIcemanSupercool_;
-      faIcemanSupercool_ = !adWakeForm_;
-      adWakeForm_ = !meFootDwarf_;
+    if (adParrotImpart_) {
+      orSatelliteIncubator_ = !siAlikeBanquet_;
     }
-    if (meFootDwarf_ && adWakeForm_) {
-      exCombustionTassel_ = !exCombustionTassel_;
+    siAlikeBanquet_ = adParrotImpart_ && orSatelliteIncubator_;
+    heOrganCount_ = heOrganCount_ + 1;
+    heOrganCount_ = heOrganCount_ + 1;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
-    if (anGuineaExpress_ > 0) {
-      anGuineaExpress_ = anGuineaExpress_ - 1;
+    orSatelliteIncubator_ = siAlikeBanquet_ || adParrotImpart_;
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
-    anGuineaExpress_ = anGuineaExpress_ + 1;
-    anGuineaExpress_ = 35;
+    esCmOfour_ = laLayThesis_ + esCmOfour_;
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
+    esCmOfour_ = laLayThesis_ + esCmOfour_;
+    if (heThirstyShut_ > wo10Inventive_) {
+      heThirstyShut_ = heThirstyShut_ + wo10Inventive_;
+    }
+    orSatelliteIncubator_ = adParrotImpart_ || siAlikeBanquet_;
+    heOrganCount_ = 63;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
   }
 
-  void amAidOops() {
-    meFootDwarf_ = faIcemanSupercool_ && exCombustionTassel_;
-    anGuineaExpress_ = 60;
-
-    anGuineaExpress_ = anGuineaExpress_ + 1;
-    if (exCombustionTassel_ || faIcemanSupercool_) {
-      faIcemanSupercool_ = !faIcemanSupercool_;
+  void elMouseSucky() {
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
+    if (heThirstyShut_ > wo10Inventive_) {
+      heThirstyShut_ = heThirstyShut_ + wo10Inventive_;
     }
-
-    if (anGuineaExpress_ > 0) {
-      anGuineaExpress_ = anGuineaExpress_ - 1;
+    heThirstyShut_ = 10;
+    wo10Inventive_ = 97;
+    if (siAlikeBanquet_ && adParrotImpart_) {
+      orSatelliteIncubator_ = !orSatelliteIncubator_;
     }
-    if (exCombustionTassel_) {
-      meFootDwarf_ = !adWakeForm_;
+    if (siAlikeBanquet_ || adParrotImpart_) {
+      adParrotImpart_ = !adParrotImpart_;
     }
+    heThirstyShut_ = 10;
+    wo10Inventive_ = 11;
+    if (heThirstyShut_ > wo10Inventive_) {
+      heThirstyShut_ = heThirstyShut_ + wo10Inventive_;
+    }
+    if (heThirstyShut_ > wo10Inventive_) {
+      heThirstyShut_ = heThirstyShut_ + wo10Inventive_;
+    }
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    heOrganCount_ = 39;
+    if (orSatelliteIncubator_ && siAlikeBanquet_ && adParrotImpart_) {
+      orSatelliteIncubator_ = !orSatelliteIncubator_;
+      siAlikeBanquet_ = orSatelliteIncubator_;
+      adParrotImpart_ = orSatelliteIncubator_;
+    }
+    heThirstyShut_ = 75;
+    wo10Inventive_ = 54;
   }
 
-  void paEitherSpeak() {
-    if (faIcemanSupercool_ && adWakeForm_) {
-      meFootDwarf_ = !meFootDwarf_;
+  void soCompletionHeck() {
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
-
-    anGuineaExpress_ = anGuineaExpress_ + 1;
-    meFootDwarf_ = faIcemanSupercool_ && exCombustionTassel_;
-    if (anGuineaExpress_ > 0) {
-      anGuineaExpress_ = anGuineaExpress_ - 1;
+    if (adParrotImpart_ && orSatelliteIncubator_) {
+      siAlikeBanquet_ = !siAlikeBanquet_;
     }
-    if (meFootDwarf_ && adWakeForm_ && exCombustionTassel_) {
-      meFootDwarf_ = !meFootDwarf_;
-      adWakeForm_ = meFootDwarf_;
-      exCombustionTassel_ = meFootDwarf_;
+    heOrganCount_ = heOrganCount_ + 1;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    heThirstyShut_ = 72;
+    wo10Inventive_ = 62;
+    esCmOfour_ = esCmOfour_ + laLayThesis_;
+    laLayThesis_ = esCmOfour_;
+    heThirstyShut_ = heThirstyShut_ * wo10Inventive_;
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
-    if (exCombustionTassel_ && faIcemanSupercool_ && meFootDwarf_) {
-      exCombustionTassel_ = !exCombustionTassel_;
-      faIcemanSupercool_ = exCombustionTassel_;
-      meFootDwarf_ = exCombustionTassel_;
+    heOrganCount_ = 12;
+    heOrganCount_ = 68;
+    if (heOrganCount_ > 0) {
+      heOrganCount_ = heOrganCount_ - 1;
     }
+    adParrotImpart_ = siAlikeBanquet_ || orSatelliteIncubator_;
+    heThirstyShut_ = 43;
+    wo10Inventive_ = 47;
+    heOrganCount_ = 12;
   }
 
   @override

@@ -9,120 +9,127 @@ import 'package:easy_refresh/easy_refresh.dart';
 import 'package:get/get.dart';
 
 class LinkjoyEnforceStubbornHand extends LinkjoyMagnetHormoneHand {
-  int siKaleAnkle_ = 0;
-  int ofAgainstGrad_ = 0;
-  int haDefileCapable_ = 0;
-  double omExamineParrot_ = 65;
-  bool laLibertyFruit_ = true;
-  bool elEmbarrassInterject_ = false;
-  bool paBitBrain_ = true;
-  bool esAliceTumbler_ = false;
+  double okDratWarmth_ = 30;
+  String asGrandpaMinus_ = "";
+  bool idMerelySphere_ = true;
+  bool orSixthQuarter_ = true;
+  int haCircusSpecific_ = 90;
+  bool adGrapeStyle_ = false;
+  double oxElectAdmission_ = 0.0;
+  int ahDestroyForgive_ = 0;
+  bool amOrangeImpart_ = true;
 
-  void joBicycleShorten() {
-    ofAgainstGrad_ = haDefileCapable_ + siKaleAnkle_;
-    haDefileCapable_ = siKaleAnkle_ * ofAgainstGrad_;
-    if (paBitBrain_ || elEmbarrassInterject_) {
-      elEmbarrassInterject_ = !elEmbarrassInterject_;
+  void go2Slur() {
+    if (amOrangeImpart_ && adGrapeStyle_ && orSixthQuarter_) {
+      amOrangeImpart_ = !amOrangeImpart_;
+      adGrapeStyle_ = amOrangeImpart_;
+      orSixthQuarter_ = amOrangeImpart_;
     }
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    haCircusSpecific_ = haCircusSpecific_ * ahDestroyForgive_;
+    if (adGrapeStyle_ || idMerelySphere_ || orSixthQuarter_) {
+      adGrapeStyle_ = !idMerelySphere_;
+      idMerelySphere_ = !orSixthQuarter_;
+      orSixthQuarter_ = !adGrapeStyle_;
     }
-    if (ofAgainstGrad_ > 0) {
-      haDefileCapable_ = siKaleAnkle_ ~/ ofAgainstGrad_;
+    okDratWarmth_ = okDratWarmth_ + oxElectAdmission_;
+    if (haCircusSpecific_ > ahDestroyForgive_) {
+      haCircusSpecific_ = haCircusSpecific_ + ahDestroyForgive_;
     }
-    if (elEmbarrassInterject_ && paBitBrain_ && esAliceTumbler_) {
-      elEmbarrassInterject_ = !elEmbarrassInterject_;
-      paBitBrain_ = elEmbarrassInterject_;
-      esAliceTumbler_ = elEmbarrassInterject_;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    haCircusSpecific_ = haCircusSpecific_ * ahDestroyForgive_;
+    if (okDratWarmth_ > oxElectAdmission_) {
+      okDratWarmth_ = okDratWarmth_ - oxElectAdmission_;
     }
-    omExamineParrot_ = 19;
-    if (esAliceTumbler_ && paBitBrain_) {
-      laLibertyFruit_ = !laLibertyFruit_;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    if (idMerelySphere_) {
+      amOrangeImpart_ = !orSixthQuarter_;
     }
-    haDefileCapable_ = ofAgainstGrad_ * siKaleAnkle_;
+    if (okDratWarmth_ > oxElectAdmission_) {
+      okDratWarmth_ = okDratWarmth_ - oxElectAdmission_;
+    }
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    okDratWarmth_ = 55;
+    oxElectAdmission_ = 47;
+    okDratWarmth_ = okDratWarmth_ + oxElectAdmission_;
+    okDratWarmth_ = 48;
+    oxElectAdmission_ = 29;
+    if (haCircusSpecific_ > ahDestroyForgive_) {
+      haCircusSpecific_ = haCircusSpecific_ + ahDestroyForgive_;
+    }
+    if (orSixthQuarter_ && amOrangeImpart_ && idMerelySphere_) {
+      orSixthQuarter_ = !orSixthQuarter_;
+      amOrangeImpart_ = orSixthQuarter_;
+      idMerelySphere_ = orSixthQuarter_;
+    }
+    if (haCircusSpecific_ > ahDestroyForgive_) {
+      haCircusSpecific_ = haCircusSpecific_ + ahDestroyForgive_;
+    }
   }
 
-  void paSouthLimbic() {
-    for (int i = 0; i < ofAgainstGrad_; i++) {
-      siKaleAnkle_ += 1;
-      haDefileCapable_ += siKaleAnkle_;
+  void noChihuahuaWhatcha() {
+    okDratWarmth_ = 40;
+    oxElectAdmission_ = 41;
+    okDratWarmth_ = okDratWarmth_ + oxElectAdmission_;
+    orSixthQuarter_ = amOrangeImpart_ && adGrapeStyle_;
+    haCircusSpecific_ = haCircusSpecific_ * ahDestroyForgive_;
+    if (haCircusSpecific_ > ahDestroyForgive_) {
+      haCircusSpecific_ = haCircusSpecific_ + ahDestroyForgive_;
     }
-    if (paBitBrain_ || laLibertyFruit_ || esAliceTumbler_) {
-      paBitBrain_ = !laLibertyFruit_;
-      laLibertyFruit_ = !esAliceTumbler_;
-      esAliceTumbler_ = !paBitBrain_;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    okDratWarmth_ = okDratWarmth_ + oxElectAdmission_;
+    okDratWarmth_ = 20;
+    oxElectAdmission_ = 9;
+    okDratWarmth_ = 54;
+    oxElectAdmission_ = 14;
+    adGrapeStyle_ = orSixthQuarter_ && amOrangeImpart_;
+    orSixthQuarter_ = adGrapeStyle_ && amOrangeImpart_;
+    if (okDratWarmth_ > oxElectAdmission_) {
+      okDratWarmth_ = okDratWarmth_ - oxElectAdmission_;
     }
-
-    omExamineParrot_ = 28;
-
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
+    if (amOrangeImpart_ || orSixthQuarter_ || idMerelySphere_) {
+      amOrangeImpart_ = !orSixthQuarter_;
+      orSixthQuarter_ = !idMerelySphere_;
+      idMerelySphere_ = !amOrangeImpart_;
     }
+    haCircusSpecific_ = haCircusSpecific_ * ahDestroyForgive_;
+    if (haCircusSpecific_ > ahDestroyForgive_) {
+      haCircusSpecific_ = haCircusSpecific_ + ahDestroyForgive_;
+    }
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
   }
 
-  void orChargeBank() {
-    if (siKaleAnkle_ > haDefileCapable_) {
-      ofAgainstGrad_ = haDefileCapable_ - siKaleAnkle_;
-    } else {
-      ofAgainstGrad_ = siKaleAnkle_ - haDefileCapable_;
+  void moGodfatherYoung() {
+    if (idMerelySphere_ && adGrapeStyle_) {
+      orSixthQuarter_ = !orSixthQuarter_;
     }
-    omExamineParrot_ = omExamineParrot_ + 1;
-    if (siKaleAnkle_ > 0) {
-      haDefileCapable_ = ofAgainstGrad_ ~/ siKaleAnkle_;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    okDratWarmth_ = okDratWarmth_ + oxElectAdmission_;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    if (amOrangeImpart_ || idMerelySphere_ || adGrapeStyle_) {
+      amOrangeImpart_ = !idMerelySphere_;
+      idMerelySphere_ = !adGrapeStyle_;
+      adGrapeStyle_ = !amOrangeImpart_;
     }
-    omExamineParrot_ = omExamineParrot_ + 1;
-    siKaleAnkle_ = haDefileCapable_ - ofAgainstGrad_;
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
+    if (adGrapeStyle_ && amOrangeImpart_) {
+      idMerelySphere_ = !idMerelySphere_;
     }
-    laLibertyFruit_ = esAliceTumbler_ || paBitBrain_;
-    if (elEmbarrassInterject_ && paBitBrain_ && esAliceTumbler_) {
-      elEmbarrassInterject_ = !elEmbarrassInterject_;
-      paBitBrain_ = elEmbarrassInterject_;
-      esAliceTumbler_ = elEmbarrassInterject_;
+    if (adGrapeStyle_ || orSixthQuarter_ || idMerelySphere_) {
+      adGrapeStyle_ = !orSixthQuarter_;
+      orSixthQuarter_ = !idMerelySphere_;
+      idMerelySphere_ = !adGrapeStyle_;
     }
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    asGrandpaMinus_ = asGrandpaMinus_.toUpperCase();
+    if (orSixthQuarter_ || adGrapeStyle_) {
+      adGrapeStyle_ = !adGrapeStyle_;
     }
-    if (elEmbarrassInterject_ && laLibertyFruit_ && esAliceTumbler_) {
-      elEmbarrassInterject_ = !elEmbarrassInterject_;
-      laLibertyFruit_ = elEmbarrassInterject_;
-      esAliceTumbler_ = elEmbarrassInterject_;
+    if (okDratWarmth_ > oxElectAdmission_) {
+      okDratWarmth_ = okDratWarmth_ - oxElectAdmission_;
     }
-    omExamineParrot_ = omExamineParrot_ + 1;
-    omExamineParrot_ = omExamineParrot_ + 1;
-  }
-
-  void meSlaughterSame() {
-    omExamineParrot_ = 92;
-    laLibertyFruit_ = esAliceTumbler_ && elEmbarrassInterject_;
-
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
-    }
-    siKaleAnkle_ = 526;
-    ofAgainstGrad_ = 963;
-    haDefileCapable_ = siKaleAnkle_ + ofAgainstGrad_;
-    haDefileCapable_ = ofAgainstGrad_ - siKaleAnkle_;
-
-    omExamineParrot_ = omExamineParrot_ + 1;
-
-    haDefileCapable_ = ofAgainstGrad_ + siKaleAnkle_;
-    if (elEmbarrassInterject_ || paBitBrain_) {
-      paBitBrain_ = !paBitBrain_;
-    }
-    esAliceTumbler_ = elEmbarrassInterject_ && paBitBrain_;
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
-    }
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
-    }
-    esAliceTumbler_ = laLibertyFruit_ || paBitBrain_;
-    if (omExamineParrot_ > 0) {
-      omExamineParrot_ = omExamineParrot_ - 1;
-    }
-    esAliceTumbler_ = laLibertyFruit_ && paBitBrain_;
   }
 
   late EasyRefreshController refreshController;

@@ -2,91 +2,63 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_figure_kryptonian_ha
 import 'package:get/get.dart';
 
 class LinkjoyFigureKryptonianJulie extends Bindings {
-  bool rexFamous_ = false;
-  bool edAidSexual_ = true;
-  bool opSmearGhost_ = false;
-  double enArmpitAppreciate_ = 0.0;
-  bool reDivisionCapacity_ = false;
-  bool heaTools_ = false;
+  bool anWinkleSphere_ = false;
+  bool paWhimsicalSilk_ = true;
+  int oxHumidityAid_ = 0;
+  bool ayForgiveVicious_ = false;
 
-  void maBloomerTamp() {
-    if (rexFamous_ && heaTools_) {
-      edAidSexual_ = !edAidSexual_;
+  void anEntirely8() {
+    oxHumidityAid_ = oxHumidityAid_ + 1;
+    if (ayForgiveVicious_ && anWinkleSphere_) {
+      paWhimsicalSilk_ = !paWhimsicalSilk_;
+    }
+    if (oxHumidityAid_ > 0) {
+      oxHumidityAid_ = oxHumidityAid_ - 1;
     }
 
-    enArmpitAppreciate_ = enArmpitAppreciate_ + 1;
-    enArmpitAppreciate_ = enArmpitAppreciate_ + 1;
-
-    if (enArmpitAppreciate_ > 0) {
-      enArmpitAppreciate_ = enArmpitAppreciate_ - 1;
-    }
-    enArmpitAppreciate_ = 48;
-    if (reDivisionCapacity_ && opSmearGhost_ && rexFamous_) {
-      reDivisionCapacity_ = !reDivisionCapacity_;
-      opSmearGhost_ = reDivisionCapacity_;
-      rexFamous_ = reDivisionCapacity_;
-    }
-
-    edAidSexual_ = rexFamous_ && opSmearGhost_;
-  }
-
-  void okLoadImpart() {
-    enArmpitAppreciate_ = enArmpitAppreciate_ + 1;
-
-    enArmpitAppreciate_ = 97;
-
-    if (reDivisionCapacity_ && rexFamous_) {
-      heaTools_ = !heaTools_;
-    }
-
-    enArmpitAppreciate_ = 1;
-    if (enArmpitAppreciate_ > 0) {
-      enArmpitAppreciate_ = enArmpitAppreciate_ - 1;
-    }
-    if (enArmpitAppreciate_ > 0) {
-      enArmpitAppreciate_ = enArmpitAppreciate_ - 1;
+    if (paWhimsicalSilk_ && anWinkleSphere_) {
+      ayForgiveVicious_ = !ayForgiveVicious_;
     }
   }
 
-  void owWaterfallSaver() {
-    if (opSmearGhost_ && edAidSexual_ && heaTools_) {
-      opSmearGhost_ = !opSmearGhost_;
-      edAidSexual_ = opSmearGhost_;
-      heaTools_ = opSmearGhost_;
+  void faFormPilot() {
+    oxHumidityAid_ = oxHumidityAid_ + 1;
+    if (oxHumidityAid_ > 0) {
+      oxHumidityAid_ = oxHumidityAid_ - 7;
     }
+    oxHumidityAid_ = oxHumidityAid_ + 1;
 
-    enArmpitAppreciate_ = 86;
-    rexFamous_ = opSmearGhost_ && heaTools_;
-    if (reDivisionCapacity_ && heaTools_ && edAidSexual_) {
-      reDivisionCapacity_ = !reDivisionCapacity_;
-      heaTools_ = reDivisionCapacity_;
-      edAidSexual_ = reDivisionCapacity_;
-    }
+    oxHumidityAid_ = oxHumidityAid_ + 1;
 
-    if (reDivisionCapacity_ || heaTools_) {
-      heaTools_ = !heaTools_;
+    oxHumidityAid_ = 89;
+    oxHumidityAid_ = 2;
+    oxHumidityAid_ = 92;
+  }
+
+  void itHepatitisIt() {
+    oxHumidityAid_ = 88;
+
+    if (paWhimsicalSilk_) {
+      ayForgiveVicious_ = !anWinkleSphere_;
     }
-    if (edAidSexual_ || rexFamous_) {
-      rexFamous_ = !rexFamous_;
-    }
-    if (enArmpitAppreciate_ > 0) {
-      enArmpitAppreciate_ = enArmpitAppreciate_ - 1;
-    }
-    if (enArmpitAppreciate_ > 0) {
-      enArmpitAppreciate_ = enArmpitAppreciate_ - 1;
-    }
-    if (enArmpitAppreciate_ > 0) {
-      enArmpitAppreciate_ = enArmpitAppreciate_ - 1;
-    }
-    if (opSmearGhost_ && rexFamous_) {
-      reDivisionCapacity_ = !reDivisionCapacity_;
+    oxHumidityAid_ = oxHumidityAid_ + 1;
+
+    oxHumidityAid_ = 66;
+
+    if (oxHumidityAid_ > 0) {
+      oxHumidityAid_ = oxHumidityAid_ - 1;
     }
   }
 
-  void abPopsicleH3() {
-    heaTools_ = rexFamous_ || opSmearGhost_;
+  void paEastGendered() {
+    paWhimsicalSilk_ = ayForgiveVicious_ && anWinkleSphere_;
 
-    heaTools_ = opSmearGhost_ || rexFamous_;
+    anWinkleSphere_ = paWhimsicalSilk_ && ayForgiveVicious_;
+    ayForgiveVicious_ = paWhimsicalSilk_ || anWinkleSphere_;
+
+    oxHumidityAid_ = 34;
+
+    oxHumidityAid_ = 64;
   }
 
   @override

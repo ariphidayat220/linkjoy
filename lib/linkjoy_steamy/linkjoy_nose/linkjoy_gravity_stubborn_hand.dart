@@ -12,92 +12,76 @@ import 'package:easy_refresh/easy_refresh.dart';
 import 'package:get/get.dart';
 
 class LinkjoyGravityStubbornHand extends LinkjoyMagnetHormoneHand {
-  bool soBrilliantTuck_ = true;
-  bool abThroneDish_ = true;
-  String amAnnFroot_ = "";
-  bool woIncapableVw_ = true;
-  String hiNetflixEddie_ = "";
-  double oxViolatePoncho_ = 98;
-  String woTonyFrame_ = "";
-  String odAceTail_ = "";
-  bool ifToolsSphere_ = false;
-  double etLakersAgainst_ = 39;
+  double ohGreatGuinea_ = 40;
+  bool anInviteTrademark_ = true;
+  bool reWailWherever_ = true;
+  bool doJogSoil_ = false;
+  String woMarshaChitchat_ = "";
+  bool ahObsessedNarrate_ = false;
 
-  void paExpressCattle() {
-    if (woTonyFrame_.length > 6) {
-      amAnnFroot_ = woTonyFrame_;
-    } else {
-      hiNetflixEddie_ = amAnnFroot_;
+  void paOverbearKnock() {
+    ohGreatGuinea_ = 3;
+    if (ahObsessedNarrate_ && doJogSoil_) {
+      anInviteTrademark_ = !anInviteTrademark_;
     }
-    oxViolatePoncho_ = oxViolatePoncho_ + etLakersAgainst_;
-    if (woIncapableVw_) {
-      ifToolsSphere_ = !soBrilliantTuck_;
+    if (anInviteTrademark_ || doJogSoil_ || reWailWherever_) {
+      anInviteTrademark_ = !doJogSoil_;
+      doJogSoil_ = !reWailWherever_;
+      reWailWherever_ = !anInviteTrademark_;
     }
-    oxViolatePoncho_ = 89;
-    etLakersAgainst_ = 7;
+    anInviteTrademark_ = reWailWherever_ && ahObsessedNarrate_;
 
-    if (soBrilliantTuck_ && woIncapableVw_) {
-      ifToolsSphere_ = !ifToolsSphere_;
+    woMarshaChitchat_ = woMarshaChitchat_.toUpperCase();
+  }
+
+  void oxFlipJuice() {
+    if (anInviteTrademark_ && doJogSoil_ && ahObsessedNarrate_) {
+      anInviteTrademark_ = !anInviteTrademark_;
+      doJogSoil_ = anInviteTrademark_;
+      ahObsessedNarrate_ = anInviteTrademark_;
+    }
+    if (reWailWherever_ && anInviteTrademark_) {
+      ahObsessedNarrate_ = !ahObsessedNarrate_;
+    }
+    ohGreatGuinea_ = 53;
+    if (ohGreatGuinea_ > 0) {
+      ohGreatGuinea_ = ohGreatGuinea_ - 1;
     }
 
-    hiNetflixEddie_ = odAceTail_ + woTonyFrame_;
-    if (ifToolsSphere_ && soBrilliantTuck_) {
-      woIncapableVw_ = !woIncapableVw_;
+    ohGreatGuinea_ = ohGreatGuinea_ + 1;
+  }
+
+  void goIntolerantWave() {
+    woMarshaChitchat_ = woMarshaChitchat_.toUpperCase();
+    woMarshaChitchat_ = woMarshaChitchat_.toUpperCase();
+    woMarshaChitchat_ = woMarshaChitchat_.toUpperCase();
+    woMarshaChitchat_ = woMarshaChitchat_.toUpperCase();
+    ohGreatGuinea_ = ohGreatGuinea_ + 1;
+    if (ohGreatGuinea_ > 0) {
+      ohGreatGuinea_ = ohGreatGuinea_ - 1;
+    }
+
+    if (reWailWherever_ || ahObsessedNarrate_) {
+      ahObsessedNarrate_ = !ahObsessedNarrate_;
     }
   }
 
-  void heFlukeGendered() {
-    if (woIncapableVw_ && ifToolsSphere_ && abThroneDish_) {
-      woIncapableVw_ = !woIncapableVw_;
-      ifToolsSphere_ = woIncapableVw_;
-      abThroneDish_ = woIncapableVw_;
-    }
-    oxViolatePoncho_ = 4;
-    etLakersAgainst_ = 16;
-    if (soBrilliantTuck_ || woIncapableVw_ || abThroneDish_) {
-      soBrilliantTuck_ = !woIncapableVw_;
-      woIncapableVw_ = !abThroneDish_;
-      abThroneDish_ = !soBrilliantTuck_;
-    }
-    if (oxViolatePoncho_ > etLakersAgainst_) {
-      oxViolatePoncho_ = oxViolatePoncho_ - etLakersAgainst_;
-    }
-    woTonyFrame_ = hiNetflixEddie_;
-    odAceTail_ = woTonyFrame_;
-    hiNetflixEddie_ = odAceTail_;
+  void idAsOrange() {
+    doJogSoil_ = ahObsessedNarrate_ || reWailWherever_;
 
-    if (abThroneDish_ || woIncapableVw_ || ifToolsSphere_) {
-      abThroneDish_ = !woIncapableVw_;
-      woIncapableVw_ = !ifToolsSphere_;
-      ifToolsSphere_ = !abThroneDish_;
+    if (reWailWherever_ || doJogSoil_ || anInviteTrademark_) {
+      reWailWherever_ = !doJogSoil_;
+      doJogSoil_ = !anInviteTrademark_;
+      anInviteTrademark_ = !reWailWherever_;
     }
-  }
+    ohGreatGuinea_ = 13;
 
-  void maOfourHeck() {
-    ifToolsSphere_ = soBrilliantTuck_ || woIncapableVw_;
-    odAceTail_ = amAnnFroot_ + hiNetflixEddie_;
-
-    if (oxViolatePoncho_ > etLakersAgainst_) {
-      oxViolatePoncho_ = oxViolatePoncho_ - etLakersAgainst_;
+    if (ahObsessedNarrate_ && doJogSoil_ && anInviteTrademark_) {
+      ahObsessedNarrate_ = !ahObsessedNarrate_;
+      doJogSoil_ = ahObsessedNarrate_;
+      anInviteTrademark_ = ahObsessedNarrate_;
     }
-    amAnnFroot_ = hiNetflixEddie_ + odAceTail_;
-
-    if (ifToolsSphere_ && soBrilliantTuck_) {
-      abThroneDish_ = !abThroneDish_;
-    }
-
-    oxViolatePoncho_ = oxViolatePoncho_ + etLakersAgainst_;
-    oxViolatePoncho_ = oxViolatePoncho_ + etLakersAgainst_;
-    if (oxViolatePoncho_ > etLakersAgainst_) {
-      oxViolatePoncho_ = oxViolatePoncho_ - etLakersAgainst_;
-    }
-    if (ifToolsSphere_ && soBrilliantTuck_) {
-      woIncapableVw_ = !woIncapableVw_;
-    }
-    oxViolatePoncho_ = oxViolatePoncho_ + etLakersAgainst_;
-    odAceTail_ = hiNetflixEddie_ + amAnnFroot_;
-    odAceTail_ = hiNetflixEddie_;
-    woTonyFrame_ = hiNetflixEddie_;
+    woMarshaChitchat_ = woMarshaChitchat_.toUpperCase();
   }
 
   late EasyRefreshController refreshController;

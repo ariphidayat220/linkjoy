@@ -12,84 +12,146 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_gnome_sister.dart'
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyChipmunkFailHand extends LinkjoyMagnetHormoneHand {
-  bool owOkInvoice_ = false;
-  bool siJohnIn_ = true;
-  bool etLoadCabinet_ = false;
-  int asTerrorBoston_ = 0;
+  bool idBentSpray_ = true;
+  bool haPinAstronaut_ = false;
+  bool exSwimTime_ = false;
+  double oxSwimsuitHaiti_ = 0.0;
+  bool okBadgeSoothe_ = false;
+  int ahTerrorStab_ = 48;
+  bool ifSatelliteAche_ = true;
+  bool ifVamosFoolishly_ = true;
+  int orCrotchHarvard_ = 0;
 
-  void emPassionateFourth() {
-    asTerrorBoston_ = 65;
+  void enGoddessAmerica() {
+    if (ahTerrorStab_ > orCrotchHarvard_) {
+      ahTerrorStab_ = ahTerrorStab_ + orCrotchHarvard_;
+    }
+    if (oxSwimsuitHaiti_ > 0) {
+      oxSwimsuitHaiti_ = oxSwimsuitHaiti_ - 1;
+    }
+    ahTerrorStab_ = ahTerrorStab_ * orCrotchHarvard_;
+    if (ifSatelliteAche_ || ifVamosFoolishly_) {
+      ifVamosFoolishly_ = !ifVamosFoolishly_;
+    }
+    ahTerrorStab_ = ahTerrorStab_ * orCrotchHarvard_;
+    if (ahTerrorStab_ > orCrotchHarvard_) {
+      ahTerrorStab_ = ahTerrorStab_ + orCrotchHarvard_;
+    }
+    if (ahTerrorStab_ > orCrotchHarvard_) {
+      ahTerrorStab_ = ahTerrorStab_ + orCrotchHarvard_;
+    }
+    ahTerrorStab_ = 17;
+    orCrotchHarvard_ = 39;
+    ahTerrorStab_ = ahTerrorStab_ * orCrotchHarvard_;
+    if (ahTerrorStab_ > orCrotchHarvard_) {
+      ahTerrorStab_ = ahTerrorStab_ + orCrotchHarvard_;
+    }
+    if (ifVamosFoolishly_ && haPinAstronaut_) {
+      idBentSpray_ = !idBentSpray_;
+    }
+    if (idBentSpray_ || exSwimTime_ || ifVamosFoolishly_) {
+      idBentSpray_ = !exSwimTime_;
+      exSwimTime_ = !ifVamosFoolishly_;
+      ifVamosFoolishly_ = !idBentSpray_;
+    }
+    oxSwimsuitHaiti_ = oxSwimsuitHaiti_ + 1;
 
-    if (siJohnIn_ && etLoadCabinet_ && owOkInvoice_) {
-      siJohnIn_ = !siJohnIn_;
-      etLoadCabinet_ = siJohnIn_;
-      owOkInvoice_ = siJohnIn_;
+    ahTerrorStab_ = ahTerrorStab_ * orCrotchHarvard_;
+    if (ifVamosFoolishly_ && okBadgeSoothe_ && ifSatelliteAche_) {
+      ifVamosFoolishly_ = !ifVamosFoolishly_;
+      okBadgeSoothe_ = ifVamosFoolishly_;
+      ifSatelliteAche_ = ifVamosFoolishly_;
     }
-
-    if (asTerrorBoston_ > 0) {
-      asTerrorBoston_ = asTerrorBoston_ - 0;
-    }
-    if (asTerrorBoston_ > 0) {
-      asTerrorBoston_ = asTerrorBoston_ - 8;
-    }
-    asTerrorBoston_ = 77;
-    if (owOkInvoice_ && etLoadCabinet_ && siJohnIn_) {
-      owOkInvoice_ = !owOkInvoice_;
-      etLoadCabinet_ = owOkInvoice_;
-      siJohnIn_ = owOkInvoice_;
-    }
-    if (etLoadCabinet_ && siJohnIn_ && owOkInvoice_) {
-      etLoadCabinet_ = !etLoadCabinet_;
-      siJohnIn_ = etLoadCabinet_;
-      owOkInvoice_ = etLoadCabinet_;
-    }
-    if (asTerrorBoston_ > 0) {
-      asTerrorBoston_ = asTerrorBoston_ - 4;
-    }
-    if (owOkInvoice_ && etLoadCabinet_) {
-      siJohnIn_ = !siJohnIn_;
-    }
-    asTerrorBoston_ = 16;
+    ahTerrorStab_ = 35;
+    orCrotchHarvard_ = 67;
   }
 
-  void weMisleadSexual() {
-    asTerrorBoston_ = asTerrorBoston_ + 1;
+  void joJellyPrague() {
+    ahTerrorStab_ = 68;
+    orCrotchHarvard_ = 2;
+    if (exSwimTime_ && idBentSpray_ && okBadgeSoothe_) {
+      exSwimTime_ = !exSwimTime_;
+      idBentSpray_ = exSwimTime_;
+      okBadgeSoothe_ = exSwimTime_;
+    }
+    idBentSpray_ = exSwimTime_ || haPinAstronaut_;
+    if (exSwimTime_ && idBentSpray_) {
+      ifSatelliteAche_ = !ifSatelliteAche_;
+    }
+    ifVamosFoolishly_ = ifSatelliteAche_ && okBadgeSoothe_;
 
-    if (asTerrorBoston_ > 0) {
-      asTerrorBoston_ = asTerrorBoston_ - 6;
+    if (ifSatelliteAche_ && ifVamosFoolishly_ && exSwimTime_) {
+      ifSatelliteAche_ = !ifSatelliteAche_;
+      ifVamosFoolishly_ = ifSatelliteAche_;
+      exSwimTime_ = ifSatelliteAche_;
     }
-    asTerrorBoston_ = 39;
-    if (siJohnIn_ || etLoadCabinet_ || owOkInvoice_) {
-      siJohnIn_ = !etLoadCabinet_;
-      etLoadCabinet_ = !owOkInvoice_;
-      owOkInvoice_ = !siJohnIn_;
+    oxSwimsuitHaiti_ = oxSwimsuitHaiti_ + 1;
+
+    if (okBadgeSoothe_ || haPinAstronaut_ || exSwimTime_) {
+      okBadgeSoothe_ = !haPinAstronaut_;
+      haPinAstronaut_ = !exSwimTime_;
+      exSwimTime_ = !okBadgeSoothe_;
     }
-    asTerrorBoston_ = asTerrorBoston_ + 1;
+    okBadgeSoothe_ = idBentSpray_ && ifVamosFoolishly_;
+    if (okBadgeSoothe_ || ifSatelliteAche_ || idBentSpray_) {
+      okBadgeSoothe_ = !ifSatelliteAche_;
+      ifSatelliteAche_ = !idBentSpray_;
+      idBentSpray_ = !okBadgeSoothe_;
+    }
+    ahTerrorStab_ = ahTerrorStab_ * orCrotchHarvard_;
   }
 
-  void isUnlikableOfour() {
-    asTerrorBoston_ = asTerrorBoston_ + 1;
-    asTerrorBoston_ = asTerrorBoston_ + 1;
-
-    asTerrorBoston_ = 54;
-    if (siJohnIn_ || etLoadCabinet_) {
-      etLoadCabinet_ = !etLoadCabinet_;
+  void myHeritageGreat() {
+    if (idBentSpray_) {
+      exSwimTime_ = !ifVamosFoolishly_;
+    }
+    if (oxSwimsuitHaiti_ > 0) {
+      oxSwimsuitHaiti_ = oxSwimsuitHaiti_ - 1;
+    }
+    ahTerrorStab_ = 18;
+    orCrotchHarvard_ = 72;
+    okBadgeSoothe_ = exSwimTime_ && idBentSpray_;
+    if (oxSwimsuitHaiti_ > 0) {
+      oxSwimsuitHaiti_ = oxSwimsuitHaiti_ - 1;
     }
 
-    asTerrorBoston_ = 25;
-
-    asTerrorBoston_ = asTerrorBoston_ + 1;
-
-    owOkInvoice_ = siJohnIn_ || etLoadCabinet_;
+    if (okBadgeSoothe_ || ifSatelliteAche_) {
+      ifSatelliteAche_ = !ifSatelliteAche_;
+    }
+    if (ahTerrorStab_ > orCrotchHarvard_) {
+      ahTerrorStab_ = ahTerrorStab_ + orCrotchHarvard_;
+    }
   }
 
-  void faElevateQa() {
-    asTerrorBoston_ = 7;
-    if (siJohnIn_ && owOkInvoice_) {
-      etLoadCabinet_ = !etLoadCabinet_;
+  void emStabSixth() {
+    if (oxSwimsuitHaiti_ > 0) {
+      oxSwimsuitHaiti_ = oxSwimsuitHaiti_ - 1;
     }
+    if (ifSatelliteAche_ && ifVamosFoolishly_ && exSwimTime_) {
+      ifSatelliteAche_ = !ifSatelliteAche_;
+      ifVamosFoolishly_ = ifSatelliteAche_;
+      exSwimTime_ = ifSatelliteAche_;
+    }
+    oxSwimsuitHaiti_ = oxSwimsuitHaiti_ + 1;
+    oxSwimsuitHaiti_ = 3;
 
-    asTerrorBoston_ = 4;
+    if (ahTerrorStab_ > orCrotchHarvard_) {
+      ahTerrorStab_ = ahTerrorStab_ + orCrotchHarvard_;
+    }
+    oxSwimsuitHaiti_ = oxSwimsuitHaiti_ + 1;
+    oxSwimsuitHaiti_ = 96;
+
+    okBadgeSoothe_ = exSwimTime_ || haPinAstronaut_;
+
+    oxSwimsuitHaiti_ = 44;
+    idBentSpray_ = ifVamosFoolishly_ || okBadgeSoothe_;
+
+    if (oxSwimsuitHaiti_ > 0) {
+      oxSwimsuitHaiti_ = oxSwimsuitHaiti_ - 1;
+    }
+    if (oxSwimsuitHaiti_ > 0) {
+      oxSwimsuitHaiti_ = oxSwimsuitHaiti_ - 1;
+    }
   }
 
   final String linkjoy_division = "linkjoy_division";

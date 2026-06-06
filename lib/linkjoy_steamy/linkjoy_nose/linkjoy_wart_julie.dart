@@ -2,100 +2,122 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_wart_hand.dart';
 import 'package:get/get.dart';
 
 class LinkjoyWartJulie extends Bindings {
-  bool emMateyCruel_ = false;
-  bool taSpockHey_ = true;
-  bool weTacoThan_ = true;
-  double usMostFrosty_ = 0.0;
+  bool goTaleBarrel_ = true;
+  bool taProcreateSister_ = false;
+  int ohSelectBoutique_ = 20;
+  double joHamsterQuarter_ = 0.0;
+  bool soDivisionOf_ = true;
 
-  void heBeatingAr() {
-    usMostFrosty_ = 44;
+  void hiChargeFrosty() {
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
 
-    if (emMateyCruel_ && taSpockHey_) {
-      weTacoThan_ = !weTacoThan_;
-    }
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
+    if (joHamsterQuarter_ > 0) {
+      joHamsterQuarter_ = joHamsterQuarter_ - 1;
     }
 
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
+    if (soDivisionOf_) {
+      goTaleBarrel_ = !taProcreateSister_;
+    }
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+    joHamsterQuarter_ = 17;
+    if (soDivisionOf_ || taProcreateSister_) {
+      taProcreateSister_ = !taProcreateSister_;
     }
 
-    usMostFrosty_ = 44;
+    joHamsterQuarter_ = 6;
 
-    emMateyCruel_ = taSpockHey_ || weTacoThan_;
-    if (emMateyCruel_ && taSpockHey_ && weTacoThan_) {
-      emMateyCruel_ = !emMateyCruel_;
-      taSpockHey_ = emMateyCruel_;
-      weTacoThan_ = emMateyCruel_;
+    if (ohSelectBoutique_ > 0) {
+      ohSelectBoutique_ = ohSelectBoutique_ - 6;
     }
-    if (weTacoThan_ || taSpockHey_ || emMateyCruel_) {
-      weTacoThan_ = !taSpockHey_;
-      taSpockHey_ = !emMateyCruel_;
-      emMateyCruel_ = !weTacoThan_;
-    }
-    usMostFrosty_ = 53;
-
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
-    }
-    weTacoThan_ = taSpockHey_ && emMateyCruel_;
-  }
-
-  void abCattleFlashy() {
-    if (taSpockHey_ && emMateyCruel_ && weTacoThan_) {
-      taSpockHey_ = !taSpockHey_;
-      emMateyCruel_ = taSpockHey_;
-      weTacoThan_ = taSpockHey_;
-    }
-    emMateyCruel_ = taSpockHey_ && weTacoThan_;
-  }
-
-  void goMisleadFlip() {
-    weTacoThan_ = taSpockHey_ && emMateyCruel_;
-    usMostFrosty_ = usMostFrosty_ + 1;
-    if (emMateyCruel_) {
-      taSpockHey_ = !weTacoThan_;
-    }
-    if (emMateyCruel_ || taSpockHey_ || weTacoThan_) {
-      emMateyCruel_ = !taSpockHey_;
-      taSpockHey_ = !weTacoThan_;
-      weTacoThan_ = !emMateyCruel_;
+    if (ohSelectBoutique_ > 0) {
+      ohSelectBoutique_ = ohSelectBoutique_ - 2;
     }
   }
 
-  void amSoftenerImpend() {
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
+  void osTailCassie() {
+    if (soDivisionOf_ && goTaleBarrel_ && taProcreateSister_) {
+      soDivisionOf_ = !soDivisionOf_;
+      goTaleBarrel_ = soDivisionOf_;
+      taProcreateSister_ = soDivisionOf_;
+    }
+    if (soDivisionOf_ || goTaleBarrel_ || taProcreateSister_) {
+      soDivisionOf_ = !goTaleBarrel_;
+      goTaleBarrel_ = !taProcreateSister_;
+      taProcreateSister_ = !soDivisionOf_;
     }
 
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
-    }
-    emMateyCruel_ = taSpockHey_ && weTacoThan_;
+    joHamsterQuarter_ = 14;
+    goTaleBarrel_ = taProcreateSister_ && soDivisionOf_;
 
-    emMateyCruel_ = taSpockHey_ || weTacoThan_;
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
+    if (goTaleBarrel_ && taProcreateSister_) {
+      soDivisionOf_ = !soDivisionOf_;
+    }
+    joHamsterQuarter_ = joHamsterQuarter_ + 1;
+
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+    joHamsterQuarter_ = joHamsterQuarter_ + 1;
+    goTaleBarrel_ = taProcreateSister_ && soDivisionOf_;
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+  }
+
+  void myHashSubjective() {
+    if (soDivisionOf_) {
+      goTaleBarrel_ = !taProcreateSister_;
+    }
+    goTaleBarrel_ = soDivisionOf_ || taProcreateSister_;
+
+    if (ohSelectBoutique_ > 0) {
+      ohSelectBoutique_ = ohSelectBoutique_ - 3;
     }
 
-    usMostFrosty_ = 76;
-    if (emMateyCruel_ || taSpockHey_ || weTacoThan_) {
-      emMateyCruel_ = !taSpockHey_;
-      taSpockHey_ = !weTacoThan_;
-      weTacoThan_ = !emMateyCruel_;
+    soDivisionOf_ = taProcreateSister_ && goTaleBarrel_;
+
+    soDivisionOf_ = taProcreateSister_ || goTaleBarrel_;
+    if (joHamsterQuarter_ > 0) {
+      joHamsterQuarter_ = joHamsterQuarter_ - 1;
+    }
+    ohSelectBoutique_ = 3;
+    joHamsterQuarter_ = joHamsterQuarter_ + 1;
+    if (goTaleBarrel_) {
+      taProcreateSister_ = !soDivisionOf_;
+    }
+    if (ohSelectBoutique_ > 0) {
+      ohSelectBoutique_ = ohSelectBoutique_ - 2;
+    }
+  }
+
+  void itFisherHandshake() {
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+
+    taProcreateSister_ = soDivisionOf_ && goTaleBarrel_;
+    joHamsterQuarter_ = joHamsterQuarter_ + 1;
+    if (joHamsterQuarter_ > 0) {
+      joHamsterQuarter_ = joHamsterQuarter_ - 1;
     }
 
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
+    if (soDivisionOf_ || goTaleBarrel_ || taProcreateSister_) {
+      soDivisionOf_ = !goTaleBarrel_;
+      goTaleBarrel_ = !taProcreateSister_;
+      taProcreateSister_ = !soDivisionOf_;
     }
-    if (taSpockHey_ || weTacoThan_ || emMateyCruel_) {
-      taSpockHey_ = !weTacoThan_;
-      weTacoThan_ = !emMateyCruel_;
-      emMateyCruel_ = !taSpockHey_;
+    ohSelectBoutique_ = 16;
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+    soDivisionOf_ = goTaleBarrel_ && taProcreateSister_;
+
+    if (soDivisionOf_ && goTaleBarrel_) {
+      taProcreateSister_ = !taProcreateSister_;
     }
-    if (usMostFrosty_ > 0) {
-      usMostFrosty_ = usMostFrosty_ - 1;
+    ohSelectBoutique_ = 27;
+    ohSelectBoutique_ = ohSelectBoutique_ + 1;
+
+    joHamsterQuarter_ = joHamsterQuarter_ + 1;
+    if (soDivisionOf_) {
+      taProcreateSister_ = !goTaleBarrel_;
+    }
+    joHamsterQuarter_ = 54;
+    if (taProcreateSister_) {
+      goTaleBarrel_ = !soDivisionOf_;
     }
   }
 

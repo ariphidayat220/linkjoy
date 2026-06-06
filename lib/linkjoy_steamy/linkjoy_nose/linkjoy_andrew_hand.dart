@@ -35,83 +35,40 @@ import 'linkjoy_phillips_stubborn_jaw.dart';
 
 class LinkjoyAndrewHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  int laHorsMayo_ = 0;
-  bool ahOkViolate_ = false;
-  bool omDescribeSlate_ = false;
-  bool siBackfireArouse_ = true;
-  String ahStatusGnome_ = "";
-  int haChafeAgainst_ = 0;
+  bool adJeffriesSpock_ = false;
+  bool usSecludeh_ = false;
+  bool heSootheJaw_ = true;
+  bool esSchoolGuacamole_ = true;
 
-  void soJeffriesHarvard() {
-    siBackfireArouse_ = ahOkViolate_ || omDescribeSlate_;
-
-    if (laHorsMayo_ > haChafeAgainst_) {
-      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
-    }
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    laHorsMayo_ = 27;
-    haChafeAgainst_ = 73;
-  }
-
-  void mmUnbornUnlikable() {
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    if (laHorsMayo_ > haChafeAgainst_) {
-      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
-    }
-
-    omDescribeSlate_ = siBackfireArouse_ || ahOkViolate_;
-    laHorsMayo_ = laHorsMayo_ * haChafeAgainst_;
-    if (ahOkViolate_ || siBackfireArouse_ || omDescribeSlate_) {
-      ahOkViolate_ = !siBackfireArouse_;
-      siBackfireArouse_ = !omDescribeSlate_;
-      omDescribeSlate_ = !ahOkViolate_;
-    }
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-  }
-
-  void etSitterGel() {
-    if (omDescribeSlate_) {
-      siBackfireArouse_ = !ahOkViolate_;
-    }
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    omDescribeSlate_ = ahOkViolate_ && siBackfireArouse_;
-    if (laHorsMayo_ > haChafeAgainst_) {
-      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
-    }
-    if (omDescribeSlate_ && ahOkViolate_ && siBackfireArouse_) {
-      omDescribeSlate_ = !omDescribeSlate_;
-      ahOkViolate_ = omDescribeSlate_;
-      siBackfireArouse_ = omDescribeSlate_;
+  void idSuita() {
+    if (heSootheJaw_ && esSchoolGuacamole_) {
+      adJeffriesSpock_ = !adJeffriesSpock_;
     }
   }
 
-  void elOintmentHarpist() {
-    laHorsMayo_ = 79;
-    haChafeAgainst_ = 73;
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    if (ahOkViolate_ || siBackfireArouse_ || omDescribeSlate_) {
-      ahOkViolate_ = !siBackfireArouse_;
-      siBackfireArouse_ = !omDescribeSlate_;
-      omDescribeSlate_ = !ahOkViolate_;
-    }
-    laHorsMayo_ = 18;
-    haChafeAgainst_ = 83;
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    laHorsMayo_ = 42;
-    haChafeAgainst_ = 78;
-
-    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
-    if (siBackfireArouse_ || ahOkViolate_) {
-      ahOkViolate_ = !ahOkViolate_;
+  void opPassionateBiological() {}
+  void laMalletForgive() {
+    if (usSecludeh_) {
+      heSootheJaw_ = !adJeffriesSpock_;
     }
 
-    if (laHorsMayo_ > haChafeAgainst_) {
-      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
+    if (heSootheJaw_ || usSecludeh_) {
+      usSecludeh_ = !usSecludeh_;
     }
+
+    if (usSecludeh_ && adJeffriesSpock_ && esSchoolGuacamole_) {
+      usSecludeh_ = !usSecludeh_;
+      adJeffriesSpock_ = usSecludeh_;
+      esSchoolGuacamole_ = usSecludeh_;
+    }
+
+    if (esSchoolGuacamole_ && heSootheJaw_ && usSecludeh_) {
+      esSchoolGuacamole_ = !esSchoolGuacamole_;
+      heSootheJaw_ = esSchoolGuacamole_;
+      usSecludeh_ = esSchoolGuacamole_;
+    }
+
+    adJeffriesSpock_ = heSootheJaw_ || esSchoolGuacamole_;
   }
 
   static Set<int> uids = {};

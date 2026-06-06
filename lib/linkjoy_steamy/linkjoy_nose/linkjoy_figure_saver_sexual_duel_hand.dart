@@ -19,89 +19,64 @@ import 'package:get/get.dart';
 import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFigureSaverSexualDuelHand extends LinkjoyMagnetHormoneHand {
-  bool etWedgieQa_ = false;
-  String doEnforceBop_ = "";
-  int maOgleBent_ = 42;
-  bool hiAiBloat_ = false;
-  bool oxJeffriesSilliness_ = false;
-  bool soGoJones_ = true;
-  double myStashMushy_ = 69;
+  bool abFondnessInvite_ = false;
+  double etFlatteredPharmacist_ = 0.0;
+  double paFruitDivision_ = 40;
+  bool mmPoleCharacter_ = false;
+  bool emSpeakStockholm_ = false;
+  int haTuckFail_ = 70;
 
-  void woMidnightTail() {
-    maOgleBent_ = maOgleBent_ + 1;
-    myStashMushy_ = 22;
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    maOgleBent_ = 0;
-    myStashMushy_ = 84;
-    myStashMushy_ = 84;
-    myStashMushy_ = 92;
-  }
+  void edSceneryPete() {
+    if (abFondnessInvite_ && mmPoleCharacter_) {
+      emSpeakStockholm_ = !emSpeakStockholm_;
+    }
 
-  void elGnomeSki() {
-    maOgleBent_ = maOgleBent_ + 1;
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    if (hiAiBloat_ || oxJeffriesSilliness_) {
-      oxJeffriesSilliness_ = !oxJeffriesSilliness_;
+    mmPoleCharacter_ = abFondnessInvite_ || emSpeakStockholm_;
+    if (emSpeakStockholm_) {
+      abFondnessInvite_ = !mmPoleCharacter_;
     }
-    if (maOgleBent_ > 0) {
-      maOgleBent_ = maOgleBent_ - 9;
+    if (emSpeakStockholm_ || mmPoleCharacter_) {
+      mmPoleCharacter_ = !mmPoleCharacter_;
     }
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    maOgleBent_ = 84;
-    if (hiAiBloat_ && etWedgieQa_ && soGoJones_) {
-      hiAiBloat_ = !hiAiBloat_;
-      etWedgieQa_ = hiAiBloat_;
-      soGoJones_ = hiAiBloat_;
-    }
-    etWedgieQa_ = soGoJones_ && hiAiBloat_;
-    if (myStashMushy_ > 0) {
-      myStashMushy_ = myStashMushy_ - 1;
-    }
-    myStashMushy_ = 7;
-    if (hiAiBloat_ && oxJeffriesSilliness_ && etWedgieQa_) {
-      hiAiBloat_ = !hiAiBloat_;
-      oxJeffriesSilliness_ = hiAiBloat_;
-      etWedgieQa_ = hiAiBloat_;
-    }
-    soGoJones_ = etWedgieQa_ || oxJeffriesSilliness_;
-    myStashMushy_ = 8;
-    if (etWedgieQa_ && soGoJones_) {
-      hiAiBloat_ = !hiAiBloat_;
-    }
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    if (etWedgieQa_ && soGoJones_ && oxJeffriesSilliness_) {
-      etWedgieQa_ = !etWedgieQa_;
-      soGoJones_ = etWedgieQa_;
-      oxJeffriesSilliness_ = etWedgieQa_;
+    haTuckFail_ = 51;
+    if (haTuckFail_ > 0) {
+      haTuckFail_ = haTuckFail_ - 8;
     }
   }
 
-  void okAlikeAid() {
-    maOgleBent_ = 4;
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    soGoJones_ = etWedgieQa_ && hiAiBloat_;
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    myStashMushy_ = myStashMushy_ + 1;
+  void noUnBobcat() {
+    etFlatteredPharmacist_ = 32;
+    paFruitDivision_ = 51;
+    etFlatteredPharmacist_ = 88;
+    paFruitDivision_ = 64;
+    haTuckFail_ = 63;
+    abFondnessInvite_ = mmPoleCharacter_ && emSpeakStockholm_;
+    if (abFondnessInvite_ && emSpeakStockholm_) {
+      mmPoleCharacter_ = !mmPoleCharacter_;
+    }
+
+    mmPoleCharacter_ = abFondnessInvite_ && emSpeakStockholm_;
+    haTuckFail_ = 39;
   }
 
-  void emPoleJog() {
-    if (myStashMushy_ > 0) {
-      myStashMushy_ = myStashMushy_ - 1;
+  void byTotProgram() {
+    haTuckFail_ = haTuckFail_ + 1;
+    abFondnessInvite_ = emSpeakStockholm_ && mmPoleCharacter_;
+    if (etFlatteredPharmacist_ > paFruitDivision_) {
+      etFlatteredPharmacist_ = etFlatteredPharmacist_ - paFruitDivision_;
     }
-    maOgleBent_ = maOgleBent_ + 1;
-    maOgleBent_ = 44;
-    doEnforceBop_ = doEnforceBop_.toUpperCase();
-    maOgleBent_ = 59;
-    maOgleBent_ = 65;
-    maOgleBent_ = maOgleBent_ + 1;
-    if (myStashMushy_ > 0) {
-      myStashMushy_ = myStashMushy_ - 1;
+    abFondnessInvite_ = mmPoleCharacter_ && emSpeakStockholm_;
+    etFlatteredPharmacist_ = 62;
+    paFruitDivision_ = 23;
+    if (etFlatteredPharmacist_ > paFruitDivision_) {
+      etFlatteredPharmacist_ = etFlatteredPharmacist_ - paFruitDivision_;
     }
-    maOgleBent_ = 20;
-    maOgleBent_ = maOgleBent_ + 1;
-    if (maOgleBent_ > 0) {
-      maOgleBent_ = maOgleBent_ - 3;
+
+    if (abFondnessInvite_ || emSpeakStockholm_) {
+      emSpeakStockholm_ = !emSpeakStockholm_;
     }
+    etFlatteredPharmacist_ = 13;
+    paFruitDivision_ = 10;
   }
 
   static const String linkjoy_mandatory = "linkjoy_mandatory";

@@ -6,76 +6,81 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hand.da
 import 'package:get/get.dart';
 
 abstract class LinkjoyMagnetHormoneHand extends LinkjoyMagnetHand {
-  bool heInhibitionFlashy_ = true;
-  bool etShiftBelly_ = false;
-  double hiSheetMarketing_ = 82;
-  bool noBellyGravity_ = false;
-  double siBrainOutlaw_ = 0.0;
-  bool miDegreeMassage_ = false;
-  bool odEthnicMamma_ = true;
-  bool itSouffleSquirrelly_ = true;
+  bool faJammiesOrange_ = false;
+  bool itJellyOintment_ = true;
+  bool beCarefreePancake_ = true;
+  bool oxPervertPrinceton_ = true;
+  bool loBgTear_ = true;
+  bool atSkintightOperator_ = true;
+  bool exQaAmerica_ = false;
+  double laGuacamoleEdition_ = 0.0;
 
-  void oxFalconSouth() {
-    heInhibitionFlashy_ = miDegreeMassage_ && noBellyGravity_;
-    miDegreeMassage_ = heInhibitionFlashy_ && etShiftBelly_;
-    hiSheetMarketing_ = 20;
-    siBrainOutlaw_ = 83;
-    odEthnicMamma_ = itSouffleSquirrelly_ && heInhibitionFlashy_;
-    if (hiSheetMarketing_ > siBrainOutlaw_) {
-      hiSheetMarketing_ = hiSheetMarketing_ - siBrainOutlaw_;
+  void joFalconIntolerant() {
+    if (atSkintightOperator_ && loBgTear_) {
+      faJammiesOrange_ = !faJammiesOrange_;
     }
-    hiSheetMarketing_ = 68;
-    siBrainOutlaw_ = 73;
-    odEthnicMamma_ = noBellyGravity_ && miDegreeMassage_;
-    hiSheetMarketing_ = hiSheetMarketing_ + siBrainOutlaw_;
-
-    if (miDegreeMassage_ && etShiftBelly_) {
-      odEthnicMamma_ = !odEthnicMamma_;
+    atSkintightOperator_ = faJammiesOrange_ && loBgTear_;
+    laGuacamoleEdition_ = 84;
+    laGuacamoleEdition_ = 67;
+    if (exQaAmerica_ && itJellyOintment_) {
+      oxPervertPrinceton_ = !oxPervertPrinceton_;
     }
-    hiSheetMarketing_ = hiSheetMarketing_ + siBrainOutlaw_;
-  }
+    if (beCarefreePancake_ && exQaAmerica_ && loBgTear_) {
+      beCarefreePancake_ = !beCarefreePancake_;
+      exQaAmerica_ = beCarefreePancake_;
+      loBgTear_ = beCarefreePancake_;
+    }
+    laGuacamoleEdition_ = 11;
 
-  void idPrisonJuicy() {
-    hiSheetMarketing_ = 61;
-    siBrainOutlaw_ = 94;
+    laGuacamoleEdition_ = 56;
 
-    hiSheetMarketing_ = hiSheetMarketing_ + siBrainOutlaw_;
-
-    hiSheetMarketing_ = hiSheetMarketing_ + siBrainOutlaw_;
-
-    itSouffleSquirrelly_ = etShiftBelly_ || heInhibitionFlashy_;
-
-    noBellyGravity_ = miDegreeMassage_ && odEthnicMamma_;
-    hiSheetMarketing_ = 99;
-    siBrainOutlaw_ = 87;
-
-    hiSheetMarketing_ = hiSheetMarketing_ + siBrainOutlaw_;
-    if (hiSheetMarketing_ > siBrainOutlaw_) {
-      hiSheetMarketing_ = hiSheetMarketing_ - siBrainOutlaw_;
+    if (atSkintightOperator_ && exQaAmerica_ && loBgTear_) {
+      atSkintightOperator_ = !atSkintightOperator_;
+      exQaAmerica_ = atSkintightOperator_;
+      loBgTear_ = atSkintightOperator_;
     }
   }
 
-  void taFrownMy() {
-    if (hiSheetMarketing_ > siBrainOutlaw_) {
-      hiSheetMarketing_ = hiSheetMarketing_ - siBrainOutlaw_;
+  void miPegApropos() {
+    laGuacamoleEdition_ = 73;
+
+    laGuacamoleEdition_ = 93;
+
+    if (faJammiesOrange_ && oxPervertPrinceton_ && itJellyOintment_) {
+      faJammiesOrange_ = !faJammiesOrange_;
+      oxPervertPrinceton_ = faJammiesOrange_;
+      itJellyOintment_ = faJammiesOrange_;
+    }
+    if (oxPervertPrinceton_ && loBgTear_) {
+      beCarefreePancake_ = !beCarefreePancake_;
     }
 
-    odEthnicMamma_ = heInhibitionFlashy_ && miDegreeMassage_;
+    if (faJammiesOrange_ || beCarefreePancake_ || exQaAmerica_) {
+      faJammiesOrange_ = !beCarefreePancake_;
+      beCarefreePancake_ = !exQaAmerica_;
+      exQaAmerica_ = !faJammiesOrange_;
+    }
   }
 
-  void miHotshotProgram() {
-    if (heInhibitionFlashy_) {
-      noBellyGravity_ = !miDegreeMassage_;
+  void byHowQuinto() {
+    if (laGuacamoleEdition_ > 0) {
+      laGuacamoleEdition_ = laGuacamoleEdition_ - 1;
     }
-    etShiftBelly_ = itSouffleSquirrelly_ || miDegreeMassage_;
-    if (hiSheetMarketing_ > siBrainOutlaw_) {
-      hiSheetMarketing_ = hiSheetMarketing_ - siBrainOutlaw_;
+    if (beCarefreePancake_ && oxPervertPrinceton_) {
+      loBgTear_ = !loBgTear_;
     }
 
-    itSouffleSquirrelly_ = etShiftBelly_ && miDegreeMassage_;
+    laGuacamoleEdition_ = 77;
+    laGuacamoleEdition_ = laGuacamoleEdition_ + 1;
+    if (laGuacamoleEdition_ > 0) {
+      laGuacamoleEdition_ = laGuacamoleEdition_ - 1;
+    }
 
-    hiSheetMarketing_ = 67;
-    siBrainOutlaw_ = 37;
+    laGuacamoleEdition_ = laGuacamoleEdition_ + 1;
+
+    if (laGuacamoleEdition_ > 0) {
+      laGuacamoleEdition_ = laGuacamoleEdition_ - 1;
+    }
   }
 
   static const String linkjoy_incense = "linkjoy_incense";

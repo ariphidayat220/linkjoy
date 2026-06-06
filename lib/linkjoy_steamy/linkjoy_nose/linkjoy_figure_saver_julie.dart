@@ -3,143 +3,127 @@ import 'package:get/get.dart';
 import 'linkjoy_figure_saver_hand.dart';
 
 class LinkjoyFigureSaverJulie extends Bindings {
-  bool meShiftWarmth_ = false;
-  int faNarrateSteven_ = 0;
-  double etHorsebackMost_ = 0.0;
-  bool ahBinocularsAdventure_ = true;
-  double loAyeBackfire_ = 29;
-  double abPlaceboTo_ = 0.0;
-  String aySoftballChap_ = "";
-  bool woFourthEager_ = true;
-  bool owCrotchVbl_ = false;
-  String doCustardSpeak_ = "";
+  String paWhimsicalForgot_ = "";
+  bool maVwOfour_ = true;
+  bool loFamous12_ = true;
+  bool etGeography6_ = false;
+  String ifUnlikableDestroy_ = "";
+  String ifEmbodimentPond_ = "";
+  int hiStyleSnatch_ = 71;
+  bool paSouthTrapp_ = true;
+  double hoDigAsset_ = 0.0;
+  bool enTrappLoser_ = false;
 
-  void etSisterFacebook() {
-    loAyeBackfire_ = 438;
-    etHorsebackMost_ = 811;
-    abPlaceboTo_ = loAyeBackfire_ + etHorsebackMost_;
-    aySoftballChap_ = aySoftballChap_ + doCustardSpeak_;
-    doCustardSpeak_ = aySoftballChap_;
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    if (ahBinocularsAdventure_ || meShiftWarmth_ || owCrotchVbl_) {
-      ahBinocularsAdventure_ = !meShiftWarmth_;
-      meShiftWarmth_ = !owCrotchVbl_;
-      owCrotchVbl_ = !ahBinocularsAdventure_;
+  void amGenderedGet() {
+    ifEmbodimentPond_ = ifUnlikableDestroy_ + paWhimsicalForgot_;
+    if (enTrappLoser_ && etGeography6_) {
+      paSouthTrapp_ = !paSouthTrapp_;
     }
-    faNarrateSteven_ = faNarrateSteven_ + 1;
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    faNarrateSteven_ = 91;
-    loAyeBackfire_ = etHorsebackMost_ - abPlaceboTo_;
-    if (faNarrateSteven_ > 0) {
-      faNarrateSteven_ = faNarrateSteven_ - 3;
-    }
-    aySoftballChap_ = aySoftballChap_ + doCustardSpeak_;
-    doCustardSpeak_ = aySoftballChap_;
-    faNarrateSteven_ = 33;
-    faNarrateSteven_ = faNarrateSteven_ + 1;
-    aySoftballChap_ = aySoftballChap_ + doCustardSpeak_;
-    doCustardSpeak_ = aySoftballChap_;
-    loAyeBackfire_ = abPlaceboTo_ * etHorsebackMost_;
-    if (loAyeBackfire_ > 0) {
-      etHorsebackMost_ = abPlaceboTo_ / loAyeBackfire_;
-    }
-    if (faNarrateSteven_ > 0) {
-      faNarrateSteven_ = faNarrateSteven_ - 0;
-    }
-  }
-
-  void idCustardCoral() {
-    abPlaceboTo_ = loAyeBackfire_;
-    etHorsebackMost_ = loAyeBackfire_;
-    faNarrateSteven_ = faNarrateSteven_ + 1;
-    if (faNarrateSteven_ > 0) {
-      faNarrateSteven_ = faNarrateSteven_ - 6;
-    }
-    abPlaceboTo_ = etHorsebackMost_;
-    loAyeBackfire_ = etHorsebackMost_;
-    faNarrateSteven_ = faNarrateSteven_ + 1;
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    abPlaceboTo_ = 107;
-    loAyeBackfire_ = 327;
-    etHorsebackMost_ = abPlaceboTo_ + loAyeBackfire_;
-    if (ahBinocularsAdventure_) {
-      meShiftWarmth_ = !owCrotchVbl_;
-    }
-    if (etHorsebackMost_ > loAyeBackfire_) {
-      abPlaceboTo_ = loAyeBackfire_ - etHorsebackMost_;
+    hoDigAsset_ = 38;
+    hiStyleSnatch_ = hiStyleSnatch_ + 1;
+    hoDigAsset_ = 96;
+    ifUnlikableDestroy_ = paWhimsicalForgot_;
+    ifEmbodimentPond_ = ifUnlikableDestroy_;
+    paWhimsicalForgot_ = ifEmbodimentPond_;
+    if (paWhimsicalForgot_.length > 9) {
+      ifEmbodimentPond_ = paWhimsicalForgot_;
     } else {
-      abPlaceboTo_ = etHorsebackMost_ - loAyeBackfire_;
+      ifUnlikableDestroy_ = ifEmbodimentPond_;
     }
-    faNarrateSteven_ = 10;
-    if (woFourthEager_ || owCrotchVbl_ || meShiftWarmth_) {
-      woFourthEager_ = !owCrotchVbl_;
-      owCrotchVbl_ = !meShiftWarmth_;
-      meShiftWarmth_ = !woFourthEager_;
+    loFamous12_ = etGeography6_ && enTrappLoser_;
+    if (paWhimsicalForgot_.length > 4) {
+      ifUnlikableDestroy_ = paWhimsicalForgot_;
+    } else {
+      ifEmbodimentPond_ = ifUnlikableDestroy_;
     }
-    if (faNarrateSteven_ > 0) {
-      faNarrateSteven_ = faNarrateSteven_ - 2;
+    hiStyleSnatch_ = 83;
+    loFamous12_ = paSouthTrapp_ && maVwOfour_;
+    if (hoDigAsset_ > 0) {
+      hoDigAsset_ = hoDigAsset_ - 1;
     }
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    abPlaceboTo_ = loAyeBackfire_ + etHorsebackMost_;
-    etHorsebackMost_ = 63;
-    loAyeBackfire_ = 587;
-    abPlaceboTo_ = etHorsebackMost_ + loAyeBackfire_;
-    faNarrateSteven_ = 43;
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    loAyeBackfire_ = 361;
-    abPlaceboTo_ = 415;
-    etHorsebackMost_ = loAyeBackfire_ + abPlaceboTo_;
-    if (woFourthEager_) {
-      ahBinocularsAdventure_ = !owCrotchVbl_;
+    if (hoDigAsset_ > 0) {
+      hoDigAsset_ = hoDigAsset_ - 1;
+    }
+    if (hiStyleSnatch_ > 0) {
+      hiStyleSnatch_ = hiStyleSnatch_ - 3;
+    }
+    if (hoDigAsset_ > 0) {
+      hoDigAsset_ = hoDigAsset_ - 1;
+    }
+    ifEmbodimentPond_ = paWhimsicalForgot_ + ifUnlikableDestroy_;
+  }
+
+  void amGuacamoleTennis() {
+    if (enTrappLoser_ && paSouthTrapp_) {
+      etGeography6_ = !etGeography6_;
+    }
+    if (hoDigAsset_ > 0) {
+      hoDigAsset_ = hoDigAsset_ - 1;
+    }
+    paWhimsicalForgot_ = ifEmbodimentPond_;
+    ifUnlikableDestroy_ = ifEmbodimentPond_;
+    if (hiStyleSnatch_ > 0) {
+      hiStyleSnatch_ = hiStyleSnatch_ - 0;
+    }
+    hoDigAsset_ = hoDigAsset_ + 1;
+    ifUnlikableDestroy_ = paWhimsicalForgot_ + ifEmbodimentPond_;
+    if (maVwOfour_ || enTrappLoser_ || loFamous12_) {
+      maVwOfour_ = !enTrappLoser_;
+      enTrappLoser_ = !loFamous12_;
+      loFamous12_ = !maVwOfour_;
     }
   }
 
-  void moCapableTribute() {
-    abPlaceboTo_ = 153;
-    etHorsebackMost_ = 783;
-    loAyeBackfire_ = abPlaceboTo_ + etHorsebackMost_;
-    if (faNarrateSteven_ > 0) {
-      faNarrateSteven_ = faNarrateSteven_ - 8;
+  void amAnkleChinatown() {
+    hoDigAsset_ = hoDigAsset_ + 1;
+    ifEmbodimentPond_ = paWhimsicalForgot_;
+    ifUnlikableDestroy_ = ifEmbodimentPond_;
+    paWhimsicalForgot_ = ifUnlikableDestroy_;
+    ifUnlikableDestroy_ = ifEmbodimentPond_;
+    paWhimsicalForgot_ = ifEmbodimentPond_;
+    if (hoDigAsset_ > 0) {
+      hoDigAsset_ = hoDigAsset_ - 1;
     }
-    if (owCrotchVbl_) {
-      woFourthEager_ = !ahBinocularsAdventure_;
+    maVwOfour_ = loFamous12_ && enTrappLoser_;
+    hoDigAsset_ = hoDigAsset_ + 1;
+    paWhimsicalForgot_ = ifUnlikableDestroy_ + ifEmbodimentPond_;
+    hiStyleSnatch_ = hiStyleSnatch_ + 1;
+    hiStyleSnatch_ = hiStyleSnatch_ + 1;
+    hiStyleSnatch_ = 6;
+    enTrappLoser_ = loFamous12_ && etGeography6_;
+    if (ifUnlikableDestroy_.length > 6) {
+      ifEmbodimentPond_ = ifUnlikableDestroy_;
+    } else {
+      paWhimsicalForgot_ = ifEmbodimentPond_;
     }
-    loAyeBackfire_ = etHorsebackMost_ + abPlaceboTo_;
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    faNarrateSteven_ = faNarrateSteven_ + 1;
-    abPlaceboTo_ = etHorsebackMost_ + loAyeBackfire_;
-    for (int i = 0; i < abPlaceboTo_; i++) {
-      etHorsebackMost_ += 1;
-      loAyeBackfire_ += etHorsebackMost_;
+    maVwOfour_ = etGeography6_ && loFamous12_;
+    hoDigAsset_ = 95;
+    hoDigAsset_ = 35;
+    if (hiStyleSnatch_ > 0) {
+      hiStyleSnatch_ = hiStyleSnatch_ - 2;
     }
-    woFourthEager_ = meShiftWarmth_ && ahBinocularsAdventure_;
-    if (woFourthEager_ && owCrotchVbl_) {
-      meShiftWarmth_ = !meShiftWarmth_;
-    }
-    for (int i = 0; i < etHorsebackMost_; i++) {
-      loAyeBackfire_ += 1;
-      abPlaceboTo_ += loAyeBackfire_;
-    }
-    doCustardSpeak_ = aySoftballChap_.toUpperCase() + doCustardSpeak_;
-    aySoftballChap_ = aySoftballChap_ + doCustardSpeak_;
-    doCustardSpeak_ = aySoftballChap_;
-    faNarrateSteven_ = faNarrateSteven_ + 1;
+    ifEmbodimentPond_ = ifUnlikableDestroy_;
+    paWhimsicalForgot_ = ifEmbodimentPond_;
+    ifUnlikableDestroy_ = paWhimsicalForgot_;
   }
 
-  void goDoOrigin() {
-    if (etHorsebackMost_ > 0) {
-      abPlaceboTo_ = loAyeBackfire_ / etHorsebackMost_;
+  void maCellPetty() {
+    hoDigAsset_ = hoDigAsset_ + 1;
+    if (hoDigAsset_ > 0) {
+      hoDigAsset_ = hoDigAsset_ - 1;
     }
-    if (owCrotchVbl_ && ahBinocularsAdventure_) {
-      meShiftWarmth_ = !meShiftWarmth_;
+    hiStyleSnatch_ = 30;
+    hoDigAsset_ = 30;
+    etGeography6_ = maVwOfour_ || enTrappLoser_;
+    hoDigAsset_ = hoDigAsset_ + 1;
+    if (hiStyleSnatch_ > 0) {
+      hiStyleSnatch_ = hiStyleSnatch_ - 1;
     }
-    if (ahBinocularsAdventure_ && owCrotchVbl_ && meShiftWarmth_) {
-      ahBinocularsAdventure_ = !ahBinocularsAdventure_;
-      owCrotchVbl_ = ahBinocularsAdventure_;
-      meShiftWarmth_ = ahBinocularsAdventure_;
-    }
-    aySoftballChap_ = doCustardSpeak_ + aySoftballChap_;
-    faNarrateSteven_ = faNarrateSteven_ + 1;
+    maVwOfour_ = enTrappLoser_ && loFamous12_;
+    ifUnlikableDestroy_ = ifEmbodimentPond_;
+    paWhimsicalForgot_ = ifUnlikableDestroy_;
+    ifEmbodimentPond_ = paWhimsicalForgot_;
+    hiStyleSnatch_ = 89;
   }
 
   @override

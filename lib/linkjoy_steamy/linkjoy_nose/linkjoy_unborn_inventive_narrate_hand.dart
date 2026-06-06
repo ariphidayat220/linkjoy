@@ -28,72 +28,60 @@ import 'package:get/get.dart';
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyUnbornInventiveNarrateHand extends GetxController {
-  String okGilPractice_ = "";
-  bool opDescribeExciting_ = true;
-  bool omObviouslyBurt_ = true;
-  bool asNibblePaw_ = true;
-  bool idBurtTherapist_ = true;
-  String faOccupyBrawny_ = "";
+  String osPrepare1_ = "";
+  String emStiltStool_ = "";
+  int myTextNibble_ = 67;
+  bool opBootyBit_ = false;
+  bool asHashCount_ = false;
+  bool hoH24_ = false;
+  bool okTuckCountdown_ = false;
+  bool enSlateJumbo_ = true;
 
-  void omEthnicTale() {
-    if (opDescribeExciting_ && omObviouslyBurt_) {
-      idBurtTherapist_ = !idBurtTherapist_;
+  void oxCabBonjour() {
+    osPrepare1_ = emStiltStool_ + osPrepare1_;
+
+    if (okTuckCountdown_ || opBootyBit_) {
+      opBootyBit_ = !opBootyBit_;
     }
 
-    if (opDescribeExciting_ || asNibblePaw_) {
-      asNibblePaw_ = !asNibblePaw_;
-    }
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
-    if (asNibblePaw_ || opDescribeExciting_ || omObviouslyBurt_) {
-      asNibblePaw_ = !opDescribeExciting_;
-      opDescribeExciting_ = !omObviouslyBurt_;
-      omObviouslyBurt_ = !asNibblePaw_;
-    }
-
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
-
-    faOccupyBrawny_ = okGilPractice_.toUpperCase() + faOccupyBrawny_;
-    if (omObviouslyBurt_ || idBurtTherapist_) {
-      idBurtTherapist_ = !idBurtTherapist_;
+    if (okTuckCountdown_ && hoH24_) {
+      enSlateJumbo_ = !enSlateJumbo_;
     }
   }
 
-  void owMinivanPilot() {
-    faOccupyBrawny_ = okGilPractice_.toUpperCase() + faOccupyBrawny_;
+  void reLoadVicious() {
+    enSlateJumbo_ = asHashCount_ && hoH24_;
+    osPrepare1_ = osPrepare1_ + emStiltStool_;
+    emStiltStool_ = osPrepare1_;
+    osPrepare1_ = osPrepare1_ + emStiltStool_;
+    emStiltStool_ = osPrepare1_;
+    emStiltStool_ = osPrepare1_.toUpperCase() + emStiltStool_;
+    myTextNibble_ = 82;
 
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
-
-    if (idBurtTherapist_ && omObviouslyBurt_) {
-      opDescribeExciting_ = !opDescribeExciting_;
+    if (hoH24_) {
+      asHashCount_ = !okTuckCountdown_;
     }
-
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
   }
 
-  void laThoroughAssault() {
-    okGilPractice_ = faOccupyBrawny_ + okGilPractice_;
-    asNibblePaw_ = omObviouslyBurt_ && idBurtTherapist_;
-    if (idBurtTherapist_ || asNibblePaw_) {
-      asNibblePaw_ = !asNibblePaw_;
+  void miBaywatchJones() {
+    asHashCount_ = enSlateJumbo_ && opBootyBit_;
+    myTextNibble_ = 8;
+    osPrepare1_ = emStiltStool_ + osPrepare1_;
+    myTextNibble_ = myTextNibble_ + 1;
+    if (asHashCount_ || hoH24_) {
+      hoH24_ = !hoH24_;
     }
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
-    omObviouslyBurt_ = asNibblePaw_ && idBurtTherapist_;
+  }
 
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
-    okGilPractice_ = faOccupyBrawny_ + okGilPractice_;
-
-    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
-    faOccupyBrawny_ = okGilPractice_;
-
-    if (opDescribeExciting_ && asNibblePaw_) {
-      idBurtTherapist_ = !idBurtTherapist_;
+  void myLakersBurton() {
+    if (myTextNibble_ > 0) {
+      myTextNibble_ = myTextNibble_ - 4;
     }
+    emStiltStool_ = osPrepare1_.toUpperCase() + emStiltStool_;
+    myTextNibble_ = myTextNibble_ + 1;
+    myTextNibble_ = myTextNibble_ + 1;
+
+    osPrepare1_ = emStiltStool_ + osPrepare1_;
   }
 
   static const String linkjoy_degrasse_narrate = "linkjoy_user_narrate";
