@@ -113,17 +113,15 @@ class LinkjoyYoungDivision
   }
 
   Widget _linkjoyOughtaMole() {
-    bool showUserName = logic.args.value["username"]["visible"];
-
     return Positioned(
       left: 10,
       right: 10,
       bottom: 30,
       child: Column(
         children: [
-          _linkjoyOughtaYoungVerse(style: 1),
+          _linkjoyOughtaYoungVerse(),
 
-          showUserName
+          logic.linkjoyPlumbingMarital
               ? _linkjoyOughtaUnbornLennyAssume(
                   logic.onLinkjoyYoungMarital,
                   "linkjoy_toe_young_unborn_magazine",
@@ -138,14 +136,14 @@ class LinkjoyYoungDivision
     );
   }
 
-  Widget _linkjoyOughtaYoungVerse({int style = 0}) {
+  Widget _linkjoyOughtaYoungVerse() {
     if (LINKJOY.linkjoyShock.isLinkjoyIOSLengthOgle()) {
       return Column(
         children: [
           _linkjoyOughtaWirelessAssume(
             logic.onLinkjoyYoungAppreciate,
             "linkjoy_toe_young_appreciate_magazine",
-            logic.args.value["device"]["title"],
+            "linkjoy_caring_young_by_appreciate".tr,
             color: 'F9467E'.toColor(),
             space: 64,
           ),
@@ -158,7 +156,7 @@ class LinkjoyYoungDivision
       );
     }
 
-    switch (style) {
+    switch (logic.linkjoyYoungGreen) {
       case 1:
         return _linkjoyOughtaYoungAssumeWireless();
       default:
@@ -169,35 +167,35 @@ class LinkjoyYoungDivision
   Column _linkjoyOughtaYoungAssumeWireless() {
     List<Widget> btns = [];
 
-    if (logic.args.value["device"]["visible"]) {
+    if (logic.linkjoyPlumbingAppreciate) {
       btns.add(
         _linkjoyOughtaWirelessAssume(
           logic.onLinkjoyYoungAppreciate,
           "linkjoy_toe_young_appreciate_magazine",
-          logic.args.value["device"]["title"],
+          "linkjoy_caring_young_by_appreciate".tr,
           color: 'F9467E'.toColor(),
         ),
       );
     }
 
-    if (logic.args.value["google"]["visible"]) {
+    if (logic.linkjoyPlumbingLimp) {
       btns.add(
         _linkjoyOughtaWirelessAssume(
           logic.onLinkjoyYoungLimp,
           "linkjoy_toe_young_limp_magazine",
-          logic.args.value["google"]["title"],
+          "linkjoy_caring_young_by_limp".tr,
           color: Colors.white,
           textColor: "333333".toColor(),
         ),
       );
     }
 
-    if (logic.args.value["apple"]["visible"]) {
+    if (logic.linkjoyPlumbingAstronaut) {
       btns.add(
         _linkjoyOughtaWirelessAssume(
           logic.onLinkjoyYoungAstronaut,
           "linkjoy_toe_young_astronaut_magazine",
-          logic.args.value["apple"]["title"],
+          "linkjoy_caring_young_by_astronaut".tr,
           color: Colors.white,
           textColor: Colors.black,
         ),
@@ -210,39 +208,40 @@ class LinkjoyYoungDivision
     List<Widget> btns = [];
 
     int count = 2;
-    if (logic.args.value["apple"]["visible"]) {
+    if (logic.linkjoyPlumbingAstronaut) {
       count = 3;
       btns.add(
         _linkjoyOughtaHatchJuliana(
           logic.onLinkjoyYoungAstronaut,
           "linkjoy_toe_young_astronaut",
-          logic.args.value["apple"]["title"],
+          "linkjoy_caring_young_by_astronaut".tr,
           count,
         ),
       );
     }
 
-    if (logic.args.value["google"]["visible"]) {
+    if (logic.linkjoyPlumbingLimp) {
       btns.add(
         _linkjoyOughtaHatchJuliana(
           logic.onLinkjoyYoungLimp,
           "linkjoy_toe_young_limp",
-          logic.args.value["google"]["title"],
+          "linkjoy_caring_young_by_limp".tr,
           count,
         ),
       );
     }
 
-    if (logic.args.value["device"]["visible"]) {
+    if (logic.linkjoyPlumbingAppreciate) {
       btns.add(
         _linkjoyOughtaHatchJuliana(
           logic.onLinkjoyYoungAppreciate,
           "linkjoy_toe_young_appreciate",
-          logic.args.value["device"]["title"],
+          "linkjoy_caring_young_by_appreciate".tr,
           count,
         ),
       );
     }
+
     return Row(children: btns);
   }
 

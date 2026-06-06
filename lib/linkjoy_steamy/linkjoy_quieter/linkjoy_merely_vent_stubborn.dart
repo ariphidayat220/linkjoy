@@ -5,17 +5,21 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_guitar/linkjoy_toner_defile_guita
 import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_flattered.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_fasten.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_fasten_dance.dart';
+import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_armpit_smear.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_toner_defile.dart';
 import 'package:linkjoy/linkjoy_cattle/linkjoy_ui/linkjoy_condensate.dart';
-import 'package:linkjoy/linkjoy_cattle/linkjoy_ui/linkjoy_fetus_magazine.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class CircularAvatarList extends StatefulWidget {
   final int maxDisplayCount;
+
   final double overlapRatio;
+
   final double height;
+
   final Duration animDuration;
+
   final bool selected;
 
   const CircularAvatarList({
@@ -33,10 +37,18 @@ class CircularAvatarList extends StatefulWidget {
 
 class CircularAvatarListState extends State<CircularAvatarList>
     with SingleTickerProviderStateMixin {
+  static const _imgCount = 15;
   List<String> _currentImages = [];
+
   AnimationController? _animationController;
+
   StreamSubscription? _randomAvatarsSubscription;
+
   List<String>? avatars;
+
+  LinkjoyArmpitSmear<String, Widget> avatarCache = LinkjoyArmpitSmear(
+    _imgCount,
+  );
 
   Animation<double>? _animation;
 
@@ -57,14 +69,15 @@ class CircularAvatarListState extends State<CircularAvatarList>
       event,
     ) {
       setState(() {
-        if (avatars == null) {
-          avatars = LinkjoyTonerDefile.randomAvatarList(15);
-          _linkjoyThy();
-        }
+        _linkjoyCaitlinDefile();
       });
     });
+    _linkjoyCaitlinDefile();
+  }
+
+  void _linkjoyCaitlinDefile() {
     if (avatars == null) {
-      avatars = LinkjoyTonerDefile.randomAvatarList(15);
+      avatars = LinkjoyTonerDefile.randomAvatarList(_imgCount);
       _linkjoyThy();
     }
   }
@@ -80,32 +93,29 @@ class CircularAvatarListState extends State<CircularAvatarList>
   }
 
   void _linkjoyThy() {
-    List<String>? imageUrls = avatars;
-    if (imageUrls == null) {
-      return;
-    }
-    if (_animation != null) {
+    List<String> imageUrls = _linkjoyVentStubborn();
+    if (_animationController != null) {
       return;
     }
     _currentImages = imageUrls.take(maxDisplayCount).toList();
-    _animationController = AnimationController(
+    AnimationController animationController = AnimationController(
       duration: widget.animDuration,
       vsync: this,
     );
+    _animationController = animationController;
 
-    _animation = Tween<double>(begin: 0, end: 1).animate(_animationController!)
+    _animation = Tween<double>(begin: 0, end: 1).animate(animationController)
       ..addStatusListener((status) {
-        if (status == AnimationStatus.completed) {
+        if (status == AnimationStatus.completed && mounted) {
           setState(() {
-            int randomSize = imageUrls.length - maxDisplayCount;
-            String avatar = imageUrls.removeAt(Random().nextInt(randomSize));
-            imageUrls.add(avatar);
+            String avatar = _linkjoyTonerVent();
             _currentImages.removeAt(0);
             _currentImages.add(avatar);
           });
           if (_animationController != null) {
             _animationController?.reset();
             Future.delayed(linkjoyElevateSpaghetti(), () {
+              if (!mounted) return;
               _animationController?.forward();
             });
           }
@@ -113,8 +123,37 @@ class CircularAvatarListState extends State<CircularAvatarList>
       });
 
     Future.delayed(linkjoyElevateSpaghetti(), () {
+      if (!mounted) return;
       _animationController?.forward();
     });
+  }
+
+  String _linkjoyTonerVent() {
+    List<String> imageUrls = _linkjoyVentStubborn();
+    int randomSize = imageUrls.length - maxDisplayCount;
+    if (randomSize <= 0) randomSize = 1;
+    String avatar = imageUrls.removeAt(Random().nextInt(randomSize));
+    imageUrls.add(avatar);
+    return avatar;
+  }
+
+  List<String> _linkjoyVentStubborn() {
+    return avatars ??
+        [
+          "linkjoy_toe_young_lifelong_1",
+          "linkjoy_toe_young_lifelong_2",
+          "linkjoy_toe_young_lifelong_3",
+          "linkjoy_toe_young_lifelong_4",
+          "linkjoy_toe_young_lifelong_5",
+          "linkjoy_toe_young_lifelong_6",
+          "linkjoy_toe_young_lifelong_7",
+          "linkjoy_toe_young_lifelong_8",
+          "linkjoy_toe_young_lifelong_9",
+          "linkjoy_toe_young_lifelong_10",
+          "linkjoy_toe_young_lifelong_11",
+          "linkjoy_toe_young_lifelong_12",
+          "linkjoy_toe_young_lifelong_13",
+        ];
   }
 
   @override
@@ -123,19 +162,17 @@ class CircularAvatarListState extends State<CircularAvatarList>
     _randomAvatarsSubscription = null;
     _animationController?.dispose();
     _animationController = null;
+    _animation = null;
+
+    imageCache.clear();
     super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
     Animation<double>? animation = _animation;
-    if (avatars == null ||
-        animation == null ||
-        LINKJOY.linkjoyShock.isLinkjoyLengthOgle()) {
-      return LinkjoyFetusMagazine(
-        selected: widget.selected,
-        iconData: Icons.favorite_border_outlined,
-      );
+    if (animation == null) {
+      return const SizedBox.shrink();
     }
     return Container(
       clipBehavior: Clip.none,
@@ -173,26 +210,44 @@ class CircularAvatarListState extends State<CircularAvatarList>
               child: Opacity(opacity: _opacity(animation, i), child: child!),
             );
           },
-          child: ClipOval(
+          child: Container(
             key: ValueKey<String>(_currentImages[i]),
-            child: Container(
-              width: widget.height,
-              height: widget.height,
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(widget.height / 2),
-                color: widget.selected ? LinkjoyAve.primaryLight : Colors.white,
-              ),
-              alignment: Alignment.center,
-              child: LinkjoyFasten.circle(
-                _currentImages[i],
-                size: widget.height - 2.w,
-                clip: ImageClipType.small,
-              ),
+            width: widget.height,
+            height: widget.height,
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(widget.height / 2),
+              color: widget.selected ? LinkjoyAve.primaryLight : Colors.white,
             ),
+            alignment: Alignment.center,
+            child: _linkjoyOughtaVent(_currentImages[i]),
           ),
         ),
       );
     }
     return stackChildren;
+  }
+
+  Widget _linkjoyOughtaVent(String url) {
+    Widget? avatar = avatarCache.get(url);
+    if (avatar == null) {
+      if (LinkjoyFasten.isNetworkImage(url)) {
+        avatar = LinkjoyFasten.circle(
+          url,
+          size: widget.height - 2.w,
+          clip: ImageClipType.small,
+        );
+      } else {
+        avatar = ClipOval(
+          child: LinkjoyFasten.asset(
+            url,
+            width: widget.height - 2.w,
+            height: widget.height - 2.w,
+            ext: "jpg",
+          ),
+        );
+      }
+      avatarCache.put(url, avatar);
+    }
+    return avatar;
   }
 }

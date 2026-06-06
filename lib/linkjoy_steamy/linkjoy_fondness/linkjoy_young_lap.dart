@@ -2,9 +2,7 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_peanuts_sorority/linkjoy_sorority
 
 enum LinkjoyYoungPlacebo {
   BLOCK,
-  INIT,
   SUCC,
-  WAIT,
   LOGOUT,
 
   RELOGIN_AUTO;

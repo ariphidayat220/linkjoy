@@ -28,133 +28,72 @@ import 'package:get/get.dart';
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyUnbornInventiveNarrateHand extends GetxController {
-  bool asInfectionOverbear_ = false;
-  String beNumbThee_ = "";
-  double idCanadaDo_ = 0.0;
-  bool beBasketballPearl_ = false;
-  bool oxCircusDining_ = false;
-  String owSpenderChocolates_ = "";
-  String enHelmetChauffeur_ = "";
+  String okGilPractice_ = "";
+  bool opDescribeExciting_ = true;
+  bool omObviouslyBurt_ = true;
+  bool asNibblePaw_ = true;
+  bool idBurtTherapist_ = true;
+  String faOccupyBrawny_ = "";
 
-  void taKnockLv() {
-    beNumbThee_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = beNumbThee_;
-    owSpenderChocolates_ = enHelmetChauffeur_;
-    if (oxCircusDining_ && beBasketballPearl_) {
-      asInfectionOverbear_ = !asInfectionOverbear_;
+  void omEthnicTale() {
+    if (opDescribeExciting_ && omObviouslyBurt_) {
+      idBurtTherapist_ = !idBurtTherapist_;
     }
-    asInfectionOverbear_ = oxCircusDining_ && beBasketballPearl_;
-    owSpenderChocolates_ = enHelmetChauffeur_ + beNumbThee_;
 
-    beNumbThee_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    idCanadaDo_ = idCanadaDo_ + 1;
-
-    oxCircusDining_ = beBasketballPearl_ && asInfectionOverbear_;
-    owSpenderChocolates_ = enHelmetChauffeur_ + beNumbThee_;
-    owSpenderChocolates_ = enHelmetChauffeur_ + beNumbThee_;
-    beNumbThee_ = owSpenderChocolates_ + enHelmetChauffeur_;
-    if (oxCircusDining_ || asInfectionOverbear_) {
-      asInfectionOverbear_ = !asInfectionOverbear_;
+    if (opDescribeExciting_ || asNibblePaw_) {
+      asNibblePaw_ = !asNibblePaw_;
     }
-    owSpenderChocolates_ = beNumbThee_ + enHelmetChauffeur_;
-    idCanadaDo_ = 16;
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
+    if (asNibblePaw_ || opDescribeExciting_ || omObviouslyBurt_) {
+      asNibblePaw_ = !opDescribeExciting_;
+      opDescribeExciting_ = !omObviouslyBurt_;
+      omObviouslyBurt_ = !asNibblePaw_;
+    }
+
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
+
+    faOccupyBrawny_ = okGilPractice_.toUpperCase() + faOccupyBrawny_;
+    if (omObviouslyBurt_ || idBurtTherapist_) {
+      idBurtTherapist_ = !idBurtTherapist_;
+    }
   }
 
-  void ohLifelongGrey() {
-    idCanadaDo_ = idCanadaDo_ + 1;
+  void owMinivanPilot() {
+    faOccupyBrawny_ = okGilPractice_.toUpperCase() + faOccupyBrawny_;
 
-    if (beBasketballPearl_ && oxCircusDining_) {
-      asInfectionOverbear_ = !asInfectionOverbear_;
-    }
-    if (asInfectionOverbear_ || beBasketballPearl_) {
-      beBasketballPearl_ = !beBasketballPearl_;
-    }
-    if (asInfectionOverbear_ || beBasketballPearl_ || oxCircusDining_) {
-      asInfectionOverbear_ = !beBasketballPearl_;
-      beBasketballPearl_ = !oxCircusDining_;
-      oxCircusDining_ = !asInfectionOverbear_;
-    }
-    if (beBasketballPearl_) {
-      asInfectionOverbear_ = !oxCircusDining_;
-    }
-    if (asInfectionOverbear_) {
-      beBasketballPearl_ = !oxCircusDining_;
-    }
-    if (idCanadaDo_ > 0) {
-      idCanadaDo_ = idCanadaDo_ - 1;
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
+
+    if (idBurtTherapist_ && omObviouslyBurt_) {
+      opDescribeExciting_ = !opDescribeExciting_;
     }
 
-    beBasketballPearl_ = oxCircusDining_ && asInfectionOverbear_;
-    idCanadaDo_ = 31;
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
   }
 
-  void exSkiPameron() {
-    owSpenderChocolates_ = enHelmetChauffeur_;
-    beNumbThee_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = beNumbThee_;
-    owSpenderChocolates_ = beNumbThee_;
-    enHelmetChauffeur_ = beNumbThee_;
-    if (oxCircusDining_ || asInfectionOverbear_ || beBasketballPearl_) {
-      oxCircusDining_ = !asInfectionOverbear_;
-      asInfectionOverbear_ = !beBasketballPearl_;
-      beBasketballPearl_ = !oxCircusDining_;
+  void laThoroughAssault() {
+    okGilPractice_ = faOccupyBrawny_ + okGilPractice_;
+    asNibblePaw_ = omObviouslyBurt_ && idBurtTherapist_;
+    if (idBurtTherapist_ || asNibblePaw_) {
+      asNibblePaw_ = !asNibblePaw_;
     }
-    beNumbThee_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = beNumbThee_;
-    owSpenderChocolates_ = enHelmetChauffeur_;
-    beNumbThee_ = enHelmetChauffeur_;
-    owSpenderChocolates_ = beNumbThee_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    beNumbThee_ = enHelmetChauffeur_;
-    owSpenderChocolates_ = beNumbThee_;
-    if (beBasketballPearl_ && oxCircusDining_) {
-      asInfectionOverbear_ = !asInfectionOverbear_;
-    }
-    idCanadaDo_ = 82;
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
+    omObviouslyBurt_ = asNibblePaw_ && idBurtTherapist_;
 
-    asInfectionOverbear_ = oxCircusDining_ || beBasketballPearl_;
-  }
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
+    okGilPractice_ = faOccupyBrawny_ + okGilPractice_;
 
-  void atQuestionCern() {
-    owSpenderChocolates_ = enHelmetChauffeur_;
-    beNumbThee_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = beNumbThee_;
-    if (owSpenderChocolates_.length > 5) {
-      beNumbThee_ = owSpenderChocolates_;
-    } else {
-      enHelmetChauffeur_ = beNumbThee_;
-    }
-    idCanadaDo_ = 81;
-    beNumbThee_ = enHelmetChauffeur_;
-    owSpenderChocolates_ = beNumbThee_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    owSpenderChocolates_ = beNumbThee_ + enHelmetChauffeur_;
+    okGilPractice_ = okGilPractice_ + faOccupyBrawny_;
+    faOccupyBrawny_ = okGilPractice_;
 
-    beNumbThee_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    if (idCanadaDo_ > 0) {
-      idCanadaDo_ = idCanadaDo_ - 1;
+    if (opDescribeExciting_ && asNibblePaw_) {
+      idBurtTherapist_ = !idBurtTherapist_;
     }
-    if (oxCircusDining_ || beBasketballPearl_ || asInfectionOverbear_) {
-      oxCircusDining_ = !beBasketballPearl_;
-      beBasketballPearl_ = !asInfectionOverbear_;
-      asInfectionOverbear_ = !oxCircusDining_;
-    }
-    enHelmetChauffeur_ = owSpenderChocolates_ + beNumbThee_;
-    owSpenderChocolates_ = beNumbThee_ + enHelmetChauffeur_;
-    owSpenderChocolates_ = beNumbThee_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    beNumbThee_ = enHelmetChauffeur_;
-
-    beNumbThee_ = enHelmetChauffeur_;
-    owSpenderChocolates_ = beNumbThee_;
-    enHelmetChauffeur_ = owSpenderChocolates_;
-    enHelmetChauffeur_ = beNumbThee_;
-    owSpenderChocolates_ = enHelmetChauffeur_;
-    beNumbThee_ = owSpenderChocolates_;
-    beNumbThee_ = owSpenderChocolates_ + enHelmetChauffeur_;
   }
 
   static const String linkjoy_degrasse_narrate = "linkjoy_user_narrate";

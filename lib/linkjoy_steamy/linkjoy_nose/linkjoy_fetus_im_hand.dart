@@ -23,68 +23,85 @@ import '../linkjoy_db/linkjoy_ancestor_probe_brilliant.dart';
 
 class LinkjoyFetusImHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin, WidgetsBindingObserver {
-  bool idCrotchGreen_ = false;
-  bool exOverbearNarrate_ = true;
-  bool woProgramOccupy_ = false;
-  String weWorePatter_ = "";
-  bool itHairOrigin_ = false;
-  bool ta9Ointment_ = false;
-  double woDragonLightbulb_ = 0.0;
+  bool loAnkleInnocence_ = true;
+  int maDismissTeaser_ = 84;
+  double ifGoTime_ = 0.0;
+  bool ifCabMarketing_ = true;
+  bool ohH3Bg_ = true;
+  bool byCustardCocaine_ = false;
 
-  void esTributeTot() {
-    if (woDragonLightbulb_ > 0) {
-      woDragonLightbulb_ = woDragonLightbulb_ - 1;
-    }
-    ta9Ointment_ = idCrotchGreen_ && exOverbearNarrate_;
+  void osTextLol() {
+    maDismissTeaser_ = 71;
+    maDismissTeaser_ = maDismissTeaser_ + 1;
+    ifGoTime_ = 22;
+    maDismissTeaser_ = maDismissTeaser_ + 1;
 
-    if (exOverbearNarrate_ && itHairOrigin_ && idCrotchGreen_) {
-      exOverbearNarrate_ = !exOverbearNarrate_;
-      itHairOrigin_ = exOverbearNarrate_;
-      idCrotchGreen_ = exOverbearNarrate_;
-    }
-    weWorePatter_ = weWorePatter_.toUpperCase();
-    weWorePatter_ = weWorePatter_.toUpperCase();
-    if (itHairOrigin_ || woProgramOccupy_) {
-      woProgramOccupy_ = !woProgramOccupy_;
-    }
-    if (woProgramOccupy_ || ta9Ointment_ || itHairOrigin_) {
-      woProgramOccupy_ = !ta9Ointment_;
-      ta9Ointment_ = !itHairOrigin_;
-      itHairOrigin_ = !woProgramOccupy_;
-    }
-    weWorePatter_ = weWorePatter_.toUpperCase();
-    weWorePatter_ = weWorePatter_.toUpperCase();
-
-    itHairOrigin_ = ta9Ointment_ && idCrotchGreen_;
-    weWorePatter_ = weWorePatter_.toUpperCase();
-    if (idCrotchGreen_ || ta9Ointment_) {
-      ta9Ointment_ = !ta9Ointment_;
-    }
-    ta9Ointment_ = itHairOrigin_ || woProgramOccupy_;
-
-    woDragonLightbulb_ = 29;
+    byCustardCocaine_ = ifCabMarketing_ && loAnkleInnocence_;
+    maDismissTeaser_ = maDismissTeaser_ + 1;
   }
 
-  void maEmbodimentInnocence() {
-    if (woProgramOccupy_) {
-      itHairOrigin_ = !idCrotchGreen_;
+  void orCustardMy() {
+    if (byCustardCocaine_ || ohH3Bg_ || loAnkleInnocence_) {
+      byCustardCocaine_ = !ohH3Bg_;
+      ohH3Bg_ = !loAnkleInnocence_;
+      loAnkleInnocence_ = !byCustardCocaine_;
     }
-    weWorePatter_ = weWorePatter_.toUpperCase();
-    woDragonLightbulb_ = woDragonLightbulb_ + 1;
+    ifGoTime_ = 43;
+
+    if (maDismissTeaser_ > 0) {
+      maDismissTeaser_ = maDismissTeaser_ - 6;
+    }
+    if (maDismissTeaser_ > 0) {
+      maDismissTeaser_ = maDismissTeaser_ - 2;
+    }
+    ifGoTime_ = 31;
+    loAnkleInnocence_ = ohH3Bg_ && byCustardCocaine_;
+    if (loAnkleInnocence_ || byCustardCocaine_ || ifCabMarketing_) {
+      loAnkleInnocence_ = !byCustardCocaine_;
+      byCustardCocaine_ = !ifCabMarketing_;
+      ifCabMarketing_ = !loAnkleInnocence_;
+    }
+
+    if (ifGoTime_ > 0) {
+      ifGoTime_ = ifGoTime_ - 1;
+    }
+    ifGoTime_ = ifGoTime_ + 1;
   }
 
-  void haDefinitiveSpender() {
-    woDragonLightbulb_ = woDragonLightbulb_ + 1;
-    woDragonLightbulb_ = 2;
-
-    woDragonLightbulb_ = woDragonLightbulb_ + 1;
-    woDragonLightbulb_ = 95;
-    if (woDragonLightbulb_ > 0) {
-      woDragonLightbulb_ = woDragonLightbulb_ - 1;
+  void heTuckOperator() {
+    if (maDismissTeaser_ > 0) {
+      maDismissTeaser_ = maDismissTeaser_ - 9;
     }
-    woDragonLightbulb_ = woDragonLightbulb_ + 1;
-    woDragonLightbulb_ = 33;
-    woDragonLightbulb_ = 62;
+
+    if (maDismissTeaser_ > 0) {
+      maDismissTeaser_ = maDismissTeaser_ - 5;
+    }
+    if (byCustardCocaine_) {
+      ohH3Bg_ = !loAnkleInnocence_;
+    }
+    if (ifCabMarketing_) {
+      ohH3Bg_ = !loAnkleInnocence_;
+    }
+
+    ifGoTime_ = ifGoTime_ + 1;
+    if (ifCabMarketing_ && ohH3Bg_ && byCustardCocaine_) {
+      ifCabMarketing_ = !ifCabMarketing_;
+      ohH3Bg_ = ifCabMarketing_;
+      byCustardCocaine_ = ifCabMarketing_;
+    }
+    if (ohH3Bg_ && ifCabMarketing_) {
+      byCustardCocaine_ = !byCustardCocaine_;
+    }
+    loAnkleInnocence_ = byCustardCocaine_ && ifCabMarketing_;
+    if (ifCabMarketing_ || ohH3Bg_) {
+      ohH3Bg_ = !ohH3Bg_;
+    }
+
+    maDismissTeaser_ = maDismissTeaser_ + 1;
+    ifGoTime_ = ifGoTime_ + 1;
+    if (ohH3Bg_ && ifCabMarketing_) {
+      byCustardCocaine_ = !byCustardCocaine_;
+    }
   }
 
   static const String linkjoy_im_fetus_skintight = "linkjoy_im_fetus_skintight";

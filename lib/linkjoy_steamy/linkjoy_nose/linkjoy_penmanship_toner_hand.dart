@@ -14,82 +14,101 @@ import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyFetusPenmanshipTonerHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool amDivisionLakers_ = true;
-  bool adSexualShorten_ = false;
-  String paGoghBrochure_ = "";
-  bool laGreatScratcher_ = true;
+  bool atDegrasseProcreate_ = true;
+  bool faGradAlex_ = false;
+  String isAdvanceMe_ = "";
+  bool emMiladyProbe_ = false;
 
-  void beTherapistZone() {
-    if (amDivisionLakers_) {
-      adSexualShorten_ = !laGreatScratcher_;
+  void reWienerSatellite() {
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+
+    if (emMiladyProbe_ && atDegrasseProcreate_) {
+      faGradAlex_ = !faGradAlex_;
     }
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
+    if (faGradAlex_ && emMiladyProbe_ && atDegrasseProcreate_) {
+      faGradAlex_ = !faGradAlex_;
+      emMiladyProbe_ = faGradAlex_;
+      atDegrasseProcreate_ = faGradAlex_;
+    }
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
   }
 
-  void itFrootTeaser() {
-    amDivisionLakers_ = laGreatScratcher_ && adSexualShorten_;
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
+  void oxDefectPineapple() {
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
 
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-    if (adSexualShorten_ && amDivisionLakers_) {
-      laGreatScratcher_ = !laGreatScratcher_;
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+
+    faGradAlex_ = atDegrasseProcreate_ && emMiladyProbe_;
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    faGradAlex_ = atDegrasseProcreate_ || emMiladyProbe_;
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (faGradAlex_ || emMiladyProbe_) {
+      emMiladyProbe_ = !emMiladyProbe_;
     }
 
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
 
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-
-    if (laGreatScratcher_ && amDivisionLakers_) {
-      adSexualShorten_ = !adSexualShorten_;
-    }
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
   }
 
-  void taAdventureDramamine() {
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-    if (amDivisionLakers_ && adSexualShorten_) {
-      laGreatScratcher_ = !laGreatScratcher_;
+  void amJohnSaltwater() {
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    atDegrasseProcreate_ = faGradAlex_ && emMiladyProbe_;
+    if (emMiladyProbe_ && atDegrasseProcreate_) {
+      faGradAlex_ = !faGradAlex_;
     }
-
-    laGreatScratcher_ = amDivisionLakers_ && adSexualShorten_;
-    amDivisionLakers_ = laGreatScratcher_ && adSexualShorten_;
-    if (adSexualShorten_ && laGreatScratcher_ && amDivisionLakers_) {
-      adSexualShorten_ = !adSexualShorten_;
-      laGreatScratcher_ = adSexualShorten_;
-      amDivisionLakers_ = adSexualShorten_;
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (faGradAlex_ || emMiladyProbe_ || atDegrasseProcreate_) {
+      faGradAlex_ = !emMiladyProbe_;
+      emMiladyProbe_ = !atDegrasseProcreate_;
+      atDegrasseProcreate_ = !faGradAlex_;
     }
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    faGradAlex_ = emMiladyProbe_ && atDegrasseProcreate_;
 
-    if (amDivisionLakers_ || adSexualShorten_) {
-      adSexualShorten_ = !adSexualShorten_;
+    if (emMiladyProbe_ && atDegrasseProcreate_ && faGradAlex_) {
+      emMiladyProbe_ = !emMiladyProbe_;
+      atDegrasseProcreate_ = emMiladyProbe_;
+      faGradAlex_ = emMiladyProbe_;
     }
-
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (atDegrasseProcreate_ || faGradAlex_) {
+      faGradAlex_ = !faGradAlex_;
+    }
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (faGradAlex_) {
+      emMiladyProbe_ = !atDegrasseProcreate_;
+    }
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    emMiladyProbe_ = faGradAlex_ && atDegrasseProcreate_;
   }
 
-  void byDratLotus() {
-    laGreatScratcher_ = amDivisionLakers_ && adSexualShorten_;
+  void beLightbulbCaesar() {
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
 
-    if (amDivisionLakers_) {
-      adSexualShorten_ = !laGreatScratcher_;
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (atDegrasseProcreate_) {
+      faGradAlex_ = !emMiladyProbe_;
+    }
+    emMiladyProbe_ = faGradAlex_ && atDegrasseProcreate_;
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+
+    isAdvanceMe_ = isAdvanceMe_.toUpperCase();
+    if (atDegrasseProcreate_ || faGradAlex_) {
+      faGradAlex_ = !faGradAlex_;
     }
 
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-
-    adSexualShorten_ = amDivisionLakers_ && laGreatScratcher_;
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-
-    adSexualShorten_ = amDivisionLakers_ && laGreatScratcher_;
-    if (adSexualShorten_ || laGreatScratcher_ || amDivisionLakers_) {
-      adSexualShorten_ = !laGreatScratcher_;
-      laGreatScratcher_ = !amDivisionLakers_;
-      amDivisionLakers_ = !adSexualShorten_;
+    if (faGradAlex_) {
+      atDegrasseProcreate_ = !emMiladyProbe_;
     }
-    paGoghBrochure_ = paGoghBrochure_.toUpperCase();
-    if (amDivisionLakers_ || adSexualShorten_) {
-      adSexualShorten_ = !adSexualShorten_;
+    if (faGradAlex_ || atDegrasseProcreate_) {
+      atDegrasseProcreate_ = !atDegrasseProcreate_;
     }
   }
 

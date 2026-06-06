@@ -14,110 +14,43 @@ import 'package:get/get_utils/src/extensions/internacionalization.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 class LinkjoyFetusInventiveHand extends LinkjoyMagnetHormoneHand {
-  String esShiftBloomer_ = "";
-  int reCellVirtual_ = 2;
-  String aySmokerSpecialty_ = "";
-  bool byAnymoreText_ = true;
-  double loDoCemetery_ = 0.0;
-  bool etHorriblyDuel_ = true;
-  double haTentGangster_ = 0.0;
-  double idPlaceboPersonally_ = 0.0;
-  bool hoPegArousal_ = true;
+  String soWakeWail_ = "";
+  bool omComputerOrange_ = false;
+  bool opPayBooty_ = false;
+  bool enInterjectTerror_ = true;
 
-  void moAppSitter() {
-    esShiftBloomer_ = esShiftBloomer_ + aySmokerSpecialty_;
-    aySmokerSpecialty_ = esShiftBloomer_;
-    if (reCellVirtual_ > 0) {
-      reCellVirtual_ = reCellVirtual_ - 9;
-    }
-    if (reCellVirtual_ > 0) {
-      reCellVirtual_ = reCellVirtual_ - 8;
-    }
-    if (loDoCemetery_ > haTentGangster_) {
-      idPlaceboPersonally_ = haTentGangster_ - loDoCemetery_;
-    } else {
-      idPlaceboPersonally_ = loDoCemetery_ - haTentGangster_;
-    }
-    reCellVirtual_ = 28;
-    reCellVirtual_ = 94;
-    hoPegArousal_ = byAnymoreText_ || etHorriblyDuel_;
-    reCellVirtual_ = reCellVirtual_ + 1;
-    idPlaceboPersonally_ = haTentGangster_ + loDoCemetery_;
-    reCellVirtual_ = 63;
-    esShiftBloomer_ = aySmokerSpecialty_ + esShiftBloomer_;
-    haTentGangster_ = loDoCemetery_ - idPlaceboPersonally_;
-    reCellVirtual_ = reCellVirtual_ + 1;
-    idPlaceboPersonally_ = loDoCemetery_ - haTentGangster_;
-  }
+  void woSqueakyClaus() {
+    soWakeWail_ = soWakeWail_.toUpperCase();
+    soWakeWail_ = soWakeWail_.toUpperCase();
 
-  void osPawTear() {
-    if (byAnymoreText_) {
-      hoPegArousal_ = !etHorriblyDuel_;
-    }
-    loDoCemetery_ = haTentGangster_ + idPlaceboPersonally_;
-    aySmokerSpecialty_ = esShiftBloomer_.toUpperCase() + aySmokerSpecialty_;
-    idPlaceboPersonally_ = loDoCemetery_ + haTentGangster_;
-    reCellVirtual_ = 86;
-    haTentGangster_ = idPlaceboPersonally_;
-    loDoCemetery_ = idPlaceboPersonally_;
-    if (hoPegArousal_ || byAnymoreText_ || etHorriblyDuel_) {
-      hoPegArousal_ = !byAnymoreText_;
-      byAnymoreText_ = !etHorriblyDuel_;
-      etHorriblyDuel_ = !hoPegArousal_;
-    }
-    aySmokerSpecialty_ = esShiftBloomer_.toUpperCase() + aySmokerSpecialty_;
-    esShiftBloomer_ = aySmokerSpecialty_ + esShiftBloomer_;
-    reCellVirtual_ = 15;
-    if (etHorriblyDuel_ || hoPegArousal_ || byAnymoreText_) {
-      etHorriblyDuel_ = !hoPegArousal_;
-      hoPegArousal_ = !byAnymoreText_;
-      byAnymoreText_ = !etHorriblyDuel_;
+    soWakeWail_ = soWakeWail_.toUpperCase();
+
+    if (enInterjectTerror_ && opPayBooty_) {
+      omComputerOrange_ = !omComputerOrange_;
     }
   }
 
-  void reGeographyTale() {
-    reCellVirtual_ = 39;
-    idPlaceboPersonally_ = loDoCemetery_ - haTentGangster_;
-    for (int i = 0; i < idPlaceboPersonally_; i++) {
-      loDoCemetery_ += 1;
-      haTentGangster_ += loDoCemetery_;
+  void idGreatLapse() {
+    soWakeWail_ = soWakeWail_.toUpperCase();
+
+    if (opPayBooty_ && omComputerOrange_) {
+      enInterjectTerror_ = !enInterjectTerror_;
     }
-    esShiftBloomer_ = aySmokerSpecialty_ + esShiftBloomer_;
-    esShiftBloomer_ = esShiftBloomer_ + aySmokerSpecialty_;
-    aySmokerSpecialty_ = esShiftBloomer_;
-    esShiftBloomer_ = esShiftBloomer_ + aySmokerSpecialty_;
-    aySmokerSpecialty_ = esShiftBloomer_;
-    aySmokerSpecialty_ = esShiftBloomer_.toUpperCase() + aySmokerSpecialty_;
+
+    if (omComputerOrange_) {
+      enInterjectTerror_ = !opPayBooty_;
+    }
+
+    soWakeWail_ = soWakeWail_.toUpperCase();
   }
 
-  void noDishHumidifier() {
-    aySmokerSpecialty_ = esShiftBloomer_.toUpperCase() + aySmokerSpecialty_;
-    reCellVirtual_ = 1;
-    for (int i = 0; i < loDoCemetery_; i++) {
-      idPlaceboPersonally_ += 1;
-      haTentGangster_ += idPlaceboPersonally_;
-    }
-    if (idPlaceboPersonally_ > 0) {
-      haTentGangster_ = loDoCemetery_ / idPlaceboPersonally_;
-    }
-    if (hoPegArousal_ && etHorriblyDuel_ && byAnymoreText_) {
-      hoPegArousal_ = !hoPegArousal_;
-      etHorriblyDuel_ = hoPegArousal_;
-      byAnymoreText_ = hoPegArousal_;
-    }
-    byAnymoreText_ = hoPegArousal_ && etHorriblyDuel_;
-    if (byAnymoreText_ && hoPegArousal_) {
-      etHorriblyDuel_ = !etHorriblyDuel_;
-    }
-    reCellVirtual_ = 79;
-    if (reCellVirtual_ > 0) {
-      reCellVirtual_ = reCellVirtual_ - 2;
-    }
-    esShiftBloomer_ = esShiftBloomer_ + aySmokerSpecialty_;
-    aySmokerSpecialty_ = esShiftBloomer_;
-    reCellVirtual_ = reCellVirtual_ + 1;
-    reCellVirtual_ = 89;
-    idPlaceboPersonally_ = haTentGangster_ - loDoCemetery_;
+  void adCaringGrad() {
+    soWakeWail_ = soWakeWail_.toUpperCase();
+    enInterjectTerror_ = omComputerOrange_ || opPayBooty_;
+    soWakeWail_ = soWakeWail_.toUpperCase();
+    soWakeWail_ = soWakeWail_.toUpperCase();
+
+    opPayBooty_ = omComputerOrange_ || enInterjectTerror_;
   }
 
   static const String linkjoy_mushy = "linkjoy_mushy";

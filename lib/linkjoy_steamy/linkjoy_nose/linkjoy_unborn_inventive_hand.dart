@@ -12,66 +12,65 @@ import 'linkjoy_unborn_inventive_adjourn.dart';
 import 'linkjoy_unborn_inventive_narrate_mario.dart';
 
 class LinkjoyUnbornInventiveHand extends LinkjoyMagnetHand {
-  double ahColombiaPrague_ = 0.0;
-  bool siMushyInseam_ = false;
-  bool woPeteMamma_ = true;
-  bool etBaywatchChanel_ = false;
+  bool hiNannyApe_ = false;
+  String ayGuitarTeaser_ = "";
+  bool mePragueFonda_ = true;
+  bool etPolishC2_ = false;
+  bool soToolsBarbie_ = true;
+  String haHailFutile_ = "";
 
-  void idOriginThee() {
-    if (ahColombiaPrague_ > 0) {
-      ahColombiaPrague_ = ahColombiaPrague_ - 1;
-    }
-    if (woPeteMamma_ && etBaywatchChanel_) {
-      siMushyInseam_ = !siMushyInseam_;
-    }
-    if (etBaywatchChanel_ || woPeteMamma_ || siMushyInseam_) {
-      etBaywatchChanel_ = !woPeteMamma_;
-      woPeteMamma_ = !siMushyInseam_;
-      siMushyInseam_ = !etBaywatchChanel_;
-    }
-    ahColombiaPrague_ = 53;
+  void edSoftballAttaboy() {
+    hiNannyApe_ = etPolishC2_ && soToolsBarbie_;
 
-    if (etBaywatchChanel_) {
-      woPeteMamma_ = !siMushyInseam_;
+    if (hiNannyApe_ || soToolsBarbie_) {
+      soToolsBarbie_ = !soToolsBarbie_;
     }
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
+
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
+    if (etPolishC2_ || soToolsBarbie_ || hiNannyApe_) {
+      etPolishC2_ = !soToolsBarbie_;
+      soToolsBarbie_ = !hiNannyApe_;
+      hiNannyApe_ = !etPolishC2_;
+    }
+    soToolsBarbie_ = hiNannyApe_ || etPolishC2_;
+
+    ayGuitarTeaser_ = haHailFutile_ + ayGuitarTeaser_;
   }
 
-  void isUnbornPaw() {
-    ahColombiaPrague_ = 56;
+  void weEagerTurbulence() {
+    ayGuitarTeaser_ = ayGuitarTeaser_ + haHailFutile_;
+    haHailFutile_ = ayGuitarTeaser_;
+    mePragueFonda_ = hiNannyApe_ || soToolsBarbie_;
 
-    ahColombiaPrague_ = 63;
-
-    woPeteMamma_ = siMushyInseam_ && etBaywatchChanel_;
-    if (ahColombiaPrague_ > 0) {
-      ahColombiaPrague_ = ahColombiaPrague_ - 1;
-    }
-    ahColombiaPrague_ = 65;
-    siMushyInseam_ = etBaywatchChanel_ && woPeteMamma_;
-
-    ahColombiaPrague_ = ahColombiaPrague_ + 1;
-
-    if (ahColombiaPrague_ > 0) {
-      ahColombiaPrague_ = ahColombiaPrague_ - 1;
-    }
-    ahColombiaPrague_ = ahColombiaPrague_ + 1;
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
+    ayGuitarTeaser_ = ayGuitarTeaser_ + haHailFutile_;
+    haHailFutile_ = ayGuitarTeaser_;
   }
 
-  void odTrappAnkle() {
-    woPeteMamma_ = etBaywatchChanel_ || siMushyInseam_;
-    if (etBaywatchChanel_ && woPeteMamma_) {
-      siMushyInseam_ = !siMushyInseam_;
+  void siWaveSabotage() {
+    if (mePragueFonda_) {
+      soToolsBarbie_ = !hiNannyApe_;
     }
-    if (ahColombiaPrague_ > 0) {
-      ahColombiaPrague_ = ahColombiaPrague_ - 1;
-    }
+    ayGuitarTeaser_ = ayGuitarTeaser_ + haHailFutile_;
+    haHailFutile_ = ayGuitarTeaser_;
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
 
-    if (ahColombiaPrague_ > 0) {
-      ahColombiaPrague_ = ahColombiaPrague_ - 1;
-    }
+    soToolsBarbie_ = etPolishC2_ || hiNannyApe_;
+
+    ayGuitarTeaser_ = ayGuitarTeaser_ + haHailFutile_;
+    haHailFutile_ = ayGuitarTeaser_;
   }
 
-  void abAnymoreHateful() {
-    ahColombiaPrague_ = 18;
+  void oxOintmentx() {
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
+    mePragueFonda_ = soToolsBarbie_ && etPolishC2_;
+    etPolishC2_ = hiNannyApe_ || mePragueFonda_;
+
+    ayGuitarTeaser_ = haHailFutile_ + ayGuitarTeaser_;
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
+    haHailFutile_ = ayGuitarTeaser_.toUpperCase() + haHailFutile_;
   }
 
   static const String linkjoy_division_narrate = "linkjoy_division_narrate";

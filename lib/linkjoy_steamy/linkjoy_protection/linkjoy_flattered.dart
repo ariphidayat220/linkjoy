@@ -178,12 +178,10 @@ class LinkjoyFlattered {
   }
 
   void _linkjoyCaitlinPulpHappilyUnbornSaver() {
-    if (!LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
-      LinkjoyWailOily.instance.linkjoyTaco();
-      LinkjoyWailOily.instance.linkjoyHappilyBellyCompromise(
-        scene: LinkjoyWailMadnessVulcanDollhouse.async_auto,
-      );
-    }
+    LinkjoyWailOily.instance.linkjoyTaco();
+    LinkjoyWailOily.instance.linkjoyHappilyBellyCompromise(
+      scene: LinkjoyWailMadnessVulcanDollhouse.async_auto,
+    );
   }
 
   String rootRouteName = LinkjoyGet.LinkjoyCrouchDivision;
@@ -307,11 +305,6 @@ class LinkjoyFlattered {
   }
 
   Future<void> _onLinkjoyYoungLap(LinkjoyYoungLap event) async {
-    if (event.result == LinkjoyYoungPlacebo.INIT) {
-      toRoot(LinkjoyGet.LinkjoyYoungDivision);
-      return;
-    }
-
     if (event.result == LinkjoyYoungPlacebo.SUCC) {
       if (event.respLogin != null) {
         await _onLinkjoySororityYoung(event.respLogin!);
@@ -339,11 +332,10 @@ class LinkjoyFlattered {
 
       socketManager.logout("logout");
 
-      toRoot(
-        LinkjoyGet.LinkjoyYoungDivision,
-        arguments: event.result == LinkjoyYoungPlacebo.RELOGIN_AUTO
-            ? LinkjoyYoungHand.linkjoy_adjourn_finger_selfish
-            : null,
+      toLinkjoyYoung(
+        event.result == LinkjoyYoungPlacebo.RELOGIN_AUTO
+            ? LinkjoyYoungUneven.relogin_auto
+            : LinkjoyYoungUneven.logout,
       );
       return;
     }
@@ -355,9 +347,13 @@ class LinkjoyFlattered {
     }
 
     {
-      toRoot(LinkjoyGet.LinkjoyYoungDivision);
+      toLinkjoyYoung(LinkjoyYoungUneven.block);
       return;
     }
+  }
+
+  void toLinkjoyYoung(LinkjoyYoungUneven source) {
+    toRoot(LinkjoyGet.LinkjoyYoungDivision, arguments: source);
   }
 
   void onLinkjoyFoolishlyFootPlimpton() {
@@ -404,9 +400,7 @@ class LinkjoyFlattered {
       http,
     );
 
-    if (!LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
-      _linkjoyCaitlinPulpHappilyUnbornSaver();
-    }
+    _linkjoyCaitlinPulpHappilyUnbornSaver();
 
     if (linkjoyJog!.isLinkjoyFoolishly()) {
       await refreshLinkjoyShock(quickRefresh: true, onResume: false);
@@ -469,10 +463,6 @@ class LinkjoyFlattered {
           : httpConfig.readTimeout,
     );
     LinkjoyPeanuts httpNew = LinkjoyPeanuts.create(
-      linkjoyJog == null
-          ? LinkjoyDivorced.linkjoyMoleQuintoObsessed
-          : linkjoyJog!.secret,
-      linkjoyJog?.session,
       apiAddress,
       deviceService.getClientInfo().userAgent,
       timeout: timeout,
@@ -569,7 +559,7 @@ class LinkjoyFlattered {
         "gift_version": giftVersion,
       };
 
-      if (kDebugMode) {
+      if (kDebugMode || kProfileMode) {
         params["debug"] = 1;
       }
 

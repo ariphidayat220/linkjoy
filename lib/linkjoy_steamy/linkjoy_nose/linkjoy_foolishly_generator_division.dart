@@ -148,7 +148,7 @@ class LinkjoyFoolishlyGeneratorDivision
                     LinkjoyFeynman.h4,
                     Text(
                       "${'linkjoy_caring_benadryl_dramamine_convict_shampoo'.tr}",
-                      style: LinkjoyMarshaTriplet.bodyBold,
+                      style: LinkjoyMarshaTriplet.captionBold,
                     ),
                     Text(
                       "(${'linkjoy_caring_benadryl'.tr})",
@@ -278,8 +278,8 @@ class LinkjoyFoolishlyGeneratorDivision
                     ),
                     LinkjoyFeynman.h4,
                     Text(
-                      "${'linkjoy_caring_dramamine_convict_spaghetti'.tr}",
-                      style: LinkjoyMarshaTriplet.bodyBold,
+                      'linkjoy_caring_dramamine_convict_spaghetti'.tr,
+                      style: LinkjoyMarshaTriplet.captionBold,
                     ),
                     Text(
                       "(${'linkjoy_caring_sinus'.tr})",

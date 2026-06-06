@@ -8,93 +8,63 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyYoungMaritalHand extends LinkjoyMagnetHormoneHand {
-  String woDebutFrankly_ = "";
-  bool paSkiConceal_ = true;
-  double myLoserBros_ = 0.0;
-  double owCountdownTurnip_ = 0.0;
-  bool etCaptainMatey_ = false;
-  bool laBentExpress_ = true;
-  bool oxAproposAnimal_ = true;
+  bool isBeyondHighly_ = false;
+  bool adyBonjour_ = true;
+  bool elAppreciateFollower_ = true;
+  String owCheckoutCount_ = "";
+  String soC2Chihuahua_ = "";
 
-  void maJeffriesChipper() {
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-
-    myLoserBros_ = 62;
-    owCountdownTurnip_ = 25;
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-    laBentExpress_ = oxAproposAnimal_ || etCaptainMatey_;
-
-    myLoserBros_ = myLoserBros_ + owCountdownTurnip_;
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-  }
-
-  void woOverbearFisher() {
-    if (oxAproposAnimal_ && laBentExpress_ && paSkiConceal_) {
-      oxAproposAnimal_ = !oxAproposAnimal_;
-      laBentExpress_ = oxAproposAnimal_;
-      paSkiConceal_ = oxAproposAnimal_;
+  void usPlungeCruel() {
+    if (adyBonjour_ && elAppreciateFollower_ && isBeyondHighly_) {
+      adyBonjour_ = !adyBonjour_;
+      elAppreciateFollower_ = adyBonjour_;
+      isBeyondHighly_ = adyBonjour_;
     }
-    if (myLoserBros_ > owCountdownTurnip_) {
-      myLoserBros_ = myLoserBros_ - owCountdownTurnip_;
-    }
-    myLoserBros_ = 64;
-    owCountdownTurnip_ = 57;
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
 
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-  }
+    elAppreciateFollower_ = isBeyondHighly_ || adyBonjour_;
 
-  void haKryptonianHateful() {
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-    myLoserBros_ = 8;
-    owCountdownTurnip_ = 29;
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
+    elAppreciateFollower_ = adyBonjour_ && isBeyondHighly_;
+    soC2Chihuahua_ = owCheckoutCount_.toUpperCase() + soC2Chihuahua_;
 
-    if (laBentExpress_ && etCaptainMatey_ && paSkiConceal_) {
-      laBentExpress_ = !laBentExpress_;
-      etCaptainMatey_ = laBentExpress_;
-      paSkiConceal_ = laBentExpress_;
-    }
-    if (laBentExpress_ || etCaptainMatey_ || paSkiConceal_) {
-      laBentExpress_ = !etCaptainMatey_;
-      etCaptainMatey_ = !paSkiConceal_;
-      paSkiConceal_ = !laBentExpress_;
-    }
-    if (paSkiConceal_) {
-      etCaptainMatey_ = !oxAproposAnimal_;
-    }
-    if (oxAproposAnimal_ && laBentExpress_ && etCaptainMatey_) {
-      oxAproposAnimal_ = !oxAproposAnimal_;
-      laBentExpress_ = oxAproposAnimal_;
-      etCaptainMatey_ = oxAproposAnimal_;
-    }
-    myLoserBros_ = myLoserBros_ + owCountdownTurnip_;
-    if (laBentExpress_ || etCaptainMatey_) {
-      etCaptainMatey_ = !etCaptainMatey_;
+    if (adyBonjour_ && elAppreciateFollower_ && isBeyondHighly_) {
+      adyBonjour_ = !adyBonjour_;
+      elAppreciateFollower_ = adyBonjour_;
+      isBeyondHighly_ = adyBonjour_;
     }
   }
 
-  void myJammiesWallow() {
-    if (paSkiConceal_ || laBentExpress_) {
-      laBentExpress_ = !laBentExpress_;
+  void doNewsTennis() {
+    owCheckoutCount_ = soC2Chihuahua_ + owCheckoutCount_;
+
+    elAppreciateFollower_ = adyBonjour_ && isBeyondHighly_;
+    if (isBeyondHighly_ && adyBonjour_ && elAppreciateFollower_) {
+      isBeyondHighly_ = !isBeyondHighly_;
+      adyBonjour_ = isBeyondHighly_;
+      elAppreciateFollower_ = isBeyondHighly_;
     }
-    myLoserBros_ = 42;
-    owCountdownTurnip_ = 71;
-    if (myLoserBros_ > owCountdownTurnip_) {
-      myLoserBros_ = myLoserBros_ - owCountdownTurnip_;
+    owCheckoutCount_ = soC2Chihuahua_ + owCheckoutCount_;
+    if (isBeyondHighly_) {
+      adyBonjour_ = !elAppreciateFollower_;
     }
 
-    myLoserBros_ = myLoserBros_ + owCountdownTurnip_;
-    myLoserBros_ = 83;
-    owCountdownTurnip_ = 84;
-    myLoserBros_ = myLoserBros_ + owCountdownTurnip_;
+    owCheckoutCount_ = owCheckoutCount_ + soC2Chihuahua_;
+    soC2Chihuahua_ = owCheckoutCount_;
+  }
 
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-    woDebutFrankly_ = woDebutFrankly_.toUpperCase();
-    etCaptainMatey_ = paSkiConceal_ && laBentExpress_;
-    myLoserBros_ = myLoserBros_ + owCountdownTurnip_;
-    myLoserBros_ = myLoserBros_ + owCountdownTurnip_;
+  void atHairlessKetchup() {
+    owCheckoutCount_ = owCheckoutCount_ + soC2Chihuahua_;
+    soC2Chihuahua_ = owCheckoutCount_;
+    if (isBeyondHighly_ || elAppreciateFollower_ || adyBonjour_) {
+      isBeyondHighly_ = !elAppreciateFollower_;
+      elAppreciateFollower_ = !adyBonjour_;
+      adyBonjour_ = !isBeyondHighly_;
+    }
+
+    owCheckoutCount_ = owCheckoutCount_ + soC2Chihuahua_;
+    soC2Chihuahua_ = owCheckoutCount_;
+
+    soC2Chihuahua_ = owCheckoutCount_.toUpperCase() + soC2Chihuahua_;
+    adyBonjour_ = isBeyondHighly_ || elAppreciateFollower_;
   }
 
   static const String linkjoy_stereotype = "linkjoy_stereotype";

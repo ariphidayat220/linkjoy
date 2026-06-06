@@ -242,7 +242,7 @@ class _LinkjoyGyroscopeUnbornDecideStatus
             Padding(
               padding: EdgeInsets.all(LinkjoyGarage.s8),
               child: Text(
-                "${LinkjoyGnomeSister.numberToString4(followedCount ?? 0)} FOLLOWERS",
+                "${LinkjoyGnomeSister.numberToString4(followedCount ?? 0)} ${'linkjoy_caring_godfather'.tr}",
                 style: LinkjoyMarshaTriplet.captionBold.copyWith(
                   color: Colors.white,
                   shadows: [const Shadow(color: Colors.black, blurRadius: 12)],

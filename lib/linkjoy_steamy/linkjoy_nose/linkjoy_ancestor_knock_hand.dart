@@ -6,40 +6,97 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_quieter/linkjoy_lavender_knock_na
 import 'package:get/get.dart';
 
 class LinkjoyAncestorKnockHand extends LinkjoyMagnetHormoneHand {
-  bool byMagnetSpaghetti_ = false;
-  bool siFixHeadphone_ = true;
-  bool goInseamWave_ = true;
-  bool odTeaserr_ = false;
+  bool loBarbieMost_ = true;
+  bool maShiftTurnip_ = true;
+  double edShoveStyle_ = 0.0;
+  bool reFacebookPond_ = true;
 
-  void joAmplitudeEskimo() {
-    if (byMagnetSpaghetti_) {
-      goInseamWave_ = !siFixHeadphone_;
+  void faChlorineShredder() {
+    edShoveStyle_ = 16;
+
+    if (reFacebookPond_) {
+      maShiftTurnip_ = !loBarbieMost_;
     }
 
-    if (goInseamWave_ || siFixHeadphone_ || byMagnetSpaghetti_) {
-      goInseamWave_ = !siFixHeadphone_;
-      siFixHeadphone_ = !byMagnetSpaghetti_;
-      byMagnetSpaghetti_ = !goInseamWave_;
-    }
-    byMagnetSpaghetti_ = goInseamWave_ && odTeaserr_;
+    reFacebookPond_ = maShiftTurnip_ || loBarbieMost_;
+    edShoveStyle_ = 38;
+    edShoveStyle_ = edShoveStyle_ + 1;
   }
 
-  void exTightVariety() {
-    byMagnetSpaghetti_ = goInseamWave_ || odTeaserr_;
+  void emThoroughHeck() {
+    if (edShoveStyle_ > 0) {
+      edShoveStyle_ = edShoveStyle_ - 1;
+    }
+    edShoveStyle_ = edShoveStyle_ + 1;
 
-    byMagnetSpaghetti_ = siFixHeadphone_ || odTeaserr_;
+    reFacebookPond_ = maShiftTurnip_ && loBarbieMost_;
 
-    if (siFixHeadphone_ && byMagnetSpaghetti_) {
-      odTeaserr_ = !odTeaserr_;
+    if (reFacebookPond_ && maShiftTurnip_ && loBarbieMost_) {
+      reFacebookPond_ = !reFacebookPond_;
+      maShiftTurnip_ = reFacebookPond_;
+      loBarbieMost_ = reFacebookPond_;
+    }
+    maShiftTurnip_ = reFacebookPond_ || loBarbieMost_;
+    if (maShiftTurnip_ || loBarbieMost_) {
+      loBarbieMost_ = !loBarbieMost_;
+    }
+    edShoveStyle_ = 86;
+    edShoveStyle_ = 81;
+
+    maShiftTurnip_ = loBarbieMost_ || reFacebookPond_;
+  }
+
+  void beMarcoFasten() {
+    if (loBarbieMost_) {
+      maShiftTurnip_ = !reFacebookPond_;
+    }
+
+    reFacebookPond_ = maShiftTurnip_ || loBarbieMost_;
+
+    edShoveStyle_ = edShoveStyle_ + 1;
+    if (reFacebookPond_ && maShiftTurnip_ && loBarbieMost_) {
+      reFacebookPond_ = !reFacebookPond_;
+      maShiftTurnip_ = reFacebookPond_;
+      loBarbieMost_ = reFacebookPond_;
+    }
+
+    if (loBarbieMost_ || maShiftTurnip_ || reFacebookPond_) {
+      loBarbieMost_ = !maShiftTurnip_;
+      maShiftTurnip_ = !reFacebookPond_;
+      reFacebookPond_ = !loBarbieMost_;
+    }
+
+    if (reFacebookPond_ || loBarbieMost_ || maShiftTurnip_) {
+      reFacebookPond_ = !loBarbieMost_;
+      loBarbieMost_ = !maShiftTurnip_;
+      maShiftTurnip_ = !reFacebookPond_;
     }
   }
 
-  void orGreenKg() {
-    if (siFixHeadphone_ && goInseamWave_ && byMagnetSpaghetti_) {
-      siFixHeadphone_ = !siFixHeadphone_;
-      goInseamWave_ = siFixHeadphone_;
-      byMagnetSpaghetti_ = siFixHeadphone_;
+  void orHatefulMuse() {
+    edShoveStyle_ = 97;
+
+    edShoveStyle_ = edShoveStyle_ + 1;
+
+    if (loBarbieMost_) {
+      reFacebookPond_ = !maShiftTurnip_;
     }
+
+    if (maShiftTurnip_ || reFacebookPond_ || loBarbieMost_) {
+      maShiftTurnip_ = !reFacebookPond_;
+      reFacebookPond_ = !loBarbieMost_;
+      loBarbieMost_ = !maShiftTurnip_;
+    }
+    if (edShoveStyle_ > 0) {
+      edShoveStyle_ = edShoveStyle_ - 1;
+    }
+
+    if (reFacebookPond_ && maShiftTurnip_) {
+      loBarbieMost_ = !loBarbieMost_;
+    }
+    maShiftTurnip_ = reFacebookPond_ || loBarbieMost_;
+    loBarbieMost_ = reFacebookPond_ || maShiftTurnip_;
+    edShoveStyle_ = 3;
   }
 
   final String linkjoy_ancestor_knock = "linkjoy_ancestor_knock";

@@ -10,113 +10,73 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyFoolishlyFootSaverHand extends LinkjoyMagnetHormoneHand {
-  String mmLawnLenny_ = "";
-  bool exFoolishlySlur_ = false;
-  int esPondGoddess_ = 0;
-  bool moGodfatherSitter_ = false;
-  bool doTerrorCocaine_ = false;
-  double ayFlipBox_ = 0.0;
+  bool inChauffeurCemetery_ = false;
+  bool laPondTrapp_ = false;
+  bool woLolClam_ = false;
+  bool ahHailIncapable_ = true;
+  int laGetCaring_ = 0;
 
-  void meImUptight() {
-    if (doTerrorCocaine_ && exFoolishlySlur_) {
-      moGodfatherSitter_ = !moGodfatherSitter_;
+  void itWoreSaver() {
+    laPondTrapp_ = ahHailIncapable_ && woLolClam_;
+    laPondTrapp_ = ahHailIncapable_ || inChauffeurCemetery_;
+    inChauffeurCemetery_ = ahHailIncapable_ || woLolClam_;
+    if (ahHailIncapable_ && woLolClam_ && inChauffeurCemetery_) {
+      ahHailIncapable_ = !ahHailIncapable_;
+      woLolClam_ = ahHailIncapable_;
+      inChauffeurCemetery_ = ahHailIncapable_;
     }
-    esPondGoddess_ = 47;
-    if (moGodfatherSitter_ && exFoolishlySlur_) {
-      doTerrorCocaine_ = !doTerrorCocaine_;
+    laPondTrapp_ = woLolClam_ && inChauffeurCemetery_;
+    if (ahHailIncapable_ && laPondTrapp_) {
+      woLolClam_ = !woLolClam_;
     }
-    ayFlipBox_ = 22;
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    if (esPondGoddess_ > 0) {
-      esPondGoddess_ = esPondGoddess_ - 0;
+
+    if (woLolClam_) {
+      ahHailIncapable_ = !inChauffeurCemetery_;
     }
-    ayFlipBox_ = 77;
+    if (laPondTrapp_) {
+      woLolClam_ = !ahHailIncapable_;
+    }
   }
 
-  void atThroneNews() {
-    ayFlipBox_ = ayFlipBox_ + 1;
-    esPondGoddess_ = 43;
-    if (moGodfatherSitter_) {
-      exFoolishlySlur_ = !doTerrorCocaine_;
+  void esSecludeMayor() {
+    if (laPondTrapp_ || ahHailIncapable_ || inChauffeurCemetery_) {
+      laPondTrapp_ = !ahHailIncapable_;
+      ahHailIncapable_ = !inChauffeurCemetery_;
+      inChauffeurCemetery_ = !laPondTrapp_;
     }
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    if (doTerrorCocaine_ && moGodfatherSitter_ && exFoolishlySlur_) {
-      doTerrorCocaine_ = !doTerrorCocaine_;
-      moGodfatherSitter_ = doTerrorCocaine_;
-      exFoolishlySlur_ = doTerrorCocaine_;
+
+    if (laPondTrapp_ || ahHailIncapable_ || inChauffeurCemetery_) {
+      laPondTrapp_ = !ahHailIncapable_;
+      ahHailIncapable_ = !inChauffeurCemetery_;
+      inChauffeurCemetery_ = !laPondTrapp_;
     }
-    esPondGoddess_ = esPondGoddess_ + 1;
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    esPondGoddess_ = 26;
-    if (doTerrorCocaine_) {
-      moGodfatherSitter_ = !exFoolishlySlur_;
+    laGetCaring_ = 90;
+
+    if (ahHailIncapable_ || inChauffeurCemetery_ || woLolClam_) {
+      ahHailIncapable_ = !inChauffeurCemetery_;
+      inChauffeurCemetery_ = !woLolClam_;
+      woLolClam_ = !ahHailIncapable_;
     }
-    if (esPondGoddess_ > 0) {
-      esPondGoddess_ = esPondGoddess_ - 5;
+    if (woLolClam_ && ahHailIncapable_ && inChauffeurCemetery_) {
+      woLolClam_ = !woLolClam_;
+      ahHailIncapable_ = woLolClam_;
+      inChauffeurCemetery_ = woLolClam_;
     }
-    if (ayFlipBox_ > 0) {
-      ayFlipBox_ = ayFlipBox_ - 1;
+
+    laGetCaring_ = laGetCaring_ + 1;
+    if (inChauffeurCemetery_ || woLolClam_) {
+      woLolClam_ = !woLolClam_;
     }
-    ayFlipBox_ = ayFlipBox_ + 1;
-    if (doTerrorCocaine_ && exFoolishlySlur_) {
-      moGodfatherSitter_ = !moGodfatherSitter_;
-    }
-    ayFlipBox_ = 13;
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    if (ayFlipBox_ > 0) {
-      ayFlipBox_ = ayFlipBox_ - 1;
-    }
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
   }
 
-  void myChoreAid() {
-    if (esPondGoddess_ > 0) {
-      esPondGoddess_ = esPondGoddess_ - 4;
+  void elHomelandPerk() {
+    if (laGetCaring_ > 0) {
+      laGetCaring_ = laGetCaring_ - 6;
     }
-    if (exFoolishlySlur_ && doTerrorCocaine_) {
-      moGodfatherSitter_ = !moGodfatherSitter_;
+    if (ahHailIncapable_ || woLolClam_) {
+      woLolClam_ = !woLolClam_;
     }
-    esPondGoddess_ = 53;
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    doTerrorCocaine_ = moGodfatherSitter_ && exFoolishlySlur_;
-    exFoolishlySlur_ = moGodfatherSitter_ && doTerrorCocaine_;
-    if (moGodfatherSitter_ || exFoolishlySlur_) {
-      exFoolishlySlur_ = !exFoolishlySlur_;
-    }
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    ayFlipBox_ = 29;
-    if (doTerrorCocaine_ && exFoolishlySlur_ && moGodfatherSitter_) {
-      doTerrorCocaine_ = !doTerrorCocaine_;
-      exFoolishlySlur_ = doTerrorCocaine_;
-      moGodfatherSitter_ = doTerrorCocaine_;
-    }
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    ayFlipBox_ = ayFlipBox_ + 1;
-    if (exFoolishlySlur_) {
-      moGodfatherSitter_ = !doTerrorCocaine_;
-    }
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-    ayFlipBox_ = 20;
-    ayFlipBox_ = ayFlipBox_ + 1;
-    mmLawnLenny_ = mmLawnLenny_.toUpperCase();
-  }
-
-  void hiSilkGraduation() {
-    ayFlipBox_ = ayFlipBox_ + 1;
-    ayFlipBox_ = ayFlipBox_ + 1;
-    ayFlipBox_ = 3;
-    if (esPondGoddess_ > 0) {
-      esPondGoddess_ = esPondGoddess_ - 3;
-    }
-    esPondGoddess_ = 68;
-    esPondGoddess_ = 92;
-    esPondGoddess_ = esPondGoddess_ + 1;
-    if (exFoolishlySlur_) {
-      moGodfatherSitter_ = !doTerrorCocaine_;
-    }
+    laGetCaring_ = laGetCaring_ + 1;
   }
 
   static const String linkjoy_neighbor = "linkjoy_neighbor";

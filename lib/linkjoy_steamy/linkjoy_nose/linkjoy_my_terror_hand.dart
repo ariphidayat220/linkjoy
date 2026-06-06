@@ -9,70 +9,79 @@ import '../linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 import '../linkjoy_sister/linkjoy_terror_oily.dart';
 
 class LinkjoyMyTerrorHand extends LinkjoyMagnetHormoneHand {
-  bool elSpockTight_ = false;
-  bool haJohnMinus_ = true;
-  String esSuitMy_ = "";
-  bool ohHilariousCell_ = true;
+  bool maCrispAffordable_ = true;
+  bool loyBox_ = true;
+  bool mmAgencyScenery_ = false;
+  String laDiningChorus_ = "";
 
-  void opEskimoTen() {
-    ohHilariousCell_ = haJohnMinus_ && elSpockTight_;
+  void myMeSheet() {
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
 
-    ohHilariousCell_ = elSpockTight_ && haJohnMinus_;
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    if (ohHilariousCell_ && elSpockTight_ && haJohnMinus_) {
-      ohHilariousCell_ = !ohHilariousCell_;
-      elSpockTight_ = ohHilariousCell_;
-      haJohnMinus_ = ohHilariousCell_;
-    }
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    if (ohHilariousCell_ || elSpockTight_ || haJohnMinus_) {
-      ohHilariousCell_ = !elSpockTight_;
-      elSpockTight_ = !haJohnMinus_;
-      haJohnMinus_ = !ohHilariousCell_;
-    }
-
-    esSuitMy_ = esSuitMy_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
   }
 
-  void omAmericaHeritage() {
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    if (haJohnMinus_ && ohHilariousCell_) {
-      elSpockTight_ = !elSpockTight_;
-    }
-    esSuitMy_ = esSuitMy_.toUpperCase();
+  void elTextBanquet() {
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
 
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    if (ohHilariousCell_ || haJohnMinus_ || elSpockTight_) {
-      ohHilariousCell_ = !haJohnMinus_;
-      haJohnMinus_ = !elSpockTight_;
-      elSpockTight_ = !ohHilariousCell_;
-    }
-    haJohnMinus_ = ohHilariousCell_ && elSpockTight_;
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
 
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    esSuitMy_ = esSuitMy_.toUpperCase();
-
-    esSuitMy_ = esSuitMy_.toUpperCase();
-
-    esSuitMy_ = esSuitMy_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
   }
 
-  void odApeBloat() {
-    if (ohHilariousCell_ || elSpockTight_) {
-      elSpockTight_ = !elSpockTight_;
-    }
-    esSuitMy_ = esSuitMy_.toUpperCase();
+  void idVulnerableTension() {
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    maCrispAffordable_ = loyBox_ && mmAgencyScenery_;
 
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    if (haJohnMinus_ && ohHilariousCell_) {
-      elSpockTight_ = !elSpockTight_;
+    if (maCrispAffordable_ && mmAgencyScenery_) {
+      loyBox_ = !loyBox_;
     }
-    esSuitMy_ = esSuitMy_.toUpperCase();
-    if (haJohnMinus_) {
-      ohHilariousCell_ = !elSpockTight_;
+    if (mmAgencyScenery_ && loyBox_) {
+      maCrispAffordable_ = !maCrispAffordable_;
     }
 
-    esSuitMy_ = esSuitMy_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    if (loyBox_ || maCrispAffordable_) {
+      maCrispAffordable_ = !maCrispAffordable_;
+    }
+  }
+
+  void moFollowerOccupy() {
+    if (loyBox_) {
+      mmAgencyScenery_ = !maCrispAffordable_;
+    }
+
+    if (mmAgencyScenery_ && maCrispAffordable_) {
+      loyBox_ = !loyBox_;
+    }
+    if (maCrispAffordable_ && loyBox_ && mmAgencyScenery_) {
+      maCrispAffordable_ = !maCrispAffordable_;
+      loyBox_ = maCrispAffordable_;
+      mmAgencyScenery_ = maCrispAffordable_;
+    }
+
+    if (maCrispAffordable_ || mmAgencyScenery_) {
+      mmAgencyScenery_ = !mmAgencyScenery_;
+    }
+
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+
+    if (maCrispAffordable_) {
+      loyBox_ = !mmAgencyScenery_;
+    }
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    laDiningChorus_ = laDiningChorus_.toUpperCase();
+    if (maCrispAffordable_ || loyBox_ || mmAgencyScenery_) {
+      maCrispAffordable_ = !loyBox_;
+      loyBox_ = !mmAgencyScenery_;
+      mmAgencyScenery_ = !maCrispAffordable_;
+    }
+    if (maCrispAffordable_ || mmAgencyScenery_) {
+      mmAgencyScenery_ = !mmAgencyScenery_;
+    }
+    mmAgencyScenery_ = loyBox_ && maCrispAffordable_;
   }
 
   final String linkjoy_stubborn_narrate = "linkjoy_stubborn_narrate";
@@ -82,6 +91,11 @@ class LinkjoyMyTerrorHand extends LinkjoyMagnetHormoneHand {
   @override
   void onInit() {
     super.onInit();
+
+    if (LINKJOY.linkjoyShock.isLinkjoyLengthOgle()) {
+      return;
+    }
+
     LinkjoyTerrorOily.instance.linkjoyReEskimo();
     _couponsUpdateSubscription = LINKJOY.listen<LinkjoyTerrorEskimoGuitar>((
       event,

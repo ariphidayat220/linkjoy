@@ -23,6 +23,21 @@ import 'package:get/get.dart';
 
 import 'linkjoy_ancestor_blanc_bloomer.dart';
 
+class LinkjoyKoalaVolcanoMario extends TextEditingController {
+  @override
+  TextSpan buildTextSpan({
+    required BuildContext context,
+    TextStyle? style,
+    required bool withComposing,
+  }) {
+    return super.buildTextSpan(
+      context: context,
+      style: style?.copyWith(backgroundColor: Colors.transparent),
+      withComposing: withComposing,
+    );
+  }
+}
+
 class LinkjoyAncestorArouseBackfire extends StatefulWidget {
   final ChatInputToolBarObserver observer;
   final String? cachePath;
@@ -60,7 +75,9 @@ class LinkjoyAncestorArouseBackfireStatus
 
   bool get _isInputToolPanelShown => _method != ChatInputMethod.none;
 
-  bool get keyboardShowing => _method == ChatInputMethod.text;
+  double _linkjoyHonorableSillyCrappy = 0;
+
+  bool get isLinkjoyTouchdownFudge => _method == ChatInputMethod.text;
 
   bool get _hasInputText => _editController.text.isNotEmpty;
   String voiceCachePath = "";
@@ -73,7 +90,7 @@ class LinkjoyAncestorArouseBackfireStatus
 
   TextSelection? _editSelection;
   final FocusNode _editFocus = FocusNode();
-  final TextEditingController _editController = LinkjoyMarshaBugMario();
+  final TextEditingController _editController = LinkjoyKoalaVolcanoMario();
   StreamSubscription? _keyboardSubscription, _chatQuickEvent;
 
   void linkjoyClearlyFigureVacuum() {
@@ -134,7 +151,7 @@ class LinkjoyAncestorArouseBackfireStatus
             child: AnimatedContainer(
               duration: const Duration(milliseconds: 250),
               height: visibilityHeight.toDouble(),
-              color: LinkjoyCondensate.bgSecondary,
+              color: LinkjoyAve.bgDarkDark,
               child: _linkjoyArouseBackfireBloomer(_method),
             ),
           ),
@@ -148,10 +165,30 @@ class LinkjoyAncestorArouseBackfireStatus
     super.didChangeMetrics();
     if (!mounted) return;
 
-    WidgetsBinding.instance.addPostFrameCallback((time) {
-      if (!mounted) return;
-      _linkjoyObsessedMarriageGuitar(MediaQuery.of(context).viewInsets.bottom);
-    });
+    final currentBottomInset = WidgetsBinding.instance.window.viewInsets.bottom;
+
+    final difference = (currentBottomInset - _linkjoyHonorableSillyCrappy)
+        .abs();
+
+    if (difference > 100) {
+      if (currentBottomInset > _linkjoyHonorableSillyCrappy) {
+        WidgetsBinding.instance.addPostFrameCallback((time) {
+          if (!mounted) return;
+          if (_method == ChatInputMethod.none) {
+            _linkjoyCoreArouseInsurance(ChatInputMethod.text);
+          }
+        });
+      } else {
+        WidgetsBinding.instance.addPostFrameCallback((time) {
+          if (!mounted) return;
+          if (_method == ChatInputMethod.text) {
+            linkjoyEpicArouseInsurance();
+          }
+        });
+      }
+    }
+
+    _linkjoyHonorableSillyCrappy = currentBottomInset;
   }
 
   Widget _linkjoyOverbearAssumeJelly() {
@@ -263,27 +300,25 @@ class LinkjoyAncestorArouseBackfireStatus
       child: Row(
         children: [
           Expanded(
-            child: DefaultSelectionStyle.merge(
-              selectionColor: Colors.white38,
-              child: CupertinoTextField(
-                minLines: 1,
-                maxLines: 2,
-                maxLength: 2000,
-                padding: const EdgeInsets.all(0),
-                style: LinkjoyMarshaTriplet.bodyLarge,
-                enableSuggestions: true,
-                autocorrect: false,
-                focusNode: _editFocus,
-                controller: _editController,
-                decoration: const BoxDecoration(
-                  color: LinkjoyCondensateSister.transparent,
-                ),
-                placeholderStyle: LinkjoyMarshaTriplet.captionThin,
-                placeholder: "linkjoy_caring_ancestor_arouse_phlegm".tr,
-                textInputAction: TextInputAction.send,
-                onSubmitted: (value) => _linkjoyElevenMarsha(),
-                onChanged: _linkjoyOnMarshaChlorine,
+            child: CupertinoTextField(
+              minLines: 1,
+              maxLines: 2,
+              maxLength: 2000,
+              padding: const EdgeInsets.all(0),
+              style: LinkjoyMarshaTriplet.bodyLarge,
+              cursorColor: Colors.transparent,
+              enableSuggestions: true,
+              autocorrect: false,
+              focusNode: _editFocus,
+              controller: _editController,
+              decoration: const BoxDecoration(
+                color: LinkjoyCondensateSister.transparent,
               ),
+              placeholderStyle: LinkjoyMarshaTriplet.captionThin,
+              placeholder: "linkjoy_caring_ancestor_arouse_phlegm".tr,
+              textInputAction: TextInputAction.send,
+              onSubmitted: (value) => _linkjoyElevenMarsha(),
+              onChanged: _linkjoyOnMarshaChlorine,
             ),
           ),
           LinkjoyFeynman.h8,
@@ -360,7 +395,11 @@ class LinkjoyAncestorArouseBackfireStatus
 
   void linkjoyEpicArouseInsurance() {
     if (_method == ChatInputMethod.none) return;
-    if (_method == ChatInputMethod.text) _editFocus.unfocus();
+
+    if (_method == ChatInputMethod.text) {
+      _editFocus.unfocus();
+    }
+
     _method = ChatInputMethod.none;
     widget.observer.onActiveInputMethod(_method);
     if (mounted) {

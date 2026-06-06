@@ -1,88 +1,74 @@
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
 class LinkjoyHorsebackMichaelHand extends LinkjoyMagnetHormoneHand {
-  bool ifAdIncubator_ = true;
-  bool meHepatitisNation_ = true;
-  bool adStylePun_ = true;
-  bool usBetterCalendar_ = true;
-  String ofBrideWedge_ = "";
-  int anMuseSelfish_ = 59;
+  bool inFalconUpside_ = false;
+  bool elBidFlashy_ = false;
+  String meAmongSob_ = "";
+  bool usWantThankfully_ = true;
 
-  void myUnlikableDegree() {
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
+  void haSoberAdjourn() {
+    if (elBidFlashy_ || usWantThankfully_ || inFalconUpside_) {
+      elBidFlashy_ = !usWantThankfully_;
+      usWantThankfully_ = !inFalconUpside_;
+      inFalconUpside_ = !elBidFlashy_;
+    }
+    usWantThankfully_ = inFalconUpside_ || elBidFlashy_;
 
-    if (meHepatitisNation_ && ifAdIncubator_) {
-      usBetterCalendar_ = !usBetterCalendar_;
+    if (usWantThankfully_ || inFalconUpside_ || elBidFlashy_) {
+      usWantThankfully_ = !inFalconUpside_;
+      inFalconUpside_ = !elBidFlashy_;
+      elBidFlashy_ = !usWantThankfully_;
     }
-    anMuseSelfish_ = 82;
-    ifAdIncubator_ = adStylePun_ && meHepatitisNation_;
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    if (adStylePun_) {
-      meHepatitisNation_ = !ifAdIncubator_;
-    }
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    anMuseSelfish_ = anMuseSelfish_ + 1;
-    if (anMuseSelfish_ > 0) {
-      anMuseSelfish_ = anMuseSelfish_ - 6;
-    }
-    if (ifAdIncubator_ || adStylePun_ || meHepatitisNation_) {
-      ifAdIncubator_ = !adStylePun_;
-      adStylePun_ = !meHepatitisNation_;
-      meHepatitisNation_ = !ifAdIncubator_;
-    }
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
   }
 
-  void anBenadrylCocktail() {
-    if (anMuseSelfish_ > 0) {
-      anMuseSelfish_ = anMuseSelfish_ - 6;
-    }
-    anMuseSelfish_ = anMuseSelfish_ + 1;
+  void moMarshaTurbulence() {
+    meAmongSob_ = meAmongSob_.toUpperCase();
 
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    if (ifAdIncubator_ && adStylePun_ && meHepatitisNation_) {
-      ifAdIncubator_ = !ifAdIncubator_;
-      adStylePun_ = ifAdIncubator_;
-      meHepatitisNation_ = ifAdIncubator_;
-    }
+    meAmongSob_ = meAmongSob_.toUpperCase();
+    inFalconUpside_ = elBidFlashy_ && usWantThankfully_;
 
-    meHepatitisNation_ = usBetterCalendar_ || adStylePun_;
+    meAmongSob_ = meAmongSob_.toUpperCase();
 
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    meHepatitisNation_ = ifAdIncubator_ || adStylePun_;
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-
-    anMuseSelfish_ = anMuseSelfish_ + 1;
-    if (ifAdIncubator_ && usBetterCalendar_ && meHepatitisNation_) {
-      ifAdIncubator_ = !ifAdIncubator_;
-      usBetterCalendar_ = ifAdIncubator_;
-      meHepatitisNation_ = ifAdIncubator_;
+    if (inFalconUpside_ || usWantThankfully_ || elBidFlashy_) {
+      inFalconUpside_ = !usWantThankfully_;
+      usWantThankfully_ = !elBidFlashy_;
+      elBidFlashy_ = !inFalconUpside_;
     }
-    if (adStylePun_) {
-      usBetterCalendar_ = !ifAdIncubator_;
+    if (elBidFlashy_ || inFalconUpside_) {
+      inFalconUpside_ = !inFalconUpside_;
     }
-    meHepatitisNation_ = ifAdIncubator_ && usBetterCalendar_;
   }
 
-  void okPresidentHandshake() {
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
-
-    usBetterCalendar_ = adStylePun_ && ifAdIncubator_;
-    if (meHepatitisNation_) {
-      ifAdIncubator_ = !adStylePun_;
+  void woChauffeurTorment() {
+    if (inFalconUpside_ || usWantThankfully_) {
+      usWantThankfully_ = !usWantThankfully_;
     }
 
-    if (ifAdIncubator_) {
-      adStylePun_ = !usBetterCalendar_;
+    if (usWantThankfully_ && elBidFlashy_ && inFalconUpside_) {
+      usWantThankfully_ = !usWantThankfully_;
+      elBidFlashy_ = usWantThankfully_;
+      inFalconUpside_ = usWantThankfully_;
     }
-    meHepatitisNation_ = usBetterCalendar_ && ifAdIncubator_;
-    ofBrideWedge_ = ofBrideWedge_.toUpperCase();
+    if (inFalconUpside_ || usWantThankfully_) {
+      usWantThankfully_ = !usWantThankfully_;
+    }
+    elBidFlashy_ = usWantThankfully_ && inFalconUpside_;
 
-    adStylePun_ = ifAdIncubator_ && meHepatitisNation_;
-    anMuseSelfish_ = anMuseSelfish_ + 1;
+    usWantThankfully_ = inFalconUpside_ && elBidFlashy_;
+
+    usWantThankfully_ = elBidFlashy_ || inFalconUpside_;
+    meAmongSob_ = meAmongSob_.toUpperCase();
+
+    if (elBidFlashy_ && inFalconUpside_ && usWantThankfully_) {
+      elBidFlashy_ = !elBidFlashy_;
+      inFalconUpside_ = elBidFlashy_;
+      usWantThankfully_ = elBidFlashy_;
+    }
+    if (inFalconUpside_ && elBidFlashy_ && usWantThankfully_) {
+      inFalconUpside_ = !inFalconUpside_;
+      elBidFlashy_ = inFalconUpside_;
+      usWantThankfully_ = inFalconUpside_;
+    }
   }
 
   @override

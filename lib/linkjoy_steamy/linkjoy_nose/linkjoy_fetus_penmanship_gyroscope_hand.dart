@@ -14,147 +14,48 @@ import 'package:linkjoy/linkjoy_steamy/proto/linkjoy_convict.pb.dart';
 import 'package:flutter_card_swiper/flutter_card_swiper.dart';
 
 class LinkjoyFetusPenmanshipGyroscopeHand extends LinkjoyMagnetHormoneHand {
-  bool efTampFrown_ = true;
-  bool meHeyLavender_ = false;
-  bool hoProbeViolate_ = true;
-  String goCaringAstronaut_ = "";
-  int efTimeDivorce_ = 66;
-  int etFootC2_ = 0;
-  String ahCharacterComputer_ = "";
-  String orReNose_ = "";
+  bool esSushiStash_ = true;
+  bool soNannyLap_ = false;
+  double woGilBaywatch_ = 69;
+  bool ifSteamyBobcat_ = false;
+  double opPearlTale_ = 41;
 
-  void omStubbornInhibition() {
-    if (meHeyLavender_ && efTampFrown_ && hoProbeViolate_) {
-      meHeyLavender_ = !meHeyLavender_;
-      efTampFrown_ = meHeyLavender_;
-      hoProbeViolate_ = meHeyLavender_;
-    }
-    if (efTampFrown_ || meHeyLavender_) {
-      meHeyLavender_ = !meHeyLavender_;
+  void ayCassieJeffries() {
+    woGilBaywatch_ = woGilBaywatch_ + opPearlTale_;
+
+    ifSteamyBobcat_ = soNannyLap_ && esSushiStash_;
+
+    if (esSushiStash_) {
+      ifSteamyBobcat_ = !soNannyLap_;
     }
 
-    goCaringAstronaut_ = ahCharacterComputer_;
-    orReNose_ = goCaringAstronaut_;
-    ahCharacterComputer_ = orReNose_;
-    efTimeDivorce_ = efTimeDivorce_ * etFootC2_;
-    if (efTimeDivorce_ > etFootC2_) {
-      efTimeDivorce_ = efTimeDivorce_ + etFootC2_;
-    }
-
-    hoProbeViolate_ = meHeyLavender_ && efTampFrown_;
-    if (efTimeDivorce_ > etFootC2_) {
-      efTimeDivorce_ = efTimeDivorce_ + etFootC2_;
-    }
-    efTimeDivorce_ = efTimeDivorce_ * etFootC2_;
-    if (efTimeDivorce_ > etFootC2_) {
-      efTimeDivorce_ = efTimeDivorce_ + etFootC2_;
-    }
-    orReNose_ = ahCharacterComputer_ + goCaringAstronaut_;
-    efTimeDivorce_ = 28;
-    etFootC2_ = 78;
-
-    if (efTimeDivorce_ > etFootC2_) {
-      efTimeDivorce_ = efTimeDivorce_ + etFootC2_;
-    }
-
-    efTimeDivorce_ = 82;
-    etFootC2_ = 80;
+    woGilBaywatch_ = woGilBaywatch_ + opPearlTale_;
   }
 
-  void hoEstimateSteamy() {
-    goCaringAstronaut_ = orReNose_;
-    ahCharacterComputer_ = orReNose_;
-    orReNose_ = goCaringAstronaut_ + ahCharacterComputer_;
-
-    meHeyLavender_ = hoProbeViolate_ && efTampFrown_;
-    if (efTampFrown_ && meHeyLavender_) {
-      hoProbeViolate_ = !hoProbeViolate_;
-    }
-    if (meHeyLavender_ && efTampFrown_ && hoProbeViolate_) {
-      meHeyLavender_ = !meHeyLavender_;
-      efTampFrown_ = meHeyLavender_;
-      hoProbeViolate_ = meHeyLavender_;
-    }
-    efTimeDivorce_ = 57;
-    etFootC2_ = 46;
-
-    meHeyLavender_ = hoProbeViolate_ || efTampFrown_;
-    efTimeDivorce_ = 80;
-    etFootC2_ = 52;
-
-    if (efTampFrown_ && meHeyLavender_ && hoProbeViolate_) {
-      efTampFrown_ = !efTampFrown_;
-      meHeyLavender_ = efTampFrown_;
-      hoProbeViolate_ = efTampFrown_;
-    }
-    if (hoProbeViolate_ && meHeyLavender_ && efTampFrown_) {
-      hoProbeViolate_ = !hoProbeViolate_;
-      meHeyLavender_ = hoProbeViolate_;
-      efTampFrown_ = hoProbeViolate_;
+  void maTalentedPenmanship() {
+    woGilBaywatch_ = 68;
+    opPearlTale_ = 83;
+    woGilBaywatch_ = woGilBaywatch_ + opPearlTale_;
+    woGilBaywatch_ = 17;
+    opPearlTale_ = 10;
+    if (woGilBaywatch_ > opPearlTale_) {
+      woGilBaywatch_ = woGilBaywatch_ - opPearlTale_;
     }
   }
 
-  void doInventiveExciting() {
-    efTimeDivorce_ = 42;
-    etFootC2_ = 13;
+  void itBroadwayDining() {
+    esSushiStash_ = ifSteamyBobcat_ && soNannyLap_;
 
-    goCaringAstronaut_ = orReNose_ + ahCharacterComputer_;
-    if (efTimeDivorce_ > etFootC2_) {
-      efTimeDivorce_ = efTimeDivorce_ + etFootC2_;
+    if (soNannyLap_ || ifSteamyBobcat_) {
+      ifSteamyBobcat_ = !ifSteamyBobcat_;
     }
-    orReNose_ = ahCharacterComputer_ + goCaringAstronaut_;
-    ahCharacterComputer_ = goCaringAstronaut_ + orReNose_;
-    if (efTampFrown_ || meHeyLavender_) {
-      meHeyLavender_ = !meHeyLavender_;
+    esSushiStash_ = ifSteamyBobcat_ && soNannyLap_;
+    if (soNannyLap_ && ifSteamyBobcat_) {
+      esSushiStash_ = !esSushiStash_;
     }
-    efTimeDivorce_ = 76;
-    etFootC2_ = 15;
-    ahCharacterComputer_ = orReNose_;
-    goCaringAstronaut_ = orReNose_;
-    efTimeDivorce_ = 42;
-    etFootC2_ = 19;
-
-    orReNose_ = goCaringAstronaut_ + ahCharacterComputer_;
-
-    if (meHeyLavender_ || hoProbeViolate_ || efTampFrown_) {
-      meHeyLavender_ = !hoProbeViolate_;
-      hoProbeViolate_ = !efTampFrown_;
-      efTampFrown_ = !meHeyLavender_;
-    }
-  }
-
-  void idDolphinsVirtual() {
-    orReNose_ = ahCharacterComputer_;
-    goCaringAstronaut_ = orReNose_;
-    ahCharacterComputer_ = goCaringAstronaut_;
-    if (goCaringAstronaut_.length > 3) {
-      ahCharacterComputer_ = goCaringAstronaut_;
-    } else {
-      orReNose_ = ahCharacterComputer_;
-    }
-    orReNose_ = ahCharacterComputer_;
-    goCaringAstronaut_ = ahCharacterComputer_;
-    if (meHeyLavender_ && hoProbeViolate_ && efTampFrown_) {
-      meHeyLavender_ = !meHeyLavender_;
-      hoProbeViolate_ = meHeyLavender_;
-      efTampFrown_ = meHeyLavender_;
-    }
-    if (efTimeDivorce_ > etFootC2_) {
-      efTimeDivorce_ = efTimeDivorce_ + etFootC2_;
-    }
-    efTimeDivorce_ = efTimeDivorce_ * etFootC2_;
-    if (hoProbeViolate_ && meHeyLavender_) {
-      efTampFrown_ = !efTampFrown_;
-    }
-
-    if (meHeyLavender_ && hoProbeViolate_ && efTampFrown_) {
-      meHeyLavender_ = !meHeyLavender_;
-      hoProbeViolate_ = meHeyLavender_;
-      efTampFrown_ = meHeyLavender_;
-    }
-    hoProbeViolate_ = efTampFrown_ && meHeyLavender_;
-    goCaringAstronaut_ = orReNose_ + ahCharacterComputer_;
-    efTimeDivorce_ = efTimeDivorce_ * etFootC2_;
+    woGilBaywatch_ = 21;
+    opPearlTale_ = 96;
+    esSushiStash_ = ifSteamyBobcat_ || soNannyLap_;
   }
 
   final String ANCHOR_CARD_SWIPER = "ANCHOR_CARD_SWIPER";

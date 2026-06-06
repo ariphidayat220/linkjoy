@@ -19,6 +19,7 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_coin_sister.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_upper.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_gnome_sister.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_quieter/linkjoy_squeaky_narrate.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
@@ -73,6 +74,9 @@ class LinkjoyWailOily {
   List<LinkjoyWedgieMadness>? subListOptions;
 
   List<PurchaseDetails> linkjoyForgiveBidStubborn = [];
+
+  List<String> popups2 = [];
+  List<String> popups4 = [];
 
   double linkjoyChipmunkFailAlikeEnglishDestroy = 0.0;
 
@@ -162,9 +166,14 @@ class LinkjoyWailOily {
       bool _moreInfoUpdate =
           googlePaid != resp.googlePaid ||
           lastVipUseSubscribe != resp.lastVipUseSubscribe ||
-          lastPaidPriceUsd != resp.lastPaidPriceUsd;
+          lastPaidPriceUsd != resp.lastPaidPriceUsd ||
+          !listEquals(popups2, resp.popups2) ||
+          !listEquals(popups4, resp.popups4);
 
-      if (_optionUpdate || _couponUpdate || _moreInfoUpdate) {
+      if (_optionUpdate ||
+          _couponUpdate ||
+          _moreInfoUpdate ||
+          _moreInfoUpdate) {
         isOptionUpdate = true;
 
         if (_optionUpdate) {
@@ -201,6 +210,8 @@ class LinkjoyWailOily {
     googlePaid = optionRsp.googlePaid;
     lastVipUseSubscribe = optionRsp.lastVipUseSubscribe;
     lastPaidPriceUsd = optionRsp.lastPaidPriceUsd;
+    popups2 = optionRsp.popups2;
+    popups4 = optionRsp.popups4;
   }
 
   _linkjoyMorganCraftWailEmbarrass(List<LinkjoyWedgieMadness> listOptions) {
@@ -276,10 +287,6 @@ class LinkjoyWailOily {
     }
 
     if (!LinkjoyGnomeSister.isEmpty(pkgListOptions)) {
-      maxCoinDiscountOff = max(
-        maxCoinDiscountOff,
-        linkjoyCigarEnglish(pkgListOptions!),
-      );
       await _linkjoyBrochureFailOutrage(pkgListOptions!);
     }
 
@@ -913,8 +920,7 @@ class LinkjoyWailOily {
   }
 
   void linkjoyDummyFatIcemanWailClausHarvard({bool showToast = false}) {
-    if (LINKJOY.linkjoyJog == null ||
-        LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
+    if (LINKJOY.linkjoyJog == null) {
       return;
     }
     List<LinkjoyIcemanWailClausBit>? orders = getThirdPayCachedOrders();

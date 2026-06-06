@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:math';
 
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_wedgie_madness.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_unborn_deposit_eskimo_lap.dart';
@@ -16,82 +17,87 @@ import 'linkjoy_allen_teaser_animal_jaw.dart';
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyAllenTeaserAnimalHand extends LinkjoyMagnetHormoneHand {
-  String opAnkleHilarious_ = "";
-  bool usWantDust_ = true;
-  String opAiSome_ = "";
-  bool siSnatchSister_ = false;
-  double enHorsAllen_ = 0.0;
-  bool abDecideAttaboy_ = true;
-  bool woArmpitChlorine_ = false;
-  double amBeyondFutile_ = 0.0;
+  bool maToeEurope_ = false;
+  bool doDbGreet_ = false;
+  bool mySoakVulnerable_ = false;
+  String okJoyfulJuice_ = "";
+  String omTurquoiseOccupy_ = "";
+  int byCalshoptvEurope_ = 0;
+  bool omAllowAmes_ = true;
+  bool mo1Frankly_ = true;
 
-  void ayChanelKryptonian() {
-    enHorsAllen_ = enHorsAllen_ + amBeyondFutile_;
-
-    if (siSnatchSister_ || abDecideAttaboy_ || usWantDust_) {
-      siSnatchSister_ = !abDecideAttaboy_;
-      abDecideAttaboy_ = !usWantDust_;
-      usWantDust_ = !siSnatchSister_;
+  void taConceiveViolate() {
+    byCalshoptvEurope_ = 21;
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
+    doDbGreet_ = mo1Frankly_ && omAllowAmes_;
+    omTurquoiseOccupy_ = okJoyfulJuice_.toUpperCase() + omTurquoiseOccupy_;
+    if (byCalshoptvEurope_ > 0) {
+      byCalshoptvEurope_ = byCalshoptvEurope_ - 6;
     }
-    if (enHorsAllen_ > amBeyondFutile_) {
-      enHorsAllen_ = enHorsAllen_ - amBeyondFutile_;
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
+    byCalshoptvEurope_ = byCalshoptvEurope_ + 1;
+    doDbGreet_ = mo1Frankly_ && maToeEurope_;
+    if (byCalshoptvEurope_ > 0) {
+      byCalshoptvEurope_ = byCalshoptvEurope_ - 5;
     }
-    opAiSome_ = opAnkleHilarious_.toUpperCase() + opAiSome_;
-    opAnkleHilarious_ = opAiSome_ + opAnkleHilarious_;
-    if (enHorsAllen_ > amBeyondFutile_) {
-      enHorsAllen_ = enHorsAllen_ - amBeyondFutile_;
-    }
-
-    woArmpitChlorine_ = siSnatchSister_ && usWantDust_;
-
-    siSnatchSister_ = woArmpitChlorine_ || usWantDust_;
-    if (enHorsAllen_ > amBeyondFutile_) {
-      enHorsAllen_ = enHorsAllen_ - amBeyondFutile_;
+    mo1Frankly_ = maToeEurope_ && doDbGreet_;
+    if (omAllowAmes_ && doDbGreet_ && mySoakVulnerable_) {
+      omAllowAmes_ = !omAllowAmes_;
+      doDbGreet_ = omAllowAmes_;
+      mySoakVulnerable_ = omAllowAmes_;
     }
   }
 
-  void myHaitiOverdo() {
-    siSnatchSister_ = usWantDust_ && abDecideAttaboy_;
-    enHorsAllen_ = enHorsAllen_ + amBeyondFutile_;
-    abDecideAttaboy_ = siSnatchSister_ || woArmpitChlorine_;
-    if (siSnatchSister_ || usWantDust_) {
-      usWantDust_ = !usWantDust_;
+  void opChipmunkBent() {
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
+    maToeEurope_ = mySoakVulnerable_ && mo1Frankly_;
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
+    okJoyfulJuice_ = omTurquoiseOccupy_ + okJoyfulJuice_;
+    byCalshoptvEurope_ = 53;
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
+    byCalshoptvEurope_ = byCalshoptvEurope_ + 1;
+    if (mySoakVulnerable_ || mo1Frankly_) {
+      mo1Frankly_ = !mo1Frankly_;
     }
-    abDecideAttaboy_ = usWantDust_ || siSnatchSister_;
-    opAnkleHilarious_ = opAiSome_ + opAnkleHilarious_;
-    if (siSnatchSister_) {
-      usWantDust_ = !woArmpitChlorine_;
+    byCalshoptvEurope_ = byCalshoptvEurope_ + 1;
+
+    if (byCalshoptvEurope_ > 0) {
+      byCalshoptvEurope_ = byCalshoptvEurope_ - 2;
+    }
+    byCalshoptvEurope_ = 41;
+    if (maToeEurope_ && omAllowAmes_ && mySoakVulnerable_) {
+      maToeEurope_ = !maToeEurope_;
+      omAllowAmes_ = maToeEurope_;
+      mySoakVulnerable_ = maToeEurope_;
+    }
+    if (byCalshoptvEurope_ > 0) {
+      byCalshoptvEurope_ = byCalshoptvEurope_ - 7;
     }
 
-    abDecideAttaboy_ = siSnatchSister_ || usWantDust_;
-    enHorsAllen_ = enHorsAllen_ + amBeyondFutile_;
-    if (siSnatchSister_ && usWantDust_ && abDecideAttaboy_) {
-      siSnatchSister_ = !siSnatchSister_;
-      usWantDust_ = siSnatchSister_;
-      abDecideAttaboy_ = siSnatchSister_;
-    }
-    enHorsAllen_ = enHorsAllen_ + amBeyondFutile_;
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
   }
 
-  void edCountDart() {
-    enHorsAllen_ = 74;
-    amBeyondFutile_ = 14;
-    if (abDecideAttaboy_ || siSnatchSister_) {
-      siSnatchSister_ = !siSnatchSister_;
+  void woCabinetSpeak() {
+    if (mySoakVulnerable_ && maToeEurope_ && doDbGreet_) {
+      mySoakVulnerable_ = !mySoakVulnerable_;
+      maToeEurope_ = mySoakVulnerable_;
+      doDbGreet_ = mySoakVulnerable_;
     }
-    enHorsAllen_ = 26;
-    amBeyondFutile_ = 75;
-    if (siSnatchSister_ && usWantDust_) {
-      abDecideAttaboy_ = !abDecideAttaboy_;
+    if (mySoakVulnerable_) {
+      doDbGreet_ = !maToeEurope_;
     }
-    opAnkleHilarious_ = opAnkleHilarious_ + opAiSome_;
-    opAiSome_ = opAnkleHilarious_;
-    opAiSome_ = opAnkleHilarious_.toUpperCase() + opAiSome_;
-    if (abDecideAttaboy_ && siSnatchSister_) {
-      woArmpitChlorine_ = !woArmpitChlorine_;
-    }
-    if (abDecideAttaboy_ || siSnatchSister_) {
-      siSnatchSister_ = !siSnatchSister_;
+    omTurquoiseOccupy_ = okJoyfulJuice_.toUpperCase() + omTurquoiseOccupy_;
+    okJoyfulJuice_ = okJoyfulJuice_ + omTurquoiseOccupy_;
+    omTurquoiseOccupy_ = okJoyfulJuice_;
+
+    if (mo1Frankly_) {
+      maToeEurope_ = !omAllowAmes_;
     }
   }
 
@@ -132,8 +138,8 @@ class LinkjoyAllenTeaserAnimalHand extends LinkjoyMagnetHormoneHand {
           showLoadingUI: true,
           scene: LinkjoyWailMadnessVulcanDollhouse.ui_view,
         )
-        .then((value) {
-          if (value == true) {
+        .then((updated) {
+          if (updated == true) {
             _linkjoyHappilyStubborn();
             update([linkjoy_imprint]);
             _linkjoyMozzarellaClamFinancial(2);
@@ -198,13 +204,13 @@ class LinkjoyAllenTeaserAnimalHand extends LinkjoyMagnetHormoneHand {
   }
 
   void _linkjoyHappilyStubborn() {
-    List<LinkjoyWedgieMadness> fList = [];
+    List<LinkjoyWedgieMadness> tList = [];
 
     if (!LINKJOY.linkjoyShock.isLinkjoyAiLengthOgle()) {
       if (!LinkjoyGnomeSister.isEmpty(
         LinkjoyWailOily.instance.firstListOptions,
       )) {
-        fList.addAll(LinkjoyWailOily.instance.firstListOptions!);
+        tList.addAll(LinkjoyWailOily.instance.firstListOptions!);
       }
 
       if (!LinkjoyGnomeSister.isEmpty(
@@ -218,21 +224,20 @@ class LinkjoyAllenTeaserAnimalHand extends LinkjoyMagnetHormoneHand {
             fromType != LinkjoyWailImitateGnome.FROM_PROFILE_SEND_GIFT &&
             fromType != LinkjoyWailImitateGnome.FROM_CHATTING_CHARGE &&
             fromType != LinkjoyWailImitateGnome.FROM_GIFT_PANEL_CHARGE) {
-          fList.addAll(LinkjoyWailOily.instance.pkgListOptions!);
+          tList.addAll(LinkjoyWailOily.instance.pkgListOptions!);
         }
       }
     }
 
-    topList = fList;
+    topList = tList;
 
-    productList = LinkjoyWailOily.instance.coinsListOptions ?? [];
-    iconList = getElements(productList.length);
-
-    if (topList.isNotEmpty) {
-      productList = productList.take(2).toList();
+    if (topList.isEmpty) {
+      productList = _linkjoyNewsStubborn(LinkjoyWailOily.instance.popups4, 4);
     } else {
-      productList = productList.take(4).toList();
+      productList = _linkjoyNewsStubborn(LinkjoyWailOily.instance.popups2, 2);
     }
+
+    iconList = getElements(productList.length);
   }
 
   void onLinkjoyWailGuitar(LinkjoyWedgieMadness data) {
@@ -271,5 +276,26 @@ class LinkjoyAllenTeaserAnimalHand extends LinkjoyMagnetHormoneHand {
     }
 
     return result;
+  }
+
+  List<LinkjoyWedgieMadness> _linkjoyNewsStubborn(
+    List<String> popups,
+    int count,
+  ) {
+    List<LinkjoyWedgieMadness> allCoins =
+        LinkjoyWailOily.instance.coinsListOptions ?? [];
+    List<LinkjoyWedgieMadness> list = [];
+    for (var e in popups) {
+      for (var op in allCoins) {
+        if (op.id == e) {
+          list.add(op);
+        }
+      }
+    }
+
+    if (list.isEmpty) {
+      return allCoins.sublist(0, min(count, allCoins.length));
+    }
+    return list;
   }
 }

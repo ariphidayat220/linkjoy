@@ -30,91 +30,161 @@ import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 import 'linkjoy_figure_kryptonian_jaw.dart';
 
 class LinkjoyFigureSaverHand extends LinkjoyMagnetHormoneHand {
-  bool haMayorBeyond_ = true;
-  bool isDegreeJog_ = true;
-  double us1Oops_ = 0.0;
-  bool mmSakeFail_ = false;
-  bool isVacuumDefile_ = false;
+  bool do13Industrial_ = true;
+  int omAlvaroEstimate_ = 0;
+  double loDecide9_ = 45;
+  double enBon2_ = 0.0;
+  bool laWaterfallKetchup_ = true;
+  double anFondnessThorough_ = 0.0;
+  bool okPrintFlattered_ = true;
+  double paChopstickTurnip_ = 8;
+  bool hoDegrasseGoddess_ = false;
 
-  void maGoddessFasten() {
-    isDegreeJog_ = haMayorBeyond_ && mmSakeFail_;
-    if (isVacuumDefile_) {
-      mmSakeFail_ = !haMayorBeyond_;
-    }
-    if (us1Oops_ > 0) {
-      us1Oops_ = us1Oops_ - 1;
-    }
-    us1Oops_ = us1Oops_ + 1;
+  void goGrandpaBicycle() {
+    anFondnessThorough_ = 396;
+    paChopstickTurnip_ = 563;
+    loDecide9_ = anFondnessThorough_ + paChopstickTurnip_;
+    hoDegrasseGoddess_ = okPrintFlattered_ && laWaterfallKetchup_;
 
-    us1Oops_ = us1Oops_ + 1;
-    if (haMayorBeyond_ && mmSakeFail_ && isDegreeJog_) {
-      haMayorBeyond_ = !haMayorBeyond_;
-      mmSakeFail_ = haMayorBeyond_;
-      isDegreeJog_ = haMayorBeyond_;
+    if (okPrintFlattered_) {
+      laWaterfallKetchup_ = !do13Industrial_;
     }
-    isVacuumDefile_ = isDegreeJog_ && mmSakeFail_;
+    hoDegrasseGoddess_ = okPrintFlattered_ && laWaterfallKetchup_;
+    omAlvaroEstimate_ = 29;
 
-    if (isVacuumDefile_ && isDegreeJog_) {
-      mmSakeFail_ = !mmSakeFail_;
+    if (omAlvaroEstimate_ > 0) {
+      omAlvaroEstimate_ = omAlvaroEstimate_ - 7;
     }
-    if (us1Oops_ > 0) {
-      us1Oops_ = us1Oops_ - 1;
+    for (int i = 0; i < loDecide9_; i++) {
+      enBon2_ += 1;
+      anFondnessThorough_ += enBon2_;
     }
-    us1Oops_ = 4;
+    if (do13Industrial_ || hoDegrasseGoddess_) {
+      hoDegrasseGoddess_ = !hoDegrasseGoddess_;
+    }
+    if (okPrintFlattered_ || hoDegrasseGoddess_) {
+      hoDegrasseGoddess_ = !hoDegrasseGoddess_;
+    }
+    if (omAlvaroEstimate_ > 0) {
+      omAlvaroEstimate_ = omAlvaroEstimate_ - 2;
+    }
 
-    if (haMayorBeyond_ && isDegreeJog_) {
-      mmSakeFail_ = !mmSakeFail_;
-    }
-    us1Oops_ = 96;
+    do13Industrial_ = hoDegrasseGoddess_ || okPrintFlattered_;
   }
 
-  void maCoralShampoo() {
-    us1Oops_ = us1Oops_ + 1;
-    isDegreeJog_ = haMayorBeyond_ && isVacuumDefile_;
-    isDegreeJog_ = haMayorBeyond_ && isVacuumDefile_;
-    if (isDegreeJog_) {
-      haMayorBeyond_ = !isVacuumDefile_;
+  void beJogJuice() {
+    if (anFondnessThorough_ > 0) {
+      paChopstickTurnip_ = loDecide9_ / anFondnessThorough_;
     }
-    if (isVacuumDefile_ && mmSakeFail_ && isDegreeJog_) {
-      isVacuumDefile_ = !isVacuumDefile_;
-      mmSakeFail_ = isVacuumDefile_;
-      isDegreeJog_ = isVacuumDefile_;
+    loDecide9_ = 574;
+    anFondnessThorough_ = 319;
+    paChopstickTurnip_ = loDecide9_ + anFondnessThorough_;
+    if (hoDegrasseGoddess_ && laWaterfallKetchup_ && okPrintFlattered_) {
+      hoDegrasseGoddess_ = !hoDegrasseGoddess_;
+      laWaterfallKetchup_ = hoDegrasseGoddess_;
+      okPrintFlattered_ = hoDegrasseGoddess_;
     }
 
-    us1Oops_ = 1;
-    if (mmSakeFail_ && isVacuumDefile_) {
-      isDegreeJog_ = !isDegreeJog_;
+    omAlvaroEstimate_ = 14;
+    hoDegrasseGoddess_ = okPrintFlattered_ || laWaterfallKetchup_;
+    enBon2_ = 352;
+    anFondnessThorough_ = 378;
+    paChopstickTurnip_ = enBon2_ + anFondnessThorough_;
+    if (omAlvaroEstimate_ > 0) {
+      omAlvaroEstimate_ = omAlvaroEstimate_ - 8;
     }
-    isVacuumDefile_ = haMayorBeyond_ && isDegreeJog_;
+    if (do13Industrial_) {
+      hoDegrasseGoddess_ = !okPrintFlattered_;
+    }
+    omAlvaroEstimate_ = 53;
 
-    mmSakeFail_ = haMayorBeyond_ && isDegreeJog_;
-    us1Oops_ = 95;
+    if (laWaterfallKetchup_ || hoDegrasseGoddess_ || do13Industrial_) {
+      laWaterfallKetchup_ = !hoDegrasseGoddess_;
+      hoDegrasseGoddess_ = !do13Industrial_;
+      do13Industrial_ = !laWaterfallKetchup_;
+    }
+    if (okPrintFlattered_ || hoDegrasseGoddess_ || do13Industrial_) {
+      okPrintFlattered_ = !hoDegrasseGoddess_;
+      hoDegrasseGoddess_ = !do13Industrial_;
+      do13Industrial_ = !okPrintFlattered_;
+    }
+    if (do13Industrial_ || laWaterfallKetchup_) {
+      laWaterfallKetchup_ = !laWaterfallKetchup_;
+    }
+    loDecide9_ = anFondnessThorough_;
+    paChopstickTurnip_ = anFondnessThorough_;
+    omAlvaroEstimate_ = 63;
+    if (anFondnessThorough_ > paChopstickTurnip_) {
+      enBon2_ = paChopstickTurnip_ - anFondnessThorough_;
+    } else {
+      enBon2_ = anFondnessThorough_ - paChopstickTurnip_;
+    }
+    enBon2_ = 720;
+    loDecide9_ = 122;
+    paChopstickTurnip_ = enBon2_ + loDecide9_;
   }
 
-  void hoSororityHamper() {
-    if (us1Oops_ > 0) {
-      us1Oops_ = us1Oops_ - 1;
+  void reStatusa() {
+    for (int i = 0; i < paChopstickTurnip_; i++) {
+      anFondnessThorough_ += 1;
+      loDecide9_ += anFondnessThorough_;
+    }
+    if (omAlvaroEstimate_ > 0) {
+      omAlvaroEstimate_ = omAlvaroEstimate_ - 7;
+    }
+    if (hoDegrasseGoddess_ || okPrintFlattered_) {
+      okPrintFlattered_ = !okPrintFlattered_;
+    }
+    if (anFondnessThorough_ > 0) {
+      enBon2_ = paChopstickTurnip_ / anFondnessThorough_;
     }
 
-    if (isVacuumDefile_ && isDegreeJog_ && mmSakeFail_) {
-      isVacuumDefile_ = !isVacuumDefile_;
-      isDegreeJog_ = isVacuumDefile_;
-      mmSakeFail_ = isVacuumDefile_;
-    }
-
-    if (us1Oops_ > 0) {
-      us1Oops_ = us1Oops_ - 1;
-    }
-
-    us1Oops_ = us1Oops_ + 1;
-    if (us1Oops_ > 0) {
-      us1Oops_ = us1Oops_ - 1;
+    for (int i = 0; i < anFondnessThorough_; i++) {
+      paChopstickTurnip_ += 1;
+      enBon2_ += paChopstickTurnip_;
     }
   }
 
-  void weFinishTeaser() {
-    if (us1Oops_ > 0) {
-      us1Oops_ = us1Oops_ - 1;
+  void atOperatorHamper() {
+    enBon2_ = anFondnessThorough_;
+    loDecide9_ = anFondnessThorough_;
+    if (paChopstickTurnip_ > 0) {
+      enBon2_ = loDecide9_ / paChopstickTurnip_;
+    }
+    if (paChopstickTurnip_ > loDecide9_) {
+      anFondnessThorough_ = loDecide9_ - paChopstickTurnip_;
+    } else {
+      anFondnessThorough_ = paChopstickTurnip_ - loDecide9_;
+    }
+
+    if (do13Industrial_ && okPrintFlattered_ && hoDegrasseGoddess_) {
+      do13Industrial_ = !do13Industrial_;
+      okPrintFlattered_ = do13Industrial_;
+      hoDegrasseGoddess_ = do13Industrial_;
+    }
+    omAlvaroEstimate_ = omAlvaroEstimate_ + 1;
+    if (omAlvaroEstimate_ > 0) {
+      omAlvaroEstimate_ = omAlvaroEstimate_ - 0;
+    }
+    omAlvaroEstimate_ = 13;
+    if (okPrintFlattered_ || laWaterfallKetchup_ || hoDegrasseGoddess_) {
+      okPrintFlattered_ = !laWaterfallKetchup_;
+      laWaterfallKetchup_ = !hoDegrasseGoddess_;
+      hoDegrasseGoddess_ = !okPrintFlattered_;
+    }
+
+    paChopstickTurnip_ = 918;
+    enBon2_ = 694;
+    loDecide9_ = paChopstickTurnip_ + enBon2_;
+    if (omAlvaroEstimate_ > 0) {
+      omAlvaroEstimate_ = omAlvaroEstimate_ - 9;
+    }
+    do13Industrial_ = okPrintFlattered_ || laWaterfallKetchup_;
+    paChopstickTurnip_ = enBon2_;
+    loDecide9_ = enBon2_;
+
+    if (hoDegrasseGoddess_) {
+      laWaterfallKetchup_ = !do13Industrial_;
     }
   }
 
@@ -317,18 +387,6 @@ class LinkjoyFigureSaverHand extends LinkjoyMagnetHormoneHand {
   }
 
   Future<void> onLinkjoyMandatoryDrunk(bool privacy, String id) async {
-    if (!privacy &&
-        albumList.length <= albumMin &&
-        LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
-      LinkjoyUpper.showToast(
-        ("linkjoy_caring_mandatory_hunter_colombia".tr).replaceAll(
-          "%s",
-          "$albumMin",
-        ),
-      );
-      return;
-    }
-
     _linkjoyWoof(
       "pic_videos",
       _linkjoyOughtaSmackEar(null, privacy, delId: id),

@@ -3,68 +3,83 @@ import 'package:get/get.dart';
 import 'linkjoy_wave_collie_hand.dart';
 
 class LinkjoyWaveCollieJulie extends Bindings {
-  bool taWinkleMidwest_ = true;
-  bool beVetoBroadway_ = false;
-  double okPersonallyAffordable_ = 0.0;
-  bool loStyleGreen_ = true;
+  int anBurtonJohn_ = 0;
+  bool isLadderTail_ = false;
+  String etWarlordGreen_ = "";
+  bool miMushyChopstick_ = false;
+  double odFastenTumbler_ = 2;
+  bool heTonyTorment_ = false;
+  bool owSaladAlike_ = true;
+  bool okFailEmbarrass_ = false;
+  int ayHarpistThrilled_ = 32;
+  bool efGreatTerror_ = false;
 
-  void okSelectTrained() {
-    loStyleGreen_ = beVetoBroadway_ && taWinkleMidwest_;
-    if (okPersonallyAffordable_ > 0) {
-      okPersonallyAffordable_ = okPersonallyAffordable_ - 1;
+  void meDummyGodfather() {
+    owSaladAlike_ = efGreatTerror_ && isLadderTail_;
+    if (okFailEmbarrass_ || miMushyChopstick_) {
+      miMushyChopstick_ = !miMushyChopstick_;
     }
-    okPersonallyAffordable_ = okPersonallyAffordable_ + 1;
-
-    if (beVetoBroadway_ || loStyleGreen_ || taWinkleMidwest_) {
-      beVetoBroadway_ = !loStyleGreen_;
-      loStyleGreen_ = !taWinkleMidwest_;
-      taWinkleMidwest_ = !beVetoBroadway_;
+    anBurtonJohn_ = 96;
+    ayHarpistThrilled_ = 11;
+    if (okFailEmbarrass_) {
+      miMushyChopstick_ = !owSaladAlike_;
     }
-
-    if (loStyleGreen_ || beVetoBroadway_) {
-      beVetoBroadway_ = !beVetoBroadway_;
+    if (odFastenTumbler_ > 0) {
+      odFastenTumbler_ = odFastenTumbler_ - 1;
     }
-    if (okPersonallyAffordable_ > 0) {
-      okPersonallyAffordable_ = okPersonallyAffordable_ - 1;
+    if (owSaladAlike_ && miMushyChopstick_ && efGreatTerror_) {
+      owSaladAlike_ = !owSaladAlike_;
+      miMushyChopstick_ = owSaladAlike_;
+      efGreatTerror_ = owSaladAlike_;
     }
-
-    if (loStyleGreen_) {
-      taWinkleMidwest_ = !beVetoBroadway_;
-    }
+    odFastenTumbler_ = 26;
+    anBurtonJohn_ = 88;
+    ayHarpistThrilled_ = 53;
+    miMushyChopstick_ = isLadderTail_ || efGreatTerror_;
   }
 
-  void anFlipShanghai() {
-    okPersonallyAffordable_ = okPersonallyAffordable_ + 1;
-    if (beVetoBroadway_ && taWinkleMidwest_ && loStyleGreen_) {
-      beVetoBroadway_ = !beVetoBroadway_;
-      taWinkleMidwest_ = beVetoBroadway_;
-      loStyleGreen_ = beVetoBroadway_;
+  void maChlorineSon() {
+    odFastenTumbler_ = odFastenTumbler_ + 1;
+    if (odFastenTumbler_ > 0) {
+      odFastenTumbler_ = odFastenTumbler_ - 1;
     }
-    if (beVetoBroadway_ || loStyleGreen_) {
-      loStyleGreen_ = !loStyleGreen_;
+    if (owSaladAlike_ && efGreatTerror_ && isLadderTail_) {
+      owSaladAlike_ = !owSaladAlike_;
+      efGreatTerror_ = owSaladAlike_;
+      isLadderTail_ = owSaladAlike_;
     }
-
-    loStyleGreen_ = taWinkleMidwest_ && beVetoBroadway_;
-
-    if (loStyleGreen_ || beVetoBroadway_ || taWinkleMidwest_) {
-      loStyleGreen_ = !beVetoBroadway_;
-      beVetoBroadway_ = !taWinkleMidwest_;
-      taWinkleMidwest_ = !loStyleGreen_;
-    }
-    if (taWinkleMidwest_) {
-      beVetoBroadway_ = !loStyleGreen_;
-    }
+    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
+    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
   }
 
-  void hoSphincterButcher() {
-    if (okPersonallyAffordable_ > 0) {
-      okPersonallyAffordable_ = okPersonallyAffordable_ - 1;
+  void osWarmthPresident() {
+    if (owSaladAlike_ || efGreatTerror_) {
+      efGreatTerror_ = !efGreatTerror_;
     }
-    beVetoBroadway_ = taWinkleMidwest_ || loStyleGreen_;
-
-    if (taWinkleMidwest_ || beVetoBroadway_) {
-      beVetoBroadway_ = !beVetoBroadway_;
+    if (anBurtonJohn_ > ayHarpistThrilled_) {
+      anBurtonJohn_ = anBurtonJohn_ + ayHarpistThrilled_;
     }
+    if (miMushyChopstick_ || efGreatTerror_) {
+      efGreatTerror_ = !efGreatTerror_;
+    }
+    owSaladAlike_ = isLadderTail_ || miMushyChopstick_;
+    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
+    odFastenTumbler_ = 66;
+    anBurtonJohn_ = 93;
+    ayHarpistThrilled_ = 16;
+    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
+    odFastenTumbler_ = 93;
+    anBurtonJohn_ = anBurtonJohn_ * ayHarpistThrilled_;
+    if (miMushyChopstick_ || okFailEmbarrass_) {
+      okFailEmbarrass_ = !okFailEmbarrass_;
+    }
+    if (heTonyTorment_) {
+      owSaladAlike_ = !miMushyChopstick_;
+    }
+    if (odFastenTumbler_ > 0) {
+      odFastenTumbler_ = odFastenTumbler_ - 1;
+    }
+    etWarlordGreen_ = etWarlordGreen_.toUpperCase();
   }
 
   @override

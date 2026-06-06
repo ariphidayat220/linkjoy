@@ -227,21 +227,6 @@ abstract class LinkjoyFridgeLightbulb {
   static bool linkjoyFatFoolishlyGeneratorScratcherFlammable(
     int requiredLevel,
   ) {
-    if (!LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
-      return false;
-    }
-
-    if (LINKJOY.linkjoyUnbornDeposit!.level < requiredLevel) {
-      LinkjoyUISocially.linkjoyNumb(
-        "linkjoy_caring_foolishly_generator_cell".tr.replaceAll(
-          "@level",
-          "$requiredLevel",
-        ),
-        confirmText: "linkjoy_caring_ok".tr,
-        iconData: Icons.block_rounded,
-      );
-      return true;
-    }
     return false;
   }
 
@@ -1116,12 +1101,16 @@ abstract class LinkjoyFridgeLightbulb {
     }
   }
 
-  static Widget linkjoyPeephole({bool intent = true, Color? color}) {
+  static Widget linkjoyPeephole({
+    bool intent = true,
+    Color? color,
+    double height = 1,
+  }) {
     double intentVal = intent ? LinkjoyGarage.s12 : 0;
     return Divider(
-      height: 1,
+      height: height,
       thickness: 1,
-      color: color,
+      color: color ?? LinkjoyAve.borderLight,
       indent: intentVal,
       endIndent: intentVal,
     );
@@ -1242,13 +1231,10 @@ abstract class LinkjoyFridgeLightbulb {
     Color color = Colors.white,
     double? size,
   }) {
-    return Transform.rotate(
-      angle: LinkjoyIOSister.isRTL(Get.context) ? pi : 0,
-      child: Icon(
-        iconData,
-        color: color,
-        size: size ?? LinkjoyBookshelf.lg.size() * 0.5,
-      ),
+    return Icon(
+      iconData,
+      color: color,
+      size: size ?? LinkjoyBookshelf.lg.size() * 0.5,
     );
   }
 

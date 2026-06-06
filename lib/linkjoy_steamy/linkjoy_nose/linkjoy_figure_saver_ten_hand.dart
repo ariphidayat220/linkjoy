@@ -8,53 +8,125 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class LinkjoyFigureSaverTenHand extends LinkjoyMagnetHormoneHand {
-  int omChickenNarrate_ = 0;
-  bool maJellyLap_ = false;
-  double okSteamyAssert_ = 0.0;
-  bool beGangsterAye_ = false;
-  bool reAtSome_ = false;
-  double moDeliverConvict_ = 29;
+  bool opAppHammer_ = true;
+  double enBoobWhatcha_ = 0.0;
+  double weHairlessPond_ = 0.0;
+  bool esH3Bathroom_ = true;
+  int ayZeldaAssert_ = 45;
+  String elPilotDirect_ = "";
+  bool amVamosJones_ = true;
+  bool reUpsideJones_ = true;
+  String etJones4_ = "";
 
-  void owDwarfVicious() {
-    okSteamyAssert_ = 13;
-    moDeliverConvict_ = 59;
-    okSteamyAssert_ = okSteamyAssert_ + moDeliverConvict_;
-    if (okSteamyAssert_ > moDeliverConvict_) {
-      okSteamyAssert_ = okSteamyAssert_ - moDeliverConvict_;
+  void laSkintightBrilliant() {
+    enBoobWhatcha_ = 13;
+    weHairlessPond_ = 69;
+    if (enBoobWhatcha_ > weHairlessPond_) {
+      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+    }
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+    if (opAppHammer_ && esH3Bathroom_ && amVamosJones_) {
+      opAppHammer_ = !opAppHammer_;
+      esH3Bathroom_ = opAppHammer_;
+      amVamosJones_ = opAppHammer_;
+    }
+    if (enBoobWhatcha_ > weHairlessPond_) {
+      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
     }
   }
 
-  void soArousalTen() {}
-  void odUnclogVariety() {
-    if (omChickenNarrate_ > 0) {
-      omChickenNarrate_ = omChickenNarrate_ - 5;
+  void rePlayMouse() {
+    if (ayZeldaAssert_ > 0) {
+      ayZeldaAssert_ = ayZeldaAssert_ - 9;
     }
-    if (omChickenNarrate_ > 0) {
-      omChickenNarrate_ = omChickenNarrate_ - 0;
+    if (esH3Bathroom_ || amVamosJones_ || reUpsideJones_) {
+      esH3Bathroom_ = !amVamosJones_;
+      amVamosJones_ = !reUpsideJones_;
+      reUpsideJones_ = !esH3Bathroom_;
     }
-    if (okSteamyAssert_ > moDeliverConvict_) {
-      okSteamyAssert_ = okSteamyAssert_ - moDeliverConvict_;
+    elPilotDirect_ = elPilotDirect_ + etJones4_;
+    etJones4_ = elPilotDirect_;
+    if (reUpsideJones_ || amVamosJones_ || esH3Bathroom_) {
+      reUpsideJones_ = !amVamosJones_;
+      amVamosJones_ = !esH3Bathroom_;
+      esH3Bathroom_ = !reUpsideJones_;
     }
-    beGangsterAye_ = reAtSome_ || maJellyLap_;
-    if (beGangsterAye_ || maJellyLap_) {
-      maJellyLap_ = !maJellyLap_;
+    etJones4_ = elPilotDirect_.toUpperCase() + etJones4_;
+    amVamosJones_ = esH3Bathroom_ || reUpsideJones_;
+    ayZeldaAssert_ = ayZeldaAssert_ + 1;
+    ayZeldaAssert_ = 9;
+    if (esH3Bathroom_ || opAppHammer_) {
+      opAppHammer_ = !opAppHammer_;
     }
-    if (maJellyLap_ && beGangsterAye_) {
-      reAtSome_ = !reAtSome_;
-    }
-    omChickenNarrate_ = omChickenNarrate_ + 1;
-    if (maJellyLap_ || beGangsterAye_ || reAtSome_) {
-      maJellyLap_ = !beGangsterAye_;
-      beGangsterAye_ = !reAtSome_;
-      reAtSome_ = !maJellyLap_;
-    }
+    ayZeldaAssert_ = ayZeldaAssert_ + 1;
+    enBoobWhatcha_ = enBoobWhatcha_ + weHairlessPond_;
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+  }
 
-    omChickenNarrate_ = omChickenNarrate_ + 1;
+  void ofJones3() {
+    etJones4_ = elPilotDirect_.toUpperCase() + etJones4_;
+    etJones4_ = elPilotDirect_.toUpperCase() + etJones4_;
+    enBoobWhatcha_ = 97;
+    weHairlessPond_ = 15;
+    if (enBoobWhatcha_ > weHairlessPond_) {
+      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+    }
+    if (enBoobWhatcha_ > weHairlessPond_) {
+      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+    }
+    elPilotDirect_ = elPilotDirect_ + etJones4_;
+    etJones4_ = elPilotDirect_;
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+    enBoobWhatcha_ = enBoobWhatcha_ + weHairlessPond_;
+    if (enBoobWhatcha_ > weHairlessPond_) {
+      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+    }
+    if (enBoobWhatcha_ > weHairlessPond_) {
+      enBoobWhatcha_ = enBoobWhatcha_ - weHairlessPond_;
+    }
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+    if (opAppHammer_ || esH3Bathroom_ || amVamosJones_) {
+      opAppHammer_ = !esH3Bathroom_;
+      esH3Bathroom_ = !amVamosJones_;
+      amVamosJones_ = !opAppHammer_;
+    }
+    enBoobWhatcha_ = enBoobWhatcha_ + weHairlessPond_;
+    if (ayZeldaAssert_ > 0) {
+      ayZeldaAssert_ = ayZeldaAssert_ - 0;
+    }
+    enBoobWhatcha_ = 76;
+    weHairlessPond_ = 74;
+  }
 
-    maJellyLap_ = beGangsterAye_ || reAtSome_;
-    maJellyLap_ = beGangsterAye_ && reAtSome_;
-
-    omChickenNarrate_ = 35;
+  void ohPlayHair() {
+    elPilotDirect_ = elPilotDirect_ + etJones4_;
+    etJones4_ = elPilotDirect_;
+    if (ayZeldaAssert_ > 0) {
+      ayZeldaAssert_ = ayZeldaAssert_ - 7;
+    }
+    opAppHammer_ = esH3Bathroom_ || reUpsideJones_;
+    if (esH3Bathroom_ || amVamosJones_ || reUpsideJones_) {
+      esH3Bathroom_ = !amVamosJones_;
+      amVamosJones_ = !reUpsideJones_;
+      reUpsideJones_ = !esH3Bathroom_;
+    }
+    enBoobWhatcha_ = 72;
+    weHairlessPond_ = 78;
+    esH3Bathroom_ = amVamosJones_ || opAppHammer_;
+    elPilotDirect_ = etJones4_ + elPilotDirect_;
+    ayZeldaAssert_ = ayZeldaAssert_ + 1;
+    elPilotDirect_ = elPilotDirect_ + etJones4_;
+    etJones4_ = elPilotDirect_;
+    if (opAppHammer_ && esH3Bathroom_ && reUpsideJones_) {
+      opAppHammer_ = !opAppHammer_;
+      esH3Bathroom_ = opAppHammer_;
+      reUpsideJones_ = opAppHammer_;
+    }
+    if (amVamosJones_ && reUpsideJones_) {
+      opAppHammer_ = !opAppHammer_;
+    }
   }
 
   static const String linkjoy_seasick = "linkjoy_seasick";

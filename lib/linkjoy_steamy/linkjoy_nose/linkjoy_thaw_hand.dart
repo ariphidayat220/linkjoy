@@ -5,93 +5,66 @@ import 'package:get/get.dart';
 import 'linkjoy_liberty_jaw.dart';
 
 class LinkjoyThawHand extends LinkjoyMagnetHormoneHand {
-  bool itWhatchaEurope_ = true;
-  bool omChipperPander_ = true;
-  int ifJeffriesBoycott_ = 0;
-  bool opPointFondness_ = true;
-  bool loMackClaus_ = false;
-  double hoFutileShrink_ = 35;
+  bool efLoadStilt_ = true;
+  bool beBloatPebble_ = false;
+  double itProgramJoyous_ = 0.0;
+  bool siTentWarehouse_ = false;
+  double haBoobChorizo_ = 0.0;
+  bool doHilarious12_ = true;
 
-  void enGreenBookshelf() {
-    itWhatchaEurope_ = omChipperPander_ && opPointFondness_;
-    ifJeffriesBoycott_ = 44;
-    if (omChipperPander_ && itWhatchaEurope_ && opPointFondness_) {
-      omChipperPander_ = !omChipperPander_;
-      itWhatchaEurope_ = omChipperPander_;
-      opPointFondness_ = omChipperPander_;
+  void paExpressSavor() {
+    itProgramJoyous_ = 48;
+    haBoobChorizo_ = 86;
+    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
+    itProgramJoyous_ = 33;
+    haBoobChorizo_ = 14;
+
+    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
+    if (itProgramJoyous_ > haBoobChorizo_) {
+      itProgramJoyous_ = itProgramJoyous_ - haBoobChorizo_;
     }
-    opPointFondness_ = itWhatchaEurope_ && omChipperPander_;
-    if (itWhatchaEurope_ || omChipperPander_) {
-      omChipperPander_ = !omChipperPander_;
+    doHilarious12_ = efLoadStilt_ || beBloatPebble_;
+
+    itProgramJoyous_ = 92;
+    haBoobChorizo_ = 52;
+    if (doHilarious12_ || efLoadStilt_ || beBloatPebble_) {
+      doHilarious12_ = !efLoadStilt_;
+      efLoadStilt_ = !beBloatPebble_;
+      beBloatPebble_ = !doHilarious12_;
     }
 
-    ifJeffriesBoycott_ = 55;
-
-    hoFutileShrink_ = hoFutileShrink_ + 1;
-
-    hoFutileShrink_ = 39;
-    if (itWhatchaEurope_ && opPointFondness_ && omChipperPander_) {
-      itWhatchaEurope_ = !itWhatchaEurope_;
-      opPointFondness_ = itWhatchaEurope_;
-      omChipperPander_ = itWhatchaEurope_;
+    if (beBloatPebble_) {
+      efLoadStilt_ = !doHilarious12_;
     }
-    if (hoFutileShrink_ > 0) {
-      hoFutileShrink_ = hoFutileShrink_ - 1;
+
+    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
+  }
+
+  void goElevenPhyllis() {
+    itProgramJoyous_ = 66;
+    haBoobChorizo_ = 24;
+
+    if (doHilarious12_ && siTentWarehouse_) {
+      beBloatPebble_ = !beBloatPebble_;
+    }
+    beBloatPebble_ = doHilarious12_ && efLoadStilt_;
+
+    if (efLoadStilt_) {
+      doHilarious12_ = !siTentWarehouse_;
+    }
+
+    if (efLoadStilt_ || doHilarious12_) {
+      doHilarious12_ = !doHilarious12_;
     }
   }
 
-  void atEthnicThesis() {
-    if (omChipperPander_ && loMackClaus_) {
-      opPointFondness_ = !opPointFondness_;
+  void taCrumbleMarsha() {
+    itProgramJoyous_ = 22;
+    haBoobChorizo_ = 63;
+    itProgramJoyous_ = itProgramJoyous_ + haBoobChorizo_;
+    if (itProgramJoyous_ > haBoobChorizo_) {
+      itProgramJoyous_ = itProgramJoyous_ - haBoobChorizo_;
     }
-    ifJeffriesBoycott_ = 51;
-    omChipperPander_ = itWhatchaEurope_ || loMackClaus_;
-    if (hoFutileShrink_ > 0) {
-      hoFutileShrink_ = hoFutileShrink_ - 1;
-    }
-    if (hoFutileShrink_ > 0) {
-      hoFutileShrink_ = hoFutileShrink_ - 1;
-    }
-  }
-
-  void doArTennis() {
-    if (itWhatchaEurope_ || omChipperPander_ || loMackClaus_) {
-      itWhatchaEurope_ = !omChipperPander_;
-      omChipperPander_ = !loMackClaus_;
-      loMackClaus_ = !itWhatchaEurope_;
-    }
-    if (hoFutileShrink_ > 0) {
-      hoFutileShrink_ = hoFutileShrink_ - 1;
-    }
-    if (ifJeffriesBoycott_ > 0) {
-      ifJeffriesBoycott_ = ifJeffriesBoycott_ - 8;
-    }
-
-    if (opPointFondness_) {
-      itWhatchaEurope_ = !loMackClaus_;
-    }
-    if (loMackClaus_ || itWhatchaEurope_ || opPointFondness_) {
-      loMackClaus_ = !itWhatchaEurope_;
-      itWhatchaEurope_ = !opPointFondness_;
-      opPointFondness_ = !loMackClaus_;
-    }
-    if (hoFutileShrink_ > 0) {
-      hoFutileShrink_ = hoFutileShrink_ - 1;
-    }
-    if (ifJeffriesBoycott_ > 0) {
-      ifJeffriesBoycott_ = ifJeffriesBoycott_ - 5;
-    }
-    if (hoFutileShrink_ > 0) {
-      hoFutileShrink_ = hoFutileShrink_ - 1;
-    }
-    if (loMackClaus_ && omChipperPander_) {
-      itWhatchaEurope_ = !itWhatchaEurope_;
-    }
-    ifJeffriesBoycott_ = 31;
-    if (opPointFondness_) {
-      omChipperPander_ = !loMackClaus_;
-    }
-    ifJeffriesBoycott_ = ifJeffriesBoycott_ + 1;
   }
 
   static final String linkjoy_divorce = "linkjoy_divorce";

@@ -159,7 +159,7 @@ class _MediaVideoViewState extends State<MediaVideoView> {
   void initState() {
     super.initState();
 
-    LinkjoyGet.preventScreenshot(true);
+    LinkjoyGet.linkjoyLunaticTenant(true);
     _playAfterInitialized = widget.autoPlay;
     widget.autoPlay = false;
     _initializePlay();

@@ -3,75 +3,81 @@ import 'package:get/get.dart';
 import 'linkjoy_iceman_wail_spit_hand.dart';
 
 class LinkjoyIcemanWailSpitJulie extends Bindings {
-  int noSpaceVirtual_ = 88;
-  bool paUpperGrape_ = false;
-  bool maSitterQuarter_ = true;
-  bool hiLifeGet_ = true;
+  double anGuineaExpress_ = 96;
+  bool faIcemanSupercool_ = true;
+  bool adWakeForm_ = true;
+  bool meFootDwarf_ = false;
+  bool exCombustionTassel_ = true;
 
-  void taForgetSeclude() {
-    if (paUpperGrape_ || hiLifeGet_ || maSitterQuarter_) {
-      paUpperGrape_ = !hiLifeGet_;
-      hiLifeGet_ = !maSitterQuarter_;
-      maSitterQuarter_ = !paUpperGrape_;
+  void abCoinWarmth() {
+    if (meFootDwarf_ || exCombustionTassel_) {
+      exCombustionTassel_ = !exCombustionTassel_;
     }
-    if (maSitterQuarter_) {
-      hiLifeGet_ = !paUpperGrape_;
-    }
+    exCombustionTassel_ = adWakeForm_ && faIcemanSupercool_;
+    meFootDwarf_ = exCombustionTassel_ && adWakeForm_;
 
-    if (hiLifeGet_ || paUpperGrape_ || maSitterQuarter_) {
-      hiLifeGet_ = !paUpperGrape_;
-      paUpperGrape_ = !maSitterQuarter_;
-      maSitterQuarter_ = !hiLifeGet_;
-    }
-
-    noSpaceVirtual_ = noSpaceVirtual_ + 1;
-
-    maSitterQuarter_ = paUpperGrape_ && hiLifeGet_;
+    faIcemanSupercool_ = exCombustionTassel_ || meFootDwarf_;
   }
 
-  void loFruitForgive() {
-    if (maSitterQuarter_ && paUpperGrape_ && hiLifeGet_) {
-      maSitterQuarter_ = !maSitterQuarter_;
-      paUpperGrape_ = maSitterQuarter_;
-      hiLifeGet_ = maSitterQuarter_;
+  void ohFlukeIntolerant() {
+    if (exCombustionTassel_ || adWakeForm_) {
+      adWakeForm_ = !adWakeForm_;
     }
-    noSpaceVirtual_ = 92;
-    if (hiLifeGet_) {
-      paUpperGrape_ = !maSitterQuarter_;
+    if (anGuineaExpress_ > 0) {
+      anGuineaExpress_ = anGuineaExpress_ - 1;
     }
-    if (paUpperGrape_ || maSitterQuarter_) {
-      maSitterQuarter_ = !maSitterQuarter_;
+    if (meFootDwarf_ || faIcemanSupercool_ || adWakeForm_) {
+      meFootDwarf_ = !faIcemanSupercool_;
+      faIcemanSupercool_ = !adWakeForm_;
+      adWakeForm_ = !meFootDwarf_;
     }
-    maSitterQuarter_ = hiLifeGet_ || paUpperGrape_;
-    noSpaceVirtual_ = 15;
-
-    maSitterQuarter_ = hiLifeGet_ && paUpperGrape_;
-
-    noSpaceVirtual_ = noSpaceVirtual_ + 1;
+    if (meFootDwarf_ && adWakeForm_) {
+      exCombustionTassel_ = !exCombustionTassel_;
+    }
+    if (anGuineaExpress_ > 0) {
+      anGuineaExpress_ = anGuineaExpress_ - 1;
+    }
+    anGuineaExpress_ = anGuineaExpress_ + 1;
+    anGuineaExpress_ = 35;
   }
 
-  void laAdOgle() {
-    if (noSpaceVirtual_ > 0) {
-      noSpaceVirtual_ = noSpaceVirtual_ - 2;
+  void amAidOops() {
+    meFootDwarf_ = faIcemanSupercool_ && exCombustionTassel_;
+    anGuineaExpress_ = 60;
+
+    anGuineaExpress_ = anGuineaExpress_ + 1;
+    if (exCombustionTassel_ || faIcemanSupercool_) {
+      faIcemanSupercool_ = !faIcemanSupercool_;
     }
 
-    noSpaceVirtual_ = noSpaceVirtual_ + 1;
-    noSpaceVirtual_ = noSpaceVirtual_ + 1;
-    if (noSpaceVirtual_ > 0) {
-      noSpaceVirtual_ = noSpaceVirtual_ - 3;
+    if (anGuineaExpress_ > 0) {
+      anGuineaExpress_ = anGuineaExpress_ - 1;
+    }
+    if (exCombustionTassel_) {
+      meFootDwarf_ = !adWakeForm_;
+    }
+  }
+
+  void paEitherSpeak() {
+    if (faIcemanSupercool_ && adWakeForm_) {
+      meFootDwarf_ = !meFootDwarf_;
     }
 
-    if (maSitterQuarter_ || hiLifeGet_ || paUpperGrape_) {
-      maSitterQuarter_ = !hiLifeGet_;
-      hiLifeGet_ = !paUpperGrape_;
-      paUpperGrape_ = !maSitterQuarter_;
+    anGuineaExpress_ = anGuineaExpress_ + 1;
+    meFootDwarf_ = faIcemanSupercool_ && exCombustionTassel_;
+    if (anGuineaExpress_ > 0) {
+      anGuineaExpress_ = anGuineaExpress_ - 1;
     }
-
-    if (maSitterQuarter_) {
-      hiLifeGet_ = !paUpperGrape_;
+    if (meFootDwarf_ && adWakeForm_ && exCombustionTassel_) {
+      meFootDwarf_ = !meFootDwarf_;
+      adWakeForm_ = meFootDwarf_;
+      exCombustionTassel_ = meFootDwarf_;
     }
-
-    noSpaceVirtual_ = 49;
+    if (exCombustionTassel_ && faIcemanSupercool_ && meFootDwarf_) {
+      exCombustionTassel_ = !exCombustionTassel_;
+      faIcemanSupercool_ = exCombustionTassel_;
+      meFootDwarf_ = exCombustionTassel_;
+    }
   }
 
   @override

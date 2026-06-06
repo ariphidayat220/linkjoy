@@ -16,11 +16,11 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 
 import '../../linkjoy_cattle/linkjoy_ui/linkjoy_finding.dart';
+import '../linkjoy_ui_quieter/linkjoy_magnet_division.dart';
 
-class LinkjoyAllenTeaserAnimalDivision extends StatelessWidget {
+class LinkjoyAllenTeaserAnimalDivision
+    extends LinkjoyMagnetDivision<LinkjoyAllenTeaserAnimalHand> {
   LinkjoyAllenTeaserAnimalDivision({super.key});
-
-  final logic = Get.find<LinkjoyAllenTeaserAnimalHand>();
 
   @override
   Widget build(BuildContext context) {
@@ -57,7 +57,7 @@ class LinkjoyAllenTeaserAnimalDivision extends StatelessWidget {
               Positioned(
                 left: 0,
                 right: 0,
-                top: LinkjoyGarage.s56,
+                top: LinkjoyGarage.s64,
                 bottom: 0,
                 child: SingleChildScrollView(
                   child: Column(
@@ -172,14 +172,14 @@ class LinkjoyAllenTeaserAnimalDivision extends StatelessWidget {
         horizontal: LinkjoyGarage.s16,
         vertical: LinkjoyGarage.s10,
       ),
-      height: LinkjoyGarage.s56,
+      height: LinkjoyGarage.s64,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Text(
-            "${"linkjoy_caring_teaser".tr}:",
-            style: LinkjoyMarshaTriplet.bodyBold,
+            "${"linkjoy_caring_allen_teaser".tr}:",
+            style: LinkjoyMarshaTriplet.bodyTitle,
           ),
           LinkjoyFeynman.h4,
           LinkjoyFridgeLightbulb.linkjoyChipmunk(LinkjoyDiscard.iconSmall),

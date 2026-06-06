@@ -4,6 +4,7 @@ import 'dart:io';
 import 'dart:math';
 
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_young_lap.dart';
+import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_jog.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_dance/linkjoy_peanuts_sorority.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_divorced.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_steamy_clam_oily.dart';
@@ -26,21 +27,13 @@ class LinkjoyPeanuts {
   );
   static const linkjoy_mole_cab_patent = 8;
 
-  late String signKey;
-  late String? sessionId;
   late String? api;
   late Duration timeout;
   late String userAgent;
 
   LinkjoyArmpitSmear<int, GetConnect> pool = LinkjoyArmpitSmear(3);
 
-  LinkjoyPeanuts(
-    this.signKey,
-    this.sessionId,
-    this.api,
-    this.userAgent,
-    this.timeout,
-  );
+  LinkjoyPeanuts(this.api, this.userAgent, this.timeout);
 
   GetConnect _connect(Duration? timeout) {
     timeout ??= this.timeout;
@@ -73,13 +66,11 @@ class LinkjoyPeanuts {
   }
 
   factory LinkjoyPeanuts.create(
-    String signKey,
-    String? sessionId,
     String api,
     String userAgent, {
     Duration timeout = const Duration(seconds: linkjoy_mole_cab_patent),
   }) {
-    return LinkjoyPeanuts(signKey, sessionId, api, userAgent, timeout);
+    return LinkjoyPeanuts(api, userAgent, timeout);
   }
 
   Future<bool> submit(
@@ -113,6 +104,7 @@ class LinkjoyPeanuts {
     bool showLoadingUI = false,
     bool autoToastOnError = false,
     Duration? timeout,
+    bool validSession = false,
   }) async {
     return _rest<R>(
       apiId,
@@ -407,6 +399,12 @@ class LinkjoyPeanuts {
   Map<String, dynamic> _sign(int apiId, Map<String, dynamic>? params) {
     Map<String, dynamic> form = {};
 
+    LinkjoyJog? linkjoyJog = LINKJOY.linkjoyJog;
+    String signKey = linkjoyJog == null
+        ? LinkjoyDivorced.linkjoyMoleQuintoObsessed
+        : linkjoyJog.secret;
+    String? sessionId = linkjoyJog?.session;
+
     if (params != null) {
       form.addAll(params);
     }
@@ -583,10 +581,12 @@ class LinkjoyPeanuts {
   }
 
   void dispose() {
-    var tmp = pool.clear();
-    for (var conn in tmp.values) {
-      conn.dispose();
-    }
+    Future.delayed(const Duration(seconds: linkjoy_mole_cab_patent * 2), () {
+      var tmp = pool.clear();
+      for (var conn in tmp.values) {
+        conn.dispose();
+      }
+    });
   }
 
   Future<LinkjoyPeanutsSorority?> _socket(
@@ -607,7 +607,9 @@ class LinkjoyPeanuts {
 
       HttpRsp? rsp = await LINKJOY.socketManager.sendWithReturn(
         req,
-        timeoutMillis: timeout == null ? 10000 : timeout.inMilliseconds,
+        timeoutMillis: timeout == null
+            ? linkjoy_mole_cab_patent * 1000
+            : timeout.inMilliseconds,
         showLoadingUI: true,
       );
       if (rsp == null) {

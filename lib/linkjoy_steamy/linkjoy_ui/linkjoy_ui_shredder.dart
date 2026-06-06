@@ -53,10 +53,15 @@ class LinkjoyUIShredder extends LinkjoyAnimal {
   static Future<void> linkjoyMagnetShredder(
     List<Widget> children, {
     EdgeInsetsGeometry? maskPadding,
+    RouteSettings? settings,
   }) {
     LinkjoySteamyClamOily.linkjoyMineAnimal("linkjoyMarketingMagnetShredder");
 
-    return _linkjoyMarketingMagnetShredder(children, maskPadding: maskPadding);
+    return _linkjoyMarketingMagnetShredder(
+      children,
+      maskPadding: maskPadding,
+      settings: settings,
+    );
   }
 
   static Future<LinkjoyFondnessGrad?> linkjoyGradStubbornShredder(

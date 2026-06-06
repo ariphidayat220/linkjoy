@@ -8,7 +8,6 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_beating/linkjoy_fridge_lightbulb.
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui/linkjoy_division_ui.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui/linkjoy_ui_socially.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_fasten.dart';
-import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_fasten_industrial.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_division_agency.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_destine_sister.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_gnome_sister.dart';
@@ -82,7 +81,48 @@ class LinkjoyWaveCollieDivision
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text("linkjoy_caring_tools_aye".tr, style: LinkjoyMarshaTriplet.body),
+          Container(
+            decoration: LinkjoyAve.surfaceDecoration.copyWith(
+              color: Colors.black12,
+            ),
+            padding: LinkjoyGarage.edgeH12V8,
+            child: Column(
+              children: [
+                Center(
+                  child: Text(
+                    'linkjoy_caring_form_belly_wave_brochure'.tr,
+                    style: LinkjoyMarshaTriplet.subtitle,
+                  ),
+                ),
+                LinkjoyFeynman.v10,
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  mainAxisSize: MainAxisSize.max,
+                  children: [
+                    LinkjoyFridgeLightbulb.linkjoyChipmunk(
+                      LinkjoyDiscard.iconSmall,
+                    ),
+                    LinkjoyFeynman.h6,
+                    Text(
+                      "${logic.totalRewardCoins} ${'linkjoy_caring_incense'.tr}",
+                      style: LinkjoyMarshaTriplet.captionBold,
+                    ),
+                    if (logic.totalRewardCards > 0) ...[
+                      LinkjoyFeynman.h16,
+                      Icon(Icons.style, color: Colors.greenAccent, size: 18.w),
+                      LinkjoyFeynman.h6,
+                      Text(
+                        "${logic.totalRewardCards} ${'linkjoy_caring_cern'.tr}",
+                        style: LinkjoyMarshaTriplet.captionBold,
+                      ),
+                    ],
+                  ],
+                ),
+              ],
+            ),
+          ),
+          LinkjoyFeynman.v10,
+
           LinkjoyFeynman.v10,
 
           Row(
@@ -90,18 +130,12 @@ class LinkjoyWaveCollieDivision
             children: [
               Text(
                 "${logic.totalCompleteTask}/${logic.totalTasks}",
-                style: LinkjoyMarshaTriplet.title.copyWith(
-                  fontSize: 36.sp,
-                  color: LinkjoyAve.textPrimary,
-                  height: 1,
-                ),
+                style: LinkjoyMarshaTriplet.bodyBold,
               ),
               LinkjoyFeynman.h8,
               Text(
-                'linkjoy_caring_badge'.tr,
-                style: LinkjoyMarshaTriplet.body.copyWith(
-                  color: LinkjoyAve.textSecondary,
-                ),
+                "linkjoy_caring_tools_aye".tr,
+                style: LinkjoyMarshaTriplet.bodySecondary,
               ),
             ],
           ),
@@ -110,44 +144,6 @@ class LinkjoyWaveCollieDivision
           LinkjoyFridgeLightbulb.linkjoyAye(
             Get.width - LinkjoyGarage.s12 * 2 - LinkjoyGarage.s20 * 2,
             logic.totalCompleteTask / logic.totalTasks,
-          ),
-
-          LinkjoyFeynman.v16,
-          Row(
-            children: [
-              Text(
-                'linkjoy_caring_form_belly_wave_brochure'.tr,
-                style: LinkjoyMarshaTriplet.caption.copyWith(
-                  color: LinkjoyAve.white.withValues(alpha: 0.8),
-                ),
-              ),
-              const Spacer(),
-              Row(
-                children: [
-                  LinkjoyFridgeLightbulb.linkjoyChipmunk(
-                    LinkjoyDiscard.iconSmall,
-                  ),
-                  LinkjoyFeynman.h6,
-                  Text(
-                    "${logic.totalRewardCoins} ${'linkjoy_caring_incense'.tr}",
-                    style: LinkjoyMarshaTriplet.captionBold,
-                  ),
-                  if (logic.totalRewardCards > 0) ...[
-                    LinkjoyFeynman.h16,
-                    LinkjoyFastenIndustrial.asset(
-                      "linkjoy_toe_decide_convict",
-                      width: LinkjoyDiscard.iconSmall,
-                      height: LinkjoyDiscard.iconSmall,
-                    ),
-                    LinkjoyFeynman.h6,
-                    Text(
-                      "${logic.totalRewardCards} ${'linkjoy_caring_cern'.tr}",
-                      style: LinkjoyMarshaTriplet.captionBold,
-                    ),
-                  ],
-                ],
-              ),
-            ],
           ),
         ],
       ),

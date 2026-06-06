@@ -3,83 +3,95 @@ import 'package:get/get.dart';
 import 'linkjoy_unborn_generator_hand.dart';
 
 class LinkjoyUnbornGeneratorJulie extends Bindings {
-  bool idPromptJog_ = true;
-  bool meByDuel_ = false;
-  bool ahHormoneAncestor_ = false;
-  int elPhillipsChipper_ = 0;
+  bool myDecideProton_ = true;
+  double bySorority10_ = 0.0;
+  double ahHammerMallet_ = 0.0;
+  bool odDataPole_ = true;
+  int opPrincetonCreamy_ = 49;
+  bool atSouffleBaseball_ = true;
+  bool anBoxSteven_ = true;
+  double adEyeMorgan_ = 0.0;
 
-  void ofSitterPost() {
-    if (meByDuel_ || idPromptJog_ || ahHormoneAncestor_) {
-      meByDuel_ = !idPromptJog_;
-      idPromptJog_ = !ahHormoneAncestor_;
-      ahHormoneAncestor_ = !meByDuel_;
-    }
+  void adIncapableDerail() {
+    opPrincetonCreamy_ = 59;
 
-    meByDuel_ = idPromptJog_ || ahHormoneAncestor_;
-
-    elPhillipsChipper_ = elPhillipsChipper_ + 1;
-
-    if (elPhillipsChipper_ > 0) {
-      elPhillipsChipper_ = elPhillipsChipper_ - 9;
-    }
-    idPromptJog_ = meByDuel_ && ahHormoneAncestor_;
-    if (elPhillipsChipper_ > 0) {
-      elPhillipsChipper_ = elPhillipsChipper_ - 7;
-    }
-    elPhillipsChipper_ = 36;
+    opPrincetonCreamy_ = opPrincetonCreamy_ + 1;
+    adEyeMorgan_ = bySorority10_ + ahHammerMallet_;
+    odDataPole_ = anBoxSteven_ || atSouffleBaseball_;
   }
 
-  void orPactFacebook() {
-    idPromptJog_ = ahHormoneAncestor_ && meByDuel_;
-    elPhillipsChipper_ = 64;
-    meByDuel_ = ahHormoneAncestor_ && idPromptJog_;
-    if (meByDuel_ || idPromptJog_) {
-      idPromptJog_ = !idPromptJog_;
+  void meDuoTherapist() {
+    if (atSouffleBaseball_ && odDataPole_) {
+      myDecideProton_ = !myDecideProton_;
+    }
+    ahHammerMallet_ = adEyeMorgan_ - bySorority10_;
+
+    ahHammerMallet_ = bySorority10_ * adEyeMorgan_;
+    bySorority10_ = adEyeMorgan_ - ahHammerMallet_;
+    myDecideProton_ = anBoxSteven_ || atSouffleBaseball_;
+    opPrincetonCreamy_ = opPrincetonCreamy_ + 1;
+    myDecideProton_ = atSouffleBaseball_ && odDataPole_;
+    if (bySorority10_ > 0) {
+      ahHammerMallet_ = adEyeMorgan_ / bySorority10_;
     }
 
-    if (elPhillipsChipper_ > 0) {
-      elPhillipsChipper_ = elPhillipsChipper_ - 0;
+    bySorority10_ = adEyeMorgan_;
+    ahHammerMallet_ = adEyeMorgan_;
+    if (atSouffleBaseball_ || myDecideProton_ || anBoxSteven_) {
+      atSouffleBaseball_ = !myDecideProton_;
+      myDecideProton_ = !anBoxSteven_;
+      anBoxSteven_ = !atSouffleBaseball_;
     }
-
-    if (meByDuel_ && idPromptJog_ && ahHormoneAncestor_) {
-      meByDuel_ = !meByDuel_;
-      idPromptJog_ = meByDuel_;
-      ahHormoneAncestor_ = meByDuel_;
-    }
-    elPhillipsChipper_ = 35;
-
-    elPhillipsChipper_ = elPhillipsChipper_ + 1;
-    idPromptJog_ = ahHormoneAncestor_ && meByDuel_;
-    elPhillipsChipper_ = elPhillipsChipper_ + 1;
+    odDataPole_ = anBoxSteven_ && myDecideProton_;
+    ahHammerMallet_ = 944;
+    bySorority10_ = 981;
+    adEyeMorgan_ = ahHammerMallet_ + bySorority10_;
   }
 
-  void moHailVulnerable() {
-    if (ahHormoneAncestor_) {
-      meByDuel_ = !idPromptJog_;
-    }
-    if (ahHormoneAncestor_ && meByDuel_ && idPromptJog_) {
-      ahHormoneAncestor_ = !ahHormoneAncestor_;
-      meByDuel_ = ahHormoneAncestor_;
-      idPromptJog_ = ahHormoneAncestor_;
-    }
-    elPhillipsChipper_ = elPhillipsChipper_ + 1;
-    ahHormoneAncestor_ = meByDuel_ && idPromptJog_;
-
-    idPromptJog_ = ahHormoneAncestor_ && meByDuel_;
-
-    if (idPromptJog_ && meByDuel_) {
-      ahHormoneAncestor_ = !ahHormoneAncestor_;
+  void ay11Eggs() {
+    if (opPrincetonCreamy_ > 0) {
+      opPrincetonCreamy_ = opPrincetonCreamy_ - 6;
     }
 
-    if (ahHormoneAncestor_ || meByDuel_ || idPromptJog_) {
-      ahHormoneAncestor_ = !meByDuel_;
-      meByDuel_ = !idPromptJog_;
-      idPromptJog_ = !ahHormoneAncestor_;
+    bySorority10_ = ahHammerMallet_ + adEyeMorgan_;
+    anBoxSteven_ = odDataPole_ && atSouffleBaseball_;
+
+    if (anBoxSteven_) {
+      odDataPole_ = !atSouffleBaseball_;
     }
-    meByDuel_ = idPromptJog_ && ahHormoneAncestor_;
-    if (elPhillipsChipper_ > 0) {
-      elPhillipsChipper_ = elPhillipsChipper_ - 3;
+  }
+
+  void siCruelPublic() {
+    opPrincetonCreamy_ = opPrincetonCreamy_ + 1;
+
+    ahHammerMallet_ = bySorority10_;
+    adEyeMorgan_ = bySorority10_;
+    opPrincetonCreamy_ = 88;
+    bySorority10_ = ahHammerMallet_ * adEyeMorgan_;
+    bySorority10_ = ahHammerMallet_ - adEyeMorgan_;
+    atSouffleBaseball_ = myDecideProton_ && odDataPole_;
+    bySorority10_ = 475;
+    ahHammerMallet_ = 56;
+    adEyeMorgan_ = bySorority10_ + ahHammerMallet_;
+
+    adEyeMorgan_ = bySorority10_ + ahHammerMallet_;
+    opPrincetonCreamy_ = opPrincetonCreamy_ + 1;
+    ahHammerMallet_ = 673;
+    bySorority10_ = 89;
+    adEyeMorgan_ = ahHammerMallet_ + bySorority10_;
+    myDecideProton_ = anBoxSteven_ && atSouffleBaseball_;
+    if (opPrincetonCreamy_ > 0) {
+      opPrincetonCreamy_ = opPrincetonCreamy_ - 5;
     }
+    odDataPole_ = myDecideProton_ && atSouffleBaseball_;
+    if (bySorority10_ > ahHammerMallet_) {
+      adEyeMorgan_ = ahHammerMallet_ - bySorority10_;
+    } else {
+      adEyeMorgan_ = bySorority10_ - ahHammerMallet_;
+    }
+    odDataPole_ = myDecideProton_ && atSouffleBaseball_;
+    ahHammerMallet_ = adEyeMorgan_ + bySorority10_;
+    opPrincetonCreamy_ = 6;
   }
 
   @override

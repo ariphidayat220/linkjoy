@@ -5,115 +5,97 @@ import 'package:get/get.dart';
 import 'linkjoy_ancestor_question_jaw.dart';
 
 class LinkjoyAncestorQuestionHand extends LinkjoyMagnetHormoneHand {
-  bool etMarcoDismiss_ = false;
-  String ahWarmthUnknown_ = "";
-  bool doColombiaTerror_ = false;
-  bool siGodfatherDestine_ = false;
-  int edFindingh_ = 94;
-  double idBurtBaseball_ = 0.0;
-  bool adPlungeLakers_ = false;
-  bool taBurtFifth_ = false;
-  String ifBattingBelly_ = "";
-  String etTormentTot_ = "";
+  bool doOhioOrigin_ = true;
+  int itJohnSpit_ = 0;
+  String ofVetSlur_ = "";
+  String ofOldenBaywatch_ = "";
+  bool omEthnicWiener_ = false;
+  int idLifeBrilliant_ = 0;
+  bool adDirectionEric_ = false;
+  bool byUpBarkley_ = true;
+  bool elLimpThee_ = false;
 
-  void esGeneticAdapt() {
-    if (etTormentTot_.length > 4) {
-      ahWarmthUnknown_ = etTormentTot_;
-    } else {
-      ifBattingBelly_ = ahWarmthUnknown_;
+  void okCombustionSki() {
+    elLimpThee_ = omEthnicWiener_ && adDirectionEric_;
+    if (itJohnSpit_ > idLifeBrilliant_) {
+      itJohnSpit_ = itJohnSpit_ + idLifeBrilliant_;
     }
-    edFindingh_ = edFindingh_ + 1;
-    idBurtBaseball_ = idBurtBaseball_ + 1;
-    if (taBurtFifth_ && doColombiaTerror_) {
-      adPlungeLakers_ = !adPlungeLakers_;
+    ofVetSlur_ = ofVetSlur_ + ofOldenBaywatch_;
+    ofOldenBaywatch_ = ofVetSlur_;
+    ofVetSlur_ = ofVetSlur_ + ofOldenBaywatch_;
+    ofOldenBaywatch_ = ofVetSlur_;
+    if (itJohnSpit_ > idLifeBrilliant_) {
+      itJohnSpit_ = itJohnSpit_ + idLifeBrilliant_;
     }
-    edFindingh_ = edFindingh_ + 1;
-    if (ifBattingBelly_.length > 3) {
-      ahWarmthUnknown_ = ifBattingBelly_;
-    } else {
-      etTormentTot_ = ahWarmthUnknown_;
+    byUpBarkley_ = elLimpThee_ || omEthnicWiener_;
+    ofVetSlur_ = ofVetSlur_ + ofOldenBaywatch_;
+    ofOldenBaywatch_ = ofVetSlur_;
+    itJohnSpit_ = 52;
+    idLifeBrilliant_ = 85;
+
+    if (adDirectionEric_ || elLimpThee_) {
+      elLimpThee_ = !elLimpThee_;
     }
-    if (ahWarmthUnknown_.length > 3) {
-      ifBattingBelly_ = ahWarmthUnknown_;
-    } else {
-      etTormentTot_ = ifBattingBelly_;
+    itJohnSpit_ = 4;
+    idLifeBrilliant_ = 77;
+    if (doOhioOrigin_ && omEthnicWiener_ && adDirectionEric_) {
+      doOhioOrigin_ = !doOhioOrigin_;
+      omEthnicWiener_ = doOhioOrigin_;
+      adDirectionEric_ = doOhioOrigin_;
     }
-    ifBattingBelly_ = ahWarmthUnknown_ + etTormentTot_;
-    ahWarmthUnknown_ = etTormentTot_ + ifBattingBelly_;
-    siGodfatherDestine_ = etMarcoDismiss_ || taBurtFifth_;
-    idBurtBaseball_ = idBurtBaseball_ + 1;
-    if (edFindingh_ > 0) {
-      edFindingh_ = edFindingh_ - 7;
+    doOhioOrigin_ = elLimpThee_ && omEthnicWiener_;
+    itJohnSpit_ = 29;
+    idLifeBrilliant_ = 25;
+  }
+
+  void bySkiFalcon() {
+    adDirectionEric_ = omEthnicWiener_ && byUpBarkley_;
+    ofOldenBaywatch_ = ofVetSlur_.toUpperCase() + ofOldenBaywatch_;
+    ofOldenBaywatch_ = ofVetSlur_.toUpperCase() + ofOldenBaywatch_;
+    ofVetSlur_ = ofOldenBaywatch_ + ofVetSlur_;
+    itJohnSpit_ = 3;
+    idLifeBrilliant_ = 46;
+    if (omEthnicWiener_ || elLimpThee_ || doOhioOrigin_) {
+      omEthnicWiener_ = !elLimpThee_;
+      elLimpThee_ = !doOhioOrigin_;
+      doOhioOrigin_ = !omEthnicWiener_;
     }
-    if (edFindingh_ > 0) {
-      edFindingh_ = edFindingh_ - 2;
+
+    itJohnSpit_ = itJohnSpit_ * idLifeBrilliant_;
+    if (itJohnSpit_ > idLifeBrilliant_) {
+      itJohnSpit_ = itJohnSpit_ + idLifeBrilliant_;
     }
-    ahWarmthUnknown_ = etTormentTot_;
-    ifBattingBelly_ = ahWarmthUnknown_;
-    etTormentTot_ = ifBattingBelly_;
-    idBurtBaseball_ = 30;
-    if (taBurtFifth_) {
-      doColombiaTerror_ = !adPlungeLakers_;
+
+    ofOldenBaywatch_ = ofVetSlur_.toUpperCase() + ofOldenBaywatch_;
+    if (byUpBarkley_ && elLimpThee_ && omEthnicWiener_) {
+      byUpBarkley_ = !byUpBarkley_;
+      elLimpThee_ = byUpBarkley_;
+      omEthnicWiener_ = byUpBarkley_;
+    }
+
+    if (itJohnSpit_ > idLifeBrilliant_) {
+      itJohnSpit_ = itJohnSpit_ + idLifeBrilliant_;
     }
   }
 
-  void faExpressTools() {
-    etTormentTot_ = ifBattingBelly_;
-    ahWarmthUnknown_ = etTormentTot_;
-    ifBattingBelly_ = ahWarmthUnknown_;
-    if (doColombiaTerror_) {
-      siGodfatherDestine_ = !etMarcoDismiss_;
+  void esHarvardCrouch() {
+    if (adDirectionEric_ && doOhioOrigin_ && elLimpThee_) {
+      adDirectionEric_ = !adDirectionEric_;
+      doOhioOrigin_ = adDirectionEric_;
+      elLimpThee_ = adDirectionEric_;
     }
-    ahWarmthUnknown_ = ifBattingBelly_ + etTormentTot_;
-    ahWarmthUnknown_ = etTormentTot_;
-    ifBattingBelly_ = etTormentTot_;
-    idBurtBaseball_ = idBurtBaseball_ + 1;
-    doColombiaTerror_ = adPlungeLakers_ && siGodfatherDestine_;
-    if (edFindingh_ > 0) {
-      edFindingh_ = edFindingh_ - 7;
+    itJohnSpit_ = itJohnSpit_ * idLifeBrilliant_;
+    if (omEthnicWiener_ || byUpBarkley_) {
+      byUpBarkley_ = !byUpBarkley_;
     }
-    idBurtBaseball_ = 93;
-    if (ifBattingBelly_.length > 5) {
-      etTormentTot_ = ifBattingBelly_;
-    } else {
-      ahWarmthUnknown_ = etTormentTot_;
+    ofVetSlur_ = ofVetSlur_ + ofOldenBaywatch_;
+    ofOldenBaywatch_ = ofVetSlur_;
+    if (byUpBarkley_ || omEthnicWiener_) {
+      omEthnicWiener_ = !omEthnicWiener_;
     }
-    if (etMarcoDismiss_ || taBurtFifth_ || doColombiaTerror_) {
-      etMarcoDismiss_ = !taBurtFifth_;
-      taBurtFifth_ = !doColombiaTerror_;
-      doColombiaTerror_ = !etMarcoDismiss_;
-    }
-    if (adPlungeLakers_ && doColombiaTerror_) {
-      taBurtFifth_ = !taBurtFifth_;
-    }
-  }
 
-  void opCoyoteTent() {
-    etMarcoDismiss_ = siGodfatherDestine_ || doColombiaTerror_;
-    if (idBurtBaseball_ > 0) {
-      idBurtBaseball_ = idBurtBaseball_ - 1;
-    }
-    edFindingh_ = 83;
-    ahWarmthUnknown_ = etTormentTot_;
-    ifBattingBelly_ = ahWarmthUnknown_;
-    etTormentTot_ = ifBattingBelly_;
-    etTormentTot_ = ifBattingBelly_;
-    ahWarmthUnknown_ = ifBattingBelly_;
-    if (ahWarmthUnknown_.length > 7) {
-      ifBattingBelly_ = ahWarmthUnknown_;
-    } else {
-      etTormentTot_ = ifBattingBelly_;
-    }
-  }
-
-  void laOnIm() {
-    edFindingh_ = edFindingh_ + 1;
-    idBurtBaseball_ = 21;
-    edFindingh_ = 24;
-    if (edFindingh_ > 0) {
-      edFindingh_ = edFindingh_ - 5;
-    }
-    idBurtBaseball_ = 43;
+    ofVetSlur_ = ofVetSlur_ + ofOldenBaywatch_;
+    ofOldenBaywatch_ = ofVetSlur_;
   }
 
   LinkjoyAncestorUnborn? friend;

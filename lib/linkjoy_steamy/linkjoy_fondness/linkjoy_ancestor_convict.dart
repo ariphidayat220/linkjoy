@@ -307,6 +307,14 @@ class LinkjoyAncestorConvict {
     return status.isCallEnd();
   }
 
+  bool useMatchCard() {
+    return useCardType == UseCardType.match.index;
+  }
+
+  bool useVideoCard() {
+    return useCardType == UseCardType.video.index;
+  }
+
   bool isMeCallError() {
     return isMeCalling() &&
         [
@@ -332,10 +340,7 @@ class LinkjoyAncestorConvict {
       return true;
     }
 
-    if (useCardType == UseCardType.video.index && billingStart()) {
-      return true;
-    }
-    if (useCardType == UseCardType.match.index && billingStart()) {
+    if ((useMatchCard() || useVideoCard()) && billingStart()) {
       return true;
     }
     return false;

@@ -2,59 +2,65 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_cocktail_hand.dart';
 import 'package:get/get.dart';
 
 class LinkjoyCocktailJulie extends Bindings {
-  bool mmPatterAssault_ = true;
-  double hiAproposDiscipline_ = 33;
-  bool taLakersShrink_ = true;
-  double taFisherWeb_ = 0.0;
-  String anProbeObsessed_ = "";
-  bool atCrumbleAsset_ = false;
+  bool edGhostElton_ = false;
+  bool owAiBirthday_ = true;
+  bool meButMichelle_ = false;
+  String esLapseImmune_ = "";
+  double itKaleOrigin_ = 0.0;
 
-  void taUpsidePun() {
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
+  void usEnticer() {
+    if (itKaleOrigin_ > 0) {
+      itKaleOrigin_ = itKaleOrigin_ - 1;
+    }
+    itKaleOrigin_ = itKaleOrigin_ + 1;
+    itKaleOrigin_ = itKaleOrigin_ + 1;
+    meButMichelle_ = edGhostElton_ && owAiBirthday_;
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
 
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
-    mmPatterAssault_ = atCrumbleAsset_ && taLakersShrink_;
-    taLakersShrink_ = atCrumbleAsset_ && mmPatterAssault_;
-    atCrumbleAsset_ = taLakersShrink_ && mmPatterAssault_;
-    hiAproposDiscipline_ = 26;
-    taFisherWeb_ = 28;
+    if (edGhostElton_ && owAiBirthday_ && meButMichelle_) {
+      edGhostElton_ = !edGhostElton_;
+      owAiBirthday_ = edGhostElton_;
+      meButMichelle_ = edGhostElton_;
+    }
   }
 
-  void exMeanwhileGil() {
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
-    taLakersShrink_ = mmPatterAssault_ && atCrumbleAsset_;
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
-    hiAproposDiscipline_ = hiAproposDiscipline_ + taFisherWeb_;
-    if (atCrumbleAsset_ || taLakersShrink_) {
-      taLakersShrink_ = !taLakersShrink_;
+  void oxH1Quieter() {
+    itKaleOrigin_ = itKaleOrigin_ + 1;
+    if (edGhostElton_ || meButMichelle_ || owAiBirthday_) {
+      edGhostElton_ = !meButMichelle_;
+      meButMichelle_ = !owAiBirthday_;
+      owAiBirthday_ = !edGhostElton_;
     }
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
+    itKaleOrigin_ = 18;
+    meButMichelle_ = edGhostElton_ && owAiBirthday_;
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
+
+    if (owAiBirthday_ && edGhostElton_) {
+      meButMichelle_ = !meButMichelle_;
+    }
   }
 
-  void haGreyHairless() {
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
-
-    mmPatterAssault_ = taLakersShrink_ && atCrumbleAsset_;
-
-    hiAproposDiscipline_ = 24;
-    taFisherWeb_ = 16;
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
-
-    if (hiAproposDiscipline_ > taFisherWeb_) {
-      hiAproposDiscipline_ = hiAproposDiscipline_ - taFisherWeb_;
+  void adChipmunkBetter() {
+    if (meButMichelle_) {
+      edGhostElton_ = !owAiBirthday_;
     }
 
-    hiAproposDiscipline_ = 97;
-    taFisherWeb_ = 82;
-    hiAproposDiscipline_ = hiAproposDiscipline_ + taFisherWeb_;
-    if (atCrumbleAsset_ || taLakersShrink_ || mmPatterAssault_) {
-      atCrumbleAsset_ = !taLakersShrink_;
-      taLakersShrink_ = !mmPatterAssault_;
-      mmPatterAssault_ = !atCrumbleAsset_;
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
+
+    if (meButMichelle_ && edGhostElton_ && owAiBirthday_) {
+      meButMichelle_ = !meButMichelle_;
+      edGhostElton_ = meButMichelle_;
+      owAiBirthday_ = meButMichelle_;
     }
-    anProbeObsessed_ = anProbeObsessed_.toUpperCase();
-    hiAproposDiscipline_ = 49;
-    taFisherWeb_ = 1;
+
+    esLapseImmune_ = esLapseImmune_.toUpperCase();
+    if (itKaleOrigin_ > 0) {
+      itKaleOrigin_ = itKaleOrigin_ - 1;
+    }
+    itKaleOrigin_ = itKaleOrigin_ + 1;
   }
 
   @override

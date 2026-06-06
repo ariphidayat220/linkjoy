@@ -12,92 +12,84 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_gnome_sister.dart'
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyChipmunkFailHand extends LinkjoyMagnetHormoneHand {
-  int asAmongTamp_ = 62;
-  bool noPinocchioGravity_ = true;
-  bool myMissileMamma_ = true;
-  bool exHorsH2_ = true;
-  int osTherapistDumbass_ = 97;
-  String enUnitBoston_ = "";
-  bool odTentBookshelf_ = true;
-  String inChauffeurAi_ = "";
+  bool owOkInvoice_ = false;
+  bool siJohnIn_ = true;
+  bool etLoadCabinet_ = false;
+  int asTerrorBoston_ = 0;
 
-  void ohVowSome() {
-    if (asAmongTamp_ > osTherapistDumbass_) {
-      asAmongTamp_ = asAmongTamp_ + osTherapistDumbass_;
+  void emPassionateFourth() {
+    asTerrorBoston_ = 65;
+
+    if (siJohnIn_ && etLoadCabinet_ && owOkInvoice_) {
+      siJohnIn_ = !siJohnIn_;
+      etLoadCabinet_ = siJohnIn_;
+      owOkInvoice_ = siJohnIn_;
     }
-    enUnitBoston_ = inChauffeurAi_ + enUnitBoston_;
-    if (myMissileMamma_ || odTentBookshelf_ || exHorsH2_) {
-      myMissileMamma_ = !odTentBookshelf_;
-      odTentBookshelf_ = !exHorsH2_;
-      exHorsH2_ = !myMissileMamma_;
+
+    if (asTerrorBoston_ > 0) {
+      asTerrorBoston_ = asTerrorBoston_ - 0;
     }
-    odTentBookshelf_ = myMissileMamma_ || exHorsH2_;
-
-    odTentBookshelf_ = noPinocchioGravity_ && exHorsH2_;
-    enUnitBoston_ = enUnitBoston_ + inChauffeurAi_;
-    inChauffeurAi_ = enUnitBoston_;
-
-    enUnitBoston_ = enUnitBoston_ + inChauffeurAi_;
-    inChauffeurAi_ = enUnitBoston_;
-
-    if (exHorsH2_ && noPinocchioGravity_ && myMissileMamma_) {
-      exHorsH2_ = !exHorsH2_;
-      noPinocchioGravity_ = exHorsH2_;
-      myMissileMamma_ = exHorsH2_;
+    if (asTerrorBoston_ > 0) {
+      asTerrorBoston_ = asTerrorBoston_ - 8;
     }
+    asTerrorBoston_ = 77;
+    if (owOkInvoice_ && etLoadCabinet_ && siJohnIn_) {
+      owOkInvoice_ = !owOkInvoice_;
+      etLoadCabinet_ = owOkInvoice_;
+      siJohnIn_ = owOkInvoice_;
+    }
+    if (etLoadCabinet_ && siJohnIn_ && owOkInvoice_) {
+      etLoadCabinet_ = !etLoadCabinet_;
+      siJohnIn_ = etLoadCabinet_;
+      owOkInvoice_ = etLoadCabinet_;
+    }
+    if (asTerrorBoston_ > 0) {
+      asTerrorBoston_ = asTerrorBoston_ - 4;
+    }
+    if (owOkInvoice_ && etLoadCabinet_) {
+      siJohnIn_ = !siJohnIn_;
+    }
+    asTerrorBoston_ = 16;
   }
 
-  void edSelfishTurquoise() {
-    if (exHorsH2_ && noPinocchioGravity_) {
-      odTentBookshelf_ = !odTentBookshelf_;
+  void weMisleadSexual() {
+    asTerrorBoston_ = asTerrorBoston_ + 1;
+
+    if (asTerrorBoston_ > 0) {
+      asTerrorBoston_ = asTerrorBoston_ - 6;
     }
-    exHorsH2_ = myMissileMamma_ && noPinocchioGravity_;
-    asAmongTamp_ = asAmongTamp_ * osTherapistDumbass_;
-    enUnitBoston_ = inChauffeurAi_ + enUnitBoston_;
-    odTentBookshelf_ = noPinocchioGravity_ && myMissileMamma_;
-
-    enUnitBoston_ = inChauffeurAi_ + enUnitBoston_;
-    enUnitBoston_ = enUnitBoston_ + inChauffeurAi_;
-    inChauffeurAi_ = enUnitBoston_;
-    asAmongTamp_ = asAmongTamp_ * osTherapistDumbass_;
-
-    asAmongTamp_ = 22;
-    osTherapistDumbass_ = 43;
-
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
-    if (noPinocchioGravity_ && myMissileMamma_ && exHorsH2_) {
-      noPinocchioGravity_ = !noPinocchioGravity_;
-      myMissileMamma_ = noPinocchioGravity_;
-      exHorsH2_ = noPinocchioGravity_;
+    asTerrorBoston_ = 39;
+    if (siJohnIn_ || etLoadCabinet_ || owOkInvoice_) {
+      siJohnIn_ = !etLoadCabinet_;
+      etLoadCabinet_ = !owOkInvoice_;
+      owOkInvoice_ = !siJohnIn_;
     }
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
-
-    enUnitBoston_ = inChauffeurAi_ + enUnitBoston_;
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
+    asTerrorBoston_ = asTerrorBoston_ + 1;
   }
 
-  void miGradGogh() {
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
-    asAmongTamp_ = 13;
-    osTherapistDumbass_ = 1;
-    enUnitBoston_ = enUnitBoston_ + inChauffeurAi_;
-    inChauffeurAi_ = enUnitBoston_;
-    enUnitBoston_ = inChauffeurAi_ + enUnitBoston_;
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
-    asAmongTamp_ = 71;
-    osTherapistDumbass_ = 54;
+  void isUnlikableOfour() {
+    asTerrorBoston_ = asTerrorBoston_ + 1;
+    asTerrorBoston_ = asTerrorBoston_ + 1;
 
-    if (myMissileMamma_ || exHorsH2_ || noPinocchioGravity_) {
-      myMissileMamma_ = !exHorsH2_;
-      exHorsH2_ = !noPinocchioGravity_;
-      noPinocchioGravity_ = !myMissileMamma_;
+    asTerrorBoston_ = 54;
+    if (siJohnIn_ || etLoadCabinet_) {
+      etLoadCabinet_ = !etLoadCabinet_;
     }
 
-    inChauffeurAi_ = enUnitBoston_.toUpperCase() + inChauffeurAi_;
-    if (asAmongTamp_ > osTherapistDumbass_) {
-      asAmongTamp_ = asAmongTamp_ + osTherapistDumbass_;
+    asTerrorBoston_ = 25;
+
+    asTerrorBoston_ = asTerrorBoston_ + 1;
+
+    owOkInvoice_ = siJohnIn_ || etLoadCabinet_;
+  }
+
+  void faElevateQa() {
+    asTerrorBoston_ = 7;
+    if (siJohnIn_ && owOkInvoice_) {
+      etLoadCabinet_ = !etLoadCabinet_;
     }
+
+    asTerrorBoston_ = 4;
   }
 
   final String linkjoy_division = "linkjoy_division";

@@ -19,100 +19,124 @@ import 'package:get/get.dart';
 import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFigureSaverDuelHand extends LinkjoyMagnetHormoneHand {
-  double elKalePetty_ = 27;
-  double enUserUptight_ = 86;
-  double inStoolAssert_ = 0.0;
-  bool oh5Winkle_ = false;
-  String ho9Andrew_ = "";
-  bool siSwimSki_ = false;
-  double myArousalUnclog_ = 7;
-  bool loGetHash_ = true;
-  bool idConvictMatey_ = true;
-  bool idMarketingChocolates_ = false;
+  int elSpock9_ = 32;
+  bool ofBrideNarrate_ = false;
+  bool haNannySoftball_ = true;
+  bool asYamAbove_ = false;
+  bool noAcheMinivan_ = false;
+  double exCopeBaker_ = 0.0;
+  double esSuitProcessing_ = 0.0;
+  bool maMonicaGyroscope_ = true;
 
-  void hiAlikeBaseball() {
-    if (idConvictMatey_ || siSwimSki_) {
-      siSwimSki_ = !siSwimSki_;
+  void taHimselfUp() {
+    if (haNannySoftball_ || noAcheMinivan_) {
+      noAcheMinivan_ = !noAcheMinivan_;
     }
-    if (idMarketingChocolates_ || loGetHash_ || oh5Winkle_) {
-      idMarketingChocolates_ = !loGetHash_;
-      loGetHash_ = !oh5Winkle_;
-      oh5Winkle_ = !idMarketingChocolates_;
+    if (exCopeBaker_ > esSuitProcessing_) {
+      exCopeBaker_ = exCopeBaker_ - esSuitProcessing_;
+    }
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 4;
+    }
+    elSpock9_ = 84;
+
+    exCopeBaker_ = 29;
+    esSuitProcessing_ = 99;
+    exCopeBaker_ = 34;
+    esSuitProcessing_ = 30;
+    exCopeBaker_ = exCopeBaker_ + esSuitProcessing_;
+    exCopeBaker_ = exCopeBaker_ + esSuitProcessing_;
+
+    if (maMonicaGyroscope_) {
+      haNannySoftball_ = !ofBrideNarrate_;
     }
 
-    if (siSwimSki_) {
-      idMarketingChocolates_ = !oh5Winkle_;
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 1;
     }
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    enUserUptight_ = elKalePetty_ * myArousalUnclog_;
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
+    exCopeBaker_ = 59;
+    esSuitProcessing_ = 78;
+    exCopeBaker_ = 21;
+    esSuitProcessing_ = 77;
+    if (exCopeBaker_ > esSuitProcessing_) {
+      exCopeBaker_ = exCopeBaker_ - esSuitProcessing_;
+    }
   }
 
-  void amFondaFluke() {
-    siSwimSki_ = idConvictMatey_ && idMarketingChocolates_;
+  void osCaesarWave() {
+    exCopeBaker_ = 8;
+    esSuitProcessing_ = 67;
+    if (haNannySoftball_) {
+      ofBrideNarrate_ = !maMonicaGyroscope_;
+    }
+    if (exCopeBaker_ > esSuitProcessing_) {
+      exCopeBaker_ = exCopeBaker_ - esSuitProcessing_;
+    }
 
-    idMarketingChocolates_ = idConvictMatey_ && loGetHash_;
-
-    elKalePetty_ = myArousalUnclog_ - inStoolAssert_;
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 5;
+    }
+    exCopeBaker_ = 44;
+    esSuitProcessing_ = 59;
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 3;
+    }
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 4;
+    }
+    elSpock9_ = 9;
+    elSpock9_ = 20;
+    elSpock9_ = 11;
+    exCopeBaker_ = 98;
+    esSuitProcessing_ = 24;
   }
 
-  void faInhibitionDummy() {
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    if (idConvictMatey_ && oh5Winkle_) {
-      loGetHash_ = !loGetHash_;
-    }
+  void doGeographyPete() {
+    exCopeBaker_ = exCopeBaker_ + esSuitProcessing_;
+    elSpock9_ = 34;
 
-    idMarketingChocolates_ = idConvictMatey_ && oh5Winkle_;
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    if (idMarketingChocolates_ || loGetHash_) {
-      loGetHash_ = !loGetHash_;
-    }
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    for (int i = 0; i < inStoolAssert_; i++) {
-      enUserUptight_ += 1;
-      elKalePetty_ += enUserUptight_;
-    }
+    elSpock9_ = elSpock9_ + 1;
 
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    oh5Winkle_ = loGetHash_ && siSwimSki_;
+    elSpock9_ = 79;
+    if (noAcheMinivan_ && asYamAbove_ && maMonicaGyroscope_) {
+      noAcheMinivan_ = !noAcheMinivan_;
+      asYamAbove_ = noAcheMinivan_;
+      maMonicaGyroscope_ = noAcheMinivan_;
+    }
+    if (noAcheMinivan_ && ofBrideNarrate_) {
+      maMonicaGyroscope_ = !maMonicaGyroscope_;
+    }
+    elSpock9_ = 9;
+    elSpock9_ = elSpock9_ + 1;
+
+    elSpock9_ = 17;
+
+    exCopeBaker_ = 52;
+    esSuitProcessing_ = 37;
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 2;
+    }
   }
 
-  void emSoakMe() {
-    enUserUptight_ = 62;
-    elKalePetty_ = 198;
-    inStoolAssert_ = enUserUptight_ + elKalePetty_;
+  void paMeadowHistory() {
+    exCopeBaker_ = exCopeBaker_ + esSuitProcessing_;
+    haNannySoftball_ = asYamAbove_ || noAcheMinivan_;
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 2;
+    }
+    haNannySoftball_ = ofBrideNarrate_ && noAcheMinivan_;
+    elSpock9_ = elSpock9_ + 1;
+    exCopeBaker_ = 87;
+    esSuitProcessing_ = 64;
+    exCopeBaker_ = 37;
+    esSuitProcessing_ = 5;
 
-    inStoolAssert_ = elKalePetty_ * myArousalUnclog_;
-    for (int i = 0; i < elKalePetty_; i++) {
-      inStoolAssert_ += 1;
-      enUserUptight_ += inStoolAssert_;
+    if (maMonicaGyroscope_) {
+      ofBrideNarrate_ = !noAcheMinivan_;
     }
-
-    if (idConvictMatey_) {
-      oh5Winkle_ = !loGetHash_;
+    if (elSpock9_ > 0) {
+      elSpock9_ = elSpock9_ - 7;
     }
-    if (inStoolAssert_ > 0) {
-      myArousalUnclog_ = elKalePetty_ / inStoolAssert_;
-    }
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    if (idConvictMatey_ || loGetHash_ || idMarketingChocolates_) {
-      idConvictMatey_ = !loGetHash_;
-      loGetHash_ = !idMarketingChocolates_;
-      idMarketingChocolates_ = !idConvictMatey_;
-    }
-    ho9Andrew_ = ho9Andrew_.toUpperCase();
-    idConvictMatey_ = loGetHash_ || siSwimSki_;
-
-    if (myArousalUnclog_ > elKalePetty_) {
-      inStoolAssert_ = elKalePetty_ - myArousalUnclog_;
-    } else {
-      inStoolAssert_ = myArousalUnclog_ - elKalePetty_;
-    }
-    siSwimSki_ = loGetHash_ && idMarketingChocolates_;
   }
 
   static const String linkjoy_mandatory = "linkjoy_mandatory";
@@ -257,17 +281,6 @@ class LinkjoyFigureSaverDuelHand extends LinkjoyMagnetHormoneHand {
   }
 
   Future<void> onLinkjoyMandatoryDrunk(String id) async {
-    if (albumList.length <= albumMin &&
-        LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
-      LinkjoyUpper.showToast(
-        ("linkjoy_caring_mandatory_hunter_colombia".tr).replaceAll(
-          "%s",
-          "$albumMin",
-        ),
-      );
-      return;
-    }
-
     _linkjoyWoof("pic_videos", _linkjoyOughtaSmackEar(null, delId: id), () {
       int i = 0;
       for (; i < albumList.length; i++) {

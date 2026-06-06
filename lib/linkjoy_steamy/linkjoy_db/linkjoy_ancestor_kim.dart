@@ -34,6 +34,26 @@ class LinkjoyAncestorFinancialMagnet extends _$LinkjoyAncestorFinancialMagnet {
   @override
   int get schemaVersion => 1;
 
+  @override
+  MigrationStrategy get migration {
+    return MigrationStrategy(
+      onCreate: (Migrator m) async {
+        await m.createAll();
+      },
+      onUpgrade: (Migrator m, int from, int to) async {
+        try {
+          await m.database.transaction(() async {
+            if (from < 2) {}
+            if (from < 3) {}
+          });
+        } catch (e, stack) {
+          LinkjoySteamyClamOily.linkjoyInvoiceCircus(770004, e, stack);
+          throw Exception(e);
+        }
+      },
+    );
+  }
+
   Future<bool> manualUpgradeDatabase() async {
     try {
       await LINKJOY.linkjoyDb.dispose();

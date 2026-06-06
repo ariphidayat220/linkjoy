@@ -20,72 +20,36 @@ import 'package:get/get.dart';
 import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFoolishlyImDuelStubbornHand extends LinkjoyMagnetHormoneHand {
-  bool noClausMassage_ = true;
-  bool emPracticeCupid_ = true;
-  bool ifOfourTile_ = true;
-  bool opMixerGreeting_ = true;
-  String hoWienerSwim_ = "";
-  double enGil2_ = 6;
-  double ifDishHand_ = 46;
-  int heGuitarBeyond_ = 56;
+  bool woWailPatter_ = true;
+  bool anSexualOk_ = true;
+  double laFondaFondness_ = 0.0;
+  bool paYamSinus_ = false;
 
-  void mePinPublic() {
-    if (noClausMassage_ && ifOfourTile_ && emPracticeCupid_) {
-      noClausMassage_ = !noClausMassage_;
-      ifOfourTile_ = noClausMassage_;
-      emPracticeCupid_ = noClausMassage_;
+  void emLoafVariety() {
+    paYamSinus_ = anSexualOk_ && woWailPatter_;
+
+    anSexualOk_ = paYamSinus_ && woWailPatter_;
+
+    laFondaFondness_ = laFondaFondness_ + 1;
+    if (paYamSinus_ && woWailPatter_) {
+      anSexualOk_ = !anSexualOk_;
     }
-    opMixerGreeting_ = noClausMassage_ && emPracticeCupid_;
-    enGil2_ = 4;
-    ifDishHand_ = 52;
-    hoWienerSwim_ = hoWienerSwim_.toUpperCase();
-    if (opMixerGreeting_ && noClausMassage_ && emPracticeCupid_) {
-      opMixerGreeting_ = !opMixerGreeting_;
-      noClausMassage_ = opMixerGreeting_;
-      emPracticeCupid_ = opMixerGreeting_;
-    }
-    heGuitarBeyond_ = 65;
-    enGil2_ = 38;
-    ifDishHand_ = 65;
-    enGil2_ = 51;
-    ifDishHand_ = 40;
   }
 
-  void mmWarrenVulcan() {
-    heGuitarBeyond_ = 71;
-    if (heGuitarBeyond_ > 0) {
-      heGuitarBeyond_ = heGuitarBeyond_ - 0;
-    }
-    hoWienerSwim_ = hoWienerSwim_.toUpperCase();
-    enGil2_ = 78;
-    ifDishHand_ = 96;
-    if (noClausMassage_ && ifOfourTile_) {
-      emPracticeCupid_ = !emPracticeCupid_;
-    }
-    hoWienerSwim_ = hoWienerSwim_.toUpperCase();
-    hoWienerSwim_ = hoWienerSwim_.toUpperCase();
-    enGil2_ = 1;
-    ifDishHand_ = 78;
+  void joGyroscopeSpace() {
+    laFondaFondness_ = laFondaFondness_ + 1;
   }
 
-  void hoMainMerely() {
-    enGil2_ = 31;
-    ifDishHand_ = 18;
-    opMixerGreeting_ = emPracticeCupid_ && noClausMassage_;
-    heGuitarBeyond_ = 36;
-    if (ifOfourTile_ && noClausMassage_ && opMixerGreeting_) {
-      ifOfourTile_ = !ifOfourTile_;
-      noClausMassage_ = ifOfourTile_;
-      opMixerGreeting_ = ifOfourTile_;
+  void maKetchupUser() {
+    laFondaFondness_ = 33;
+
+    if (laFondaFondness_ > 0) {
+      laFondaFondness_ = laFondaFondness_ - 1;
     }
-    if (emPracticeCupid_ || noClausMassage_) {
-      noClausMassage_ = !noClausMassage_;
+
+    if (woWailPatter_ && paYamSinus_) {
+      anSexualOk_ = !anSexualOk_;
     }
-    if (opMixerGreeting_) {
-      ifOfourTile_ = !noClausMassage_;
-    }
-    heGuitarBeyond_ = heGuitarBeyond_ + 1;
-    enGil2_ = enGil2_ + ifDishHand_;
   }
 
   final String linkjoy_stubborn = "linkjoy_stubborn";

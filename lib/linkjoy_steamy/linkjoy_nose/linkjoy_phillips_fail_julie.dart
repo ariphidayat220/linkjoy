@@ -3,56 +3,96 @@ import 'package:get/get.dart';
 import 'linkjoy_phillips_fail_hand.dart';
 
 class LinkjoyPhillipsFailJulie extends Bindings {
-  bool weSphereSpecific_ = false;
-  bool byCrumbleUpside_ = false;
-  String laSakeSmear_ = "";
-  bool exDefilePeg_ = false;
+  bool inWhatchaDb_ = false;
+  bool haPardonChauffeur_ = false;
+  bool okExpress12_ = false;
+  String owMealCapable_ = "";
+  bool loDismissQuinto_ = false;
+  String laGilMichael_ = "";
+  bool myBoobShove_ = false;
 
-  void haYikesAmes() {
-    if (weSphereSpecific_ || exDefilePeg_) {
-      exDefilePeg_ = !exDefilePeg_;
+  void heEitherCheckout() {
+    if (haPardonChauffeur_ || inWhatchaDb_ || okExpress12_) {
+      haPardonChauffeur_ = !inWhatchaDb_;
+      inWhatchaDb_ = !okExpress12_;
+      okExpress12_ = !haPardonChauffeur_;
     }
 
-    if (byCrumbleUpside_ && weSphereSpecific_ && exDefilePeg_) {
-      byCrumbleUpside_ = !byCrumbleUpside_;
-      weSphereSpecific_ = byCrumbleUpside_;
-      exDefilePeg_ = byCrumbleUpside_;
+    owMealCapable_ = laGilMichael_ + owMealCapable_;
+    owMealCapable_ = laGilMichael_ + owMealCapable_;
+
+    owMealCapable_ = laGilMichael_ + owMealCapable_;
+
+    if (okExpress12_ || myBoobShove_ || inWhatchaDb_) {
+      okExpress12_ = !myBoobShove_;
+      myBoobShove_ = !inWhatchaDb_;
+      inWhatchaDb_ = !okExpress12_;
     }
+    haPardonChauffeur_ = inWhatchaDb_ && myBoobShove_;
   }
 
-  void goSootheUptight() {
-    laSakeSmear_ = laSakeSmear_.toUpperCase();
-    laSakeSmear_ = laSakeSmear_.toUpperCase();
-    laSakeSmear_ = laSakeSmear_.toUpperCase();
+  void owTasselWiener() {
+    owMealCapable_ = laGilMichael_ + owMealCapable_;
+    owMealCapable_ = owMealCapable_ + laGilMichael_;
+    laGilMichael_ = owMealCapable_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+    myBoobShove_ = haPardonChauffeur_ && loDismissQuinto_;
+    owMealCapable_ = owMealCapable_ + laGilMichael_;
+    laGilMichael_ = owMealCapable_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+    loDismissQuinto_ = myBoobShove_ || okExpress12_;
 
-    exDefilePeg_ = weSphereSpecific_ && byCrumbleUpside_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+    owMealCapable_ = owMealCapable_ + laGilMichael_;
+    laGilMichael_ = owMealCapable_;
   }
 
-  void efAgencyGlorious() {
-    if (exDefilePeg_ || weSphereSpecific_) {
-      weSphereSpecific_ = !weSphereSpecific_;
-    }
-    laSakeSmear_ = laSakeSmear_.toUpperCase();
+  void joMarioAs() {
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+    okExpress12_ = inWhatchaDb_ && loDismissQuinto_;
 
-    exDefilePeg_ = byCrumbleUpside_ && weSphereSpecific_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+    okExpress12_ = myBoobShove_ && loDismissQuinto_;
+    owMealCapable_ = laGilMichael_ + owMealCapable_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+
+    myBoobShove_ = haPardonChauffeur_ || okExpress12_;
+    owMealCapable_ = owMealCapable_ + laGilMichael_;
+    laGilMichael_ = owMealCapable_;
+
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
   }
 
-  void itGradWilly() {
-    if (exDefilePeg_ || weSphereSpecific_) {
-      weSphereSpecific_ = !weSphereSpecific_;
+  void osAlexJog() {
+    owMealCapable_ = owMealCapable_ + laGilMichael_;
+    laGilMichael_ = owMealCapable_;
+    if (haPardonChauffeur_ || inWhatchaDb_ || okExpress12_) {
+      haPardonChauffeur_ = !inWhatchaDb_;
+      inWhatchaDb_ = !okExpress12_;
+      okExpress12_ = !haPardonChauffeur_;
     }
-    if (weSphereSpecific_ && byCrumbleUpside_ && exDefilePeg_) {
-      weSphereSpecific_ = !weSphereSpecific_;
-      byCrumbleUpside_ = weSphereSpecific_;
-      exDefilePeg_ = weSphereSpecific_;
+
+    loDismissQuinto_ = haPardonChauffeur_ || myBoobShove_;
+    if (haPardonChauffeur_ && okExpress12_ && inWhatchaDb_) {
+      haPardonChauffeur_ = !haPardonChauffeur_;
+      okExpress12_ = haPardonChauffeur_;
+      inWhatchaDb_ = haPardonChauffeur_;
     }
-    laSakeSmear_ = laSakeSmear_.toUpperCase();
-    laSakeSmear_ = laSakeSmear_.toUpperCase();
 
-    byCrumbleUpside_ = exDefilePeg_ || weSphereSpecific_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
 
-    if (byCrumbleUpside_ || exDefilePeg_) {
-      exDefilePeg_ = !exDefilePeg_;
+    laGilMichael_ = owMealCapable_.toUpperCase() + laGilMichael_;
+    if (haPardonChauffeur_ || inWhatchaDb_) {
+      inWhatchaDb_ = !inWhatchaDb_;
+    }
+    if (okExpress12_ || inWhatchaDb_) {
+      inWhatchaDb_ = !inWhatchaDb_;
+    }
+
+    if (inWhatchaDb_ && myBoobShove_) {
+      haPardonChauffeur_ = !haPardonChauffeur_;
     }
   }
 

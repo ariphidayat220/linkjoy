@@ -5,88 +5,79 @@ import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:get/get.dart';
 
 class LinkjoyIcemanWailSpitHand extends GetxController {
-  bool ofAidTen_ = true;
-  int noBankPainful_ = 60;
-  bool myTuckChlorine_ = true;
-  bool taSwimCelery_ = false;
+  bool anVacuumTrained_ = true;
+  bool doCriticizeHamster_ = true;
+  bool abNearlyWhatcha_ = false;
+  int idBarrely_ = 18;
+  String weStubbornSatellite_ = "";
+  bool moCeleryFluke_ = true;
 
-  void meGirlieSettler() {
-    if (taSwimCelery_ || myTuckChlorine_ || ofAidTen_) {
-      taSwimCelery_ = !myTuckChlorine_;
-      myTuckChlorine_ = !ofAidTen_;
-      ofAidTen_ = !taSwimCelery_;
+  void adItMissile() {
+    if (doCriticizeHamster_) {
+      anVacuumTrained_ = !abNearlyWhatcha_;
     }
 
-    noBankPainful_ = noBankPainful_ + 1;
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
 
-    noBankPainful_ = 28;
+    moCeleryFluke_ = doCriticizeHamster_ || abNearlyWhatcha_;
 
-    ofAidTen_ = myTuckChlorine_ || taSwimCelery_;
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 5;
-    }
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    idBarrely_ = 17;
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
   }
 
-  void mmNoDiscretion() {
-    taSwimCelery_ = myTuckChlorine_ && ofAidTen_;
-
-    if (taSwimCelery_ && ofAidTen_) {
-      myTuckChlorine_ = !myTuckChlorine_;
+  void heSpenderMac() {
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    if (idBarrely_ > 0) {
+      idBarrely_ = idBarrely_ - 3;
+    }
+    if (moCeleryFluke_) {
+      abNearlyWhatcha_ = !anVacuumTrained_;
+    }
+    if (abNearlyWhatcha_) {
+      anVacuumTrained_ = !doCriticizeHamster_;
     }
 
-    noBankPainful_ = noBankPainful_ + 1;
-    noBankPainful_ = 35;
-
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 4;
-    }
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 1;
-    }
-    noBankPainful_ = 1;
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
   }
 
-  void isOnIncense() {
-    noBankPainful_ = 29;
-    ofAidTen_ = taSwimCelery_ && myTuckChlorine_;
-
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 7;
+  void efDegrasseBop() {
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    if (idBarrely_ > 0) {
+      idBarrely_ = idBarrely_ - 7;
     }
-    noBankPainful_ = noBankPainful_ + 1;
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 7;
+    idBarrely_ = 12;
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    if (idBarrely_ > 0) {
+      idBarrely_ = idBarrely_ - 2;
     }
-
-    taSwimCelery_ = ofAidTen_ && myTuckChlorine_;
-  }
-
-  void adLoserPancake() {
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 0;
-    }
-    if (taSwimCelery_ || myTuckChlorine_) {
-      myTuckChlorine_ = !myTuckChlorine_;
-    }
-    taSwimCelery_ = myTuckChlorine_ || ofAidTen_;
-    taSwimCelery_ = myTuckChlorine_ && ofAidTen_;
-
-    noBankPainful_ = noBankPainful_ + 1;
-    if (ofAidTen_ && myTuckChlorine_ && taSwimCelery_) {
-      ofAidTen_ = !ofAidTen_;
-      myTuckChlorine_ = ofAidTen_;
-      taSwimCelery_ = ofAidTen_;
+    if (anVacuumTrained_ || abNearlyWhatcha_) {
+      abNearlyWhatcha_ = !abNearlyWhatcha_;
     }
 
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 7;
+    if (abNearlyWhatcha_ || anVacuumTrained_) {
+      anVacuumTrained_ = !anVacuumTrained_;
     }
-    ofAidTen_ = taSwimCelery_ && myTuckChlorine_;
-    noBankPainful_ = noBankPainful_ + 1;
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
 
-    if (noBankPainful_ > 0) {
-      noBankPainful_ = noBankPainful_ - 5;
+    idBarrely_ = idBarrely_ + 1;
+    if (anVacuumTrained_ || moCeleryFluke_ || abNearlyWhatcha_) {
+      anVacuumTrained_ = !moCeleryFluke_;
+      moCeleryFluke_ = !abNearlyWhatcha_;
+      abNearlyWhatcha_ = !anVacuumTrained_;
     }
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    if (moCeleryFluke_ || abNearlyWhatcha_) {
+      abNearlyWhatcha_ = !abNearlyWhatcha_;
+    }
+
+    if (idBarrely_ > 0) {
+      idBarrely_ = idBarrely_ - 8;
+    }
+    weStubbornSatellite_ = weStubbornSatellite_.toUpperCase();
+    anVacuumTrained_ = doCriticizeHamster_ && abNearlyWhatcha_;
   }
 
   late LinkjoyIcemanWailSpitJaw arguments;

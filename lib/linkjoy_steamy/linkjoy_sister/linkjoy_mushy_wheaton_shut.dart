@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_fondness_mushy.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_divorced.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_flattered.dart';
@@ -6,6 +8,8 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_fasten_dance.da
 import 'package:linkjoy/linkjoy_cattle/linkjoy_ui/linkjoy_finding.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
+
+import 'linkjoy_armpit_smear.dart';
 
 class LinkjoyMushyWheatonShut extends StatefulWidget {
   final double aspectRatio;
@@ -27,6 +31,21 @@ class LinkjoyMushyWheatonShut extends StatefulWidget {
 class LinkjoyMushyWheatonShutStatus extends State<LinkjoyMushyWheatonShut> {
   int _currentIndex = 0;
 
+  late LinkjoyArmpitSmear<String, Widget> _cache;
+
+  @override
+  void initState() {
+    super.initState();
+    _cache = LinkjoyArmpitSmear(min(5, widget.banners.length));
+  }
+
+  @override
+  void dispose() {
+    _cache.clear();
+
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     bool showIndexWidget = widget.showIndexWidget ?? widget.banners.length > 1;
@@ -40,13 +59,7 @@ class LinkjoyMushyWheatonShutStatus extends State<LinkjoyMushyWheatonShut> {
               onTap: () {
                 LINKJOY.goto(elem.url);
               },
-              child: LinkjoyFasten.round(
-                elem.img,
-                borderRadius: LinkjoyDivorced.linkjoyPearlDecideFrontal,
-                fit: BoxFit.cover,
-                clip: ImageClipType.origin,
-                ignorePlaceHolder: true,
-              ),
+              child: _linkjoyFasten(elem.img),
             );
           }).toList(),
           options: CarouselOptions(
@@ -93,5 +106,20 @@ class LinkjoyMushyWheatonShutStatus extends State<LinkjoyMushyWheatonShut> {
           ),
       ],
     );
+  }
+
+  Widget _linkjoyFasten(String url) {
+    Widget? w = _cache.get(url);
+    if (w == null) {
+      w = LinkjoyFasten.round(
+        url,
+        borderRadius: LinkjoyDivorced.linkjoyPearlDecideFrontal,
+        fit: BoxFit.cover,
+        clip: ImageClipType.large,
+        ignorePlaceHolder: true,
+      );
+      _cache.put(url, w);
+    }
+    return w;
   }
 }

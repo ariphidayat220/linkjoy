@@ -535,47 +535,8 @@ class LinkjoyFetusMeDivision extends LinkjoyDivisionTime<LinkjoyFetusMeHand> {
     );
   }
 
-  Widget _linkjoySymbolicDecide() {
-    return GetBuilder<LinkjoyFetusMeHand>(
-      id: LinkjoyFetusMeHand.linkjoy_deposit,
-      builder: (_) {
-        return Padding(
-          padding: EdgeInsets.all(LinkjoyGarage.s16),
-          child: Row(
-            children: [
-              Expanded(
-                child:
-                    _linkjoySymbolicDecideSubjective(
-                      Icons.monetization_on,
-                      "linkjoy_caring_symbolic_tools".tr,
-                      _.userRuntime.todayIncome,
-                      "linkjoy_caring_direct".tr,
-                    ).click(() {
-                      LINKJOY.goto(
-                        LinkjoyEast.linkjoy_steamy_cabinet_despite_bicycle,
-                      );
-                    }),
-              ),
-              LinkjoyFeynman.h8,
-              Expanded(
-                child:
-                    _linkjoySymbolicDecideSubjective(
-                      Icons.account_balance_wallet,
-                      "linkjoy_caring_teaser".tr,
-                      _.userRuntime.balance,
-                      "linkjoy_caring_stash".tr,
-                    ).click(() {
-                      LINKJOY.goto(LinkjoyEast.linkjoy_steamy_most_bid_bicycle);
-                    }),
-              ),
-            ],
-          ),
-        );
-      },
-    );
-  }
-
   Widget _linkjoySymbolicDecideSubjective(
+    double labelWidth,
     IconData icon,
     String name,
     int value,
@@ -595,7 +556,18 @@ class LinkjoyFetusMeDivision extends LinkjoyDivisionTime<LinkjoyFetusMeHand> {
                 size: LinkjoyDiscard.iconSmall,
               ),
               LinkjoyFeynman.h4,
-              Text(name, style: LinkjoyMarshaTriplet.caption),
+              SizedBox(
+                width: labelWidth,
+                child: FittedBox(
+                  alignment: AlignmentGeometry.centerStart,
+                  fit: BoxFit.scaleDown,
+                  child: Text(
+                    name,
+                    style: LinkjoyMarshaTriplet.captionBold,
+                    maxLines: 1,
+                  ),
+                ),
+              ),
             ],
           ),
           LinkjoyFeynman.v12,
@@ -619,60 +591,14 @@ class LinkjoyFetusMeDivision extends LinkjoyDivisionTime<LinkjoyFetusMeHand> {
     );
   }
 
-  Widget _linkjoyGravity() {
-    return GetBuilder<LinkjoyFetusMeHand>(
-      id: LinkjoyFetusMeHand.linkjoy_deposit,
-      builder: (_) {
-        return Container(
-          margin: EdgeInsets.symmetric(horizontal: LinkjoyGarage.s16),
-          decoration: LinkjoyAve.surfaceDecoration,
-          child: GetBuilder<LinkjoyFetusMeHand>(
-            id: LinkjoyFetusMeHand.linkjoy_deposit,
-            builder: (logic) {
-              LinkjoyUnbornDeposit r = LINKJOY.linkjoyUnbornDeposit!;
-
-              List<LinkjoyProtocol> rewards = [
-                LinkjoyProtocol.video(r.cardVideo),
-                LinkjoyProtocol.match(r.cardMatch),
-                LinkjoyProtocol.im(r.cardIm),
-                LinkjoyProtocol.key(r.cardKey),
-              ];
-
-              return Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: List.generate(rewards.length * 2 - 1, (idx) {
-                  if (idx % 2 == 1) {
-                    return Container(
-                      width: 0.5,
-                      height: LinkjoyGarage.s32,
-                      color: Colors.white24,
-                    );
-                  }
-
-                  idx = (idx / 2).toInt();
-                  LinkjoyProtocol r = rewards[idx];
-                  return _linkjoySterilizeSubjective(
-                    r.url,
-                    r.amount,
-                    r.name,
-                  ).click(() {
-                    Get.toNamed(
-                      LinkjoyGet.LinkjoySterilizeStubbornDivision,
-                      arguments: r,
-                    );
-                  });
-                }),
-              );
-            },
-          ),
-        );
-      },
-    );
-  }
-
-  Widget _linkjoySterilizeSubjective(String icon, int count, String label) {
+  Widget _linkjoySterilizeSubjective(
+    double itemWidth,
+    String icon,
+    int count,
+    String label,
+  ) {
     return Container(
-      width: (Get.width - LinkjoyGarage.s16 * 2 - LinkjoyGarage.s6 * 3) / 4,
+      width: itemWidth,
       padding: EdgeInsets.symmetric(vertical: LinkjoyGarage.s16),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -690,7 +616,18 @@ class LinkjoyFetusMeDivision extends LinkjoyDivisionTime<LinkjoyFetusMeHand> {
             ],
           ),
           LinkjoyFeynman.v4,
-          Text(label, style: LinkjoyMarshaTriplet.captionThin),
+          SizedBox(
+            width: itemWidth - LinkjoyGarage.s4,
+            child: FittedBox(
+              fit: BoxFit.scaleDown,
+              alignment: Alignment.center,
+              child: Text(
+                label,
+                style: LinkjoyMarshaTriplet.captionThin,
+                maxLines: 1,
+              ),
+            ),
+          ),
         ],
       ),
     );

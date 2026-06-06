@@ -98,6 +98,7 @@ class LinkjoyAndrewGenericDuelFinancialUneven
     return Stack(
       alignment: Alignment.center,
       children: [
+        SizedBox(width: Get.width, height: Get.height),
         LinkjoyFasten.large(imageUrlString, fit: BoxFit.contain),
         Visibility(
           visible: isVideo,
@@ -154,6 +155,11 @@ class LinkjoyAndrewGenericDuelFinancialUneven
               ),
             ],
           ),
+        ),
+        PositionedDirectional(
+          top: LinkjoyGarage.s32,
+          end: LinkjoyGarage.s12,
+          child: LinkjoyFridgeLightbulb.linkjoyAssumeBaywatch(Get.back),
         ),
       ],
     );

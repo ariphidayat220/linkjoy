@@ -29,38 +29,7 @@ class LinkjoyFigureSaverDivision
   AppBar buildAppBar() {
     return LinkjoyDivisionUI.linkjoyAgencySteamyYam(
       "linkjoy_caring_figure_andrew".tr,
-      actions: _linkjoyOughtaStay(),
     );
-  }
-
-  List<Widget>? _linkjoyOughtaStay() {
-    if (LINKJOY.isLinkjoyFoolishly) {
-      return [
-        Container(
-          padding: EdgeInsets.all(LinkjoyGarage.s16),
-          child: Row(
-            children: [
-              const Icon(
-                Icons.preview_outlined,
-                color: LinkjoyAve.textSecondary,
-              ),
-              Text(
-                "linkjoy_caring_unknown".tr,
-                style: LinkjoyMarshaTriplet.caption,
-              ),
-            ],
-          ),
-        ).click(
-          () => LinkjoyGet.openProfile(
-            LINKJOY.uid(),
-            nickName: LINKJOY.linkjoyJog?.user.nickName,
-            avatarUrl: LINKJOY.linkjoyJog?.user.avatarUrl,
-          ),
-        ),
-      ];
-    } else {
-      return null;
-    }
   }
 
   @override

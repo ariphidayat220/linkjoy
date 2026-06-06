@@ -16,114 +16,53 @@ import 'package:get/get.dart';
 
 class LinkjoyGradPearlHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool etPardonOhio_ = true;
-  String faGuineaAssume_ = "";
-  double atHappilyComputer_ = 0.0;
-  int owLolPond_ = 0;
-  bool enOperatorComputer_ = false;
-  int osGodfatherVinegar_ = 0;
-  bool noTasselPopulate_ = true;
-  String paIdx_ = "";
+  bool joIoProton_ = false;
+  String soCarefreeProtocol_ = "";
+  bool joMassagePameron_ = true;
+  bool idCraftBop_ = false;
 
-  void enSteamyMole() {
-    if (noTasselPopulate_ && etPardonOhio_ && enOperatorComputer_) {
-      noTasselPopulate_ = !noTasselPopulate_;
-      etPardonOhio_ = noTasselPopulate_;
-      enOperatorComputer_ = noTasselPopulate_;
+  void exStubbornCocktail() {
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+
+    if (joIoProton_ || joMassagePameron_) {
+      joMassagePameron_ = !joMassagePameron_;
     }
-    atHappilyComputer_ = 88;
-    if (noTasselPopulate_ && etPardonOhio_ && enOperatorComputer_) {
-      noTasselPopulate_ = !noTasselPopulate_;
-      etPardonOhio_ = noTasselPopulate_;
-      enOperatorComputer_ = noTasselPopulate_;
-    }
-    atHappilyComputer_ = 70;
-    if (owLolPond_ > osGodfatherVinegar_) {
-      owLolPond_ = owLolPond_ + osGodfatherVinegar_;
-    }
-    noTasselPopulate_ = etPardonOhio_ || enOperatorComputer_;
-    if (owLolPond_ > osGodfatherVinegar_) {
-      owLolPond_ = owLolPond_ + osGodfatherVinegar_;
-    }
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    if (joIoProton_) {
+      joMassagePameron_ = !idCraftBop_;
     }
   }
 
-  void haiLightbulb() {
-    atHappilyComputer_ = atHappilyComputer_ + 1;
-    owLolPond_ = 82;
-    osGodfatherVinegar_ = 16;
-    if (noTasselPopulate_ && enOperatorComputer_ && etPardonOhio_) {
-      noTasselPopulate_ = !noTasselPopulate_;
-      enOperatorComputer_ = noTasselPopulate_;
-      etPardonOhio_ = noTasselPopulate_;
-    }
-    etPardonOhio_ = noTasselPopulate_ && enOperatorComputer_;
-    atHappilyComputer_ = atHappilyComputer_ + 1;
+  void moFarmLapse() {
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+
+    joIoProton_ = joMassagePameron_ && idCraftBop_;
   }
 
-  void byNoseAsset() {
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
+  void ofCriticizeSpock() {
+    if (idCraftBop_ || joIoProton_) {
+      joIoProton_ = !joIoProton_;
     }
-    faGuineaAssume_ = paIdx_ + faGuineaAssume_;
-    if (owLolPond_ > osGodfatherVinegar_) {
-      owLolPond_ = owLolPond_ + osGodfatherVinegar_;
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    if (idCraftBop_ || joMassagePameron_) {
+      joMassagePameron_ = !joMassagePameron_;
     }
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
-    }
-    paIdx_ = faGuineaAssume_.toUpperCase() + paIdx_;
-    owLolPond_ = 65;
-    osGodfatherVinegar_ = 19;
-    if (noTasselPopulate_ && enOperatorComputer_) {
-      etPardonOhio_ = !etPardonOhio_;
-    }
-    owLolPond_ = 14;
-    osGodfatherVinegar_ = 94;
-    faGuineaAssume_ = faGuineaAssume_ + paIdx_;
-    paIdx_ = faGuineaAssume_;
-    atHappilyComputer_ = 21;
-    owLolPond_ = 34;
-    osGodfatherVinegar_ = 2;
-    faGuineaAssume_ = faGuineaAssume_ + paIdx_;
-    paIdx_ = faGuineaAssume_;
-    owLolPond_ = 45;
-    osGodfatherVinegar_ = 30;
-    if (etPardonOhio_ || noTasselPopulate_ || enOperatorComputer_) {
-      etPardonOhio_ = !noTasselPopulate_;
-      noTasselPopulate_ = !enOperatorComputer_;
-      enOperatorComputer_ = !etPardonOhio_;
-    }
-    atHappilyComputer_ = atHappilyComputer_ + 1;
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
   }
 
-  void maAtAsset() {
-    if (noTasselPopulate_) {
-      enOperatorComputer_ = !etPardonOhio_;
-    }
-    enOperatorComputer_ = etPardonOhio_ && noTasselPopulate_;
-    owLolPond_ = 48;
-    osGodfatherVinegar_ = 44;
-    owLolPond_ = owLolPond_ * osGodfatherVinegar_;
-    faGuineaAssume_ = paIdx_ + faGuineaAssume_;
-    atHappilyComputer_ = 0;
-    owLolPond_ = 43;
-    osGodfatherVinegar_ = 35;
-    atHappilyComputer_ = 96;
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
-    }
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
-    }
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
-    }
-    if (atHappilyComputer_ > 0) {
-      atHappilyComputer_ = atHappilyComputer_ - 1;
-    }
+  void orTurquoiseProgram() {
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
+
+    soCarefreeProtocol_ = soCarefreeProtocol_.toUpperCase();
   }
 
   static const String linkjoy_stubborn = "linkjoy_stubborn";

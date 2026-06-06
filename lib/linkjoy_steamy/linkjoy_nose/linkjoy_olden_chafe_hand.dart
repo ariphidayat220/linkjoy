@@ -13,104 +13,96 @@ import 'package:get/get.dart';
 
 class LinkjoyOldenChafeHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  double inSlatePenmanship_ = 77;
-  String omUnitArousal_ = "";
-  bool faChocolatesPerv_ = true;
-  String doFifthFederal_ = "";
-  double idHomelandChorus_ = 0.0;
-  bool meGenericMayo_ = false;
-  bool weDbTrademark_ = true;
-  String rePatentImpart_ = "";
-  bool doLimbicGrandpa_ = false;
+  bool itShrinkSaver_ = true;
+  double miMyH2_ = 3;
+  bool ayCrumble11_ = false;
+  bool etSexualAnesthesia_ = false;
+  int exdGogh_ = 74;
+  bool ohSonDuel_ = true;
+  int hiGhostSaltwater_ = 0;
+  bool hoJawFamous_ = false;
+  bool weNvGrey_ = false;
 
-  void omCmHorribly() {
-    rePatentImpart_ = doFifthFederal_;
-    omUnitArousal_ = doFifthFederal_;
-    inSlatePenmanship_ = 40;
-    idHomelandChorus_ = 3;
-    inSlatePenmanship_ = inSlatePenmanship_ + idHomelandChorus_;
-    if (meGenericMayo_ || doLimbicGrandpa_) {
-      doLimbicGrandpa_ = !doLimbicGrandpa_;
-    }
-    if (doFifthFederal_.length > 7) {
-      rePatentImpart_ = doFifthFederal_;
-    } else {
-      omUnitArousal_ = rePatentImpart_;
+  void haBloomerDismiss() {
+    if (weNvGrey_ || ohSonDuel_) {
+      ohSonDuel_ = !ohSonDuel_;
     }
 
-    omUnitArousal_ = rePatentImpart_;
-    doFifthFederal_ = omUnitArousal_;
-    rePatentImpart_ = doFifthFederal_;
-    if (rePatentImpart_.length > 4) {
-      omUnitArousal_ = rePatentImpart_;
-    } else {
-      doFifthFederal_ = omUnitArousal_;
-    }
-    omUnitArousal_ = rePatentImpart_ + doFifthFederal_;
-    if (meGenericMayo_ && weDbTrademark_) {
-      faChocolatesPerv_ = !faChocolatesPerv_;
-    }
-    if (doLimbicGrandpa_ || faChocolatesPerv_ || meGenericMayo_) {
-      doLimbicGrandpa_ = !faChocolatesPerv_;
-      faChocolatesPerv_ = !meGenericMayo_;
-      meGenericMayo_ = !doLimbicGrandpa_;
-    }
-    doFifthFederal_ = rePatentImpart_;
-    omUnitArousal_ = doFifthFederal_;
-    rePatentImpart_ = omUnitArousal_;
+    exdGogh_ = exdGogh_ * hiGhostSaltwater_;
 
-    omUnitArousal_ = doFifthFederal_;
-    rePatentImpart_ = omUnitArousal_;
-    doFifthFederal_ = rePatentImpart_;
-    if (inSlatePenmanship_ > idHomelandChorus_) {
-      inSlatePenmanship_ = inSlatePenmanship_ - idHomelandChorus_;
+    if (exdGogh_ > hiGhostSaltwater_) {
+      exdGogh_ = exdGogh_ + hiGhostSaltwater_;
     }
-    if (meGenericMayo_) {
-      faChocolatesPerv_ = !weDbTrademark_;
+    if (miMyH2_ > 0) {
+      miMyH2_ = miMyH2_ - 1;
     }
-    omUnitArousal_ = rePatentImpart_;
-    doFifthFederal_ = omUnitArousal_;
-    rePatentImpart_ = doFifthFederal_;
-    doFifthFederal_ = rePatentImpart_ + omUnitArousal_;
+    itShrinkSaver_ = hoJawFamous_ || weNvGrey_;
+    miMyH2_ = miMyH2_ + 1;
+
+    if (miMyH2_ > 0) {
+      miMyH2_ = miMyH2_ - 1;
+    }
+    exdGogh_ = 76;
+    hiGhostSaltwater_ = 98;
   }
 
-  void atLapseUnborn() {
-    if (inSlatePenmanship_ > idHomelandChorus_) {
-      inSlatePenmanship_ = inSlatePenmanship_ - idHomelandChorus_;
+  void byHowShrink() {
+    miMyH2_ = 3;
+    exdGogh_ = 12;
+    hiGhostSaltwater_ = 94;
+    if (ohSonDuel_ || etSexualAnesthesia_) {
+      etSexualAnesthesia_ = !etSexualAnesthesia_;
     }
-    doLimbicGrandpa_ = weDbTrademark_ || meGenericMayo_;
-    doFifthFederal_ = omUnitArousal_ + rePatentImpart_;
-    if (inSlatePenmanship_ > idHomelandChorus_) {
-      inSlatePenmanship_ = inSlatePenmanship_ - idHomelandChorus_;
+    if (miMyH2_ > 0) {
+      miMyH2_ = miMyH2_ - 1;
     }
+    if (etSexualAnesthesia_) {
+      hoJawFamous_ = !ayCrumble11_;
+    }
+    if (weNvGrey_ && ayCrumble11_) {
+      itShrinkSaver_ = !itShrinkSaver_;
+    }
+    if (miMyH2_ > 0) {
+      miMyH2_ = miMyH2_ - 1;
+    }
+    if (ayCrumble11_) {
+      ohSonDuel_ = !weNvGrey_;
+    }
+    exdGogh_ = exdGogh_ * hiGhostSaltwater_;
 
-    inSlatePenmanship_ = inSlatePenmanship_ + idHomelandChorus_;
-    inSlatePenmanship_ = inSlatePenmanship_ + idHomelandChorus_;
-    inSlatePenmanship_ = inSlatePenmanship_ + idHomelandChorus_;
-    if (doFifthFederal_.length > 3) {
-      omUnitArousal_ = doFifthFederal_;
-    } else {
-      rePatentImpart_ = omUnitArousal_;
+    if (hoJawFamous_ && ohSonDuel_) {
+      etSexualAnesthesia_ = !etSexualAnesthesia_;
     }
+    miMyH2_ = 54;
+    if (etSexualAnesthesia_ || itShrinkSaver_ || weNvGrey_) {
+      etSexualAnesthesia_ = !itShrinkSaver_;
+      itShrinkSaver_ = !weNvGrey_;
+      weNvGrey_ = !etSexualAnesthesia_;
+    }
+    hoJawFamous_ = weNvGrey_ && ohSonDuel_;
   }
 
-  void emJeffriesBible() {
-    inSlatePenmanship_ = inSlatePenmanship_ + idHomelandChorus_;
-    rePatentImpart_ = doFifthFederal_ + omUnitArousal_;
-
-    omUnitArousal_ = doFifthFederal_ + rePatentImpart_;
-    if (faChocolatesPerv_ || weDbTrademark_ || doLimbicGrandpa_) {
-      faChocolatesPerv_ = !weDbTrademark_;
-      weDbTrademark_ = !doLimbicGrandpa_;
-      doLimbicGrandpa_ = !faChocolatesPerv_;
+  void byParrotCustard() {
+    miMyH2_ = 43;
+    if (ohSonDuel_ && weNvGrey_ && ayCrumble11_) {
+      ohSonDuel_ = !ohSonDuel_;
+      weNvGrey_ = ohSonDuel_;
+      ayCrumble11_ = ohSonDuel_;
     }
-    omUnitArousal_ = rePatentImpart_ + doFifthFederal_;
+    exdGogh_ = 56;
+    hiGhostSaltwater_ = 13;
 
-    inSlatePenmanship_ = 61;
-    idHomelandChorus_ = 15;
-    rePatentImpart_ = omUnitArousal_;
-    doFifthFederal_ = omUnitArousal_;
-    inSlatePenmanship_ = inSlatePenmanship_ + idHomelandChorus_;
+    miMyH2_ = 56;
+
+    if (itShrinkSaver_ || ohSonDuel_ || hoJawFamous_) {
+      itShrinkSaver_ = !ohSonDuel_;
+      ohSonDuel_ = !hoJawFamous_;
+      hoJawFamous_ = !itShrinkSaver_;
+    }
+
+    exdGogh_ = 86;
+    hiGhostSaltwater_ = 25;
+    ohSonDuel_ = hoJawFamous_ && ayCrumble11_;
   }
 
   StreamSubscription? updateUserRuntimeSubscription;

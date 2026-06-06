@@ -9,9 +9,12 @@ import 'package:protobuf/protobuf.dart';
 
 class LinkjoyDanceLesson {
   static final Queue<String> _queue = Queue<String>();
-  static const int _maxLength = 1000;
+  static const int _maxLength = 500;
 
   static void _linkjoyNetflix(String record) {
+    if (record.length > 2048) {
+      record = "${record.substring(0, 1024)}... ...";
+    }
     if (_queue.length >= _maxLength) {
       _queue.removeFirst();
     }

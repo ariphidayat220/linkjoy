@@ -12,74 +12,88 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
 
-class LinkjoyCrawfordSaverHand extends GetxController {
-  bool ayHunterAdmission_ = true;
-  bool taStoolBroadway_ = false;
-  String atMario2_ = "";
-  bool exBillingDazzle_ = true;
-  String paTeaserPound_ = "";
-  String byTimeGuppy_ = "";
+import '../linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
-  void ofCollied() {
-    paTeaserPound_ = atMario2_ + byTimeGuppy_;
-    exBillingDazzle_ = taStoolBroadway_ && ayHunterAdmission_;
-    atMario2_ = paTeaserPound_ + byTimeGuppy_;
+class LinkjoyCrawfordSaverHand extends LinkjoyMagnetHormoneHand {
+  int omSutraChipper_ = 0;
+  bool myBarrelCope_ = true;
+  bool ayWallowPersonally_ = true;
+  bool hiHeyShrink_ = true;
+  bool byAceHammer_ = false;
+  String siPinocchioMinivan_ = "";
 
-    if (exBillingDazzle_ || taStoolBroadway_) {
-      taStoolBroadway_ = !taStoolBroadway_;
-    }
+  void joNannyCapacity() {
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
 
-    ayHunterAdmission_ = exBillingDazzle_ && taStoolBroadway_;
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
   }
 
-  void itDramamineDefect() {
-    if (exBillingDazzle_ || ayHunterAdmission_) {
-      ayHunterAdmission_ = !ayHunterAdmission_;
+  void etSuckyLay() {
+    if (byAceHammer_ || myBarrelCope_) {
+      myBarrelCope_ = !myBarrelCope_;
     }
-    byTimeGuppy_ = paTeaserPound_;
-    atMario2_ = paTeaserPound_;
-
-    taStoolBroadway_ = ayHunterAdmission_ && exBillingDazzle_;
-  }
-
-  void beAlrightyThesis() {
-    if (taStoolBroadway_ || exBillingDazzle_) {
-      exBillingDazzle_ = !exBillingDazzle_;
+    if (hiHeyShrink_ || myBarrelCope_ || byAceHammer_) {
+      hiHeyShrink_ = !myBarrelCope_;
+      myBarrelCope_ = !byAceHammer_;
+      byAceHammer_ = !hiHeyShrink_;
     }
-    if (ayHunterAdmission_ && taStoolBroadway_) {
-      exBillingDazzle_ = !exBillingDazzle_;
+    ayWallowPersonally_ = byAceHammer_ && myBarrelCope_;
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
+    if (hiHeyShrink_ || ayWallowPersonally_ || byAceHammer_) {
+      hiHeyShrink_ = !ayWallowPersonally_;
+      ayWallowPersonally_ = !byAceHammer_;
+      byAceHammer_ = !hiHeyShrink_;
     }
   }
 
-  void moGurneyFarm() {
-    exBillingDazzle_ = taStoolBroadway_ && ayHunterAdmission_;
-    paTeaserPound_ = atMario2_;
-    byTimeGuppy_ = paTeaserPound_;
-    atMario2_ = byTimeGuppy_;
+  void faGirlieImpart() {
+    ayWallowPersonally_ = byAceHammer_ || hiHeyShrink_;
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
 
-    atMario2_ = byTimeGuppy_;
-    paTeaserPound_ = byTimeGuppy_;
+    if (omSutraChipper_ > 0) {
+      omSutraChipper_ = omSutraChipper_ - 2;
+    }
+    omSutraChipper_ = 12;
+    if (myBarrelCope_) {
+      ayWallowPersonally_ = !byAceHammer_;
+    }
+    myBarrelCope_ = byAceHammer_ || ayWallowPersonally_;
+    omSutraChipper_ = 37;
+    myBarrelCope_ = byAceHammer_ && ayWallowPersonally_;
+  }
 
-    if (byTimeGuppy_.length > 4) {
-      atMario2_ = byTimeGuppy_;
-    } else {
-      paTeaserPound_ = atMario2_;
+  void doInhibitionNetflix() {
+    byAceHammer_ = myBarrelCope_ || hiHeyShrink_;
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
+
+    if (omSutraChipper_ > 0) {
+      omSutraChipper_ = omSutraChipper_ - 5;
     }
 
-    if (taStoolBroadway_ && ayHunterAdmission_ && exBillingDazzle_) {
-      taStoolBroadway_ = !taStoolBroadway_;
-      ayHunterAdmission_ = taStoolBroadway_;
-      exBillingDazzle_ = taStoolBroadway_;
+    omSutraChipper_ = omSutraChipper_ + 1;
+    if (omSutraChipper_ > 0) {
+      omSutraChipper_ = omSutraChipper_ - 3;
     }
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
+
+    hiHeyShrink_ = byAceHammer_ && myBarrelCope_;
+    omSutraChipper_ = omSutraChipper_ + 1;
+    siPinocchioMinivan_ = siPinocchioMinivan_.toUpperCase();
+    if (omSutraChipper_ > 0) {
+      omSutraChipper_ = omSutraChipper_ - 8;
+    }
+    omSutraChipper_ = 80;
+    byAceHammer_ = ayWallowPersonally_ && hiHeyShrink_;
   }
 
   static const String linkjoy_appreciate_saver = "linkjoy_appreciate_saver";
   static const String linkjoy_sorority_shock_saver =
       "linkjoy_sorority_shock_saver";
+  static const String linkjoy_woof_hair = "linkjoy_woof_hair";
 
   Map<String, String> config = {};
 
-  String linkjoyShock = "";
+  String linkjoyShockSpecific = "";
 
   Timer? _checkTimer;
 
@@ -90,6 +104,8 @@ class LinkjoyCrawfordSaverHand extends GetxController {
   String sessionJson = "";
 
   Map<String, String> extras = {};
+
+  bool isSubmitted = false;
 
   @override
   void onClose() {
@@ -113,13 +129,22 @@ class LinkjoyCrawfordSaverHand extends GetxController {
     linkjoyCaitlinShockSaver();
     linkjoyJeffriesPheebsKingHair();
     linkjoyBrochureSongAppreciateSaver();
+
+    if (!isDebugMode()) {
+      Future.delayed(const Duration(seconds: 5), () {
+        onLinkjoyWoof().then((e) {
+          isSubmitted = true;
+          update([linkjoy_woof_hair]);
+        });
+      });
+    }
   }
 
   linkjoyCaitlinSororityShock() {
     EasyLoading.show();
     Future.delayed(const Duration(seconds: 1), () {
       try {
-        linkjoyShock = LINKJOY.linkjoyElope.respConfig() != null
+        linkjoyShockSpecific = LINKJOY.linkjoyElope.respConfig() != null
             ? LINKJOY.linkjoyElope.respConfig()!.toJson().toString()
             : "";
         update([linkjoy_sorority_shock_saver]);
@@ -211,7 +236,11 @@ class LinkjoyCrawfordSaverHand extends GetxController {
     update([linkjoy_appreciate_saver]);
   }
 
-  Future<void> onSubmitLog() async {
+  bool isDebugMode() {
+    return false;
+  }
+
+  Future<void> onLinkjoyWoof() async {
     EasyLoading.show();
     await Future.delayed(const Duration(seconds: 1));
 
@@ -245,7 +274,7 @@ class LinkjoyCrawfordSaverHand extends GetxController {
       (p0) => p0,
       showLoadingUI: false,
       autoToastOnError: true,
-      timeout: const Duration(seconds: 30),
+      timeout: const Duration(seconds: 60),
     );
     if (rsp != null) {
       LinkjoyUISocially.linkjoyNumb(

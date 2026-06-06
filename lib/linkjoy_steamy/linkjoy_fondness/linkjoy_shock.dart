@@ -6,9 +6,11 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_steamy_shock.dar
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_fondness_steamy_king.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_fondness_humidity.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_fondness_andrew_soak.dart';
+import 'package:linkjoy/linkjoy_steamy/linkjoy_divorced.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_get.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_flattered.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_gnome_sister.dart';
+import 'package:flutter/foundation.dart';
 import 'package:get/get_utils/src/extensions/internacionalization.dart';
 
 import 'linkjoy_direction_kryptonian.dart';
@@ -121,10 +123,6 @@ class LinkjoyShock {
 
   List<String> webViewInAppSchemeList() {
     return configs.common?.webViewInAppSchemeList ?? [];
-  }
-
-  List<String> allowScreenRecordingPageList() {
-    return configs.common?.allowScreenRecordingPageList ?? [];
   }
 
   String profilePageName() {

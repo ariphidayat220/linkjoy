@@ -38,7 +38,6 @@ import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 
-import '../../linkjoy_cattle/linkjoy_matey/linkjoy_creamy_asset.dart';
 import '../../linkjoy_cattle/linkjoy_ui/linkjoy_finding.dart';
 
 class LinkjoyAndrewDivision
@@ -67,12 +66,10 @@ class LinkjoyAndrewDivision
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled) {
           final double topPadding = MediaQuery.paddingOf(context).top;
 
-          double imgHeight = Get.width;
+          double imgHeight = Get.width + kTextTabBarHeight;
 
-          double infoHeight =
-              96.w - (_linkjoyMarketingFetusYam() ? 0 : kToolbarHeight);
-
-          final double expandedHeight = imgHeight + infoHeight;
+          final double expandedHeight =
+              imgHeight + (_linkjoyMarketingFetusYam() ? kTextTabBarHeight : 0);
           return [
             SliverOverlapAbsorber(
               handle: NestedScrollView.sliverOverlapAbsorberHandleFor(context),
@@ -91,7 +88,6 @@ class LinkjoyAndrewDivision
                     imgHeight,
                     expandedHeight,
                     topPadding,
-                    infoHeight,
                   );
                 },
               ),
@@ -115,7 +111,6 @@ class LinkjoyAndrewDivision
     double imgHeight,
     double expandedHeight,
     double topPadding,
-    double infoHeight,
   ) {
     return SliverAppBar(
       backgroundColor: LinkjoyAve.bgDark,
@@ -133,7 +128,6 @@ class LinkjoyAndrewDivision
         expandedHeight,
         percent,
         imgHeight,
-        infoHeight,
       ),
       expandedHeight: expandedHeight - topPadding,
       actions: buildActions(),
@@ -366,7 +360,6 @@ class LinkjoyAndrewDivision
     double height,
     double collapsedPercent,
     double imgHeight,
-    double infoHeight,
   ) {
     return SizedBox(
       width: width,
@@ -402,49 +395,40 @@ class LinkjoyAndrewDivision
               Positioned(
                 left: 0,
                 right: 0,
-                bottom: height - imgHeight,
-                child: buildBaseInfoWidget(infoHeight),
-              ),
-
-              Positioned(
-                left: 0,
-                right: 0,
                 bottom: 0,
-                child: Container(
-                  width: width,
-                  height: infoHeight,
-                  color: LinkjoyAve.bgDark,
-                  child: Column(
-                    mainAxisSize: MainAxisSize.min,
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      CustomPaint(
-                        painter: LinkjoyCreamyAsset(
-                          color: LinkjoyAve.bgDark,
-                          position: LinkjoyCreamyZack.top,
-                          offset: Get.width / 2,
-                          direction: LinkjoyCreamyThrilled.outward,
-                          size: LinkjoyGarage.s20,
-                        ),
-                        child: Container(
-                          width: Get.width,
-                          padding: EdgeInsets.symmetric(
-                            vertical: LinkjoyGarage.s12,
-                            horizontal: LinkjoyGarage.s16,
-                          ),
-                          child: Text(
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    buildBaseInfoWidget(),
+                    Container(
+                      width: Get.width,
+                      padding: EdgeInsets.only(
+                        top: LinkjoyGarage.s12,
+                        left: LinkjoyGarage.s16,
+                        right: LinkjoyGarage.s16,
+                        bottom: (_linkjoyMarketingFetusYam()
+                            ? kTextTabBarHeight
+                            : 0),
+                      ),
+                      color: LinkjoyAve.bgDark,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
                             _.linkjoyTen(),
                             style: LinkjoyMarshaTriplet.body,
                             maxLines: 2,
                             overflow: TextOverflow.ellipsis,
                           ),
-                        ),
+                          LinkjoyFeynman.v12,
+                          LinkjoyFridgeLightbulb.linkjoyPeephole(
+                            color: Colors.white.withValues(alpha: 0.05),
+                          ),
+                        ],
                       ),
-                      LinkjoyFridgeLightbulb.linkjoyPeephole(
-                        color: Colors.white.withValues(alpha: 0.05),
-                      ),
-                    ],
-                  ),
+                    ),
+                  ],
                 ),
               ),
             ],
@@ -454,7 +438,7 @@ class LinkjoyAndrewDivision
     );
   }
 
-  Container buildBaseInfoWidget(double infoHeight) {
+  Container buildBaseInfoWidget() {
     return Container(
       padding: EdgeInsets.symmetric(
         horizontal: LinkjoyGarage.s12,
@@ -498,14 +482,28 @@ class LinkjoyAndrewDivision
                             children: [
                               Container(
                                 constraints: BoxConstraints(
-                                  maxWidth: Get.width * 0.5,
+                                  maxWidth: Get.width * 0.4,
                                 ),
                                 child: Text(
                                   _.linkjoyChargeLenny(),
-                                  style: LinkjoyMarshaTriplet.title,
+                                  style: LinkjoyMarshaTriplet.subtitle,
                                   overflow: TextOverflow.ellipsis,
                                 ),
                               ),
+                              if (_.showLevel())
+                                Padding(
+                                  padding: const EdgeInsetsDirectional.only(
+                                    start: 4.0,
+                                  ),
+                                  child:
+                                      LinkjoyFridgeLightbulb.linkjoySignalFridge(
+                                        _.profile.value!.level,
+                                        isAnchor:
+                                            _.profile.value
+                                                ?.isLinkjoyFoolishly() ??
+                                            true,
+                                      ),
+                                ),
                             ],
                           ),
 
@@ -541,23 +539,13 @@ class LinkjoyAndrewDivision
   }
 
   Widget _linkjoyOughtaSaverSoften(LinkjoyAndrewHand _) {
-    bool showLevel = _.showLevel();
     bool showCountry = _.showCountry();
     bool showGender = _.showGender();
     bool showCopyID = _.showCopyID();
-    if (!showLevel && !showCountry && !showGender && !showCopyID) {
+    if (!showCountry && !showGender && !showCopyID) {
       return const SizedBox.shrink();
     }
     List<Widget> rowWidgets = [];
-    if (showLevel) {
-      rowWidgets.add(
-        LinkjoyFridgeLightbulb.linkjoySignalFridge(
-          _.profile.value!.level,
-          isAnchor: _.profile.value?.isLinkjoyFoolishly() ?? true,
-        ),
-      );
-      rowWidgets.add(LinkjoyFeynman.h4);
-    }
     if (showGender) {
       rowWidgets.add(
         LinkjoyUiHeadline.genderAgeTag(
@@ -621,6 +609,11 @@ class LinkjoyAndrewDivision
               _.followed
                   ? "linkjoy_caring_pharmacist".tr
                   : "linkjoy_caring_buzz".tr,
+              size: LinkjoyBookshelf.md,
+              padding: EdgeInsetsGeometry.symmetric(
+                horizontal: LinkjoyGarage.s12,
+                vertical: 0,
+              ),
               () => logic.onLinkjoyBuzzPeripheral(),
               bgColor: _.followed
                   ? LinkjoyAve.disabled
@@ -1025,8 +1018,8 @@ class LinkjoyAndrewDivision
           ),
           LinkjoyFastenIndustrial.asset(
             "linkjoy_toe_degrasse_style_magazine",
-            width: 24,
-            height: 24,
+            width: LinkjoyGarage.s24,
+            height: LinkjoyGarage.s24,
           ),
         ],
       ),
@@ -1246,12 +1239,7 @@ class LinkjoyAndrewDivision
                       ),
                       height: 127.w,
                       alignment: Alignment.bottomCenter,
-                      decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(
-                          LinkjoyDiscard.radiusLarge,
-                        ),
-                        color: LinkjoyAve.primaryLight.withValues(alpha: 0.8),
-                      ),
+                      decoration: LinkjoyAve.surfaceImportantDecoration,
                       child: Container(
                         padding: EdgeInsets.symmetric(
                           horizontal: LinkjoyGarage.s8,
@@ -1259,8 +1247,10 @@ class LinkjoyAndrewDivision
                         alignment: Alignment.center,
                         height: 36.w,
                         decoration: BoxDecoration(
-                          borderRadius: BorderRadius.all(Radius.circular(32.w)),
-                          color: Colors.white,
+                          borderRadius: BorderRadius.circular(
+                            LinkjoyDiscard.radiusFull,
+                          ),
+                          color: Colors.white54,
                         ),
                         child: Text(
                           "linkjoy_caring_grey_swimsuit_mayo".tr,
@@ -1411,11 +1401,8 @@ class LinkjoyAndrewDivision
 
   Container buildGiftDetailItem(int order, GiftVO item, VoGift gift) {
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 12),
-      decoration: BoxDecoration(
-        color: LinkjoyAve.overlayMedium,
-        borderRadius: BorderRadius.circular(LinkjoyDiscard.radiusLarge),
-      ),
+      padding: LinkjoyGarage.edgeH12,
+      decoration: LinkjoyAve.surfaceDecoration,
       width: Get.width,
       height: LinkjoyGarage.s64,
       child: Row(
@@ -1498,10 +1485,7 @@ class LinkjoyAndrewDivision
             horizontal: LinkjoyGarage.s24,
             vertical: 12.w,
           ),
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(LinkjoyDiscard.radiusFull),
-            color: LinkjoyAve.primaryLight.withValues(alpha: 0.8),
-          ),
+          decoration: LinkjoyAve.surfaceImportantDecoration,
           alignment: Alignment.center,
           child: Row(
             children: [

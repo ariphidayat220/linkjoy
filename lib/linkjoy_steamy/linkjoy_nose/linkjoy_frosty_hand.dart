@@ -9,7 +9,7 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_fondness_divisio
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_fondness_fetus.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_fondness/linkjoy_unborn_deposit_eskimo_lap.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_heather_steamy.dart';
-import 'package:linkjoy/linkjoy_steamy/linkjoy_nose_ui/linkjoy_penmanship_toner_division.dart';
+import 'package:linkjoy/linkjoy_steamy/linkjoy_nose_ui/linkjoy_fetus_penmanship_toner_division.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_nose_ui/linkjoy_fetus_foolishly_poncho_division.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_nose_ui/linkjoy_fetus_pearl_division.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_nose_ui/linkjoy_fetus_im_division.dart';
@@ -35,120 +35,75 @@ import 'package:permission_handler/permission_handler.dart';
 
 class LinkjoyFrostyHand extends LinkjoyMagnetHand
     with GetTickerProviderStateMixin {
-  String hiLimpCocktail_ = "";
-  int if9Sober_ = 0;
-  bool taCrispOccupy_ = false;
-  bool etHairWoof_ = false;
-  int abDefileCattle_ = 0;
-  bool ayBellTerror_ = true;
-  int goChauffeurCorner_ = 46;
-  bool weCombustionProbe_ = false;
-  String ifMandatoryFrosty_ = "";
+  bool okOgleOhio_ = true;
+  bool ahFarmBurt_ = false;
+  String orFastenInnocence_ = "";
+  bool beHowCelery_ = false;
+  bool inExecuteSpray_ = true;
+  bool ahHorsLenny_ = true;
+  bool idConcealBlossom_ = false;
 
-  void miWarmthModerately() {
-    if (goChauffeurCorner_ > 0) {
-      if9Sober_ = abDefileCattle_ ~/ goChauffeurCorner_;
+  void at0Fluke() {
+    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+
+    if (beHowCelery_) {
+      okOgleOhio_ = !ahHorsLenny_;
     }
 
-    goChauffeurCorner_ = 177;
-    abDefileCattle_ = 188;
-    if9Sober_ = goChauffeurCorner_ + abDefileCattle_;
-
-    if (if9Sober_ > 0) {
-      goChauffeurCorner_ = abDefileCattle_ ~/ if9Sober_;
+    if (beHowCelery_ || ahHorsLenny_) {
+      ahHorsLenny_ = !ahHorsLenny_;
     }
-    etHairWoof_ = ayBellTerror_ && taCrispOccupy_;
-    ifMandatoryFrosty_ = hiLimpCocktail_.toUpperCase() + ifMandatoryFrosty_;
-    taCrispOccupy_ = weCombustionProbe_ && ayBellTerror_;
-    goChauffeurCorner_ = 236;
-    if9Sober_ = 45;
-    abDefileCattle_ = goChauffeurCorner_ + if9Sober_;
-    ayBellTerror_ = weCombustionProbe_ && etHairWoof_;
+
+    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
   }
 
-  void taHilariousDefile() {
-    if9Sober_ = abDefileCattle_;
-    goChauffeurCorner_ = abDefileCattle_;
-    ayBellTerror_ = weCombustionProbe_ || etHairWoof_;
-    if (ayBellTerror_) {
-      etHairWoof_ = !taCrispOccupy_;
+  void paSuspensionCriticize() {
+    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+
+    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+    ahFarmBurt_ = okOgleOhio_ && beHowCelery_;
+
+    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+    if (ahHorsLenny_ || idConcealBlossom_ || beHowCelery_) {
+      ahHorsLenny_ = !idConcealBlossom_;
+      idConcealBlossom_ = !beHowCelery_;
+      beHowCelery_ = !ahHorsLenny_;
     }
-    ifMandatoryFrosty_ = hiLimpCocktail_.toUpperCase() + ifMandatoryFrosty_;
-    goChauffeurCorner_ = abDefileCattle_;
-    if9Sober_ = abDefileCattle_;
+
+    if (ahHorsLenny_ && idConcealBlossom_) {
+      okOgleOhio_ = !okOgleOhio_;
+    }
+
+    if (inExecuteSpray_ && ahFarmBurt_ && okOgleOhio_) {
+      inExecuteSpray_ = !inExecuteSpray_;
+      ahFarmBurt_ = inExecuteSpray_;
+      okOgleOhio_ = inExecuteSpray_;
+    }
   }
 
-  void mmCombustionDescent() {
-    etHairWoof_ = weCombustionProbe_ && ayBellTerror_;
-    if (if9Sober_ > abDefileCattle_) {
-      goChauffeurCorner_ = abDefileCattle_ - if9Sober_;
-    } else {
-      goChauffeurCorner_ = if9Sober_ - abDefileCattle_;
+  void heConcealTorment() {
+    if (beHowCelery_ && okOgleOhio_ && ahHorsLenny_) {
+      beHowCelery_ = !beHowCelery_;
+      okOgleOhio_ = beHowCelery_;
+      ahHorsLenny_ = beHowCelery_;
+    }
+    if (idConcealBlossom_ || ahFarmBurt_) {
+      ahFarmBurt_ = !ahFarmBurt_;
+    }
+    orFastenInnocence_ = orFastenInnocence_.toUpperCase();
+
+    inExecuteSpray_ = ahHorsLenny_ && okOgleOhio_;
+    if (beHowCelery_ || ahFarmBurt_) {
+      ahFarmBurt_ = !ahFarmBurt_;
     }
 
-    if (abDefileCattle_ > 0) {
-      goChauffeurCorner_ = if9Sober_ ~/ abDefileCattle_;
-    }
-    for (int i = 0; i < goChauffeurCorner_; i++) {
-      abDefileCattle_ += 1;
-      if9Sober_ += abDefileCattle_;
-    }
-    ifMandatoryFrosty_ = hiLimpCocktail_.toUpperCase() + ifMandatoryFrosty_;
-    hiLimpCocktail_ = ifMandatoryFrosty_ + hiLimpCocktail_;
-    if (taCrispOccupy_ && weCombustionProbe_) {
-      ayBellTerror_ = !ayBellTerror_;
+    if (ahFarmBurt_ || idConcealBlossom_ || beHowCelery_) {
+      ahFarmBurt_ = !idConcealBlossom_;
+      idConcealBlossom_ = !beHowCelery_;
+      beHowCelery_ = !ahFarmBurt_;
     }
 
-    hiLimpCocktail_ = ifMandatoryFrosty_ + hiLimpCocktail_;
-    hiLimpCocktail_ = hiLimpCocktail_ + ifMandatoryFrosty_;
-    ifMandatoryFrosty_ = hiLimpCocktail_;
-  }
-
-  void ofIntolerantBonjour() {
-    ifMandatoryFrosty_ = hiLimpCocktail_.toUpperCase() + ifMandatoryFrosty_;
-    weCombustionProbe_ = etHairWoof_ || taCrispOccupy_;
-    if (etHairWoof_ || ayBellTerror_ || taCrispOccupy_) {
-      etHairWoof_ = !ayBellTerror_;
-      ayBellTerror_ = !taCrispOccupy_;
-      taCrispOccupy_ = !etHairWoof_;
-    }
-    goChauffeurCorner_ = 715;
-    abDefileCattle_ = 560;
-    if9Sober_ = goChauffeurCorner_ + abDefileCattle_;
-    if (weCombustionProbe_ || ayBellTerror_ || etHairWoof_) {
-      weCombustionProbe_ = !ayBellTerror_;
-      ayBellTerror_ = !etHairWoof_;
-      etHairWoof_ = !weCombustionProbe_;
-    }
-
-    if (etHairWoof_ || weCombustionProbe_) {
-      weCombustionProbe_ = !weCombustionProbe_;
-    }
-    abDefileCattle_ = 598;
-    goChauffeurCorner_ = 882;
-    if9Sober_ = abDefileCattle_ + goChauffeurCorner_;
-    hiLimpCocktail_ = ifMandatoryFrosty_ + hiLimpCocktail_;
-    ifMandatoryFrosty_ = hiLimpCocktail_.toUpperCase() + ifMandatoryFrosty_;
-
-    goChauffeurCorner_ = 792;
-    abDefileCattle_ = 881;
-    if9Sober_ = goChauffeurCorner_ + abDefileCattle_;
-    hiLimpCocktail_ = hiLimpCocktail_ + ifMandatoryFrosty_;
-    ifMandatoryFrosty_ = hiLimpCocktail_;
-
-    if (taCrispOccupy_ || weCombustionProbe_) {
-      weCombustionProbe_ = !weCombustionProbe_;
-    }
-    etHairWoof_ = weCombustionProbe_ && taCrispOccupy_;
-    if (weCombustionProbe_ && etHairWoof_ && taCrispOccupy_) {
-      weCombustionProbe_ = !weCombustionProbe_;
-      etHairWoof_ = weCombustionProbe_;
-      taCrispOccupy_ = weCombustionProbe_;
-    }
-
-    if (weCombustionProbe_) {
-      etHairWoof_ = !ayBellTerror_;
-    }
+    beHowCelery_ = inExecuteSpray_ && idConcealBlossom_;
   }
 
   @override

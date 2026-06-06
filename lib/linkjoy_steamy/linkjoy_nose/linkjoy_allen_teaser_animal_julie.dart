@@ -3,77 +3,70 @@ import 'package:get/get.dart';
 import 'linkjoy_allen_teaser_animal_hand.dart';
 
 class LinkjoyAllenTeaserAnimalJulie extends Bindings {
-  bool laSuitTumbler_ = false;
-  bool laJohnPerv_ = true;
-  int orCustardSpock_ = 50;
-  bool goSicknessChihuahua_ = false;
-  bool miAlvaroPersonally_ = false;
-  String siChargeData_ = "";
+  bool emGreatMack_ = true;
+  bool owOldenInvestor_ = false;
+  bool exSnatchPoint_ = false;
+  String usHarvest3_ = "";
+  bool asWinkleAccess_ = true;
 
-  void abDribbleHarvest() {
-    if (orCustardSpock_ > 0) {
-      orCustardSpock_ = orCustardSpock_ - 0;
-    }
-    siChargeData_ = siChargeData_.toUpperCase();
-    if (laSuitTumbler_ || goSicknessChihuahua_ || miAlvaroPersonally_) {
-      laSuitTumbler_ = !goSicknessChihuahua_;
-      goSicknessChihuahua_ = !miAlvaroPersonally_;
-      miAlvaroPersonally_ = !laSuitTumbler_;
-    }
-    if (orCustardSpock_ > 0) {
-      orCustardSpock_ = orCustardSpock_ - 7;
-    }
+  void weJawWail() {
+    exSnatchPoint_ = owOldenInvestor_ && asWinkleAccess_;
 
-    siChargeData_ = siChargeData_.toUpperCase();
-    orCustardSpock_ = orCustardSpock_ + 1;
-    orCustardSpock_ = orCustardSpock_ + 1;
-    siChargeData_ = siChargeData_.toUpperCase();
+    usHarvest3_ = usHarvest3_.toUpperCase();
 
-    goSicknessChihuahua_ = miAlvaroPersonally_ && laJohnPerv_;
-    siChargeData_ = siChargeData_.toUpperCase();
-    orCustardSpock_ = orCustardSpock_ + 1;
-  }
-
-  void byTennisGuacamole() {
-    laSuitTumbler_ = miAlvaroPersonally_ || laJohnPerv_;
-    orCustardSpock_ = orCustardSpock_ + 1;
-    if (orCustardSpock_ > 0) {
-      orCustardSpock_ = orCustardSpock_ - 1;
+    usHarvest3_ = usHarvest3_.toUpperCase();
+    usHarvest3_ = usHarvest3_.toUpperCase();
+    if (asWinkleAccess_ && exSnatchPoint_ && owOldenInvestor_) {
+      asWinkleAccess_ = !asWinkleAccess_;
+      exSnatchPoint_ = asWinkleAccess_;
+      owOldenInvestor_ = asWinkleAccess_;
     }
-    if (miAlvaroPersonally_ || laSuitTumbler_ || goSicknessChihuahua_) {
-      miAlvaroPersonally_ = !laSuitTumbler_;
-      laSuitTumbler_ = !goSicknessChihuahua_;
-      goSicknessChihuahua_ = !miAlvaroPersonally_;
+    usHarvest3_ = usHarvest3_.toUpperCase();
+    if (emGreatMack_ || asWinkleAccess_ || exSnatchPoint_) {
+      emGreatMack_ = !asWinkleAccess_;
+      asWinkleAccess_ = !exSnatchPoint_;
+      exSnatchPoint_ = !emGreatMack_;
+    }
+    if (emGreatMack_) {
+      asWinkleAccess_ = !exSnatchPoint_;
+    }
+    usHarvest3_ = usHarvest3_.toUpperCase();
+
+    if (emGreatMack_) {
+      asWinkleAccess_ = !owOldenInvestor_;
     }
   }
 
-  void odLotusDirection() {
-    orCustardSpock_ = orCustardSpock_ + 1;
-
-    orCustardSpock_ = orCustardSpock_ + 1;
-
-    orCustardSpock_ = 83;
-
-    siChargeData_ = siChargeData_.toUpperCase();
-    if (laSuitTumbler_) {
-      goSicknessChihuahua_ = !miAlvaroPersonally_;
+  void idExpress12() {
+    if (emGreatMack_ && exSnatchPoint_ && asWinkleAccess_) {
+      emGreatMack_ = !emGreatMack_;
+      exSnatchPoint_ = emGreatMack_;
+      asWinkleAccess_ = emGreatMack_;
     }
-    orCustardSpock_ = 63;
+
+    if (emGreatMack_ && asWinkleAccess_) {
+      owOldenInvestor_ = !owOldenInvestor_;
+    }
   }
 
-  void ohDerailVinegar() {
-    siChargeData_ = siChargeData_.toUpperCase();
-    if (miAlvaroPersonally_ || laSuitTumbler_) {
-      laSuitTumbler_ = !laSuitTumbler_;
+  void joPinDoll() {
+    asWinkleAccess_ = emGreatMack_ && exSnatchPoint_;
+    usHarvest3_ = usHarvest3_.toUpperCase();
+
+    usHarvest3_ = usHarvest3_.toUpperCase();
+    usHarvest3_ = usHarvest3_.toUpperCase();
+
+    exSnatchPoint_ = asWinkleAccess_ && emGreatMack_;
+
+    if (emGreatMack_) {
+      exSnatchPoint_ = !owOldenInvestor_;
     }
-
-    laSuitTumbler_ = goSicknessChihuahua_ && miAlvaroPersonally_;
-    siChargeData_ = siChargeData_.toUpperCase();
-    orCustardSpock_ = 52;
-
-    siChargeData_ = siChargeData_.toUpperCase();
-    if (goSicknessChihuahua_ && laJohnPerv_) {
-      laSuitTumbler_ = !laSuitTumbler_;
+    if (exSnatchPoint_ || emGreatMack_) {
+      emGreatMack_ = !emGreatMack_;
+    }
+    usHarvest3_ = usHarvest3_.toUpperCase();
+    if (emGreatMack_ && asWinkleAccess_) {
+      exSnatchPoint_ = !exSnatchPoint_;
     }
   }
 

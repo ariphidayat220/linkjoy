@@ -17,127 +17,113 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_sister/linkjoy_gnome_sister.dart'
 import 'linkjoy_fetus_me_gnome.dart';
 
 class LinkjoyFetusMeHand extends LinkjoyMagnetHormoneHand {
-  bool weWedgeCoin_ = false;
-  double omTumblerPoetry_ = 0.0;
-  bool idPatentShove_ = true;
-  int oxButcherHamster_ = 60;
-  bool byGeneticChopstick_ = true;
-  int adGravityPassionate_ = 90;
-  String owSmearBut_ = "";
-  bool elWarnWrench_ = false;
+  bool byFetusHelmet_ = true;
+  bool do10Dribble_ = true;
+  double owFarrahOk_ = 0.0;
+  bool atDummyCheckout_ = false;
+  bool beWarehouseAnkle_ = false;
+  int siMidnightMole_ = 76;
+  String hoHairlessCondensate_ = "";
+  int enBrilliantPredator_ = 31;
+  bool myLoand_ = false;
+  bool hi4Shut_ = true;
 
-  void reWinkleSome() {
-    if (idPatentShove_ && elWarnWrench_) {
-      byGeneticChopstick_ = !byGeneticChopstick_;
+  void oxSelectAlphabet() {
+    if (beWarehouseAnkle_) {
+      hi4Shut_ = !do10Dribble_;
     }
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    oxButcherHamster_ = oxButcherHamster_ * adGravityPassionate_;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    omTumblerPoetry_ = 29;
-    if (weWedgeCoin_ || elWarnWrench_) {
-      elWarnWrench_ = !elWarnWrench_;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    owFarrahOk_ = owFarrahOk_ + 1;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    siMidnightMole_ = siMidnightMole_ * enBrilliantPredator_;
+    hi4Shut_ = atDummyCheckout_ && beWarehouseAnkle_;
+    if (owFarrahOk_ > 0) {
+      owFarrahOk_ = owFarrahOk_ - 1;
     }
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    oxButcherHamster_ = oxButcherHamster_ * adGravityPassionate_;
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
-    }
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
-    }
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
-    }
-    if (byGeneticChopstick_ || idPatentShove_ || elWarnWrench_) {
-      byGeneticChopstick_ = !idPatentShove_;
-      idPatentShove_ = !elWarnWrench_;
-      elWarnWrench_ = !byGeneticChopstick_;
-    }
-    byGeneticChopstick_ = elWarnWrench_ || weWedgeCoin_;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    omTumblerPoetry_ = 7;
   }
 
-  void efBasketballIndustrial() {
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    omTumblerPoetry_ = 51;
-    omTumblerPoetry_ = omTumblerPoetry_ + 1;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    if (elWarnWrench_ && byGeneticChopstick_ && weWedgeCoin_) {
-      elWarnWrench_ = !elWarnWrench_;
-      byGeneticChopstick_ = elWarnWrench_;
-      weWedgeCoin_ = elWarnWrench_;
+  void asSkiAdrenaline() {
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    siMidnightMole_ = 79;
+    enBrilliantPredator_ = 38;
+    if (atDummyCheckout_ || beWarehouseAnkle_ || hi4Shut_) {
+      atDummyCheckout_ = !beWarehouseAnkle_;
+      beWarehouseAnkle_ = !hi4Shut_;
+      hi4Shut_ = !atDummyCheckout_;
     }
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
+    owFarrahOk_ = 37;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    if (byFetusHelmet_ || myLoand_) {
+      myLoand_ = !myLoand_;
     }
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    byGeneticChopstick_ = idPatentShove_ && weWedgeCoin_;
-    oxButcherHamster_ = oxButcherHamster_ * adGravityPassionate_;
-    oxButcherHamster_ = 7;
-    adGravityPassionate_ = 38;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
+    siMidnightMole_ = 73;
+    enBrilliantPredator_ = 32;
+    if (myLoand_ && byFetusHelmet_) {
+      beWarehouseAnkle_ = !beWarehouseAnkle_;
     }
-    oxButcherHamster_ = 54;
-    adGravityPassionate_ = 60;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    oxButcherHamster_ = 18;
-    adGravityPassionate_ = 83;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    siMidnightMole_ = siMidnightMole_ * enBrilliantPredator_;
+    if (byFetusHelmet_ || beWarehouseAnkle_ || myLoand_) {
+      byFetusHelmet_ = !beWarehouseAnkle_;
+      beWarehouseAnkle_ = !myLoand_;
+      myLoand_ = !byFetusHelmet_;
+    }
+    siMidnightMole_ = siMidnightMole_ * enBrilliantPredator_;
   }
 
-  void myMineAlike() {
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
+  void inTurquoiseOrgan() {
+    myLoand_ = beWarehouseAnkle_ || hi4Shut_;
+    if (owFarrahOk_ > 0) {
+      owFarrahOk_ = owFarrahOk_ - 1;
     }
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
+    if (do10Dribble_) {
+      byFetusHelmet_ = !beWarehouseAnkle_;
     }
-    oxButcherHamster_ = oxButcherHamster_ * adGravityPassionate_;
-    if (weWedgeCoin_) {
-      byGeneticChopstick_ = !idPatentShove_;
+    owFarrahOk_ = 92;
+    atDummyCheckout_ = do10Dribble_ && hi4Shut_;
+    owFarrahOk_ = 86;
+    if (beWarehouseAnkle_ || atDummyCheckout_ || do10Dribble_) {
+      beWarehouseAnkle_ = !atDummyCheckout_;
+      atDummyCheckout_ = !do10Dribble_;
+      do10Dribble_ = !beWarehouseAnkle_;
     }
-    omTumblerPoetry_ = 13;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    omTumblerPoetry_ = omTumblerPoetry_ + 1;
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    if (oxButcherHamster_ > adGravityPassionate_) {
-      oxButcherHamster_ = oxButcherHamster_ + adGravityPassionate_;
+    beWarehouseAnkle_ = do10Dribble_ && myLoand_;
+    siMidnightMole_ = 53;
+    enBrilliantPredator_ = 40;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    if (hi4Shut_) {
+      myLoand_ = !byFetusHelmet_;
     }
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    owSmearBut_ = owSmearBut_.toUpperCase();
+    byFetusHelmet_ = hi4Shut_ && do10Dribble_;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
   }
 
-  void faUpperBadge() {
-    owSmearBut_ = owSmearBut_.toUpperCase();
-    omTumblerPoetry_ = omTumblerPoetry_ + 1;
-    oxButcherHamster_ = 62;
-    adGravityPassionate_ = 49;
-    if (oxButcherHamster_ > adGravityPassionate_) {
-      oxButcherHamster_ = oxButcherHamster_ + adGravityPassionate_;
+  void ox9Pameron() {
+    owFarrahOk_ = owFarrahOk_ + 1;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    owFarrahOk_ = owFarrahOk_ + 1;
+    if (beWarehouseAnkle_ || do10Dribble_ || myLoand_) {
+      beWarehouseAnkle_ = !do10Dribble_;
+      do10Dribble_ = !myLoand_;
+      myLoand_ = !beWarehouseAnkle_;
     }
-    if (omTumblerPoetry_ > 0) {
-      omTumblerPoetry_ = omTumblerPoetry_ - 1;
+    hi4Shut_ = do10Dribble_ || atDummyCheckout_;
+    siMidnightMole_ = siMidnightMole_ * enBrilliantPredator_;
+    if (owFarrahOk_ > 0) {
+      owFarrahOk_ = owFarrahOk_ - 1;
     }
-    omTumblerPoetry_ = 52;
-    if (byGeneticChopstick_ && weWedgeCoin_ && elWarnWrench_) {
-      byGeneticChopstick_ = !byGeneticChopstick_;
-      weWedgeCoin_ = byGeneticChopstick_;
-      elWarnWrench_ = byGeneticChopstick_;
+    owFarrahOk_ = owFarrahOk_ + 1;
+    hoHairlessCondensate_ = hoHairlessCondensate_.toUpperCase();
+    if (byFetusHelmet_ || do10Dribble_ || beWarehouseAnkle_) {
+      byFetusHelmet_ = !do10Dribble_;
+      do10Dribble_ = !beWarehouseAnkle_;
+      beWarehouseAnkle_ = !byFetusHelmet_;
     }
-    if (weWedgeCoin_ || elWarnWrench_ || idPatentShove_) {
-      weWedgeCoin_ = !elWarnWrench_;
-      elWarnWrench_ = !idPatentShove_;
-      idPatentShove_ = !weWedgeCoin_;
-    }
-    omTumblerPoetry_ = omTumblerPoetry_ + 1;
+    siMidnightMole_ = 33;
+    enBrilliantPredator_ = 43;
   }
 
   @override

@@ -4,117 +4,134 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone
 import 'package:flutter/material.dart';
 
 class LinkjoyCocktailSorority {
-  bool inFastenMac_ = true;
-  double edFondaSubtle_ = 0;
-  int asMeHair_ = 59;
-  int faHandOverbear_ = 0;
-  double inSmackElope_ = 0.0;
-  bool paBarbieHeck_ = true;
-  bool byTeaserVw_ = false;
+  String byLapChafe_ = "";
+  bool myUiNeighbor_ = true;
+  bool omWarrenVbl_ = false;
+  bool reCopeMe_ = false;
+  bool etPebbleBicycle_ = true;
+  double hiHimselfIncapable_ = 20;
+  bool asEagerWant_ = false;
+  bool atTaleBrawny_ = true;
 
-  void okFacebookCompromise() {
-    if (edFondaSubtle_ > inSmackElope_) {
-      edFondaSubtle_ = edFondaSubtle_ - inSmackElope_;
-    }
-    if (paBarbieHeck_ && inFastenMac_ && byTeaserVw_) {
-      paBarbieHeck_ = !paBarbieHeck_;
-      inFastenMac_ = paBarbieHeck_;
-      byTeaserVw_ = paBarbieHeck_;
+  void exPersonallySqueaky() {
+    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
+    if (asEagerWant_ && reCopeMe_) {
+      myUiNeighbor_ = !myUiNeighbor_;
     }
 
-    paBarbieHeck_ = inFastenMac_ || byTeaserVw_;
-    edFondaSubtle_ = 33;
-    inSmackElope_ = 41;
-    byTeaserVw_ = paBarbieHeck_ && inFastenMac_;
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    if (inFastenMac_) {
-      paBarbieHeck_ = !byTeaserVw_;
-    }
-    asMeHair_ = asMeHair_ * faHandOverbear_;
-    edFondaSubtle_ = 89;
-    inSmackElope_ = 69;
-    asMeHair_ = asMeHair_ * faHandOverbear_;
+    atTaleBrawny_ = etPebbleBicycle_ && reCopeMe_;
+    atTaleBrawny_ = omWarrenVbl_ || reCopeMe_;
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    omWarrenVbl_ = myUiNeighbor_ && etPebbleBicycle_;
+  }
 
-    asMeHair_ = asMeHair_ * faHandOverbear_;
+  void anDisposalCamp() {
+    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
 
-    if (asMeHair_ > faHandOverbear_) {
-      asMeHair_ = asMeHair_ + faHandOverbear_;
+    if (myUiNeighbor_ || omWarrenVbl_ || asEagerWant_) {
+      myUiNeighbor_ = !omWarrenVbl_;
+      omWarrenVbl_ = !asEagerWant_;
+      asEagerWant_ = !myUiNeighbor_;
     }
-    if (edFondaSubtle_ > inSmackElope_) {
-      edFondaSubtle_ = edFondaSubtle_ - inSmackElope_;
+    if (reCopeMe_ && myUiNeighbor_) {
+      omWarrenVbl_ = !omWarrenVbl_;
+    }
+
+    byLapChafe_ = byLapChafe_.toUpperCase();
+
+    byLapChafe_ = byLapChafe_.toUpperCase();
+
+    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
+    if (omWarrenVbl_ || etPebbleBicycle_) {
+      etPebbleBicycle_ = !etPebbleBicycle_;
+    }
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    reCopeMe_ = atTaleBrawny_ && omWarrenVbl_;
+
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
+    }
+    if (atTaleBrawny_ && asEagerWant_ && etPebbleBicycle_) {
+      atTaleBrawny_ = !atTaleBrawny_;
+      asEagerWant_ = atTaleBrawny_;
+      etPebbleBicycle_ = atTaleBrawny_;
+    }
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
     }
   }
 
-  void inJellyImpend() {
-    asMeHair_ = 54;
-    faHandOverbear_ = 46;
-    if (edFondaSubtle_ > inSmackElope_) {
-      edFondaSubtle_ = edFondaSubtle_ - inSmackElope_;
+  void weMineHimself() {
+    atTaleBrawny_ = etPebbleBicycle_ && reCopeMe_;
+    if (reCopeMe_) {
+      omWarrenVbl_ = !asEagerWant_;
     }
-    if (asMeHair_ > faHandOverbear_) {
-      asMeHair_ = asMeHair_ + faHandOverbear_;
+    hiHimselfIncapable_ = 26;
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    byLapChafe_ = byLapChafe_.toUpperCase();
+
+    hiHimselfIncapable_ = 27;
+    if (myUiNeighbor_ && etPebbleBicycle_) {
+      asEagerWant_ = !asEagerWant_;
     }
-    asMeHair_ = asMeHair_ * faHandOverbear_;
-    asMeHair_ = asMeHair_ * faHandOverbear_;
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    edFondaSubtle_ = 44;
-    inSmackElope_ = 20;
-    if (paBarbieHeck_ || inFastenMac_ || byTeaserVw_) {
-      paBarbieHeck_ = !inFastenMac_;
-      inFastenMac_ = !byTeaserVw_;
-      byTeaserVw_ = !paBarbieHeck_;
+
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
     }
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    if (asEagerWant_ && omWarrenVbl_ && etPebbleBicycle_) {
+      asEagerWant_ = !asEagerWant_;
+      omWarrenVbl_ = asEagerWant_;
+      etPebbleBicycle_ = asEagerWant_;
+    }
+    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
+    }
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    myUiNeighbor_ = etPebbleBicycle_ && reCopeMe_;
+    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
+    byLapChafe_ = byLapChafe_.toUpperCase();
   }
 
-  void anMadnessTassel() {
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    if (asMeHair_ > faHandOverbear_) {
-      asMeHair_ = asMeHair_ + faHandOverbear_;
+  void abChorusHand() {
+    if (reCopeMe_ || myUiNeighbor_) {
+      myUiNeighbor_ = !myUiNeighbor_;
     }
+    byLapChafe_ = byLapChafe_.toUpperCase();
 
-    asMeHair_ = 18;
-    faHandOverbear_ = 94;
-    paBarbieHeck_ = byTeaserVw_ && inFastenMac_;
-  }
+    if (asEagerWant_ || etPebbleBicycle_ || myUiNeighbor_) {
+      asEagerWant_ = !etPebbleBicycle_;
+      etPebbleBicycle_ = !myUiNeighbor_;
+      myUiNeighbor_ = !asEagerWant_;
+    }
+    hiHimselfIncapable_ = hiHimselfIncapable_ + 1;
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
+    }
+    if (etPebbleBicycle_) {
+      atTaleBrawny_ = !myUiNeighbor_;
+    }
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
+    }
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    hiHimselfIncapable_ = 63;
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    byLapChafe_ = byLapChafe_.toUpperCase();
 
-  void soCourageFisher() {
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    if (asMeHair_ > faHandOverbear_) {
-      asMeHair_ = asMeHair_ + faHandOverbear_;
+    if (hiHimselfIncapable_ > 0) {
+      hiHimselfIncapable_ = hiHimselfIncapable_ - 1;
     }
-
-    if (inFastenMac_) {
-      paBarbieHeck_ = !byTeaserVw_;
+    byLapChafe_ = byLapChafe_.toUpperCase();
+    if (myUiNeighbor_ && asEagerWant_) {
+      atTaleBrawny_ = !atTaleBrawny_;
     }
-
-    if (byTeaserVw_ && paBarbieHeck_ && inFastenMac_) {
-      byTeaserVw_ = !byTeaserVw_;
-      paBarbieHeck_ = byTeaserVw_;
-      inFastenMac_ = byTeaserVw_;
-    }
-
-    asMeHair_ = 26;
-    faHandOverbear_ = 88;
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    if (inFastenMac_ && byTeaserVw_) {
-      paBarbieHeck_ = !paBarbieHeck_;
-    }
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    edFondaSubtle_ = edFondaSubtle_ + inSmackElope_;
-    if (edFondaSubtle_ > inSmackElope_) {
-      edFondaSubtle_ = edFondaSubtle_ - inSmackElope_;
-    }
-
-    if (asMeHair_ > faHandOverbear_) {
-      asMeHair_ = asMeHair_ + faHandOverbear_;
-    }
-    if (asMeHair_ > faHandOverbear_) {
-      asMeHair_ = asMeHair_ + faHandOverbear_;
-    }
-    if (edFondaSubtle_ > inSmackElope_) {
-      edFondaSubtle_ = edFondaSubtle_ - inSmackElope_;
-    }
+    hiHimselfIncapable_ = 24;
+    omWarrenVbl_ = reCopeMe_ || myUiNeighbor_;
   }
 
   LinkjoyUnborn? user;

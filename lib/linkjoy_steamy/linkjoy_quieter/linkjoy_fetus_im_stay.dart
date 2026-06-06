@@ -1,6 +1,5 @@
 import 'dart:async';
 
-import 'package:auto_size_text/auto_size_text.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_torment_hand.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_get.dart';
 import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_flattered.dart';
@@ -63,6 +62,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
 
   @override
   Widget build(BuildContext context) {
+    double itemWidth = (Get.width - LinkjoyGarage.s12 * 2) / 2;
     return Container(
       clipBehavior: Clip.hardEdge,
       margin: EdgeInsets.only(
@@ -87,6 +87,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
             (Get.width - LinkjoyGarage.s12 * 2) / 2 / LinkjoyGarage.s56,
         children: [
           _buildGridMenuItem(
+            itemWidth: itemWidth,
             icon: Icons.contact_page_outlined,
             label: 'linkjoy_caring_torment'.tr,
             iconBgColor: const Color(0xFF1A4A3A),
@@ -106,6 +107,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
           ),
 
           _buildGridMenuItem(
+            itemWidth: itemWidth,
             icon: Icons.person_add_alt_outlined,
             label: 'linkjoy_caring_brunette_boycott'.tr,
             iconBgColor: const Color(0xFF2A3A5A),
@@ -127,6 +129,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
           ),
 
           _buildGridMenuItem(
+            itemWidth: itemWidth,
             icon: Icons.people_outline,
             label: 'linkjoy_caring_massage_shrink'.tr,
             iconBgColor: const Color(0xFF4A2A1A),
@@ -143,6 +146,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
 
           if (LINKJOY.isLinkjoyFoolishly)
             _buildGridMenuItem(
+              itemWidth: itemWidth,
               icon: Icons.heart_broken_outlined,
               label: 'linkjoy_caring_john_pound_me'.tr,
               iconBgColor: LinkjoyAve.primaryDark,
@@ -162,6 +166,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
 
           if (!LINKJOY.isLinkjoyFoolishly)
             _buildGridMenuItem(
+              itemWidth: itemWidth,
               icon: Icons.history,
               label: 'linkjoy_caring_wart'.tr,
               iconBgColor: const Color(0xFF3A2A5A),
@@ -180,6 +185,7 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
   }
 
   Widget _buildGridMenuItem({
+    required double itemWidth,
     required IconData icon,
     required String label,
     required Color iconBgColor,
@@ -190,9 +196,11 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
     return InkWell(
       onTap: action,
       child: Container(
+        alignment: AlignmentDirectional.centerStart,
         padding: EdgeInsets.symmetric(horizontal: LinkjoyGarage.s12),
         color: LinkjoyAve.surfaceBlock.withValues(alpha: 0.1),
         child: Row(
+          mainAxisAlignment: MainAxisAlignment.start,
           children: [
             LinkjoyWear.circle(
               icon,
@@ -201,10 +209,18 @@ class _LinkjoyFetusImStayStatus extends State<LinkjoyFetusImStay> {
               iconColor: iconColor,
             ).badge(badge > 0 ? "" : null),
             SizedBox(width: LinkjoyGarage.s4),
-            AutoSizeText(
-              label,
-              style: LinkjoyMarshaTriplet.bodySecondary,
-              maxLines: 1,
+            SizedBox(
+              width: itemWidth - LinkjoyGarage.s72,
+              child: FittedBox(
+                alignment: AlignmentDirectional.centerStart,
+                fit: BoxFit.scaleDown,
+                child: Text(
+                  label,
+                  style: LinkjoyMarshaTriplet.bodySecondary,
+                  maxLines: 1,
+                  textAlign: TextAlign.start,
+                ),
+              ),
             ),
           ],
         ),

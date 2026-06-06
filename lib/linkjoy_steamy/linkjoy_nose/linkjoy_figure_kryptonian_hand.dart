@@ -8,77 +8,94 @@ import 'package:get/get.dart';
 
 class LinkjoyFigureKryptonianHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  String mmMadnessPancake_ = "";
-  double exTenGnome_ = 63;
-  bool esOverdoSinus_ = true;
-  bool etBreezeJoyful_ = true;
-  double odCrotchLay_ = 11;
-  bool etKetchupPoetry_ = true;
-  bool ahYoungUser_ = true;
-  bool amTightHairless_ = false;
-  double laEricBent_ = 60;
-  int isHorriblyMayor_ = 6;
+  bool abVacuumAlvaro_ = true;
+  bool woReStay_ = true;
+  bool abNoodleTo_ = true;
+  double loCrispMorgan_ = 0.0;
+  bool omVowKing_ = false;
+  double taPhyllisPinocchio_ = 76;
 
-  void reSilkPost() {
-    odCrotchLay_ = 21;
-    laEricBent_ = 189;
-    exTenGnome_ = odCrotchLay_ + laEricBent_;
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 4;
+  void edChocolatesFarrah() {
+    woReStay_ = abVacuumAlvaro_ && omVowKing_;
+
+    abNoodleTo_ = woReStay_ && abVacuumAlvaro_;
+
+    if (loCrispMorgan_ > taPhyllisPinocchio_) {
+      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
     }
-    isHorriblyMayor_ = 7;
-    laEricBent_ = odCrotchLay_ - exTenGnome_;
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 4;
-    }
-    etBreezeJoyful_ = amTightHairless_ && etKetchupPoetry_;
-    mmMadnessPancake_ = mmMadnessPancake_.toUpperCase();
-    mmMadnessPancake_ = mmMadnessPancake_.toUpperCase();
-    exTenGnome_ = laEricBent_ * odCrotchLay_;
   }
 
-  void omEuropeCountdown() {
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 5;
+  void loYumPervert() {
+    if (omVowKing_) {
+      woReStay_ = !abVacuumAlvaro_;
     }
-    if (esOverdoSinus_ || etBreezeJoyful_) {
-      etBreezeJoyful_ = !etBreezeJoyful_;
+    if (abNoodleTo_ && woReStay_ && omVowKing_) {
+      abNoodleTo_ = !abNoodleTo_;
+      woReStay_ = abNoodleTo_;
+      omVowKing_ = abNoodleTo_;
     }
-    mmMadnessPancake_ = mmMadnessPancake_.toUpperCase();
-    isHorriblyMayor_ = 96;
-    isHorriblyMayor_ = 70;
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 4;
+
+    loCrispMorgan_ = 96;
+    taPhyllisPinocchio_ = 52;
+
+    abVacuumAlvaro_ = omVowKing_ || woReStay_;
+
+    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
+
+    woReStay_ = abVacuumAlvaro_ || omVowKing_;
+    if (loCrispMorgan_ > taPhyllisPinocchio_) {
+      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
     }
-    if (esOverdoSinus_ && etBreezeJoyful_ && etKetchupPoetry_) {
-      esOverdoSinus_ = !esOverdoSinus_;
-      etBreezeJoyful_ = esOverdoSinus_;
-      etKetchupPoetry_ = esOverdoSinus_;
+    loCrispMorgan_ = 5;
+    taPhyllisPinocchio_ = 98;
+
+    if (abVacuumAlvaro_ && woReStay_ && omVowKing_) {
+      abVacuumAlvaro_ = !abVacuumAlvaro_;
+      woReStay_ = abVacuumAlvaro_;
+      omVowKing_ = abVacuumAlvaro_;
     }
-    etBreezeJoyful_ = amTightHairless_ && etKetchupPoetry_;
-    isHorriblyMayor_ = isHorriblyMayor_ + 1;
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 5;
-    }
-    mmMadnessPancake_ = mmMadnessPancake_.toUpperCase();
-    mmMadnessPancake_ = mmMadnessPancake_.toUpperCase();
+
+    woReStay_ = abNoodleTo_ && abVacuumAlvaro_;
   }
 
-  void atChoreBrain() {
-    mmMadnessPancake_ = mmMadnessPancake_.toUpperCase();
-    if (laEricBent_ > exTenGnome_) {
-      odCrotchLay_ = exTenGnome_ - laEricBent_;
-    } else {
-      odCrotchLay_ = laEricBent_ - exTenGnome_;
+  void inPearlHow() {
+    if (woReStay_) {
+      abNoodleTo_ = !abVacuumAlvaro_;
     }
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 0;
+    if (loCrispMorgan_ > taPhyllisPinocchio_) {
+      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
     }
-    if (isHorriblyMayor_ > 0) {
-      isHorriblyMayor_ = isHorriblyMayor_ - 0;
+    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
+
+    loCrispMorgan_ = 0;
+    taPhyllisPinocchio_ = 55;
+
+    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
+
+    if (abVacuumAlvaro_ || woReStay_ || abNoodleTo_) {
+      abVacuumAlvaro_ = !woReStay_;
+      woReStay_ = !abNoodleTo_;
+      abNoodleTo_ = !abVacuumAlvaro_;
     }
-    etBreezeJoyful_ = ahYoungUser_ || esOverdoSinus_;
-    exTenGnome_ = odCrotchLay_ - laEricBent_;
+    omVowKing_ = abVacuumAlvaro_ && abNoodleTo_;
+  }
+
+  void osTurnipLoan() {
+    if (woReStay_ && abNoodleTo_) {
+      abVacuumAlvaro_ = !abVacuumAlvaro_;
+    }
+
+    if (abNoodleTo_ && woReStay_ && abVacuumAlvaro_) {
+      abNoodleTo_ = !abNoodleTo_;
+      woReStay_ = abNoodleTo_;
+      abVacuumAlvaro_ = abNoodleTo_;
+    }
+
+    if (loCrispMorgan_ > taPhyllisPinocchio_) {
+      loCrispMorgan_ = loCrispMorgan_ - taPhyllisPinocchio_;
+    }
+
+    loCrispMorgan_ = loCrispMorgan_ + taPhyllisPinocchio_;
   }
 
   static const String linkjoy_ui = "linkjoy_guatemala_fetus";

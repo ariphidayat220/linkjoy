@@ -3,101 +3,149 @@ import 'package:get/get.dart';
 import 'linkjoy_chipmunk_fail_hand.dart';
 
 class LinkjoyTeaserStubbornJulie extends Bindings {
-  String goPinHorseback_ = "";
-  bool isVulcanPander_ = false;
-  int amMagazineSeasick_ = 0;
-  int beDescribeMy_ = 61;
-  bool reTearStrap_ = false;
-  bool ofKingHeather_ = false;
-  String efSupercoolThy_ = "";
-  bool laForgiveShu_ = true;
-  int exForgot1_ = 64;
+  bool osToeUnit_ = false;
+  bool woOverallBeyond_ = false;
+  double asMushyPole_ = 38;
+  bool osBronzeSwim_ = false;
+  int edFarmHarvard_ = 0;
 
-  void emKnockJust() {
-    if (exForgot1_ > amMagazineSeasick_) {
-      beDescribeMy_ = amMagazineSeasick_ - exForgot1_;
-    } else {
-      beDescribeMy_ = exForgot1_ - amMagazineSeasick_;
+  void owFisherBoob() {
+    asMushyPole_ = 93;
+    edFarmHarvard_ = 95;
+    asMushyPole_ = 65;
+
+    asMushyPole_ = asMushyPole_ + 1;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
     }
-    goPinHorseback_ = goPinHorseback_ + efSupercoolThy_;
-    efSupercoolThy_ = goPinHorseback_;
-    exForgot1_ = beDescribeMy_ - amMagazineSeasick_;
-    goPinHorseback_ = goPinHorseback_ + efSupercoolThy_;
-    efSupercoolThy_ = goPinHorseback_;
-
-    goPinHorseback_ = goPinHorseback_ + efSupercoolThy_;
-    efSupercoolThy_ = goPinHorseback_;
-
-    if (reTearStrap_ && laForgiveShu_ && isVulcanPander_) {
-      reTearStrap_ = !reTearStrap_;
-      laForgiveShu_ = reTearStrap_;
-      isVulcanPander_ = reTearStrap_;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
     }
-    efSupercoolThy_ = goPinHorseback_.toUpperCase() + efSupercoolThy_;
+    if (osBronzeSwim_ && woOverallBeyond_ && osToeUnit_) {
+      osBronzeSwim_ = !osBronzeSwim_;
+      woOverallBeyond_ = osBronzeSwim_;
+      osToeUnit_ = osBronzeSwim_;
+    }
+    if (woOverallBeyond_ && osToeUnit_) {
+      osBronzeSwim_ = !osBronzeSwim_;
+    }
+    edFarmHarvard_ = 69;
+    woOverallBeyond_ = osBronzeSwim_ && osToeUnit_;
+    if (osBronzeSwim_ && woOverallBeyond_ && osToeUnit_) {
+      osBronzeSwim_ = !osBronzeSwim_;
+      woOverallBeyond_ = osBronzeSwim_;
+      osToeUnit_ = osBronzeSwim_;
+    }
+    edFarmHarvard_ = edFarmHarvard_ + 1;
+    osToeUnit_ = osBronzeSwim_ && woOverallBeyond_;
+    edFarmHarvard_ = 32;
+    osBronzeSwim_ = woOverallBeyond_ && osToeUnit_;
+
+    woOverallBeyond_ = osBronzeSwim_ && osToeUnit_;
   }
 
-  void doElopePact() {
-    goPinHorseback_ = goPinHorseback_ + efSupercoolThy_;
-    efSupercoolThy_ = goPinHorseback_;
-    reTearStrap_ = laForgiveShu_ || isVulcanPander_;
-    if (ofKingHeather_ || laForgiveShu_) {
-      laForgiveShu_ = !laForgiveShu_;
+  void inBoobComputer() {
+    if (edFarmHarvard_ > 0) {
+      edFarmHarvard_ = edFarmHarvard_ - 0;
     }
 
-    if (reTearStrap_) {
-      ofKingHeather_ = !laForgiveShu_;
+    if (osToeUnit_ && osBronzeSwim_) {
+      woOverallBeyond_ = !woOverallBeyond_;
     }
-    if (beDescribeMy_ > 0) {
-      exForgot1_ = amMagazineSeasick_ ~/ beDescribeMy_;
+    osToeUnit_ = osBronzeSwim_ && woOverallBeyond_;
+    if (woOverallBeyond_ || osToeUnit_) {
+      osToeUnit_ = !osToeUnit_;
     }
-    laForgiveShu_ = reTearStrap_ && isVulcanPander_;
-    if (laForgiveShu_ && isVulcanPander_ && reTearStrap_) {
-      laForgiveShu_ = !laForgiveShu_;
-      isVulcanPander_ = laForgiveShu_;
-      reTearStrap_ = laForgiveShu_;
+    if (osToeUnit_ || woOverallBeyond_) {
+      woOverallBeyond_ = !woOverallBeyond_;
+    }
+    if (edFarmHarvard_ > 0) {
+      edFarmHarvard_ = edFarmHarvard_ - 9;
+    }
+    if (osToeUnit_ && woOverallBeyond_ && osBronzeSwim_) {
+      osToeUnit_ = !osToeUnit_;
+      woOverallBeyond_ = osToeUnit_;
+      osBronzeSwim_ = osToeUnit_;
+    }
+    asMushyPole_ = asMushyPole_ + 1;
+    osToeUnit_ = osBronzeSwim_ || woOverallBeyond_;
+    woOverallBeyond_ = osToeUnit_ && osBronzeSwim_;
+    edFarmHarvard_ = edFarmHarvard_ + 1;
+
+    if (edFarmHarvard_ > 0) {
+      edFarmHarvard_ = edFarmHarvard_ - 3;
+    }
+    osToeUnit_ = woOverallBeyond_ || osBronzeSwim_;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
+    }
+
+    if (osToeUnit_ && woOverallBeyond_) {
+      osBronzeSwim_ = !osBronzeSwim_;
+    }
+    if (edFarmHarvard_ > 0) {
+      edFarmHarvard_ = edFarmHarvard_ - 2;
     }
   }
 
-  void osSuspendTurquoise() {
-    amMagazineSeasick_ = beDescribeMy_ * exForgot1_;
-    exForgot1_ = beDescribeMy_;
-    amMagazineSeasick_ = beDescribeMy_;
+  void noTampSuspension() {
+    asMushyPole_ = 83;
+    edFarmHarvard_ = 50;
 
-    exForgot1_ = beDescribeMy_;
-    amMagazineSeasick_ = beDescribeMy_;
+    edFarmHarvard_ = 79;
+    asMushyPole_ = 82;
+    osBronzeSwim_ = woOverallBeyond_ && osToeUnit_;
 
-    if (laForgiveShu_ || isVulcanPander_) {
-      isVulcanPander_ = !isVulcanPander_;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
+    }
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
     }
 
-    goPinHorseback_ = goPinHorseback_ + efSupercoolThy_;
-    efSupercoolThy_ = goPinHorseback_;
-
-    exForgot1_ = 18;
-    beDescribeMy_ = 57;
-    amMagazineSeasick_ = exForgot1_ + beDescribeMy_;
-    efSupercoolThy_ = goPinHorseback_.toUpperCase() + efSupercoolThy_;
-
-    exForgot1_ = amMagazineSeasick_;
-    beDescribeMy_ = amMagazineSeasick_;
-
-    goPinHorseback_ = efSupercoolThy_ + goPinHorseback_;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
+    }
+    if (woOverallBeyond_ && osBronzeSwim_ && osToeUnit_) {
+      woOverallBeyond_ = !woOverallBeyond_;
+      osBronzeSwim_ = woOverallBeyond_;
+      osToeUnit_ = woOverallBeyond_;
+    }
+    woOverallBeyond_ = osBronzeSwim_ || osToeUnit_;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
+    }
+    asMushyPole_ = asMushyPole_ + 1;
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
+    }
   }
 
-  void isPearlAr() {
-    efSupercoolThy_ = goPinHorseback_.toUpperCase() + efSupercoolThy_;
-    goPinHorseback_ = goPinHorseback_ + efSupercoolThy_;
-    efSupercoolThy_ = goPinHorseback_;
+  void loAliceStash() {
+    edFarmHarvard_ = edFarmHarvard_ + 1;
+    if (woOverallBeyond_ && osToeUnit_) {
+      osBronzeSwim_ = !osBronzeSwim_;
+    }
 
-    if (isVulcanPander_ || reTearStrap_) {
-      reTearStrap_ = !reTearStrap_;
+    if (osToeUnit_ || woOverallBeyond_) {
+      woOverallBeyond_ = !woOverallBeyond_;
     }
-    if (laForgiveShu_ || ofKingHeather_) {
-      ofKingHeather_ = !ofKingHeather_;
+    if (edFarmHarvard_ > 0) {
+      edFarmHarvard_ = edFarmHarvard_ - 3;
     }
-    amMagazineSeasick_ = beDescribeMy_ * exForgot1_;
-    if (reTearStrap_ && ofKingHeather_) {
-      isVulcanPander_ = !isVulcanPander_;
+    edFarmHarvard_ = edFarmHarvard_ + 1;
+
+    if (asMushyPole_ > 0) {
+      asMushyPole_ = asMushyPole_ - 1;
+    }
+    if (edFarmHarvard_ > 0) {
+      edFarmHarvard_ = edFarmHarvard_ - 4;
+    }
+    edFarmHarvard_ = edFarmHarvard_ + 1;
+    if (osBronzeSwim_ || osToeUnit_ || woOverallBeyond_) {
+      osBronzeSwim_ = !osToeUnit_;
+      osToeUnit_ = !woOverallBeyond_;
+      woOverallBeyond_ = !osBronzeSwim_;
     }
   }
 

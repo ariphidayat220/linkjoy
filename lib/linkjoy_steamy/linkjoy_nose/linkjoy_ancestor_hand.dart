@@ -40,116 +40,45 @@ import 'linkjoy_ancestor_green_gnome.dart';
 enum ChatLoadDirection { normal, history }
 
 class LinkjoyAncestorHand extends LinkjoyMagnetHormoneHand {
-  String adPinocchioIs_ = "";
-  bool hiNelsonSkintight_ = true;
-  bool byStewartPressure_ = false;
-  int hiEggsMac_ = 0;
-  String haCapacityDummy_ = "";
-  bool mmUnlikableC1_ = true;
-  bool opFlipAmerica_ = true;
+  String amWaterfallSoftener_ = "";
+  bool heStashBonjour_ = true;
+  bool taFourthMost_ = true;
+  bool siPlaceboBeyond_ = true;
 
-  void ofShockChauffeur() {
-    adPinocchioIs_ = adPinocchioIs_ + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_;
-    hiEggsMac_ = hiEggsMac_ + 1;
+  void haIntolerantChemistry() {
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
 
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
-    if (hiEggsMac_ > 0) {
-      hiEggsMac_ = hiEggsMac_ - 6;
-    }
-    hiEggsMac_ = hiEggsMac_ + 1;
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
-    adPinocchioIs_ = adPinocchioIs_ + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_;
-    if (hiNelsonSkintight_ || opFlipAmerica_ || mmUnlikableC1_) {
-      hiNelsonSkintight_ = !opFlipAmerica_;
-      opFlipAmerica_ = !mmUnlikableC1_;
-      mmUnlikableC1_ = !hiNelsonSkintight_;
-    }
-    if (byStewartPressure_ && mmUnlikableC1_ && hiNelsonSkintight_) {
-      byStewartPressure_ = !byStewartPressure_;
-      mmUnlikableC1_ = byStewartPressure_;
-      hiNelsonSkintight_ = byStewartPressure_;
-    }
-    hiEggsMac_ = 59;
+    taFourthMost_ = heStashBonjour_ && siPlaceboBeyond_;
 
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
 
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
+    siPlaceboBeyond_ = taFourthMost_ && heStashBonjour_;
   }
 
-  void faObviouslyHarvest() {
-    haCapacityDummy_ = adPinocchioIs_.toUpperCase() + haCapacityDummy_;
-    if (hiNelsonSkintight_ && opFlipAmerica_ && byStewartPressure_) {
-      hiNelsonSkintight_ = !hiNelsonSkintight_;
-      opFlipAmerica_ = hiNelsonSkintight_;
-      byStewartPressure_ = hiNelsonSkintight_;
+  void laAnymoreStatue() {
+    heStashBonjour_ = taFourthMost_ || siPlaceboBeyond_;
+    if (taFourthMost_ || siPlaceboBeyond_) {
+      siPlaceboBeyond_ = !siPlaceboBeyond_;
+    }
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    taFourthMost_ = heStashBonjour_ && siPlaceboBeyond_;
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
+    if (taFourthMost_ && heStashBonjour_ && siPlaceboBeyond_) {
+      taFourthMost_ = !taFourthMost_;
+      heStashBonjour_ = taFourthMost_;
+      siPlaceboBeyond_ = taFourthMost_;
     }
 
-    if (mmUnlikableC1_ || opFlipAmerica_ || byStewartPressure_) {
-      mmUnlikableC1_ = !opFlipAmerica_;
-      opFlipAmerica_ = !byStewartPressure_;
-      byStewartPressure_ = !mmUnlikableC1_;
-    }
-    byStewartPressure_ = hiNelsonSkintight_ && opFlipAmerica_;
-
-    adPinocchioIs_ = adPinocchioIs_ + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_;
-    if (hiNelsonSkintight_ && opFlipAmerica_ && byStewartPressure_) {
-      hiNelsonSkintight_ = !hiNelsonSkintight_;
-      opFlipAmerica_ = hiNelsonSkintight_;
-      byStewartPressure_ = hiNelsonSkintight_;
-    }
-
-    hiEggsMac_ = 64;
-    if (byStewartPressure_ && opFlipAmerica_ && mmUnlikableC1_) {
-      byStewartPressure_ = !byStewartPressure_;
-      opFlipAmerica_ = byStewartPressure_;
-      mmUnlikableC1_ = byStewartPressure_;
-    }
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
   }
 
-  void loPerkPrint() {
-    hiEggsMac_ = hiEggsMac_ + 1;
-    hiEggsMac_ = 14;
-    hiEggsMac_ = 15;
-    hiEggsMac_ = hiEggsMac_ + 1;
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
-    hiEggsMac_ = hiEggsMac_ + 1;
-    if (opFlipAmerica_ && mmUnlikableC1_ && byStewartPressure_) {
-      opFlipAmerica_ = !opFlipAmerica_;
-      mmUnlikableC1_ = opFlipAmerica_;
-      byStewartPressure_ = opFlipAmerica_;
-    }
-    adPinocchioIs_ = adPinocchioIs_ + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_;
+  void faEricSickness() {
+    taFourthMost_ = heStashBonjour_ && siPlaceboBeyond_;
 
-    hiEggsMac_ = 49;
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
-    adPinocchioIs_ = adPinocchioIs_ + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_;
-    hiEggsMac_ = 8;
-    haCapacityDummy_ = adPinocchioIs_.toUpperCase() + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_.toUpperCase() + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_.toUpperCase() + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_.toUpperCase() + haCapacityDummy_;
-    hiEggsMac_ = 67;
-  }
-
-  void esDecideAffordable() {
-    if (mmUnlikableC1_ && byStewartPressure_ && hiNelsonSkintight_) {
-      mmUnlikableC1_ = !mmUnlikableC1_;
-      byStewartPressure_ = mmUnlikableC1_;
-      hiNelsonSkintight_ = mmUnlikableC1_;
-    }
-
-    adPinocchioIs_ = haCapacityDummy_ + adPinocchioIs_;
-
-    adPinocchioIs_ = adPinocchioIs_ + haCapacityDummy_;
-    haCapacityDummy_ = adPinocchioIs_;
-
-    mmUnlikableC1_ = hiNelsonSkintight_ || byStewartPressure_;
+    amWaterfallSoftener_ = amWaterfallSoftener_.toUpperCase();
   }
 
   static const String linkjoy_vw_ancestor_stubborn =
@@ -586,27 +515,6 @@ class LinkjoyAncestorHand extends LinkjoyMagnetHormoneHand {
   }
 
   bool linkjoyAmbitiousMarketingAncestorIntolerant() {
-    if (LINKJOY.linkjoyShock.isLinkjoyAiLengthOgle()) return false;
-
-    if (LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) return false;
-
-    if (oppositeUser == null) {
-      return false;
-    }
-
-    if (oppositeUser!.temp == 100) return true;
-
-    if (oppositeUser!.chatAuthExpire > DateTime.now().millisecondsSinceEpoch) {
-      return false;
-    }
-
-    if (linkjoyCanElevenOfour) return false;
-
-    int freeChatCard = LINKJOY.linkjoyUnbornDeposit?.cardIm ?? 0;
-    if (freeChatCard > 0) {
-      return true;
-    }
-
     return false;
   }
 

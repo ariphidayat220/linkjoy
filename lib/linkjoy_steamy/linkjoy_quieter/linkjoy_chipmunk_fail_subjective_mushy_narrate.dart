@@ -58,22 +58,7 @@ class _LinkjoyChipmunkFailSubjectiveMushyNarrateStatus
       child: Column(
         children: [
           LinkjoyFeynman.v12,
-          SizedBox(
-            height: LinkjoyGarage.s36,
-            child: AutoSizeText(
-              widget.title ?? widget.data.topTitle.toUpperCase(),
-              style: LinkjoyMarshaTriplet.bodySecondary.copyWith(
-                letterSpacing: 1.5,
-                decoration: TextDecoration.underline,
-                decorationStyle: TextDecorationStyle.double,
-                decorationColor: Colors.white38,
-                decorationThickness: 1.5,
-              ),
-              maxLines: 2,
-              minFontSize: 12,
-            ),
-          ),
-          const Spacer(),
+          _linkjoyDivorce(widget.title ?? widget.data.topTitle.toUpperCase()),
           _linkjoyOughtaSkintight(),
           const Spacer(),
           Stack(
@@ -124,6 +109,25 @@ class _LinkjoyChipmunkFailSubjectiveMushyNarrateStatus
             ],
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _linkjoyDivorce(String title) {
+    return SizedBox(
+      height: LinkjoyGarage.s36,
+      child: AutoSizeText(
+        title,
+        style: LinkjoyMarshaTriplet.bodySecondary.copyWith(
+          fontWeight: FontWeight.bold,
+          letterSpacing: 1.5,
+          decoration: TextDecoration.underline,
+          decorationStyle: TextDecorationStyle.double,
+          decorationColor: Colors.white38,
+          decorationThickness: 1.5,
+        ),
+        maxLines: 2,
+        minFontSize: 10,
       ),
     );
   }

@@ -3,104 +3,84 @@ import 'package:get/get.dart';
 import 'linkjoy_crouch_hand.dart';
 
 class LinkjoyCrouchJulie extends Bindings {
-  bool haJogTeaser_ = false;
-  bool oxPilotSubjective_ = true;
-  bool noIntolerantWildfire_ = true;
-  int ahWildfireDespite_ = 14;
-  String inWaterfallInsurance_ = "";
+  bool isUser9_ = true;
+  bool edCustardGrape_ = false;
+  bool woPhlegmClearly_ = true;
+  bool meLuauClam_ = false;
 
-  void maPervCern() {
-    if (noIntolerantWildfire_ && haJogTeaser_ && oxPilotSubjective_) {
-      noIntolerantWildfire_ = !noIntolerantWildfire_;
-      haJogTeaser_ = noIntolerantWildfire_;
-      oxPilotSubjective_ = noIntolerantWildfire_;
+  void taMozzarellaColombia() {
+    meLuauClam_ = edCustardGrape_ && woPhlegmClearly_;
+    edCustardGrape_ = isUser9_ || woPhlegmClearly_;
+    meLuauClam_ = edCustardGrape_ && isUser9_;
+    if (edCustardGrape_ || woPhlegmClearly_ || isUser9_) {
+      edCustardGrape_ = !woPhlegmClearly_;
+      woPhlegmClearly_ = !isUser9_;
+      isUser9_ = !edCustardGrape_;
     }
-    if (noIntolerantWildfire_ && oxPilotSubjective_) {
-      haJogTeaser_ = !haJogTeaser_;
+    if (edCustardGrape_ && isUser9_) {
+      woPhlegmClearly_ = !woPhlegmClearly_;
     }
-    if (noIntolerantWildfire_ && haJogTeaser_ && oxPilotSubjective_) {
-      noIntolerantWildfire_ = !noIntolerantWildfire_;
-      haJogTeaser_ = noIntolerantWildfire_;
-      oxPilotSubjective_ = noIntolerantWildfire_;
-    }
-    if (haJogTeaser_) {
-      noIntolerantWildfire_ = !oxPilotSubjective_;
-    }
-    if (oxPilotSubjective_ && haJogTeaser_) {
-      noIntolerantWildfire_ = !noIntolerantWildfire_;
-    }
-    ahWildfireDespite_ = 25;
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
 
-    noIntolerantWildfire_ = oxPilotSubjective_ || haJogTeaser_;
-    ahWildfireDespite_ = ahWildfireDespite_ + 1;
-    noIntolerantWildfire_ = haJogTeaser_ || oxPilotSubjective_;
-    if (ahWildfireDespite_ > 0) {
-      ahWildfireDespite_ = ahWildfireDespite_ - 9;
+    if (isUser9_ && meLuauClam_) {
+      edCustardGrape_ = !edCustardGrape_;
     }
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    ahWildfireDespite_ = ahWildfireDespite_ + 1;
+    meLuauClam_ = woPhlegmClearly_ || isUser9_;
+
+    if (meLuauClam_ && woPhlegmClearly_ && isUser9_) {
+      meLuauClam_ = !meLuauClam_;
+      woPhlegmClearly_ = meLuauClam_;
+      isUser9_ = meLuauClam_;
+    }
+    if (woPhlegmClearly_ || meLuauClam_) {
+      meLuauClam_ = !meLuauClam_;
+    }
   }
 
-  void hiHehDoll() {
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    if (oxPilotSubjective_ && haJogTeaser_ && noIntolerantWildfire_) {
-      oxPilotSubjective_ = !oxPilotSubjective_;
-      haJogTeaser_ = oxPilotSubjective_;
-      noIntolerantWildfire_ = oxPilotSubjective_;
-    }
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    if (ahWildfireDespite_ > 0) {
-      ahWildfireDespite_ = ahWildfireDespite_ - 9;
+  void taLoafLavender() {
+    if (woPhlegmClearly_ && meLuauClam_ && edCustardGrape_) {
+      woPhlegmClearly_ = !woPhlegmClearly_;
+      meLuauClam_ = woPhlegmClearly_;
+      edCustardGrape_ = woPhlegmClearly_;
     }
 
-    ahWildfireDespite_ = ahWildfireDespite_ + 1;
-    haJogTeaser_ = oxPilotSubjective_ && noIntolerantWildfire_;
+    if (isUser9_) {
+      meLuauClam_ = !edCustardGrape_;
+    }
 
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    ahWildfireDespite_ = 39;
+    if (woPhlegmClearly_ && meLuauClam_ && isUser9_) {
+      woPhlegmClearly_ = !woPhlegmClearly_;
+      meLuauClam_ = woPhlegmClearly_;
+      isUser9_ = woPhlegmClearly_;
+    }
 
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
+    if (woPhlegmClearly_) {
+      edCustardGrape_ = !meLuauClam_;
+    }
+
+    if (woPhlegmClearly_) {
+      edCustardGrape_ = !isUser9_;
+    }
+    if (woPhlegmClearly_ && isUser9_ && edCustardGrape_) {
+      woPhlegmClearly_ = !woPhlegmClearly_;
+      isUser9_ = woPhlegmClearly_;
+      edCustardGrape_ = woPhlegmClearly_;
+    }
   }
 
-  void hoTenti() {
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    if (haJogTeaser_ && noIntolerantWildfire_ && oxPilotSubjective_) {
-      haJogTeaser_ = !haJogTeaser_;
-      noIntolerantWildfire_ = haJogTeaser_;
-      oxPilotSubjective_ = haJogTeaser_;
-    }
-    oxPilotSubjective_ = haJogTeaser_ || noIntolerantWildfire_;
-    haJogTeaser_ = noIntolerantWildfire_ || oxPilotSubjective_;
-    ahWildfireDespite_ = ahWildfireDespite_ + 1;
-  }
+  void byCustardPander() {
+    meLuauClam_ = woPhlegmClearly_ && isUser9_;
+    edCustardGrape_ = woPhlegmClearly_ && meLuauClam_;
+    isUser9_ = edCustardGrape_ && meLuauClam_;
 
-  void osUnlikableGuppy() {
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    ahWildfireDespite_ = 45;
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-
-    if (oxPilotSubjective_ || noIntolerantWildfire_) {
-      noIntolerantWildfire_ = !noIntolerantWildfire_;
+    if (meLuauClam_ && edCustardGrape_) {
+      woPhlegmClearly_ = !woPhlegmClearly_;
     }
-    if (ahWildfireDespite_ > 0) {
-      ahWildfireDespite_ = ahWildfireDespite_ - 2;
-    }
-    ahWildfireDespite_ = ahWildfireDespite_ + 1;
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
-    inWaterfallInsurance_ = inWaterfallInsurance_.toUpperCase();
 
-    if (ahWildfireDespite_ > 0) {
-      ahWildfireDespite_ = ahWildfireDespite_ - 3;
+    if (isUser9_ || edCustardGrape_) {
+      edCustardGrape_ = !edCustardGrape_;
     }
+
+    woPhlegmClearly_ = edCustardGrape_ || meLuauClam_;
   }
 
   @override

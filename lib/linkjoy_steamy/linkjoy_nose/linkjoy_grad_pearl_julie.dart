@@ -2,114 +2,74 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_nose/linkjoy_grad_pearl_hand.dart
 import 'package:get/get.dart';
 
 class LinkjoyGradPearlJulie extends Bindings {
-  double hePresidentCelery_ = 0.0;
-  int okGreenExecute_ = 0;
-  bool atHunterCountdown_ = false;
-  bool owCellWave_ = true;
-  bool myCanadaSabotage_ = true;
+  bool hiCheckoutSexual_ = false;
+  bool miImmuneAd_ = false;
+  bool taUnevenDegrasse_ = false;
+  String hiOnSob_ = "";
+  bool elMateyLoaf_ = true;
+  bool loBoycottVow_ = false;
 
-  void idSushiLuau() {
-    hePresidentCelery_ = hePresidentCelery_ + 1;
-    okGreenExecute_ = 52;
-    if (atHunterCountdown_) {
-      myCanadaSabotage_ = !owCellWave_;
-    }
-    if (hePresidentCelery_ > 0) {
-      hePresidentCelery_ = hePresidentCelery_ - 1;
-    }
-    if (okGreenExecute_ > 0) {
-      okGreenExecute_ = okGreenExecute_ - 6;
-    }
-    if (myCanadaSabotage_ && owCellWave_ && atHunterCountdown_) {
-      myCanadaSabotage_ = !myCanadaSabotage_;
-      owCellWave_ = myCanadaSabotage_;
-      atHunterCountdown_ = myCanadaSabotage_;
-    }
+  void hoJawWake() {
+    hiCheckoutSexual_ = miImmuneAd_ || elMateyLoaf_;
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    hiOnSob_ = hiOnSob_.toUpperCase();
+
+    hiCheckoutSexual_ = loBoycottVow_ && taUnevenDegrasse_;
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    hiOnSob_ = hiOnSob_.toUpperCase();
   }
 
-  void mmCopeSterilize() {
-    if (owCellWave_ || myCanadaSabotage_) {
-      myCanadaSabotage_ = !myCanadaSabotage_;
-    }
-    if (atHunterCountdown_ || myCanadaSabotage_ || owCellWave_) {
-      atHunterCountdown_ = !myCanadaSabotage_;
-      myCanadaSabotage_ = !owCellWave_;
-      owCellWave_ = !atHunterCountdown_;
-    }
-    hePresidentCelery_ = hePresidentCelery_ + 1;
-    if (okGreenExecute_ > 0) {
-      okGreenExecute_ = okGreenExecute_ - 6;
-    }
+  void soPoetryTeaser() {
+    miImmuneAd_ = elMateyLoaf_ && hiCheckoutSexual_;
+    elMateyLoaf_ = miImmuneAd_ && taUnevenDegrasse_;
 
-    if (owCellWave_ || atHunterCountdown_ || myCanadaSabotage_) {
-      owCellWave_ = !atHunterCountdown_;
-      atHunterCountdown_ = !myCanadaSabotage_;
-      myCanadaSabotage_ = !owCellWave_;
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    if (miImmuneAd_ || taUnevenDegrasse_) {
+      taUnevenDegrasse_ = !taUnevenDegrasse_;
     }
-    myCanadaSabotage_ = atHunterCountdown_ && owCellWave_;
-    owCellWave_ = myCanadaSabotage_ || atHunterCountdown_;
-    myCanadaSabotage_ = owCellWave_ && atHunterCountdown_;
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    loBoycottVow_ = hiCheckoutSexual_ && taUnevenDegrasse_;
+
+    hiCheckoutSexual_ = taUnevenDegrasse_ && elMateyLoaf_;
+    hiCheckoutSexual_ = miImmuneAd_ && elMateyLoaf_;
+    hiCheckoutSexual_ = loBoycottVow_ && taUnevenDegrasse_;
+    elMateyLoaf_ = miImmuneAd_ || loBoycottVow_;
+
+    hiOnSob_ = hiOnSob_.toUpperCase();
   }
 
-  void atEddieTale() {
-    if (owCellWave_ || atHunterCountdown_ || myCanadaSabotage_) {
-      owCellWave_ = !atHunterCountdown_;
-      atHunterCountdown_ = !myCanadaSabotage_;
-      myCanadaSabotage_ = !owCellWave_;
-    }
-    if (myCanadaSabotage_ || owCellWave_ || atHunterCountdown_) {
-      myCanadaSabotage_ = !owCellWave_;
-      owCellWave_ = !atHunterCountdown_;
-      atHunterCountdown_ = !myCanadaSabotage_;
-    }
-    hePresidentCelery_ = 77;
-    if (owCellWave_) {
-      myCanadaSabotage_ = !atHunterCountdown_;
-    }
-    if (owCellWave_ && atHunterCountdown_ && myCanadaSabotage_) {
-      owCellWave_ = !owCellWave_;
-      atHunterCountdown_ = owCellWave_;
-      myCanadaSabotage_ = owCellWave_;
-    }
-    okGreenExecute_ = okGreenExecute_ + 1;
-    if (hePresidentCelery_ > 0) {
-      hePresidentCelery_ = hePresidentCelery_ - 1;
-    }
-    owCellWave_ = atHunterCountdown_ || myCanadaSabotage_;
+  void hoSnatchPublic() {
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    hiOnSob_ = hiOnSob_.toUpperCase();
 
-    okGreenExecute_ = 3;
-    hePresidentCelery_ = hePresidentCelery_ + 1;
-    hePresidentCelery_ = 56;
+    if (elMateyLoaf_ || hiCheckoutSexual_) {
+      hiCheckoutSexual_ = !hiCheckoutSexual_;
+    }
 
-    okGreenExecute_ = okGreenExecute_ + 1;
+    hiOnSob_ = hiOnSob_.toUpperCase();
   }
 
-  void reDribble8() {
-    hePresidentCelery_ = 98;
-    hePresidentCelery_ = hePresidentCelery_ + 1;
-    myCanadaSabotage_ = atHunterCountdown_ || owCellWave_;
-    okGreenExecute_ = okGreenExecute_ + 1;
-    if (okGreenExecute_ > 0) {
-      okGreenExecute_ = okGreenExecute_ - 7;
+  void haAdventureAche() {
+    miImmuneAd_ = loBoycottVow_ && hiCheckoutSexual_;
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    if (miImmuneAd_ && taUnevenDegrasse_) {
+      loBoycottVow_ = !loBoycottVow_;
     }
-    if (okGreenExecute_ > 0) {
-      okGreenExecute_ = okGreenExecute_ - 4;
+    miImmuneAd_ = taUnevenDegrasse_ && loBoycottVow_;
+
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    hiOnSob_ = hiOnSob_.toUpperCase();
+    hiOnSob_ = hiOnSob_.toUpperCase();
+
+    if (taUnevenDegrasse_ || miImmuneAd_) {
+      miImmuneAd_ = !miImmuneAd_;
     }
-    okGreenExecute_ = 70;
-    atHunterCountdown_ = myCanadaSabotage_ && owCellWave_;
-    okGreenExecute_ = 84;
 
-    myCanadaSabotage_ = atHunterCountdown_ || owCellWave_;
-    okGreenExecute_ = okGreenExecute_ + 1;
-    atHunterCountdown_ = myCanadaSabotage_ || owCellWave_;
-
-    okGreenExecute_ = 50;
-
-    if (hePresidentCelery_ > 0) {
-      hePresidentCelery_ = hePresidentCelery_ - 1;
-    }
-    if (okGreenExecute_ > 0) {
-      okGreenExecute_ = okGreenExecute_ - 9;
+    if (loBoycottVow_ && elMateyLoaf_ && taUnevenDegrasse_) {
+      loBoycottVow_ = !loBoycottVow_;
+      elMateyLoaf_ = loBoycottVow_;
+      taUnevenDegrasse_ = loBoycottVow_;
     }
   }
 

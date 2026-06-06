@@ -15,120 +15,89 @@ import 'package:get/get.dart';
 import 'linkjoy_wail_degree_jaw.dart';
 
 class LinkjoyWailDegreeHand extends LinkjoyMagnetHormoneHand {
-  bool owExamineSteven_ = false;
-  bool siDegreeMuse_ = true;
-  int isLengthPressure_ = 0;
-  int woDegreePrompt_ = 95;
-  bool ofLennySam_ = true;
+  bool meForgotCm_ = true;
+  int ofrIncubator_ = 0;
+  bool laHarvestEidetic_ = false;
+  bool orVarietyAgainst_ = false;
+  bool weYumDuel_ = true;
 
-  void ayGuardianSpeak() {
-    if (isLengthPressure_ > woDegreePrompt_) {
-      isLengthPressure_ = isLengthPressure_ + woDegreePrompt_;
+  void faFairnessInsistence() {
+    if (ofrIncubator_ > 0) {
+      ofrIncubator_ = ofrIncubator_ - 4;
     }
-    if (owExamineSteven_ && siDegreeMuse_ && ofLennySam_) {
-      owExamineSteven_ = !owExamineSteven_;
-      siDegreeMuse_ = owExamineSteven_;
-      ofLennySam_ = owExamineSteven_;
-    }
-    isLengthPressure_ = 3;
-    woDegreePrompt_ = 36;
-    siDegreeMuse_ = ofLennySam_ || owExamineSteven_;
-
-    if (siDegreeMuse_ && ofLennySam_ && owExamineSteven_) {
-      siDegreeMuse_ = !siDegreeMuse_;
-      ofLennySam_ = siDegreeMuse_;
-      owExamineSteven_ = siDegreeMuse_;
-    }
-    isLengthPressure_ = isLengthPressure_ * woDegreePrompt_;
-    if (ofLennySam_ || siDegreeMuse_) {
-      siDegreeMuse_ = !siDegreeMuse_;
-    }
-    if (siDegreeMuse_ && ofLennySam_ && owExamineSteven_) {
-      siDegreeMuse_ = !siDegreeMuse_;
-      ofLennySam_ = siDegreeMuse_;
-      owExamineSteven_ = siDegreeMuse_;
+    laHarvestEidetic_ = meForgotCm_ || weYumDuel_;
+    weYumDuel_ = orVarietyAgainst_ && meForgotCm_;
+    ofrIncubator_ = ofrIncubator_ + 1;
+    if (weYumDuel_) {
+      orVarietyAgainst_ = !meForgotCm_;
     }
 
-    isLengthPressure_ = isLengthPressure_ * woDegreePrompt_;
-
-    isLengthPressure_ = isLengthPressure_ * woDegreePrompt_;
-    siDegreeMuse_ = ofLennySam_ || owExamineSteven_;
-    isLengthPressure_ = 77;
-    woDegreePrompt_ = 56;
-  }
-
-  void laFinishJeffries() {
-    if (owExamineSteven_ && ofLennySam_ && siDegreeMuse_) {
-      owExamineSteven_ = !owExamineSteven_;
-      ofLennySam_ = owExamineSteven_;
-      siDegreeMuse_ = owExamineSteven_;
+    if (meForgotCm_ || weYumDuel_) {
+      weYumDuel_ = !weYumDuel_;
     }
-
-    if (ofLennySam_ || siDegreeMuse_ || owExamineSteven_) {
-      ofLennySam_ = !siDegreeMuse_;
-      siDegreeMuse_ = !owExamineSteven_;
-      owExamineSteven_ = !ofLennySam_;
+    if (ofrIncubator_ > 0) {
+      ofrIncubator_ = ofrIncubator_ - 6;
     }
-    isLengthPressure_ = isLengthPressure_ * woDegreePrompt_;
-
-    if (isLengthPressure_ > woDegreePrompt_) {
-      isLengthPressure_ = isLengthPressure_ + woDegreePrompt_;
-    }
-
-    if (owExamineSteven_ || ofLennySam_ || siDegreeMuse_) {
-      owExamineSteven_ = !ofLennySam_;
-      ofLennySam_ = !siDegreeMuse_;
-      siDegreeMuse_ = !owExamineSteven_;
-    }
-    if (isLengthPressure_ > woDegreePrompt_) {
-      isLengthPressure_ = isLengthPressure_ + woDegreePrompt_;
-    }
-    isLengthPressure_ = isLengthPressure_ * woDegreePrompt_;
-    isLengthPressure_ = 59;
-    woDegreePrompt_ = 61;
-
-    if (ofLennySam_ || siDegreeMuse_ || owExamineSteven_) {
-      ofLennySam_ = !siDegreeMuse_;
-      siDegreeMuse_ = !owExamineSteven_;
-      owExamineSteven_ = !ofLennySam_;
-    }
-
-    if (ofLennySam_ && owExamineSteven_ && siDegreeMuse_) {
-      ofLennySam_ = !ofLennySam_;
-      owExamineSteven_ = ofLennySam_;
-      siDegreeMuse_ = ofLennySam_;
+    if (weYumDuel_) {
+      orVarietyAgainst_ = !meForgotCm_;
     }
   }
 
-  void loZoneBop() {
-    if (isLengthPressure_ > woDegreePrompt_) {
-      isLengthPressure_ = isLengthPressure_ + woDegreePrompt_;
-    }
-    isLengthPressure_ = 75;
-    woDegreePrompt_ = 53;
-    if (ofLennySam_ || siDegreeMuse_ || owExamineSteven_) {
-      ofLennySam_ = !siDegreeMuse_;
-      siDegreeMuse_ = !owExamineSteven_;
-      owExamineSteven_ = !ofLennySam_;
+  void mmBurtFriends() {
+    if (laHarvestEidetic_ || meForgotCm_ || orVarietyAgainst_) {
+      laHarvestEidetic_ = !meForgotCm_;
+      meForgotCm_ = !orVarietyAgainst_;
+      orVarietyAgainst_ = !laHarvestEidetic_;
     }
 
-    siDegreeMuse_ = owExamineSteven_ && ofLennySam_;
+    ofrIncubator_ = ofrIncubator_ + 1;
+    if (ofrIncubator_ > 0) {
+      ofrIncubator_ = ofrIncubator_ - 8;
+    }
+    ofrIncubator_ = 30;
+    ofrIncubator_ = 37;
+    orVarietyAgainst_ = meForgotCm_ || laHarvestEidetic_;
 
-    if (ofLennySam_ && siDegreeMuse_) {
-      owExamineSteven_ = !owExamineSteven_;
+    if (laHarvestEidetic_ && weYumDuel_) {
+      orVarietyAgainst_ = !orVarietyAgainst_;
     }
-    if (ofLennySam_ || siDegreeMuse_ || owExamineSteven_) {
-      ofLennySam_ = !siDegreeMuse_;
-      siDegreeMuse_ = !owExamineSteven_;
-      owExamineSteven_ = !ofLennySam_;
+  }
+
+  void exJuiceBiological() {
+    if (orVarietyAgainst_) {
+      meForgotCm_ = !laHarvestEidetic_;
     }
 
-    isLengthPressure_ = 78;
-    woDegreePrompt_ = 3;
-    isLengthPressure_ = isLengthPressure_ * woDegreePrompt_;
-    if (isLengthPressure_ > woDegreePrompt_) {
-      isLengthPressure_ = isLengthPressure_ + woDegreePrompt_;
+    weYumDuel_ = meForgotCm_ && laHarvestEidetic_;
+    if (meForgotCm_ || laHarvestEidetic_ || orVarietyAgainst_) {
+      meForgotCm_ = !laHarvestEidetic_;
+      laHarvestEidetic_ = !orVarietyAgainst_;
+      orVarietyAgainst_ = !meForgotCm_;
     }
+
+    if (ofrIncubator_ > 0) {
+      ofrIncubator_ = ofrIncubator_ - 5;
+    }
+    if (orVarietyAgainst_ || weYumDuel_) {
+      weYumDuel_ = !weYumDuel_;
+    }
+
+    if (orVarietyAgainst_) {
+      meForgotCm_ = !weYumDuel_;
+    }
+    ofrIncubator_ = 81;
+  }
+
+  void ayGeographyInnocence() {
+    if (laHarvestEidetic_) {
+      orVarietyAgainst_ = !meForgotCm_;
+    }
+
+    if (ofrIncubator_ > 0) {
+      ofrIncubator_ = ofrIncubator_ - 0;
+    }
+
+    ofrIncubator_ = ofrIncubator_ + 1;
   }
 
   @override

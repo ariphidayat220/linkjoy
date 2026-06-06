@@ -35,55 +35,83 @@ import 'linkjoy_phillips_stubborn_jaw.dart';
 
 class LinkjoyAndrewHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  bool miFreakedHeritage_ = false;
-  bool byVamos9_ = true;
-  bool abJonesCattle_ = false;
-  double edWedgeSteven_ = 0.0;
-  double usOnShorten_ = 0.0;
-  bool ayBonExciting_ = true;
-  double ofProtonSpender_ = 0.0;
+  int laHorsMayo_ = 0;
+  bool ahOkViolate_ = false;
+  bool omDescribeSlate_ = false;
+  bool siBackfireArouse_ = true;
+  String ahStatusGnome_ = "";
+  int haChafeAgainst_ = 0;
 
-  void elHailHilarious() {
-    if (ayBonExciting_ && abJonesCattle_) {
-      miFreakedHeritage_ = !miFreakedHeritage_;
+  void soJeffriesHarvard() {
+    siBackfireArouse_ = ahOkViolate_ || omDescribeSlate_;
+
+    if (laHorsMayo_ > haChafeAgainst_) {
+      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
+    }
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    laHorsMayo_ = 27;
+    haChafeAgainst_ = 73;
+  }
+
+  void mmUnbornUnlikable() {
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    if (laHorsMayo_ > haChafeAgainst_) {
+      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
     }
 
-    usOnShorten_ = ofProtonSpender_ + edWedgeSteven_;
+    omDescribeSlate_ = siBackfireArouse_ || ahOkViolate_;
+    laHorsMayo_ = laHorsMayo_ * haChafeAgainst_;
+    if (ahOkViolate_ || siBackfireArouse_ || omDescribeSlate_) {
+      ahOkViolate_ = !siBackfireArouse_;
+      siBackfireArouse_ = !omDescribeSlate_;
+      omDescribeSlate_ = !ahOkViolate_;
+    }
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
 
-    if (edWedgeSteven_ > usOnShorten_) {
-      ofProtonSpender_ = usOnShorten_ - edWedgeSteven_;
-    } else {
-      ofProtonSpender_ = edWedgeSteven_ - usOnShorten_;
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+  }
+
+  void etSitterGel() {
+    if (omDescribeSlate_) {
+      siBackfireArouse_ = !ahOkViolate_;
+    }
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    omDescribeSlate_ = ahOkViolate_ && siBackfireArouse_;
+    if (laHorsMayo_ > haChafeAgainst_) {
+      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
+    }
+    if (omDescribeSlate_ && ahOkViolate_ && siBackfireArouse_) {
+      omDescribeSlate_ = !omDescribeSlate_;
+      ahOkViolate_ = omDescribeSlate_;
+      siBackfireArouse_ = omDescribeSlate_;
     }
   }
 
-  void meSlurScenery() {
-    if (abJonesCattle_ || miFreakedHeritage_ || byVamos9_) {
-      abJonesCattle_ = !miFreakedHeritage_;
-      miFreakedHeritage_ = !byVamos9_;
-      byVamos9_ = !abJonesCattle_;
+  void elOintmentHarpist() {
+    laHorsMayo_ = 79;
+    haChafeAgainst_ = 73;
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    if (ahOkViolate_ || siBackfireArouse_ || omDescribeSlate_) {
+      ahOkViolate_ = !siBackfireArouse_;
+      siBackfireArouse_ = !omDescribeSlate_;
+      omDescribeSlate_ = !ahOkViolate_;
+    }
+    laHorsMayo_ = 18;
+    haChafeAgainst_ = 83;
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    laHorsMayo_ = 42;
+    haChafeAgainst_ = 78;
+
+    ahStatusGnome_ = ahStatusGnome_.toUpperCase();
+    if (siBackfireArouse_ || ahOkViolate_) {
+      ahOkViolate_ = !ahOkViolate_;
     }
 
-    if (miFreakedHeritage_ && ayBonExciting_) {
-      byVamos9_ = !byVamos9_;
+    if (laHorsMayo_ > haChafeAgainst_) {
+      laHorsMayo_ = laHorsMayo_ + haChafeAgainst_;
     }
-    abJonesCattle_ = miFreakedHeritage_ && byVamos9_;
-    ofProtonSpender_ = edWedgeSteven_;
-    usOnShorten_ = edWedgeSteven_;
-
-    ofProtonSpender_ = usOnShorten_ + edWedgeSteven_;
-
-    edWedgeSteven_ = usOnShorten_ - ofProtonSpender_;
-  }
-
-  void doInsightAllen() {
-    ayBonExciting_ = abJonesCattle_ && byVamos9_;
-
-    edWedgeSteven_ = ofProtonSpender_ + usOnShorten_;
-    ofProtonSpender_ = usOnShorten_ - edWedgeSteven_;
-    ofProtonSpender_ = edWedgeSteven_ + usOnShorten_;
-
-    ofProtonSpender_ = edWedgeSteven_ * usOnShorten_;
   }
 
   static Set<int> uids = {};
@@ -364,9 +392,15 @@ class LinkjoyAndrewHand extends LinkjoyMagnetHormoneHand
   }
 
   void onLinkjoyDuelStimulus(PhotoVO item, {List<MediaVo>? list}) {
+    if (list == null || list.isEmpty) {
+      list = [];
+      for (var e in albumList) {
+        if (e is PhotoVO) list.add(e);
+      }
+    }
     LinkjoyAndrewGenericDuelFinancialUneven.showViewer(
       Get.context!,
-      list: list ?? [item],
+      list: list,
       selectItem: item,
       uid: uid,
     );

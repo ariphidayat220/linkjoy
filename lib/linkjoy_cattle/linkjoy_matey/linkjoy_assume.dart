@@ -233,6 +233,7 @@ class LinkjoyEllen {
     double? fixedWidth,
     double? elevation,
     LinkjoyThrilled? direction,
+    EdgeInsetsGeometry? padding,
   }) {
     return _roundIconText(
       icon,
@@ -245,6 +246,7 @@ class LinkjoyEllen {
       fixedWidth: fixedWidth,
       elevation: elevation,
       direction: direction,
+      padding: padding,
     );
   }
 
@@ -260,12 +262,13 @@ class LinkjoyEllen {
     double? elevation,
     LinkjoyThrilled? direction,
     disabled = false,
+    EdgeInsetsGeometry? padding,
   }) {
     Widget child = _child(size, icon, textColor, text, direction);
 
     Size fixedSize = Size(fixedWidth ?? double.infinity, size.size());
     Size minimumSize = Size(fixedWidth ?? 0, fixedSize.height);
-    EdgeInsetsGeometry padding = size.padding();
+    padding ?? size.padding();
 
     return _build(
       child,

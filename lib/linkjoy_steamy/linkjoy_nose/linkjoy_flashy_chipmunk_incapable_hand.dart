@@ -6,75 +6,72 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_protection/linkjoy_flattered.dart
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
 class LinkjoyFlashyChipmunkIncapableHand extends LinkjoyMagnetHormoneHand {
-  bool isJumboHeadphone_ = false;
-  bool ohBeyondFix_ = false;
-  String faJellySatellite_ = "";
-  int meBetterMartini_ = 91;
-  String heMarketingMozzarella_ = "";
-  bool odJuicyBrilliant_ = false;
+  double etPervBarbie_ = 0.0;
+  bool emBeyondViolate_ = true;
+  double meOperatorMost_ = 64;
+  bool usUptightMine_ = false;
+  String usCattleThrone_ = "";
+  bool goMyAndrew_ = true;
 
-  void meMalletC2() {
-    isJumboHeadphone_ = ohBeyondFix_ && odJuicyBrilliant_;
-    if (isJumboHeadphone_ && ohBeyondFix_) {
-      odJuicyBrilliant_ = !odJuicyBrilliant_;
+  void miConclusionClaus() {
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+
+    if (etPervBarbie_ > meOperatorMost_) {
+      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
     }
-    if (isJumboHeadphone_) {
-      odJuicyBrilliant_ = !ohBeyondFix_;
+    if (emBeyondViolate_ && goMyAndrew_ && usUptightMine_) {
+      emBeyondViolate_ = !emBeyondViolate_;
+      goMyAndrew_ = emBeyondViolate_;
+      usUptightMine_ = emBeyondViolate_;
     }
-    if (meBetterMartini_ > 0) {
-      meBetterMartini_ = meBetterMartini_ - 4;
+    if (etPervBarbie_ > meOperatorMost_) {
+      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
     }
-    faJellySatellite_ = faJellySatellite_ + heMarketingMozzarella_;
-    heMarketingMozzarella_ = faJellySatellite_;
-    faJellySatellite_ = heMarketingMozzarella_ + faJellySatellite_;
-    isJumboHeadphone_ = odJuicyBrilliant_ && ohBeyondFix_;
-    if (odJuicyBrilliant_ || ohBeyondFix_ || isJumboHeadphone_) {
-      odJuicyBrilliant_ = !ohBeyondFix_;
-      ohBeyondFix_ = !isJumboHeadphone_;
-      isJumboHeadphone_ = !odJuicyBrilliant_;
+    if (etPervBarbie_ > meOperatorMost_) {
+      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
     }
-    if (odJuicyBrilliant_ && ohBeyondFix_ && isJumboHeadphone_) {
-      odJuicyBrilliant_ = !odJuicyBrilliant_;
-      ohBeyondFix_ = odJuicyBrilliant_;
-      isJumboHeadphone_ = odJuicyBrilliant_;
+    if (emBeyondViolate_ || usUptightMine_) {
+      usUptightMine_ = !usUptightMine_;
+    }
+    etPervBarbie_ = etPervBarbie_ + meOperatorMost_;
+  }
+
+  void meWaveToe() {
+    if (usUptightMine_ || goMyAndrew_) {
+      goMyAndrew_ = !goMyAndrew_;
+    }
+    etPervBarbie_ = 29;
+    meOperatorMost_ = 55;
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    etPervBarbie_ = etPervBarbie_ + meOperatorMost_;
+    if (usUptightMine_ && goMyAndrew_) {
+      emBeyondViolate_ = !emBeyondViolate_;
     }
   }
 
-  void idSteamyBurton() {
-    if (odJuicyBrilliant_ || ohBeyondFix_ || isJumboHeadphone_) {
-      odJuicyBrilliant_ = !ohBeyondFix_;
-      ohBeyondFix_ = !isJumboHeadphone_;
-      isJumboHeadphone_ = !odJuicyBrilliant_;
+  void doFrostyMagazine() {
+    if (etPervBarbie_ > meOperatorMost_) {
+      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
+    }
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    if (etPervBarbie_ > meOperatorMost_) {
+      etPervBarbie_ = etPervBarbie_ - meOperatorMost_;
     }
 
-    meBetterMartini_ = 31;
-    faJellySatellite_ = heMarketingMozzarella_ + faJellySatellite_;
-    meBetterMartini_ = meBetterMartini_ + 1;
-    if (isJumboHeadphone_ || ohBeyondFix_ || odJuicyBrilliant_) {
-      isJumboHeadphone_ = !ohBeyondFix_;
-      ohBeyondFix_ = !odJuicyBrilliant_;
-      odJuicyBrilliant_ = !isJumboHeadphone_;
+    etPervBarbie_ = etPervBarbie_ + meOperatorMost_;
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    emBeyondViolate_ = goMyAndrew_ && usUptightMine_;
+
+    if (goMyAndrew_) {
+      usUptightMine_ = !emBeyondViolate_;
     }
-
-    meBetterMartini_ = 49;
-    ohBeyondFix_ = isJumboHeadphone_ && odJuicyBrilliant_;
-    meBetterMartini_ = 61;
-  }
-
-  void ohDummyBadge() {
-    if (odJuicyBrilliant_ && ohBeyondFix_ && isJumboHeadphone_) {
-      odJuicyBrilliant_ = !odJuicyBrilliant_;
-      ohBeyondFix_ = odJuicyBrilliant_;
-      isJumboHeadphone_ = odJuicyBrilliant_;
-    }
-    meBetterMartini_ = meBetterMartini_ + 1;
-
-    faJellySatellite_ = faJellySatellite_ + heMarketingMozzarella_;
-    heMarketingMozzarella_ = faJellySatellite_;
-
-    heMarketingMozzarella_ =
-        faJellySatellite_.toUpperCase() + heMarketingMozzarella_;
-    ohBeyondFix_ = odJuicyBrilliant_ || isJumboHeadphone_;
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
+    usUptightMine_ = emBeyondViolate_ && goMyAndrew_;
+    usCattleThrone_ = usCattleThrone_.toUpperCase();
   }
 
   static const String linkjoy_ui = "linkjoy_ui";

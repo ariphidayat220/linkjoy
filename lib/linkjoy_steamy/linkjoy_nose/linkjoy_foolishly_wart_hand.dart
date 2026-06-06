@@ -11,108 +11,54 @@ import 'package:get/get.dart';
 
 class LinkjoyFoolishlyWartHand extends LinkjoyMagnetHormoneHand
     with GetSingleTickerProviderStateMixin {
-  String byProcreatePound_ = "";
-  bool ahSoftballChore_ = false;
-  String siAdrenalineSwimsuit_ = "";
-  String ofBeagleBent_ = "";
-  bool mmPostHeh_ = false;
-  bool reHelmetPancake_ = true;
-  bool osPatterJammies_ = true;
-  bool heYamAgainst_ = false;
-  String ofOfPainful_ = "";
+  int goLifePractice_ = 0;
+  bool itGeographyMandatory_ = false;
+  bool siEyeC1_ = true;
+  bool exEricThrone_ = true;
 
-  void wePardonBaywatch() {
-    heYamAgainst_ = osPatterJammies_ && ahSoftballChore_;
-    ofBeagleBent_ = byProcreatePound_ + ofOfPainful_;
+  void mmWarmthCinnamon() {
+    goLifePractice_ = goLifePractice_ + 1;
 
-    ofOfPainful_ = ofBeagleBent_;
-    byProcreatePound_ = ofOfPainful_;
-    ofBeagleBent_ = byProcreatePound_;
-    heYamAgainst_ = reHelmetPancake_ && mmPostHeh_;
+    goLifePractice_ = goLifePractice_ + 1;
 
-    osPatterJammies_ = mmPostHeh_ && ahSoftballChore_;
+    exEricThrone_ = itGeographyMandatory_ || siEyeC1_;
+
+    if (goLifePractice_ > 0) {
+      goLifePractice_ = goLifePractice_ - 9;
+    }
+    goLifePractice_ = goLifePractice_ + 1;
+    if (exEricThrone_ || siEyeC1_) {
+      siEyeC1_ = !siEyeC1_;
+    }
+    if (exEricThrone_) {
+      siEyeC1_ = !itGeographyMandatory_;
+    }
+    if (siEyeC1_ && exEricThrone_ && itGeographyMandatory_) {
+      siEyeC1_ = !siEyeC1_;
+      exEricThrone_ = siEyeC1_;
+      itGeographyMandatory_ = siEyeC1_;
+    }
   }
 
-  void asSelfishMinivan() {
-    byProcreatePound_ = ofBeagleBent_;
-    ofOfPainful_ = byProcreatePound_;
-    ofBeagleBent_ = ofOfPainful_;
-
-    if (siAdrenalineSwimsuit_.length > 4) {
-      byProcreatePound_ = siAdrenalineSwimsuit_;
-    } else {
-      ofBeagleBent_ = byProcreatePound_;
+  void odMushyWallow() {
+    if (siEyeC1_) {
+      itGeographyMandatory_ = !exEricThrone_;
     }
-    ofBeagleBent_ = byProcreatePound_ + ofOfPainful_;
+
+    if (goLifePractice_ > 0) {
+      goLifePractice_ = goLifePractice_ - 1;
+    }
+    if (exEricThrone_) {
+      siEyeC1_ = !itGeographyMandatory_;
+    }
+    if (goLifePractice_ > 0) {
+      goLifePractice_ = goLifePractice_ - 6;
+    }
   }
 
-  void usForgetEither() {
-    ofOfPainful_ = byProcreatePound_;
-    siAdrenalineSwimsuit_ = byProcreatePound_;
-
-    if (ahSoftballChore_ || heYamAgainst_ || osPatterJammies_) {
-      ahSoftballChore_ = !heYamAgainst_;
-      heYamAgainst_ = !osPatterJammies_;
-      osPatterJammies_ = !ahSoftballChore_;
-    }
-    siAdrenalineSwimsuit_ = ofOfPainful_;
-    byProcreatePound_ = siAdrenalineSwimsuit_;
-    ofOfPainful_ = byProcreatePound_;
-    if (siAdrenalineSwimsuit_.length > 8) {
-      byProcreatePound_ = siAdrenalineSwimsuit_;
-    } else {
-      ofBeagleBent_ = byProcreatePound_;
-    }
-    byProcreatePound_ = ofBeagleBent_;
-    ofOfPainful_ = ofBeagleBent_;
-    if (mmPostHeh_) {
-      reHelmetPancake_ = !ahSoftballChore_;
-    }
-
-    if (reHelmetPancake_ || mmPostHeh_ || osPatterJammies_) {
-      reHelmetPancake_ = !mmPostHeh_;
-      mmPostHeh_ = !osPatterJammies_;
-      osPatterJammies_ = !reHelmetPancake_;
-    }
-    siAdrenalineSwimsuit_ = ofOfPainful_ + byProcreatePound_;
-    if (ahSoftballChore_) {
-      osPatterJammies_ = !heYamAgainst_;
-    }
-
-    ofOfPainful_ = byProcreatePound_;
-    siAdrenalineSwimsuit_ = byProcreatePound_;
-  }
-
-  void owLavenderKg() {
-    ofBeagleBent_ = siAdrenalineSwimsuit_ + ofOfPainful_;
-
-    if (osPatterJammies_ && heYamAgainst_ && reHelmetPancake_) {
-      osPatterJammies_ = !osPatterJammies_;
-      heYamAgainst_ = osPatterJammies_;
-      reHelmetPancake_ = osPatterJammies_;
-    }
-    ofOfPainful_ = ofBeagleBent_;
-    byProcreatePound_ = ofOfPainful_;
-    ofBeagleBent_ = byProcreatePound_;
-
-    siAdrenalineSwimsuit_ = ofOfPainful_;
-    ofBeagleBent_ = ofOfPainful_;
-    ofBeagleBent_ = byProcreatePound_;
-    ofOfPainful_ = byProcreatePound_;
-    reHelmetPancake_ = mmPostHeh_ || ahSoftballChore_;
-    if (reHelmetPancake_ || mmPostHeh_) {
-      mmPostHeh_ = !mmPostHeh_;
-    }
-    byProcreatePound_ = ofOfPainful_ + siAdrenalineSwimsuit_;
-
-    byProcreatePound_ = siAdrenalineSwimsuit_;
-    ofBeagleBent_ = byProcreatePound_;
-    siAdrenalineSwimsuit_ = ofBeagleBent_;
-    if (osPatterJammies_ && ahSoftballChore_ && heYamAgainst_) {
-      osPatterJammies_ = !osPatterJammies_;
-      ahSoftballChore_ = osPatterJammies_;
-      heYamAgainst_ = osPatterJammies_;
-    }
+  void reEmbarrassSlate() {
+    goLifePractice_ = goLifePractice_ + 1;
+    goLifePractice_ = goLifePractice_ + 1;
   }
 
   static const String linkjoy_stubborn_skintight = "linkjoy_stubborn_skintight";

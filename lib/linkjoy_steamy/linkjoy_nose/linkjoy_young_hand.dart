@@ -16,137 +16,140 @@ import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 
+enum LinkjoyYoungUneven { splash, relogin_auto, block, logout }
+
 class LinkjoyYoungHand extends LinkjoyMagnetHormoneHand {
-  bool goBopImprint_ = false;
-  double id8Willy_ = 79;
-  bool faGreyDance_ = false;
-  bool loWarlordForm_ = true;
-  bool loJohnHumidifier_ = false;
-  String opSupercoolSorority_ = "";
-  String mmPhyllisCompletion_ = "";
-  String joSqueakyBon_ = "";
-  bool miAppreciateInseam_ = false;
-  double inDescentPay_ = 56;
+  bool atGuineaUnlikable_ = true;
+  double hoBentMadness_ = 27;
+  bool osStockholmAmplitude_ = false;
+  bool heKingBoycott_ = false;
+  bool orMoleChocolates_ = true;
+  int reShuChorus_ = 0;
+  int joDummyBride_ = 63;
+  String heFondnessSubjective_ = "";
+  double meBeatingExpress_ = 0.0;
 
-  void maSweetheartMeadow() {
-    loJohnHumidifier_ = loWarlordForm_ && goBopImprint_;
-
-    opSupercoolSorority_ = joSqueakyBon_ + mmPhyllisCompletion_;
-    id8Willy_ = id8Willy_ + inDescentPay_;
-    if (loJohnHumidifier_) {
-      loWarlordForm_ = !goBopImprint_;
+  void okHeatherJuice() {
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (orMoleChocolates_ || heKingBoycott_) {
+      heKingBoycott_ = !heKingBoycott_;
     }
-    if (faGreyDance_ || loJohnHumidifier_ || goBopImprint_) {
-      faGreyDance_ = !loJohnHumidifier_;
-      loJohnHumidifier_ = !goBopImprint_;
-      goBopImprint_ = !faGreyDance_;
+    hoBentMadness_ = hoBentMadness_ + meBeatingExpress_;
+    if (atGuineaUnlikable_) {
+      orMoleChocolates_ = !osStockholmAmplitude_;
     }
-    loWarlordForm_ = loJohnHumidifier_ && miAppreciateInseam_;
-    faGreyDance_ = goBopImprint_ && loJohnHumidifier_;
-
-    mmPhyllisCompletion_ = opSupercoolSorority_;
-    joSqueakyBon_ = opSupercoolSorority_;
-    mmPhyllisCompletion_ = opSupercoolSorority_;
-    joSqueakyBon_ = opSupercoolSorority_;
-    if (faGreyDance_) {
-      loJohnHumidifier_ = !loWarlordForm_;
+    if (atGuineaUnlikable_ || osStockholmAmplitude_ || orMoleChocolates_) {
+      atGuineaUnlikable_ = !osStockholmAmplitude_;
+      osStockholmAmplitude_ = !orMoleChocolates_;
+      orMoleChocolates_ = !atGuineaUnlikable_;
     }
-    id8Willy_ = id8Willy_ + inDescentPay_;
-  }
-
-  void laCabinetCombustion() {
-    if (id8Willy_ > inDescentPay_) {
-      id8Willy_ = id8Willy_ - inDescentPay_;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (hoBentMadness_ > meBeatingExpress_) {
+      hoBentMadness_ = hoBentMadness_ - meBeatingExpress_;
     }
-
-    if (loWarlordForm_ && faGreyDance_ && goBopImprint_) {
-      loWarlordForm_ = !loWarlordForm_;
-      faGreyDance_ = loWarlordForm_;
-      goBopImprint_ = loWarlordForm_;
+    hoBentMadness_ = 58;
+    meBeatingExpress_ = 26;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (hoBentMadness_ > meBeatingExpress_) {
+      hoBentMadness_ = hoBentMadness_ - meBeatingExpress_;
     }
-
-    if (miAppreciateInseam_ && loWarlordForm_ && loJohnHumidifier_) {
-      miAppreciateInseam_ = !miAppreciateInseam_;
-      loWarlordForm_ = miAppreciateInseam_;
-      loJohnHumidifier_ = miAppreciateInseam_;
-    }
-    id8Willy_ = id8Willy_ + inDescentPay_;
-    id8Willy_ = 60;
-    inDescentPay_ = 8;
-
-    if (goBopImprint_) {
-      faGreyDance_ = !loJohnHumidifier_;
+    hoBentMadness_ = 92;
+    meBeatingExpress_ = 15;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (reShuChorus_ > joDummyBride_) {
+      reShuChorus_ = reShuChorus_ + joDummyBride_;
     }
   }
 
-  void beBurtStewart() {
-    miAppreciateInseam_ = loWarlordForm_ || loJohnHumidifier_;
-    if (opSupercoolSorority_.length > 7) {
-      mmPhyllisCompletion_ = opSupercoolSorority_;
-    } else {
-      joSqueakyBon_ = mmPhyllisCompletion_;
+  void isAboveCab() {
+    if (atGuineaUnlikable_ && osStockholmAmplitude_ && heKingBoycott_) {
+      atGuineaUnlikable_ = !atGuineaUnlikable_;
+      osStockholmAmplitude_ = atGuineaUnlikable_;
+      heKingBoycott_ = atGuineaUnlikable_;
     }
-
-    if (loJohnHumidifier_ || loWarlordForm_) {
-      loWarlordForm_ = !loWarlordForm_;
+    if (atGuineaUnlikable_ || heKingBoycott_ || orMoleChocolates_) {
+      atGuineaUnlikable_ = !heKingBoycott_;
+      heKingBoycott_ = !orMoleChocolates_;
+      orMoleChocolates_ = !atGuineaUnlikable_;
     }
-    loWarlordForm_ = goBopImprint_ || faGreyDance_;
-    if (loJohnHumidifier_ && faGreyDance_ && miAppreciateInseam_) {
-      loJohnHumidifier_ = !loJohnHumidifier_;
-      faGreyDance_ = loJohnHumidifier_;
-      miAppreciateInseam_ = loJohnHumidifier_;
+    hoBentMadness_ = hoBentMadness_ + meBeatingExpress_;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (hoBentMadness_ > meBeatingExpress_) {
+      hoBentMadness_ = hoBentMadness_ - meBeatingExpress_;
     }
-    mmPhyllisCompletion_ = opSupercoolSorority_;
-    joSqueakyBon_ = mmPhyllisCompletion_;
-    opSupercoolSorority_ = joSqueakyBon_;
-    id8Willy_ = id8Willy_ + inDescentPay_;
-    id8Willy_ = id8Willy_ + inDescentPay_;
+    if (hoBentMadness_ > meBeatingExpress_) {
+      hoBentMadness_ = hoBentMadness_ - meBeatingExpress_;
+    }
+    hoBentMadness_ = hoBentMadness_ + meBeatingExpress_;
+    hoBentMadness_ = 82;
+    meBeatingExpress_ = 55;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
   }
 
-  void weMushyPractice() {
-    mmPhyllisCompletion_ = opSupercoolSorority_;
-    joSqueakyBon_ = opSupercoolSorority_;
-    id8Willy_ = id8Willy_ + inDescentPay_;
-
-    id8Willy_ = 22;
-    inDescentPay_ = 58;
-    faGreyDance_ = goBopImprint_ && miAppreciateInseam_;
-
-    if (goBopImprint_ || loJohnHumidifier_ || faGreyDance_) {
-      goBopImprint_ = !loJohnHumidifier_;
-      loJohnHumidifier_ = !faGreyDance_;
-      faGreyDance_ = !goBopImprint_;
+  void siSlateOintment() {
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    hoBentMadness_ = 57;
+    meBeatingExpress_ = 7;
+    atGuineaUnlikable_ = osStockholmAmplitude_ || orMoleChocolates_;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    reShuChorus_ = reShuChorus_ * joDummyBride_;
+    hoBentMadness_ = hoBentMadness_ + meBeatingExpress_;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (hoBentMadness_ > meBeatingExpress_) {
+      hoBentMadness_ = hoBentMadness_ - meBeatingExpress_;
     }
-    if (joSqueakyBon_.length > 3) {
-      opSupercoolSorority_ = joSqueakyBon_;
-    } else {
-      mmPhyllisCompletion_ = opSupercoolSorority_;
+    atGuineaUnlikable_ = osStockholmAmplitude_ || heKingBoycott_;
+    reShuChorus_ = 9;
+    joDummyBride_ = 57;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (reShuChorus_ > joDummyBride_) {
+      reShuChorus_ = reShuChorus_ + joDummyBride_;
     }
-
-    if (goBopImprint_ || faGreyDance_ || miAppreciateInseam_) {
-      goBopImprint_ = !faGreyDance_;
-      faGreyDance_ = !miAppreciateInseam_;
-      miAppreciateInseam_ = !goBopImprint_;
-    }
-    if (joSqueakyBon_.length > 4) {
-      opSupercoolSorority_ = joSqueakyBon_;
-    } else {
-      mmPhyllisCompletion_ = opSupercoolSorority_;
-    }
-    mmPhyllisCompletion_ = joSqueakyBon_ + opSupercoolSorority_;
-
-    miAppreciateInseam_ = goBopImprint_ || loJohnHumidifier_;
   }
 
-  static const String linkjoy_adjourn_crouch = "splash";
-  static const String linkjoy_adjourn_finger_selfish = "auto_login";
+  void oxSomeThrilled() {
+    if (hoBentMadness_ > meBeatingExpress_) {
+      hoBentMadness_ = hoBentMadness_ - meBeatingExpress_;
+    }
+    hoBentMadness_ = 57;
+    meBeatingExpress_ = 87;
+    reShuChorus_ = reShuChorus_ * joDummyBride_;
+    hoBentMadness_ = hoBentMadness_ + meBeatingExpress_;
+    if (atGuineaUnlikable_ && orMoleChocolates_) {
+      osStockholmAmplitude_ = !osStockholmAmplitude_;
+    }
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    if (orMoleChocolates_ || heKingBoycott_ || osStockholmAmplitude_) {
+      orMoleChocolates_ = !heKingBoycott_;
+      heKingBoycott_ = !osStockholmAmplitude_;
+      osStockholmAmplitude_ = !orMoleChocolates_;
+    }
+    hoBentMadness_ = hoBentMadness_ + meBeatingExpress_;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+    osStockholmAmplitude_ = orMoleChocolates_ && heKingBoycott_;
+    heFondnessSubjective_ = heFondnessSubjective_.toUpperCase();
+  }
 
   static const String linkjoy_young = "linkjoy_young";
 
   static const int _linkjoyLimpYoungGnome = 5;
   static const int _linkjoyAstronautYoungGnome = 4;
 
-  late Rx<Map<String, dynamic>> args;
+  late bool linkjoyPlumbingMarital;
+  late bool linkjoyPlumbingAppreciate;
+  late bool linkjoyPlumbingAstronaut;
+  late bool linkjoyPlumbingLimp;
+
+  bool linkjoyAppreciateSelfishYoung = false;
+
+  late int linkjoyYoungGreen;
 
   final GoogleSignIn _googleSignIn = GoogleSignIn(scopes: ['email']);
 
@@ -154,68 +157,54 @@ class LinkjoyYoungHand extends LinkjoyMagnetHormoneHand {
   void onInit() async {
     super.onInit();
 
-    args = Rx({
-      "username": {
-        "visible": true,
-        "title": "linkjoy_caring_young_by_marital".tr,
-      },
-      "device": {
-        "visible": false,
-        "title": "linkjoy_caring_young_by_appreciate".tr,
-      },
-      "apple": {
-        "visible": !Platform.isAndroid,
-        "title": "linkjoy_caring_young_by_astronaut".tr,
-      },
-      "google": {
-        "visible": Platform.isAndroid,
-        "title": "linkjoy_caring_young_by_limp".tr,
-      },
-    });
+    linkjoyPlumbingMarital = true;
+    linkjoyPlumbingAppreciate = false;
+    linkjoyPlumbingAstronaut = !Platform.isAndroid;
+    linkjoyPlumbingLimp = Platform.isAndroid;
+    linkjoyYoungGreen = 1;
 
-    bool isFromSplash = Get.arguments == linkjoy_adjourn_crouch;
-    bool isReLoginAuto = Get.arguments == linkjoy_adjourn_finger_selfish;
+    LinkjoyYoungUneven src = Get.arguments;
 
-    if (isFromSplash) {
-      _init(isFromSplash, isReLoginAuto);
+    if (src == LinkjoyYoungUneven.splash) {
+      LinkjoyFondnessDivisionShock cfg = linkjoyShock();
+      _init(src, cfg);
     } else {
       EasyLoading.show();
       LINKJOY.refreshLinkjoyShock(quickRefresh: false).then((_) {
-        _init(false, isReLoginAuto);
+        LinkjoyFondnessDivisionShock cfg = linkjoyShock();
+        _init(src, cfg);
       });
     }
   }
 
-  void _init(bool isFromSplash, bool isReLoginAuto) {
+  void _init(LinkjoyYoungUneven src, LinkjoyFondnessDivisionShock cfg) {
     EasyLoading.dismiss();
 
-    LinkjoyFondnessDivisionShock cfg = linkjoyShock();
-
-    bool deviceEnable =
+    linkjoyPlumbingMarital =
+        Platform.isAndroid &&
+        (LINKJOY.linkjoyShock.isLinkjoyLengthOgle() ||
+            cfg.boolDef("username", true));
+    linkjoyPlumbingAppreciate =
         !LINKJOY.linkjoyShock.isLinkjoyLengthOgle() &&
         cfg.boolDef("device", false);
-
     if (kDebugMode || LinkjoyDivorced.linkjoySteamyOgle == "9.0.0") {
-      deviceEnable = true;
+      linkjoyPlumbingAppreciate = true;
     }
-    args.update((m) {
-      bool usernameEnable = false;
-      if (Platform.isAndroid) {
-        usernameEnable =
-            LINKJOY.linkjoyShock.isLinkjoyLengthOgle() ||
-            cfg.boolDef("username", true);
-      }
-      m!["username"]["visible"] = usernameEnable;
-      m["device"]["visible"] = deviceEnable;
-      m["apple"]["visible"] = !Platform.isAndroid && cfg.boolDef("apple", true);
-      m["google"]["visible"] =
-          Platform.isAndroid && cfg.boolDef("google", true);
-    });
+    linkjoyPlumbingAstronaut =
+        !Platform.isAndroid && cfg.boolDef("apple", true);
+    linkjoyPlumbingLimp = Platform.isAndroid && cfg.boolDef("google", true);
+
+    linkjoyAppreciateSelfishYoung =
+        linkjoyPlumbingAppreciate &&
+        cfg.boolDef("device_auto", false) &&
+        (src == LinkjoyYoungUneven.splash);
+
+    linkjoyYoungGreen = cfg.intDef("login_style", 1);
 
     update([linkjoy_young]);
 
-    if (isReLoginAuto ||
-        isFromSplash && deviceEnable && cfg.boolDef("device_auto", false)) {
+    if ((src == LinkjoyYoungUneven.relogin_auto) ||
+        linkjoyAppreciateSelfishYoung) {
       onLinkjoyYoungAppreciate();
     }
   }

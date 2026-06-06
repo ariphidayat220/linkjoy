@@ -23,6 +23,9 @@ class LinkjoyFondnessCompromiseFreaked {
 
   List<LinkjoyWedgieMadness>? sub;
 
+  List<String> popups2 = [];
+  List<String> popups4 = [];
+
   List<LinkjoyTerror>? userCoupons;
 
   static LinkjoyFondnessCompromiseFreaked fromJson(Map<String, dynamic> json) {
@@ -54,6 +57,8 @@ class LinkjoyFondnessCompromiseFreaked {
       ..sub = (json["sub"] as List<dynamic>?)
           ?.map((e) => LinkjoyWedgieMadness.fromJson(e as Map<String, dynamic>))
           .toList()
+      ..popups2 = List<String>.from(json['popups2'] ?? [])
+      ..popups4 = List<String>.from(json['popups4'] ?? [])
       ..serverCouponVersion = json["server_coupon_version"] as String
       ..userCoupons = (json["user_coupons"] as List<dynamic>?)
           ?.map((e) => LinkjoyTerror.fromJson(e as Map<String, dynamic>))
@@ -71,6 +76,8 @@ class LinkjoyFondnessCompromiseFreaked {
       'google_paid': googlePaid ? 1 : 0,
       'last_vip_use_subscribe': lastVipUseSubscribe ? 1 : 0,
       'last_paid_price_usd': lastPaidPriceUsd,
+      'popups2': popups2,
+      'popups4': popups4,
       "server_coupon_version": serverCouponVersion,
       "user_coupons": userCoupons?.map((e) => e.toJson()).toList(),
     };

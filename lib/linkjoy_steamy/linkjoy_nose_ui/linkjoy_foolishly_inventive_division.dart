@@ -405,7 +405,7 @@ class LinkjoyFoolishlyInventiveDivision
                   ),
                   LinkjoyFeynman.h4,
                   Text(
-                    '${"linkjoy_caring_chicken".tr} (',
+                    '${"linkjoy_caring_highly".tr} (',
                     style: LinkjoyMarshaTriplet.body,
                   ),
                   Text(

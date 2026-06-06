@@ -118,6 +118,7 @@ class LinkjoyDivisionUI {
       leading: leading,
       actions: actions,
       bottomLine: bottomLine,
+      centerTitle: true,
     );
   }
 

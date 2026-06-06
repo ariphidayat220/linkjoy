@@ -146,13 +146,10 @@ class LinkjoyAncestorKnockDivision
                 style: LinkjoyMarshaGreen.TextB3_14,
               ),
               LinkjoyFeynman.h8,
-              Transform.rotate(
-                angle: LinkjoyIOSister.isARLanguage() ? pi : 0,
-                child: LinkjoyFasten.asset(
-                  'linkjoy_toe_estimate_enforce_camp_ankle',
-                  width: 12,
-                  height: 12,
-                ),
+              Icon(
+                Icons.arrow_forward,
+                size: LinkjoyDiscard.iconMini,
+                color: Colors.black,
               ),
             ],
           ),

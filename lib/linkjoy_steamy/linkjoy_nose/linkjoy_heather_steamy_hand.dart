@@ -4,117 +4,89 @@ import 'package:get/get.dart';
 import 'linkjoy_heather_steamy.dart';
 
 class LinkjoyHeatherSteamyHand extends LinkjoyMagnetHormoneHand {
-  double anBarkleyDb_ = 0.0;
-  String moPredatorMack_ = "";
-  bool abMagnetEskimo_ = true;
-  bool etStyleImpend_ = false;
-  bool amDebutSpock_ = true;
-  String meFairnessJuicy_ = "";
-  bool haMealFlip_ = false;
-  int adPrincetonAnimal_ = 0;
-  int joTennisPardon_ = 0;
+  bool itGoImprint_ = true;
+  bool ahDespiteClam_ = true;
+  int joWallowBiological_ = 0;
+  bool meSheetChanel_ = false;
+  String opAlphabetAhold_ = "";
+  String oxSabotageSupermodel_ = "";
+  bool okSuckyIn_ = true;
 
-  void reUnbornCarefree() {
-    adPrincetonAnimal_ = adPrincetonAnimal_ * joTennisPardon_;
-    if (haMealFlip_) {
-      abMagnetEskimo_ = !amDebutSpock_;
+  void maPrisonBrawny() {
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 3;
     }
-    anBarkleyDb_ = anBarkleyDb_ + 1;
-    adPrincetonAnimal_ = 41;
-    joTennisPardon_ = 31;
-    anBarkleyDb_ = anBarkleyDb_ + 1;
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    anBarkleyDb_ = 15;
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    adPrincetonAnimal_ = 70;
-    joTennisPardon_ = 16;
-    if (anBarkleyDb_ > 0) {
-      anBarkleyDb_ = anBarkleyDb_ - 1;
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 7;
     }
-    anBarkleyDb_ = 77;
-    adPrincetonAnimal_ = 53;
-    joTennisPardon_ = 97;
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    adPrincetonAnimal_ = adPrincetonAnimal_ * joTennisPardon_;
-    if (haMealFlip_) {
-      amDebutSpock_ = !abMagnetEskimo_;
-    }
-    if (etStyleImpend_ && haMealFlip_) {
-      amDebutSpock_ = !amDebutSpock_;
-    }
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
+    okSuckyIn_ = itGoImprint_ && ahDespiteClam_;
+    itGoImprint_ = ahDespiteClam_ || meSheetChanel_;
   }
 
-  void idPinSinus() {
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    haMealFlip_ = etStyleImpend_ || amDebutSpock_;
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    if (etStyleImpend_ && haMealFlip_) {
-      amDebutSpock_ = !amDebutSpock_;
+  void adCrawfordHeather() {
+    opAlphabetAhold_ = oxSabotageSupermodel_ + opAlphabetAhold_;
+    oxSabotageSupermodel_ =
+        opAlphabetAhold_.toUpperCase() + oxSabotageSupermodel_;
+
+    if (itGoImprint_) {
+      ahDespiteClam_ = !meSheetChanel_;
     }
-    meFairnessJuicy_ = moPredatorMack_.toUpperCase() + meFairnessJuicy_;
-    anBarkleyDb_ = 44;
-    haMealFlip_ = abMagnetEskimo_ && etStyleImpend_;
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    anBarkleyDb_ = 17;
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    if (adPrincetonAnimal_ > joTennisPardon_) {
-      adPrincetonAnimal_ = adPrincetonAnimal_ + joTennisPardon_;
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 0;
     }
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    meFairnessJuicy_ = moPredatorMack_.toUpperCase() + meFairnessJuicy_;
-    adPrincetonAnimal_ = adPrincetonAnimal_ * joTennisPardon_;
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 4;
+    }
+    joWallowBiological_ = joWallowBiological_ + 1;
+    joWallowBiological_ = joWallowBiological_ + 1;
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 2;
+    }
+    okSuckyIn_ = ahDespiteClam_ && meSheetChanel_;
+    opAlphabetAhold_ = opAlphabetAhold_ + oxSabotageSupermodel_;
+    oxSabotageSupermodel_ = opAlphabetAhold_;
+
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 5;
+    }
+    if (joWallowBiological_ > 0) {
+      joWallowBiological_ = joWallowBiological_ - 5;
+    }
+    joWallowBiological_ = joWallowBiological_ + 1;
+    if (meSheetChanel_ && ahDespiteClam_ && itGoImprint_) {
+      meSheetChanel_ = !meSheetChanel_;
+      ahDespiteClam_ = meSheetChanel_;
+      itGoImprint_ = meSheetChanel_;
+    }
+    opAlphabetAhold_ = oxSabotageSupermodel_ + opAlphabetAhold_;
+
+    joWallowBiological_ = 23;
   }
 
-  void reSatelliteDramamine() {
-    meFairnessJuicy_ = moPredatorMack_.toUpperCase() + meFairnessJuicy_;
-    anBarkleyDb_ = 95;
-    anBarkleyDb_ = anBarkleyDb_ + 1;
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    if (adPrincetonAnimal_ > joTennisPardon_) {
-      adPrincetonAnimal_ = adPrincetonAnimal_ + joTennisPardon_;
-    }
-    if (adPrincetonAnimal_ > joTennisPardon_) {
-      adPrincetonAnimal_ = adPrincetonAnimal_ + joTennisPardon_;
-    }
-    moPredatorMack_ = meFairnessJuicy_ + moPredatorMack_;
-    adPrincetonAnimal_ = adPrincetonAnimal_ * joTennisPardon_;
-    if (adPrincetonAnimal_ > joTennisPardon_) {
-      adPrincetonAnimal_ = adPrincetonAnimal_ + joTennisPardon_;
-    }
-    if (anBarkleyDb_ > 0) {
-      anBarkleyDb_ = anBarkleyDb_ - 1;
-    }
-    if (amDebutSpock_ || etStyleImpend_) {
-      etStyleImpend_ = !etStyleImpend_;
-    }
-    adPrincetonAnimal_ = 70;
-    joTennisPardon_ = 2;
-    adPrincetonAnimal_ = 55;
-    joTennisPardon_ = 68;
-    anBarkleyDb_ = 86;
-  }
+  void soBellyDeliver() {
+    oxSabotageSupermodel_ =
+        opAlphabetAhold_.toUpperCase() + oxSabotageSupermodel_;
+    opAlphabetAhold_ = oxSabotageSupermodel_ + opAlphabetAhold_;
+    meSheetChanel_ = okSuckyIn_ && ahDespiteClam_;
+    joWallowBiological_ = joWallowBiological_ + 1;
+    opAlphabetAhold_ = oxSabotageSupermodel_ + opAlphabetAhold_;
 
-  void orUpsideSoftly() {
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    anBarkleyDb_ = anBarkleyDb_ + 1;
-    moPredatorMack_ = moPredatorMack_ + meFairnessJuicy_;
-    meFairnessJuicy_ = moPredatorMack_;
-    if (adPrincetonAnimal_ > joTennisPardon_) {
-      adPrincetonAnimal_ = adPrincetonAnimal_ + joTennisPardon_;
+    if (itGoImprint_) {
+      meSheetChanel_ = !ahDespiteClam_;
     }
-    adPrincetonAnimal_ = adPrincetonAnimal_ * joTennisPardon_;
+    joWallowBiological_ = joWallowBiological_ + 1;
+    joWallowBiological_ = 97;
+
+    ahDespiteClam_ = itGoImprint_ && meSheetChanel_;
+    opAlphabetAhold_ = opAlphabetAhold_ + oxSabotageSupermodel_;
+    oxSabotageSupermodel_ = opAlphabetAhold_;
+
+    if (itGoImprint_ && meSheetChanel_) {
+      okSuckyIn_ = !okSuckyIn_;
+    }
+    ahDespiteClam_ = meSheetChanel_ && itGoImprint_;
+
+    opAlphabetAhold_ = oxSabotageSupermodel_ + opAlphabetAhold_;
   }
 
   late LinkjoyHeatherSteamy app;

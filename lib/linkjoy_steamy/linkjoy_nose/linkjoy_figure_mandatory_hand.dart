@@ -22,68 +22,97 @@ import 'package:wechat_camera_picker/wechat_camera_picker.dart';
 
 class LinkjoyFigureMandatoryHand extends LinkjoyMagnetHormoneHand
     with GetTickerProviderStateMixin {
-  int heTrappProton_ = 74;
-  bool odSoftC1_ = true;
-  String mmTalentedSpit_ = "";
-  bool hiDirectWherever_ = true;
-  int isClausProgram_ = 0;
-  int emAproposThrilled_ = 0;
-  bool abAdjournCelery_ = true;
-  bool anSpockCombustion_ = true;
-  bool adThirstyWore_ = true;
+  bool paChihuahuaFluke_ = false;
+  int laBanquetAffordable_ = 0;
+  bool taPressureSudden_ = false;
+  bool adLoadThankfully_ = true;
+  int asPoleThrone_ = 13;
+  String joStiltAs_ = "";
+  bool laFairnessNarrate_ = true;
 
-  void abSquirrellyWhatcha() {
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
-    emAproposThrilled_ = isClausProgram_ * heTrappProton_;
-
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
-    if (adThirstyWore_ && hiDirectWherever_) {
-      abAdjournCelery_ = !abAdjournCelery_;
+  void asCeleryConceal() {
+    if (laFairnessNarrate_ || taPressureSudden_ || adLoadThankfully_) {
+      laFairnessNarrate_ = !taPressureSudden_;
+      taPressureSudden_ = !adLoadThankfully_;
+      adLoadThankfully_ = !laFairnessNarrate_;
     }
-    odSoftC1_ = hiDirectWherever_ && anSpockCombustion_;
-
-    odSoftC1_ = hiDirectWherever_ && anSpockCombustion_;
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    laBanquetAffordable_ = 1;
+    asPoleThrone_ = 92;
+    if (laBanquetAffordable_ > asPoleThrone_) {
+      laBanquetAffordable_ = laBanquetAffordable_ + asPoleThrone_;
+    }
+    adLoadThankfully_ = laFairnessNarrate_ || taPressureSudden_;
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    laBanquetAffordable_ = 48;
+    asPoleThrone_ = 84;
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    if (laFairnessNarrate_ && taPressureSudden_ && paChihuahuaFluke_) {
+      laFairnessNarrate_ = !laFairnessNarrate_;
+      taPressureSudden_ = laFairnessNarrate_;
+      paChihuahuaFluke_ = laFairnessNarrate_;
+    }
   }
 
-  void faPolishCupid() {
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
-    if (emAproposThrilled_ > heTrappProton_) {
-      isClausProgram_ = heTrappProton_ - emAproposThrilled_;
-    } else {
-      isClausProgram_ = emAproposThrilled_ - heTrappProton_;
+  void idPawCharge() {
+    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
+    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    if (laFairnessNarrate_ || taPressureSudden_) {
+      taPressureSudden_ = !taPressureSudden_;
     }
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
-    if (odSoftC1_ && anSpockCombustion_) {
-      abAdjournCelery_ = !abAdjournCelery_;
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    if (laBanquetAffordable_ > asPoleThrone_) {
+      laBanquetAffordable_ = laBanquetAffordable_ + asPoleThrone_;
     }
+    if (taPressureSudden_ && paChihuahuaFluke_ && adLoadThankfully_) {
+      taPressureSudden_ = !taPressureSudden_;
+      paChihuahuaFluke_ = taPressureSudden_;
+      adLoadThankfully_ = taPressureSudden_;
+    }
+    joStiltAs_ = joStiltAs_.toUpperCase();
+    if (paChihuahuaFluke_ || adLoadThankfully_) {
+      adLoadThankfully_ = !adLoadThankfully_;
+    }
+    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
 
-    if (emAproposThrilled_ > 0) {
-      isClausProgram_ = heTrappProton_ ~/ emAproposThrilled_;
+    laBanquetAffordable_ = 2;
+    asPoleThrone_ = 11;
+    laBanquetAffordable_ = laBanquetAffordable_ * asPoleThrone_;
+
+    taPressureSudden_ = laFairnessNarrate_ && paChihuahuaFluke_;
+    if (adLoadThankfully_ || laFairnessNarrate_) {
+      laFairnessNarrate_ = !laFairnessNarrate_;
     }
-    for (int i = 0; i < isClausProgram_; i++) {
-      heTrappProton_ += 1;
-      emAproposThrilled_ += heTrappProton_;
-    }
-    emAproposThrilled_ = heTrappProton_ - isClausProgram_;
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
-    if (abAdjournCelery_ && adThirstyWore_) {
-      hiDirectWherever_ = !hiDirectWherever_;
-    }
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
   }
 
-  void idKryptonianBarrel() {
-    if (anSpockCombustion_ || odSoftC1_) {
-      odSoftC1_ = !odSoftC1_;
+  void meInBeyond() {
+    if (laFairnessNarrate_ && taPressureSudden_ && adLoadThankfully_) {
+      laFairnessNarrate_ = !laFairnessNarrate_;
+      taPressureSudden_ = laFairnessNarrate_;
+      adLoadThankfully_ = laFairnessNarrate_;
     }
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
 
-    odSoftC1_ = hiDirectWherever_ && anSpockCombustion_;
+    laBanquetAffordable_ = 96;
+    asPoleThrone_ = 97;
+    laFairnessNarrate_ = paChihuahuaFluke_ || taPressureSudden_;
+    adLoadThankfully_ = paChihuahuaFluke_ || laFairnessNarrate_;
 
-    mmTalentedSpit_ = mmTalentedSpit_.toUpperCase();
-    emAproposThrilled_ = isClausProgram_;
-    heTrappProton_ = isClausProgram_;
+    joStiltAs_ = joStiltAs_.toUpperCase();
+
+    laBanquetAffordable_ = 19;
+    asPoleThrone_ = 42;
+
+    taPressureSudden_ = paChihuahuaFluke_ && adLoadThankfully_;
+    if (paChihuahuaFluke_) {
+      adLoadThankfully_ = !taPressureSudden_;
+    }
+    if (laBanquetAffordable_ > asPoleThrone_) {
+      laBanquetAffordable_ = laBanquetAffordable_ + asPoleThrone_;
+    }
   }
 
   static const String linkjoy_division = "linkjoy_division";
@@ -233,18 +262,6 @@ class LinkjoyFigureMandatoryHand extends LinkjoyMagnetHormoneHand
   }
 
   Future<void> onLinkjoyMandatoryDrunk(bool privacy, String id) async {
-    if (!privacy &&
-        albumList.length <= albumMin &&
-        LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) {
-      LinkjoyUpper.showToast(
-        ("linkjoy_caring_mandatory_hunter_colombia".tr).replaceAll(
-          "%s",
-          "$albumMin",
-        ),
-      );
-      return;
-    }
-
     _linkjoyWoof(
       "pic_videos",
       _linkjoyOughtaSmackEar(null, privacy, delId: id),

@@ -109,7 +109,7 @@ import 'linkjoy_nose_ui/linkjoy_figure_saver_sexual_duel_division.dart';
 import 'linkjoy_nose_ui/linkjoy_figure_saver_ten_division.dart';
 import 'linkjoy_nose_ui/linkjoy_allen_teaser_animal_division.dart';
 import 'linkjoy_nose_ui/linkjoy_young_marital_division.dart';
-import 'linkjoy_nose_ui/linkjoy_warehouse_toner_division.dart';
+import 'linkjoy_nose_ui/linkjoy_fetus_warehouse_toner_division.dart';
 import 'linkjoy_nose_ui/linkjoy_warehouse_gyroscope_division.dart';
 import 'linkjoy_nose_ui/linkjoy_heather_steamy_division.dart';
 import 'linkjoy_nose_ui/linkjoy_gravity_stubborn_division.dart';
@@ -166,7 +166,7 @@ class LinkjoyGet {
   static const LinkjoyCrawfordSaverDivision = '/DebugInfo';
   static const LinkjoyFoolishlyFamousDivision = '/AnchorRank';
   static const LinkjoyUnbornGeneratorViciousDivision = '/UserLevelAwardPage';
-  static const LinkjoyMyTerrorDivision = '/MyCouponPage';
+  static const LinkjoyMyTerrorDivision = '/MyCoupon';
 
   static const LinkjoyFetusIm = '/TabIm';
   static const LinkjoyAncestorDivision = '/Chat';
@@ -209,7 +209,7 @@ class LinkjoyGet {
       '/AnchorImPhotoListPage';
   static const LinkjoyFoolishlyInventiveDivision = '/AnchorLivePage';
 
-  static const LinkjoyInviteVulcanDivision = '/EasyRefreshPage';
+  static const LinkjoyInviteVulcanDivision = '/EasyRefresh';
 
   static final List<String> NOTIFY_COVER_PAGES = [];
 
@@ -231,6 +231,7 @@ class LinkjoyGet {
     String? avatarUrl,
     bool suggested = false,
   }) {
+    return;
     String pageName = LINKJOY.linkjoyShock.profilePageName();
 
     if (LinkjoyAndrewHand.uids.contains(uid)) return;
@@ -255,7 +256,7 @@ class LinkjoyGet {
     }
   }
 
-  static void preventScreenshot(bool on) async {
+  static void linkjoyLunaticTenant(bool on) async {
     if (on) {
       if (!kDebugMode) {
         await ScreenProtector.preventScreenshotOn();
@@ -700,8 +701,8 @@ class LinkjoyMangoMenstrual extends NavigatorObserver {
     );
     LinkjoySteamyClamOily.linkjoyNarrateAidPerformer(routeName);
 
-    if (isPreventScreenshotOffPage(routeName)) {
-      LinkjoyGet.preventScreenshot(false);
+    if (isLinkjoyWouldTenant(routeName)) {
+      LinkjoyGet.linkjoyLunaticTenant(false);
     }
   }
 
@@ -716,30 +717,20 @@ class LinkjoyMangoMenstrual extends NavigatorObserver {
     LINKJOY.fire(LinkjoyDivisionStatus(routeName, LinkjoyDivisionStatus.PAUSE));
     LinkjoySteamyClamOily.linkjoyNarrateAidCamera(routeName, duration);
 
-    if (isPreventScreenshotOffPage(routeName)) {
-      LinkjoyGet.preventScreenshot(true);
+    if (isLinkjoyWouldTenant(routeName)) {
+      LinkjoyGet.linkjoyLunaticTenant(true);
     }
   }
 
-  bool isPreventScreenshotOffPage(String? routeName) {
+  bool isLinkjoyWouldTenant(String? routeName) {
     if (LinkjoyGnomeSister.isEmpty(routeName)) {
       return false;
     }
 
-    List<String> allowScreenRecordingPageList = [];
-    if (LINKJOY.isInitDone &&
-        !LinkjoyGnomeSister.isEmpty(
-          LINKJOY.linkjoyShock.allowScreenRecordingPageList(),
-        )) {
-      allowScreenRecordingPageList = LINKJOY.linkjoyShock
-          .allowScreenRecordingPageList();
-    }
-    if (!LinkjoyGnomeSister.isEmpty(allowScreenRecordingPageList)) {
-      if (allowScreenRecordingPageList.contains(routeName)) {
-        return true;
-      }
-    }
-
-    return false;
+    List<String> allowScreenRecordingPageList = LINKJOY.isInitDone
+        ? (LINKJOY.linkjoyShock.configs.common?.allowScreenRecordingPageList ??
+              [])
+        : [];
+    return allowScreenRecordingPageList.contains(routeName);
   }
 }

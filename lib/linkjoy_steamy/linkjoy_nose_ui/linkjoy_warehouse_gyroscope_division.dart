@@ -247,13 +247,10 @@ class LinkjoyWarehouseGyroscopeDivision
           children: [
             Text('Keep Swiping', style: LinkjoyMarshaTriplet.bodySecondary),
             LinkjoyFeynman.h4,
-            Transform.rotate(
-              angle: LinkjoyIOSister.isRTL(Get.context) ? pi : 0,
-              child: Icon(
-                Icons.keyboard_arrow_right_rounded,
-                color: LinkjoyAve.textSecondary,
-                size: LinkjoyBookshelf.xl.size() * 0.5,
-              ),
+            Icon(
+              Icons.arrow_forward,
+              color: LinkjoyAve.textSecondary,
+              size: LinkjoyBookshelf.xl.size() * 0.5,
             ),
           ],
         ),

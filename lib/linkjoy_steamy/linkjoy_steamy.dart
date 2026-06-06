@@ -127,18 +127,6 @@ class _LinkjoySteamyStatus extends State<LinkjoySteamy>
       LINKJOY.socketManager.start("frontend");
       LINKJOY.deviceService.onResume();
       LinkjoyMangoMenstrual().onResume(Get.currentRoute);
-
-      if ((LINKJOY.linkjoyJog != null &&
-              LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) &&
-          LINKJOY.linkjoyUnbornDeposit != null) {
-        if (LINKJOY.linkjoyElope.isMatchModeClosedOnBackend()) {
-          LinkjoyPeanutsFollower.linkjoyFoolishlyCustardPenmanship(
-            true,
-            showLoadingUI: false,
-            autoToastOnError: false,
-          );
-        }
-      }
     } else {}
 
     LinkjoyWailOily.instance.linkjoyDummyFatIcemanWailClausHarvard(
@@ -159,14 +147,5 @@ class _LinkjoySteamyStatus extends State<LinkjoySteamy>
     LINKJOY.deviceService.onPause();
     LinkjoyMangoMenstrual().onPause(Get.currentRoute);
     LinkjoyUnbornChickenHairButcher.instance.onAppForegroundChange(false);
-
-    if ((LINKJOY.linkjoyJog != null &&
-            LINKJOY.linkjoyJog!.isLinkjoyFoolishly()) &&
-        LINKJOY.linkjoyUnbornDeposit != null) {
-      if (LINKJOY.linkjoyUnbornDeposit!.isMatching()) {
-        LINKJOY.linkjoyElope.setMatchModeClosedOnBackend();
-      }
-      LinkjoyPeanutsFollower.linkjoyFoolishlyMallet();
-    }
   }
 }

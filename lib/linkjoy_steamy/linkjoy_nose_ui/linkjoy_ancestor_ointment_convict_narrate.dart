@@ -88,13 +88,10 @@ class LinkjoyAncestorOintmentConvictNarrate extends StatelessWidget {
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: <Widget>[
-          Transform.rotate(
-            angle: LinkjoyIOSister.isARLanguage() ? pi : 0,
-            child: Icon(
-              Icons.video_camera_front_outlined,
-              color: LinkjoyAve.textPrimary,
-              size: LinkjoyDiscard.iconSmall,
-            ),
+          Icon(
+            Icons.video_camera_front_outlined,
+            color: LinkjoyAve.textPrimary,
+            size: LinkjoyDiscard.iconSmall,
           ),
           LinkjoyFeynman.h4,
           Flexible(

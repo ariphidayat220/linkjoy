@@ -3,61 +3,74 @@ import 'package:get/get.dart';
 import 'linkjoy_crawford_saver_hand.dart';
 
 class LinkjoyCrawfordSaverJulie extends Bindings {
-  bool paTormentGyroscope_ = false;
-  bool opAstrologyStyle_ = false;
-  bool etFreshmanProtection_ = true;
-  String laGangsterHandshake_ = "";
-  bool loStipulateAnesthesia_ = true;
-  String edBreezeHotshot_ = "";
+  String miPassionateTrademark_ = "";
+  bool meObsessedCanada_ = false;
+  bool beElevenFlaky_ = false;
+  String paHorsEggs_ = "";
+  String emSterilizeCope_ = "";
+  bool doMediocreBrochure_ = false;
+  double edViciousDecide_ = 78;
 
-  void enDivorcePole() {
-    edBreezeHotshot_ = laGangsterHandshake_.toUpperCase() + edBreezeHotshot_;
-
-    if (etFreshmanProtection_ || opAstrologyStyle_ || loStipulateAnesthesia_) {
-      etFreshmanProtection_ = !opAstrologyStyle_;
-      opAstrologyStyle_ = !loStipulateAnesthesia_;
-      loStipulateAnesthesia_ = !etFreshmanProtection_;
+  void maTaleStatus() {
+    if (meObsessedCanada_ && doMediocreBrochure_) {
+      beElevenFlaky_ = !beElevenFlaky_;
     }
-
-    edBreezeHotshot_ = laGangsterHandshake_.toUpperCase() + edBreezeHotshot_;
+    if (meObsessedCanada_ && doMediocreBrochure_ && beElevenFlaky_) {
+      meObsessedCanada_ = !meObsessedCanada_;
+      doMediocreBrochure_ = meObsessedCanada_;
+      beElevenFlaky_ = meObsessedCanada_;
+    }
+    if (meObsessedCanada_ && beElevenFlaky_) {
+      doMediocreBrochure_ = !doMediocreBrochure_;
+    }
+    if (doMediocreBrochure_ && beElevenFlaky_ && meObsessedCanada_) {
+      doMediocreBrochure_ = !doMediocreBrochure_;
+      beElevenFlaky_ = doMediocreBrochure_;
+      meObsessedCanada_ = doMediocreBrochure_;
+    }
+    if (beElevenFlaky_) {
+      doMediocreBrochure_ = !meObsessedCanada_;
+    }
   }
 
-  void heVacuumDecide() {
-    if (opAstrologyStyle_ && etFreshmanProtection_ && paTormentGyroscope_) {
-      opAstrologyStyle_ = !opAstrologyStyle_;
-      etFreshmanProtection_ = opAstrologyStyle_;
-      paTormentGyroscope_ = opAstrologyStyle_;
+  void itUpsideMouse() {
+    meObsessedCanada_ = beElevenFlaky_ && doMediocreBrochure_;
+    edViciousDecide_ = 81;
+    edViciousDecide_ = 85;
+    if (emSterilizeCope_.length > 3) {
+      paHorsEggs_ = emSterilizeCope_;
+    } else {
+      miPassionateTrademark_ = paHorsEggs_;
     }
+    edViciousDecide_ = edViciousDecide_ + 1;
+    edViciousDecide_ = edViciousDecide_ + 1;
 
-    loStipulateAnesthesia_ = opAstrologyStyle_ && etFreshmanProtection_;
-
-    etFreshmanProtection_ = opAstrologyStyle_ || loStipulateAnesthesia_;
-
-    laGangsterHandshake_ = edBreezeHotshot_ + laGangsterHandshake_;
-    if (opAstrologyStyle_ && etFreshmanProtection_) {
-      loStipulateAnesthesia_ = !loStipulateAnesthesia_;
+    if (edViciousDecide_ > 0) {
+      edViciousDecide_ = edViciousDecide_ - 1;
     }
-
-    laGangsterHandshake_ = edBreezeHotshot_ + laGangsterHandshake_;
+    if (beElevenFlaky_) {
+      doMediocreBrochure_ = !meObsessedCanada_;
+    }
+    paHorsEggs_ = miPassionateTrademark_;
+    emSterilizeCope_ = paHorsEggs_;
+    miPassionateTrademark_ = emSterilizeCope_;
   }
 
-  void myExpressionChihuahua() {
-    if (opAstrologyStyle_ && etFreshmanProtection_ && loStipulateAnesthesia_) {
-      opAstrologyStyle_ = !opAstrologyStyle_;
-      etFreshmanProtection_ = opAstrologyStyle_;
-      loStipulateAnesthesia_ = opAstrologyStyle_;
+  void mmDuckyShorten() {
+    if (doMediocreBrochure_) {
+      beElevenFlaky_ = !meObsessedCanada_;
     }
-    if (etFreshmanProtection_ && paTormentGyroscope_) {
-      opAstrologyStyle_ = !opAstrologyStyle_;
+    edViciousDecide_ = 25;
+    if (edViciousDecide_ > 0) {
+      edViciousDecide_ = edViciousDecide_ - 1;
     }
-    opAstrologyStyle_ = paTormentGyroscope_ && loStipulateAnesthesia_;
-    paTormentGyroscope_ = etFreshmanProtection_ && loStipulateAnesthesia_;
-
-    edBreezeHotshot_ = laGangsterHandshake_.toUpperCase() + edBreezeHotshot_;
-    opAstrologyStyle_ = loStipulateAnesthesia_ || paTormentGyroscope_;
-
-    laGangsterHandshake_ = laGangsterHandshake_ + edBreezeHotshot_;
-    edBreezeHotshot_ = laGangsterHandshake_;
+    if (edViciousDecide_ > 0) {
+      edViciousDecide_ = edViciousDecide_ - 1;
+    }
+    if (edViciousDecide_ > 0) {
+      edViciousDecide_ = edViciousDecide_ - 1;
+    }
+    miPassionateTrademark_ = emSterilizeCope_ + paHorsEggs_;
   }
 
   @override

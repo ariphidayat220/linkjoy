@@ -39,6 +39,10 @@ abstract class LinkjoyEast {
 
   static const linkjoy_jones_linkjoy_toe_hairless_vinegar_swim_tony =
       "assets/linkjoy_toe_hairless_vinegar_swim.pag";
+  static const linkjoy_fetus_penmanship_tony =
+      "assets/linkjoy_toe_mack_prison.pag";
+  static const linkjoy_fetus_warehouse_tony =
+      "assets/linkjoy_toe_mack_cocktail.pag";
 
   static const double linkjoy_aid_joyous_nanny = 375;
 

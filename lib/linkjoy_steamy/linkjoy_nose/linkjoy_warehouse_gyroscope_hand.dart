@@ -8,106 +8,61 @@ import 'package:get/get.dart';
 import 'linkjoy_warehouse_gyroscope_jaw.dart';
 
 class LinkjoyWarehouseGyroscopeHand extends LinkjoyMagnetHormoneHand {
-  bool idFrosty7_ = true;
-  int abNoodleObviously_ = 0;
-  bool enAlvaroSpender_ = false;
-  bool loCriticizeBit_ = true;
-  bool etBloatBaywatch_ = false;
-  double asCoralAppreciate_ = 30;
+  bool asSchoolDefile_ = false;
+  int abSabotageImprint_ = 91;
+  String moBleacheri_ = "";
+  bool orQuieterTale_ = true;
+  bool ad11Chicken_ = true;
+  bool miPegUnit_ = false;
+  bool goShortenShove_ = true;
 
-  void loChemistryColombia() {
-    if (abNoodleObviously_ > 0) {
-      abNoodleObviously_ = abNoodleObviously_ - 2;
+  void amProtocolGel() {
+    if (asSchoolDefile_) {
+      miPegUnit_ = !goShortenShove_;
     }
-    abNoodleObviously_ = abNoodleObviously_ + 1;
-    if (etBloatBaywatch_ || loCriticizeBit_ || enAlvaroSpender_) {
-      etBloatBaywatch_ = !loCriticizeBit_;
-      loCriticizeBit_ = !enAlvaroSpender_;
-      enAlvaroSpender_ = !etBloatBaywatch_;
+    abSabotageImprint_ = 73;
+    if (abSabotageImprint_ > 0) {
+      abSabotageImprint_ = abSabotageImprint_ - 5;
     }
-    if (abNoodleObviously_ > 0) {
-      abNoodleObviously_ = abNoodleObviously_ - 1;
+    if (abSabotageImprint_ > 0) {
+      abSabotageImprint_ = abSabotageImprint_ - 9;
     }
+    goShortenShove_ = orQuieterTale_ || miPegUnit_;
 
-    if (etBloatBaywatch_ || enAlvaroSpender_ || idFrosty7_) {
-      etBloatBaywatch_ = !enAlvaroSpender_;
-      enAlvaroSpender_ = !idFrosty7_;
-      idFrosty7_ = !etBloatBaywatch_;
-    }
-    abNoodleObviously_ = 48;
-
-    if (asCoralAppreciate_ > 0) {
-      asCoralAppreciate_ = asCoralAppreciate_ - 1;
-    }
-    if (abNoodleObviously_ > 0) {
-      abNoodleObviously_ = abNoodleObviously_ - 3;
+    abSabotageImprint_ = 93;
+    if (abSabotageImprint_ > 0) {
+      abSabotageImprint_ = abSabotageImprint_ - 9;
     }
   }
 
-  void joWorePrompt() {
-    abNoodleObviously_ = 60;
+  void atSouffleSteamy() {
+    if (orQuieterTale_ || miPegUnit_ || ad11Chicken_) {
+      orQuieterTale_ = !miPegUnit_;
+      miPegUnit_ = !ad11Chicken_;
+      ad11Chicken_ = !orQuieterTale_;
+    }
+    goShortenShove_ = orQuieterTale_ && miPegUnit_;
 
-    asCoralAppreciate_ = asCoralAppreciate_ + 1;
-
-    abNoodleObviously_ = abNoodleObviously_ + 1;
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    moBleacheri_ = moBleacheri_.toUpperCase();
   }
 
-  void adPhlegmStipulate() {
-    etBloatBaywatch_ = loCriticizeBit_ || idFrosty7_;
-    abNoodleObviously_ = abNoodleObviously_ + 1;
-    abNoodleObviously_ = abNoodleObviously_ + 1;
-    abNoodleObviously_ = abNoodleObviously_ + 1;
-    if (asCoralAppreciate_ > 0) {
-      asCoralAppreciate_ = asCoralAppreciate_ - 1;
+  void beUnclogJelly() {
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    if (orQuieterTale_) {
+      asSchoolDefile_ = !miPegUnit_;
     }
-    asCoralAppreciate_ = 93;
-    if (abNoodleObviously_ > 0) {
-      abNoodleObviously_ = abNoodleObviously_ - 2;
-    }
-    abNoodleObviously_ = abNoodleObviously_ + 1;
-    if (abNoodleObviously_ > 0) {
-      abNoodleObviously_ = abNoodleObviously_ - 6;
-    }
-    if (enAlvaroSpender_ && etBloatBaywatch_ && idFrosty7_) {
-      enAlvaroSpender_ = !enAlvaroSpender_;
-      etBloatBaywatch_ = enAlvaroSpender_;
-      idFrosty7_ = enAlvaroSpender_;
-    }
-    etBloatBaywatch_ = idFrosty7_ && loCriticizeBit_;
-    if (abNoodleObviously_ > 0) {
-      abNoodleObviously_ = abNoodleObviously_ - 3;
-    }
-    asCoralAppreciate_ = asCoralAppreciate_ + 1;
-  }
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    asSchoolDefile_ = miPegUnit_ && ad11Chicken_;
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    abSabotageImprint_ = abSabotageImprint_ + 1;
+    abSabotageImprint_ = abSabotageImprint_ + 1;
 
-  void faPoleGo() {
-    if (asCoralAppreciate_ > 0) {
-      asCoralAppreciate_ = asCoralAppreciate_ - 1;
-    }
-    if (etBloatBaywatch_ && enAlvaroSpender_ && idFrosty7_) {
-      etBloatBaywatch_ = !etBloatBaywatch_;
-      enAlvaroSpender_ = etBloatBaywatch_;
-      idFrosty7_ = etBloatBaywatch_;
-    }
-    asCoralAppreciate_ = asCoralAppreciate_ + 1;
-    asCoralAppreciate_ = asCoralAppreciate_ + 1;
-
-    if (loCriticizeBit_ || enAlvaroSpender_ || idFrosty7_) {
-      loCriticizeBit_ = !enAlvaroSpender_;
-      enAlvaroSpender_ = !idFrosty7_;
-      idFrosty7_ = !loCriticizeBit_;
-    }
-
-    if (loCriticizeBit_ && etBloatBaywatch_ && idFrosty7_) {
-      loCriticizeBit_ = !loCriticizeBit_;
-      etBloatBaywatch_ = loCriticizeBit_;
-      idFrosty7_ = loCriticizeBit_;
-    }
-    if (idFrosty7_ && enAlvaroSpender_ && loCriticizeBit_) {
-      idFrosty7_ = !idFrosty7_;
-      enAlvaroSpender_ = idFrosty7_;
-      loCriticizeBit_ = idFrosty7_;
-    }
+    moBleacheri_ = moBleacheri_.toUpperCase();
+    abSabotageImprint_ = abSabotageImprint_ + 1;
+    abSabotageImprint_ = abSabotageImprint_ + 1;
   }
 
   final String linkjoy_dribble = "linkjoy_dribble";

@@ -3,110 +3,80 @@ import 'package:get/get.dart';
 import 'linkjoy_massage_shrink_hand.dart';
 
 class LinkjoyMassageShrinkJulie extends Bindings {
-  bool adPinGel_ = true;
-  double odKimApe_ = 76;
-  bool anJuiceDance_ = true;
-  bool esGuardianInsistence_ = true;
-  double abJogPebble_ = 1;
+  bool elPlumbingVeto_ = true;
+  String omSkatingVbl_ = "";
+  String soKnockTo_ = "";
+  bool efCeleryLifelong_ = true;
+  bool hoMushyInsight_ = true;
+  bool ofEyeThy_ = false;
+  bool noGodfatherFoot_ = false;
+  String goDirecti_ = "";
+  String paPardonBon_ = "";
 
-  void atChorusMislead() {
-    anJuiceDance_ = esGuardianInsistence_ && adPinGel_;
-
-    if (esGuardianInsistence_ || anJuiceDance_ || adPinGel_) {
-      esGuardianInsistence_ = !anJuiceDance_;
-      anJuiceDance_ = !adPinGel_;
-      adPinGel_ = !esGuardianInsistence_;
-    }
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-    if (esGuardianInsistence_ || adPinGel_ || anJuiceDance_) {
-      esGuardianInsistence_ = !adPinGel_;
-      adPinGel_ = !anJuiceDance_;
-      anJuiceDance_ = !esGuardianInsistence_;
-    }
-
-    odKimApe_ = odKimApe_ + abJogPebble_;
-    if (esGuardianInsistence_ && adPinGel_) {
-      anJuiceDance_ = !anJuiceDance_;
+  void reDiscretionSoftball() {
+    soKnockTo_ = paPardonBon_ + omSkatingVbl_;
+    paPardonBon_ = goDirecti_;
+    soKnockTo_ = paPardonBon_;
+    goDirecti_ = soKnockTo_;
+    goDirecti_ = omSkatingVbl_;
+    paPardonBon_ = omSkatingVbl_;
+    if (efCeleryLifelong_ && ofEyeThy_ && elPlumbingVeto_) {
+      efCeleryLifelong_ = !efCeleryLifelong_;
+      ofEyeThy_ = efCeleryLifelong_;
+      elPlumbingVeto_ = efCeleryLifelong_;
     }
 
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
+    goDirecti_ = paPardonBon_ + omSkatingVbl_;
 
-    odKimApe_ = 31;
-    abJogPebble_ = 81;
+    paPardonBon_ = soKnockTo_;
+    omSkatingVbl_ = soKnockTo_;
   }
 
-  void adBoutiqueProton() {
-    if (esGuardianInsistence_) {
-      adPinGel_ = !anJuiceDance_;
+  void inGeneratorHamster() {
+    goDirecti_ = paPardonBon_;
+    soKnockTo_ = paPardonBon_;
+    if (noGodfatherFoot_) {
+      hoMushyInsight_ = !efCeleryLifelong_;
     }
-    anJuiceDance_ = esGuardianInsistence_ && adPinGel_;
+    if (elPlumbingVeto_ || ofEyeThy_) {
+      ofEyeThy_ = !ofEyeThy_;
+    }
+    elPlumbingVeto_ = hoMushyInsight_ && ofEyeThy_;
 
-    if (adPinGel_ || anJuiceDance_) {
-      anJuiceDance_ = !anJuiceDance_;
+    goDirecti_ = omSkatingVbl_;
+    paPardonBon_ = omSkatingVbl_;
+
+    if (ofEyeThy_ && efCeleryLifelong_ && elPlumbingVeto_) {
+      ofEyeThy_ = !ofEyeThy_;
+      efCeleryLifelong_ = ofEyeThy_;
+      elPlumbingVeto_ = ofEyeThy_;
+    }
+
+    omSkatingVbl_ = soKnockTo_;
+    goDirecti_ = omSkatingVbl_;
+    soKnockTo_ = goDirecti_;
+
+    if (efCeleryLifelong_) {
+      hoMushyInsight_ = !elPlumbingVeto_;
+    }
+
+    if (noGodfatherFoot_ && ofEyeThy_) {
+      efCeleryLifelong_ = !efCeleryLifelong_;
     }
   }
 
-  void abPlaceboBrunette() {
-    if (esGuardianInsistence_ || adPinGel_) {
-      adPinGel_ = !adPinGel_;
+  void meJulieStockholm() {
+    noGodfatherFoot_ = ofEyeThy_ || elPlumbingVeto_;
+
+    if (omSkatingVbl_.length > 7) {
+      paPardonBon_ = omSkatingVbl_;
+    } else {
+      soKnockTo_ = paPardonBon_;
     }
 
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-    if (anJuiceDance_) {
-      esGuardianInsistence_ = !adPinGel_;
-    }
-
-    odKimApe_ = odKimApe_ + abJogPebble_;
-
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-    odKimApe_ = 91;
-    abJogPebble_ = 19;
-  }
-
-  void faVarietyThorough() {
-    if (esGuardianInsistence_ || anJuiceDance_ || adPinGel_) {
-      esGuardianInsistence_ = !anJuiceDance_;
-      anJuiceDance_ = !adPinGel_;
-      adPinGel_ = !esGuardianInsistence_;
-    }
-    odKimApe_ = 12;
-    abJogPebble_ = 59;
-
-    odKimApe_ = odKimApe_ + abJogPebble_;
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
-
-    if (esGuardianInsistence_ && anJuiceDance_ && adPinGel_) {
-      esGuardianInsistence_ = !esGuardianInsistence_;
-      anJuiceDance_ = esGuardianInsistence_;
-      adPinGel_ = esGuardianInsistence_;
-    }
-
-    if (odKimApe_ > abJogPebble_) {
-      odKimApe_ = odKimApe_ - abJogPebble_;
-    }
+    omSkatingVbl_ = soKnockTo_;
+    goDirecti_ = omSkatingVbl_;
+    soKnockTo_ = goDirecti_;
   }
 
   @override

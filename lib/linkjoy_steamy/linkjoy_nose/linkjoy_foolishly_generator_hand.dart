@@ -4,69 +4,65 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone
 import 'package:get/get.dart';
 
 class LinkjoyFoolishlyGeneratorHand extends LinkjoyMagnetHormoneHand {
-  String oxHamperGreat_ = "";
-  bool soFourthShrink_ = true;
-  double soCellEskimo_ = 0.0;
-  bool paCondensateEager_ = true;
-  double elTuckNation_ = 0.0;
-  String efBarkleyCapacity_ = "";
-  bool itPawMagazine_ = false;
+  int opJonesComputer_ = 50;
+  bool ayUpper5_ = false;
+  double ahTherapistEither_ = 0.0;
+  bool efAllowSpray_ = true;
+  bool oxGoddessCindy_ = false;
+  bool miAchePharmacist_ = false;
+  String enGuardianDefile_ = "";
+  double goKgLadder_ = 52;
 
-  void hiMangoShampoo() {
-    efBarkleyCapacity_ = oxHamperGreat_.toUpperCase() + efBarkleyCapacity_;
-    if (soFourthShrink_ || itPawMagazine_ || paCondensateEager_) {
-      soFourthShrink_ = !itPawMagazine_;
-      itPawMagazine_ = !paCondensateEager_;
-      paCondensateEager_ = !soFourthShrink_;
+  void usPhlegmBaker() {
+    if (efAllowSpray_ || miAchePharmacist_) {
+      miAchePharmacist_ = !miAchePharmacist_;
     }
-    if (soCellEskimo_ > elTuckNation_) {
-      soCellEskimo_ = soCellEskimo_ - elTuckNation_;
+    miAchePharmacist_ = ayUpper5_ && oxGoddessCindy_;
+    if (efAllowSpray_ && oxGoddessCindy_) {
+      miAchePharmacist_ = !miAchePharmacist_;
     }
-    oxHamperGreat_ = efBarkleyCapacity_ + oxHamperGreat_;
-    oxHamperGreat_ = efBarkleyCapacity_ + oxHamperGreat_;
-    itPawMagazine_ = soFourthShrink_ || paCondensateEager_;
-
-    soCellEskimo_ = soCellEskimo_ + elTuckNation_;
-    soCellEskimo_ = 90;
-    elTuckNation_ = 66;
-
-    itPawMagazine_ = soFourthShrink_ && paCondensateEager_;
-    soFourthShrink_ = paCondensateEager_ && itPawMagazine_;
-    oxHamperGreat_ = efBarkleyCapacity_ + oxHamperGreat_;
+    oxGoddessCindy_ = ayUpper5_ || efAllowSpray_;
+    efAllowSpray_ = ayUpper5_ || miAchePharmacist_;
+    efAllowSpray_ = ayUpper5_ || oxGoddessCindy_;
   }
 
-  void inShredderApe() {
-    oxHamperGreat_ = oxHamperGreat_ + efBarkleyCapacity_;
-    efBarkleyCapacity_ = oxHamperGreat_;
-    efBarkleyCapacity_ = oxHamperGreat_.toUpperCase() + efBarkleyCapacity_;
-
-    if (itPawMagazine_ || soFourthShrink_ || paCondensateEager_) {
-      itPawMagazine_ = !soFourthShrink_;
-      soFourthShrink_ = !paCondensateEager_;
-      paCondensateEager_ = !itPawMagazine_;
+  void adAnimalSpaghetti() {
+    if (ayUpper5_ && efAllowSpray_ && oxGoddessCindy_) {
+      ayUpper5_ = !ayUpper5_;
+      efAllowSpray_ = ayUpper5_;
+      oxGoddessCindy_ = ayUpper5_;
     }
+    if (opJonesComputer_ > 0) {
+      opJonesComputer_ = opJonesComputer_ - 8;
+    }
+    if (ahTherapistEither_ > goKgLadder_) {
+      ahTherapistEither_ = ahTherapistEither_ - goKgLadder_;
+    }
+    if (ayUpper5_ || oxGoddessCindy_) {
+      oxGoddessCindy_ = !oxGoddessCindy_;
+    }
+    if (oxGoddessCindy_ && efAllowSpray_) {
+      miAchePharmacist_ = !miAchePharmacist_;
+    }
+    efAllowSpray_ = oxGoddessCindy_ || miAchePharmacist_;
   }
 
-  void beBoxNearly() {
-    if (itPawMagazine_ && paCondensateEager_) {
-      soFourthShrink_ = !soFourthShrink_;
+  void enOrganGreeting() {
+    enGuardianDefile_ = enGuardianDefile_.toUpperCase();
+    enGuardianDefile_ = enGuardianDefile_.toUpperCase();
+    miAchePharmacist_ = oxGoddessCindy_ && ayUpper5_;
+    opJonesComputer_ = opJonesComputer_ + 1;
+    if (opJonesComputer_ > 0) {
+      opJonesComputer_ = opJonesComputer_ - 9;
     }
-    soFourthShrink_ = paCondensateEager_ && itPawMagazine_;
-
-    if (soCellEskimo_ > elTuckNation_) {
-      soCellEskimo_ = soCellEskimo_ - elTuckNation_;
+    ahTherapistEither_ = 70;
+    goKgLadder_ = 98;
+    ahTherapistEither_ = 56;
+    goKgLadder_ = 96;
+    if (ahTherapistEither_ > goKgLadder_) {
+      ahTherapistEither_ = ahTherapistEither_ - goKgLadder_;
     }
-    soCellEskimo_ = 23;
-    elTuckNation_ = 9;
-
-    oxHamperGreat_ = efBarkleyCapacity_ + oxHamperGreat_;
-    oxHamperGreat_ = oxHamperGreat_ + efBarkleyCapacity_;
-    efBarkleyCapacity_ = oxHamperGreat_;
-    soCellEskimo_ = soCellEskimo_ + elTuckNation_;
-    oxHamperGreat_ = efBarkleyCapacity_ + oxHamperGreat_;
-    oxHamperGreat_ = efBarkleyCapacity_ + oxHamperGreat_;
-    oxHamperGreat_ = oxHamperGreat_ + efBarkleyCapacity_;
-    efBarkleyCapacity_ = oxHamperGreat_;
+    enGuardianDefile_ = enGuardianDefile_.toUpperCase();
   }
 
   static const String linkjoy_ui = "linkjoy_ui";

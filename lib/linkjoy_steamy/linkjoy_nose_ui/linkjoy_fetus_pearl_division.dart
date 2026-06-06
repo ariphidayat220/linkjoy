@@ -140,7 +140,7 @@ class LinkjoyFetusPearlDivision
                           child: Transform.rotate(
                             angle: pi,
                             child: CustomPaint(
-                              size: Size(16.w, 8.w),
+                              size: Size(LinkjoyGarage.s16, LinkjoyGarage.s8),
                               painter: TrianglePainter(color),
                             ),
                           ),

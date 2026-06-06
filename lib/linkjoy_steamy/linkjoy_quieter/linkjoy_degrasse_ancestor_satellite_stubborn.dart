@@ -192,15 +192,30 @@ class LinkjoyDegrasseAncestorSatelliteStubbornStatus
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           children: [
-            LinkjoyFastenIndustrial.asset(
-              message.icon,
-              width: LinkjoyGarage.s24,
-              height: LinkjoyGarage.s24,
-              fit: BoxFit.cover,
-            ),
+            message.type > 800
+                ? LinkjoyFastenIndustrial.asset(
+                    message.icon,
+                    width: LinkjoyGarage.s24,
+                    height: LinkjoyGarage.s24,
+                    fit: BoxFit.cover,
+                  )
+                : Container(
+                    width: LinkjoyGarage.s24,
+                    height: LinkjoyGarage.s24,
+                    alignment: Alignment.center,
+                    decoration: const BoxDecoration(
+                      color: LinkjoyAve.warning,
+                      shape: BoxShape.circle,
+                    ),
+                    child: Icon(
+                      Icons.notification_important_rounded,
+                      size: LinkjoyGarage.s16,
+                      color: Colors.white,
+                    ),
+                  ),
             LinkjoyFeynman.h6,
             LinkjoyMarsha.body2R(message.content)
-                .color(const Color(0xFF33D7AD))
+                .color(LinkjoyAve.primaryLight)
                 .build()
                 .maxWidth(_linkjoyNanny() - LinkjoyGarage.s80),
             LinkjoyFeynman.h4,
@@ -281,7 +296,7 @@ class LinkjoyDegrasseAncestorSatelliteStubbornStatus
         );
       },
       size: LinkjoyBookshelf.sm,
-      fixedWidth: LinkjoyGarage.s80,
+      fixedWidth: LinkjoyGarage.s64,
     );
   }
 

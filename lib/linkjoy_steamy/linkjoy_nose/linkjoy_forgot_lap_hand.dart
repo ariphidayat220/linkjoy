@@ -8,92 +8,65 @@ import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_cattle/linkjoy_invite_vulcan_n
 import 'package:linkjoy/linkjoy_steamy/linkjoy_ui_quieter/linkjoy_magnet_hormone_hand.dart';
 
 class LinkjoyForgotLapHand extends LinkjoyMagnetHormoneHand {
-  bool itSnatchPin_ = true;
-  bool usBirthdaySmoker_ = true;
-  bool ayEltonSteven_ = false;
-  bool goTumblerInsurance_ = false;
-  int goLawnPoint_ = 87;
-  double odSubtleDiscipline_ = 0.0;
-  bool laPharmacistShanghai_ = false;
-  int osMammaHair_ = 30;
-  bool loInsuranceMichael_ = true;
+  bool adExtremelyCm_ = false;
+  double omMozzarellaLightbulb_ = 39;
+  bool orQuestionInseam_ = true;
+  String beTerrorEurope_ = "";
+  bool taDepositMine_ = true;
+  bool atKnockSlur_ = false;
 
-  void abSymbolicMerely() {
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
+  void etPenmanshipAmerica() {
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+    if (atKnockSlur_) {
+      orQuestionInseam_ = !taDepositMine_;
+    }
+    if (omMozzarellaLightbulb_ > 0) {
+      omMozzarellaLightbulb_ = omMozzarellaLightbulb_ - 1;
+    }
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+    if (adExtremelyCm_ || orQuestionInseam_ || atKnockSlur_) {
+      adExtremelyCm_ = !orQuestionInseam_;
+      orQuestionInseam_ = !atKnockSlur_;
+      atKnockSlur_ = !adExtremelyCm_;
+    }
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+    if (atKnockSlur_ && taDepositMine_ && adExtremelyCm_) {
+      atKnockSlur_ = !atKnockSlur_;
+      taDepositMine_ = atKnockSlur_;
+      adExtremelyCm_ = atKnockSlur_;
+    }
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
 
-    goLawnPoint_ = 59;
-    osMammaHair_ = 71;
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+
+    omMozzarellaLightbulb_ = omMozzarellaLightbulb_ + 1;
+
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+    if (atKnockSlur_ && adExtremelyCm_) {
+      taDepositMine_ = !taDepositMine_;
+    }
+    omMozzarellaLightbulb_ = omMozzarellaLightbulb_ + 1;
   }
 
-  void inTextImpart() {
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
-    odSubtleDiscipline_ = odSubtleDiscipline_ + 1;
-    if (goLawnPoint_ > osMammaHair_) {
-      goLawnPoint_ = goLawnPoint_ + osMammaHair_;
+  void abMainNibble() {
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+
+    if (omMozzarellaLightbulb_ > 0) {
+      omMozzarellaLightbulb_ = omMozzarellaLightbulb_ - 1;
     }
-    usBirthdaySmoker_ = loInsuranceMichael_ && laPharmacistShanghai_;
-    goTumblerInsurance_ = itSnatchPin_ && loInsuranceMichael_;
-    odSubtleDiscipline_ = 36;
-    odSubtleDiscipline_ = 90;
-    if (odSubtleDiscipline_ > 0) {
-      odSubtleDiscipline_ = odSubtleDiscipline_ - 1;
+    if (atKnockSlur_ && orQuestionInseam_) {
+      adExtremelyCm_ = !adExtremelyCm_;
     }
-    if (odSubtleDiscipline_ > 0) {
-      odSubtleDiscipline_ = odSubtleDiscipline_ - 1;
-    }
-    if (loInsuranceMichael_ && ayEltonSteven_ && laPharmacistShanghai_) {
-      loInsuranceMichael_ = !loInsuranceMichael_;
-      ayEltonSteven_ = loInsuranceMichael_;
-      laPharmacistShanghai_ = loInsuranceMichael_;
-    }
-    if (loInsuranceMichael_ || ayEltonSteven_) {
-      ayEltonSteven_ = !ayEltonSteven_;
-    }
-    if (odSubtleDiscipline_ > 0) {
-      odSubtleDiscipline_ = odSubtleDiscipline_ - 1;
-    }
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
   }
 
-  void ahSuspendDescent() {
-    if (goTumblerInsurance_ && itSnatchPin_) {
-      loInsuranceMichael_ = !loInsuranceMichael_;
+  void miBostonGet() {
+    if (adExtremelyCm_) {
+      orQuestionInseam_ = !taDepositMine_;
     }
-    if (odSubtleDiscipline_ > 0) {
-      odSubtleDiscipline_ = odSubtleDiscipline_ - 1;
-    }
-    if (goLawnPoint_ > osMammaHair_) {
-      goLawnPoint_ = goLawnPoint_ + osMammaHair_;
-    }
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
-    usBirthdaySmoker_ = goTumblerInsurance_ || loInsuranceMichael_;
-    odSubtleDiscipline_ = 77;
-    odSubtleDiscipline_ = 39;
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
-
-    if (loInsuranceMichael_ && goTumblerInsurance_) {
-      laPharmacistShanghai_ = !laPharmacistShanghai_;
-    }
-    itSnatchPin_ = loInsuranceMichael_ || laPharmacistShanghai_;
-    if (ayEltonSteven_ && itSnatchPin_ && goTumblerInsurance_) {
-      ayEltonSteven_ = !ayEltonSteven_;
-      itSnatchPin_ = ayEltonSteven_;
-      goTumblerInsurance_ = ayEltonSteven_;
-    }
-  }
-
-  void omArouseExpress() {
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
-    goLawnPoint_ = 58;
-    osMammaHair_ = 98;
-    odSubtleDiscipline_ = 41;
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
-    odSubtleDiscipline_ = odSubtleDiscipline_ + 1;
-
-    goLawnPoint_ = goLawnPoint_ * osMammaHair_;
-    odSubtleDiscipline_ = odSubtleDiscipline_ + 1;
-
-    odSubtleDiscipline_ = odSubtleDiscipline_ + 1;
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
+    beTerrorEurope_ = beTerrorEurope_.toUpperCase();
   }
 
   final String linkjoy_forgot_lap_stubborn = "linkjoy_forgot_lap_stubborn";

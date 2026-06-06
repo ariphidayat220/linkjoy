@@ -163,7 +163,7 @@ class LinkjoyFlashyChipmunkIncapableDivision
         children: [
           Text(
             'linkjoy_caring_chipmunk_incapable_practice_famous'.tr,
-            style: LinkjoyMarshaTriplet.title,
+            style: LinkjoyMarshaTriplet.bodyLargeBold,
           ),
           LinkjoyFeynman.v4,
           Text(
